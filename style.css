@@ -1,4 +1,4 @@
-p.caption {
+p .caption {
   color: #777;
   margin-top: 10px;
 }
@@ -11,4 +11,8 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+
+.book .book-summary ul.summary li a:hover, .book .book-summary ul.summary li.active>a {
+  color: rgb(255,105,180);
 }

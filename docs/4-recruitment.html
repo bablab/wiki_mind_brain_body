@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Section 4 Recruitment | Mind, Brain, Body" />
+<meta property="og:type" content="book" />
+
+
+<meta property="og:description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook." />
+<meta name="github-repo" content="rstudio/bookdown-demo" />
+
+<meta name="author" content="Emily Towner" />
+
+<meta name="date" content="2020-02-27" />
+
+
+<meta name="description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook.">
+
+<title>Section 4 Recruitment | Mind, Brain, Body</title>
+
+<script src="libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="libs/navigation-1.1/tabsets.js"></script>
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container-fluid main-container">
+
+
+<div class="row">
+<div class="col-sm-12">
+<div id="TOC">
+<ul>
+<li><a href="index.html#introduction"><span class="toc-section-number">1</span> Introduction</a></li>
+<li><a href="2-consent.html#consent"><span class="toc-section-number">2</span> Consent</a></li>
+<li><a href="3-literature.html#literature"><span class="toc-section-number">3</span> Literature</a></li>
+<li><a href="4-recruitment.html#recruitment"><span class="toc-section-number">4</span> Recruitment</a></li>
+<li class="has-sub"><a href="5-applications.html#applications"><span class="toc-section-number">5</span> Applications</a><ul>
+<li><a href="5-1-example-one.html#example-one"><span class="toc-section-number">5.1</span> Example one</a></li>
+<li><a href="5-2-example-two.html#example-two"><span class="toc-section-number">5.2</span> Example two</a></li>
+</ul></li>
+<li><a href="6-final-words.html#final-words"><span class="toc-section-number">6</span> Final Words</a></li>
+<li><a href="references.html#references">References</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<div id="recruitment" class="section level1">
+<h1><span class="header-section-number">Section 4</span> Recruitment</h1>
+<h3>
+Pre-Screening
+</h3>
+<ol style="list-style-type: decimal">
+<li>Check if participant is in Recruitment Database
+<ul>
+<li>If not, add them to the Recruitment Database</li>
+</ul></li>
+<li>Check if participant is in ID Drive
+<ul>
+<li>If yes, check if they have a Screener ID</li>
+<li>If not, assign them a Screener ID once contact has been established based on the next available Screener ID # in REDCap and proceed with screening</li>
+<li>If yes, proceed with screening under existing Screener ID in REDCap</li>
+</ul></li>
+</ol>
+<h3>
+Screening
+</h3>
+<ol style="list-style-type: decimal">
+<li><p>To screen a new participant click “Add / Edit Records”</p></li>
+<li>Click to enter a new Subject ID
+<ul>
+<li>Make sure Arm 1: Recruitment is selected</li>
+</ul></li>
+<li>Type “SMBB#” (Screener ID) to create a record and hit “Enter”
+<ul>
+<li>Make sure to link the participants Screener ID and their name on the <strong>ID Drive ONLY</strong></li>
+<li>Before creating a new record, be sure to check the ID Drive to see if the participant already has an existing Screener ID</li>
+<li>If a record exists, add a new instance of the screen instead of creating a new record</li>
+</ul></li>
+<li>The screening arm contains two parts
+<ul>
+<li>The screen</li>
+<li>The wave1_status
+<ul>
+<li>The wave1_status is to be updated after the first and each subsequent contact</li>
+</ul></li>
+</ul></li>
+<li><p>Click on the radio button in the “screen” row to screen the participant</p></li>
+<li>Click “Now” to enter today’s date and time</li>
+<li>Select the appropriate choice to start the phone call and follow the skip logic.</li>
+<li>Follow the skip logic to the end.
+<ul>
+<li>For items without a text field, write the information down in the Recruitment database (This identifying information cannot be on REDCap)</li>
+</ul></li>
+<li>Once done, select “Complete” and “Save &amp; Exit Form”
+<ul>
+<li>The screen can be entered multiple times - for instance if there are multiple phone calls or contacts</li>
+<li>It is important to keep a record of all instances of contact</li>
+</ul></li>
+<li><p>Click the screen_status radio button</p></li>
+<li>Select the appropriate option</li>
+</ol>
+<ul>
+<li>Contact - Participant needs to be re-contacted (add Recruitment Database &amp; ID Drive)</li>
+<li>Ineligible - Participant not eligible for study</li>
+<li>To Enroll - Participant to enroll (need to create subject ID, enter subject info, schedule participant, add to Recruitment Database, add to ID Drive)</li>
+<li>Enrolled - Participant has been enrolled (all above have been completed)</li>
+<li>To Remove - Participant wants to be removed</li>
+</ul>
+<ol start="12" style="list-style-type: decimal">
+<li>Be sure to update the screen status after each contact</li>
+</ol>
+<ul>
+<li>After 3 contacts (with no response) - review (time of day, contact method, etc.)</li>
+</ul>
+<ol start="13" style="list-style-type: decimal">
+<li>If enrolled, proceed to pre-session checklist in the participant log</li>
+</ol>
+<h3>
+Other Screening Information
+</h3>
+<h4>
+Accessing Lists
+</h4>
+<p>To find out where participants are in the recruitment process, there are several lists.</p>
+<ol style="list-style-type: decimal">
+<li><p>Click on “Record Status Dashboard”</p></li>
+<li>Participants who have been enrolled will be listed in the Enrollment - Wave 1 list</li>
+<li>Participants in the process of recruitment will be listed in one of the 4 Recruitment lists
+<ul>
+<li>*These lists are populated based on the individuals “Screen Status” so be sure to update after each contact!</li>
+</ul></li>
+</ol>
+<h4>
+List Types
+</h4>
+<ul>
+<li>Contact - List of individuals who need to be contacted or re-contacted (also includes waitlist)</li>
+<li>Ineligible - Participants are ineligible but interested</li>
+<li>To Enroll - Participants who have been screened and are eligible to enroll</li>
+<li>To Remove - Participants who were not interested in being contacted for this or future research</li>
+</ul>
+
+</div>
+<p style="text-align: center;">
+<a href="3-literature.html"><button class="btn btn-default">Previous</button></a>
+<a href="5-applications.html"><button class="btn btn-default">Next</button></a>
+</p>
+</div>
+</div>
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+</body>
+</html>
