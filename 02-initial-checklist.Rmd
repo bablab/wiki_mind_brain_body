@@ -67,3 +67,9 @@ To find out where participants are in the recruitment process, there are several
 - Ineligible - Participants are ineligible but interested
 - To Enroll - Participants who have been screened and are eligible to enroll
 - To Remove - Participants who were not interested in being contacted for this or future research
+
+## Addressing Concerns
+
+If a parent has a concern about the study before the session, send the email template: 
+
+- [MBB - CONCERNS]
