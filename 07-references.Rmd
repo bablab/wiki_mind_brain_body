@@ -1,3 +1,11 @@
 `r if (knitr:::is_html_output()) '
 # References {-}
 '`
+Callaghan, B. L., Fields, A., Gee, D. G., Gabard-Durnam, L., Caldera, C., Humphreys, K. L., Goff, B., Flannery, J., Telzer, E. H., Shapiro, M., & Tottenham, N. (2020). Mind and gut: Associations between mood and gastrointestinal distress in children exposed to adversity. Development and Psychopathology, 32(1), 309–328. https://doi.org/10.1017/S0954579419000087
+
+
+(Callaghan et al., 2020)
+
+[@xie2015]
+
+[@callaghanMindGutAssociations2020a]
