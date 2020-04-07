@@ -1,11 +1,21 @@
-`r if (knitr:::is_html_output()) '
-# References {-}
-'`
-Callaghan, B. L., Fields, A., Gee, D. G., Gabard-Durnam, L., Caldera, C., Humphreys, K. L., Goff, B., Flannery, J., Telzer, E. H., Shapiro, M., & Tottenham, N. (2020). Mind and gut: Associations between mood and gastrointestinal distress in children exposed to adversity. Development and Psychopathology, 32(1), 309–328. https://doi.org/10.1017/S0954579419000087
+# References 
 
+Callaghan, B. L., Fields, A., Gee, D. G., Gabard-Durnam, L., Caldera, C.,     Humphreys, K. L., Goff, B., Flannery, J., Telzer, E. H., Shapiro, M., &    Tottenham, N. (2020). Mind and gut: Associations between mood and          gastrointestinal distress in children exposed to adversity. *Development    and Psychopathology*, *32*(1), 309–328. https://doi.org/10.1017/S0954579419000087
 
-(Callaghan et al., 2020)
+Callaghan, Dandesh, … Whittle. Amygdala Resting Connectivity Mediates         Association Between Maternal Aggression and Adolescent Major Depression:    A 7-Year Longitudinal Study. *JACPP* [Google                   Scholar](https://www.jaacap.org/article/S0890-8567(17)31673-8/fulltext)
 
-[@xie2015]
+Hops H., Davis B., Longoria N. (1995) Methodological issues in direct         observation – Illustrations with the Living in Familial Environments       (LIFE) coding system. *Journal of Clinical Child Psychology*,              24:193–203.
 
-[@callaghanMindGutAssociations2020a]
+MacPhillamy D. J., & Lewinsohn P. M. Manual for the Pleasant Events           Schedule. Eugene, OR: University of Oregon; 1976. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Manual+for+the+Pleasant+Events+Schedule&author=DJ+MacPhillamy&author=PM+Lewinsohn&publication_year=1976&)
+
+Robin A. L. (1975). Communication Training: A Problem Solving Approach to     Parent-Adolescent Conflict. Unpublished doctoral dissertation. State       University of New York, Stony Brook. 
+
+Robin A. L., & Foster S. L. (1989). *Negotiating Parent-Adolescent Conflict: A Behavioral-Family Systems Approach*. New York, NY: Guilford Press.
+
+Whittle, S., Yap, M. B. H., [...], & Allen, N. B. (2009) Maternal responses to adolescent positive affect are associated with adolescents’ reward neuroanatomy. *Social Cognitive and Affective Neuroscience*. [Google Scholar](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2728631/)
+
+Whittle, S., Simmons, J. G., [...], & Allen, N. B. (2014). Positive parenting predicts the development of adolescent brain structure: A longitudinal study. *Developmental Cognitive Neuroscience*. [Google Scholar](https://www.sciencedirect.com/science/article/pii/S1878929313000650)
+
+Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton,     Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.
+
+https://www.brightfutures.org/mentalhealth/pdf/professionals/ad/issues.pdf

@@ -17,8 +17,8 @@
 - Enroll participant in Wave 1 on REDCap
 - Fill participant instrument on REDCap
 - Fill counterbalance order on REDCap (Checklist - Lab Session Child Instrument)
-- Print [MBB Lab-Session Checklist-Child](https://paper.dropbox.com/doc/MBB-Lab-Session-Checklist-Child--AxSoiWlu0j1LQ~GQsuXI~DKpAg-h6fhBdxRjpAtpxDT5Vph1)
-- Print [MBB Lab-Session Checklist-Parent](https://paper.dropbox.com/doc/MBB-Lab-Session-Checklist-Parent--AxTlbCqV5ysM9LZxJpYPArWLAg-Rb5GOefE4nCOTTRpn84gv)
+- Print [MBB Lab-Session Checklist-Child](https://app.box.com/file/630326484181)
+- Print [MBB Lab-Session Checklist-Parent](https://app.box.com/file/630325295018)
 
 **Calendar**
 
@@ -47,24 +47,24 @@
 
 - Create participant manila folder
 - Print assent/consent forms (Check IRB expiration)
-   - [Parent consent](https://www.dropbox.com/s/z729okdpqbvnbuc/Parent_consent.pdf?dl=0)
-   - Assent - [Child](https://www.dropbox.com/s/0jnzgb5v90qdemn/Child_assent.pdf?dl=0) or [Teen](https://www.dropbox.com/s/3erp34m1gicnt5p/Teen_assent.pdf?dl=0) (None if under 7 years)
-   - [Referral consent](https://www.dropbox.com/s/miwxm5xjprejf0m/Referral_consent.pdf?dl=0)
-   - Contact list
-   - DBS consent
-- Print [KSADS Summary Diagnostic Checklists](https://www.dropbox.com/s/4cp7q2hi3tueiws/KSADS_summary_checklists.pdf?dl=0) (Write participant ID on all pages)
-- Print and prepare [WASI Form](https://www.dropbox.com/s/iackat51sq9zyje/WASI_record_form.pdf?dl=0)(Enter starting point; write participant ID on all pages)
-- Print and prepare [WIAT Form](https://www.dropbox.com/s/3bpybxs7yc1grxt/WIAT-III_record_form.pdf?dl=0) & [Booklet](https://www.dropbox.com/s/2vqv5j5d5cp42xp/WIAT_numerical_operations.pdf?dl=0) (Enter starting point; Write participant ID on all pages)
-- Print [memory intrusion scratch paper](https://www.dropbox.com/s/i91b1ndarcmuek2/mem_intrusion_notes.docx?dl=0)
+   - [Parent consent](https://app.box.com/file/630320519707)
+   - Assent - [Child](https://app.box.com/file/630320502379) or [Teen](https://app.box.com/file/630326888191) (None if under 7 years)
+   - [Referral consent](https://app.box.com/file/630329099729)
+   - [Contact list](https://app.box.com/file/639652767665)
+   - [DBS consent](https://app.box.com/file/630326424318)
+- Print [KSADS Summary Diagnostic Checklists](https://app.box.com/file/630326477910) (Write participant ID on all pages)
+- Print and prepare [WASI Form](https://app.box.com/file/630326463909)(Enter starting point; write participant ID on all pages)
+- Print and prepare [WIAT Form](https://app.box.com/file/630318060264) & [Booklet](https://app.box.com/file/630326404817) (Enter starting point; Write participant ID on all pages)
+- Print [memory intrusion scratch paper](https://app.box.com/file/630322810250)
 -Enter counterbalancing order (Checklist-Lab Session Child)
-- Print [token economy board](https://www.dropbox.com/s/20swng4c0idpy1h/Token_economy_board.jpg?dl=0)
+- Print [token economy board](https://app.box.com/file/630326523308)
 - Create participant folder on Dropbox using MBB_template
 - Print QR codes (from REDCap- different for every participant)
    - Child
    - Parent proxy
    - Parent self
 - File QR codes on Dropbox
-- Print [Contact Sheet](https://www.dropbox.com/s/9t7jw216b274tox/contact_sheet.pdf?dl=0)
+- Print [Contact Sheet](https://app.box.com/file/639652767665)
 - Print and insert Bristol Stool Scale
 - Create participant info_brochure (Fill in codes)
 - File participant manila folder in front section of file cabinet (Upcoming)
@@ -262,8 +262,6 @@
 - Data quality check 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJJMLXLyiaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-------------------
 
 ### Retention
 

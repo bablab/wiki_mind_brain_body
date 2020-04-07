@@ -1,0 +1,52 @@
+# Post-Lab Protocols
+
+## Stool Sample
+
+### Sample Quality 
+
+- Put on gloves.
+- Open the mailer to ensure that it contains both the stool sample (in biohazard bag) and the Bristol Stool Scale.
+- Check for quality of the stool sample by shaking it up and down vigorously (keep the sample in the biohazard bag), then check for its consistency and color - It should be a dark-brown liquid.
+- If stool sample does not meet requirement (e.g. sample is in solid form or amount collected is too little), contact the family to see if they would be willing to send another sample with compensation. 
+- Contact family if the Bristol Stool Scale is missing in the mailer. 
+
+### Sample Transfer
+
+- Wear appropriate PPE:
+    - Gloves
+    - Lab coat
+    - Safety glasses
+    - Surgical Mask
+    - Closed-toe shoes
+    - Long pants
+    - Hair tied back
+    
+
+- Prepare your station and ensure that you have the following:
+    - Drape
+    - 2.0mL cryogenic vials 
+    - Stool samples in biohazard bag 
+    - Test tube racks
+    - Transport box with divider
+    - Sharpie for labeling
+
+
+**Steps:**
+
+- Lay a new drape on the work station and keep all equipments and sample on the drape throughout the transfer process.
+- With the stool sample collection vial still in the biohazard bag, shake it up and down vigorously.
+- Take the stool sample out of the bag and put it on the test tube rack.
+- Untwist two 2.0mL vials and place them on the test tube rack. 
+- Untwist the stool sample collection vial, and carefully pour the sample into the first 2.0mL vial. (It’s okay if the ball does or does not get transferred)
+- Stop pouring when solution reached the 1.8mL line to prevent overflow, and pour the remaining sample (if any) in a second 2.0mL vial. 
+- Cap the 2.0mL vials tightly to prevent spills. 
+- Label the 2.0mL vials with a sharpie, ensure it has the participant ID and vial number.
+- Place the labeled 2.0mL vials in the transport box with divider.
+- Close the now-empty stool sample collection vial, put it back in the biohazard bag, and dispose it in the biohazard waste bin. 
+- Clean up work station, dispose the drape, and wipe down the table top with disinfectant wipe.
+- Remove PPE and wash hands with soap and water thoroughly.
+- Bring the transport box to C454 where the -80˚C freezer is located (key in BABLab Lock Box).
+- Place the 2.0mL vials in their designated space in the freezer box (in accordance to the Sample Storage Log Diagram). 
+- Log the sample in the [Sample Storage Log](https://app.box.com/file/630322897864).  
+
+---------
