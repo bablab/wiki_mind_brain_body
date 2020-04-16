@@ -1,12 +1,12 @@
 # Child/Teen & Parent General Protocols
 
-## Consent
+## Consent & Assent
 
-Once the parent and child come into the lab, seat them in the rainbow room on the couch for consenting. 
+Once the parent and child/teen come into the lab, seat them in the Rainbow Room on the couch for consenting (parent) and assenting (child aged 7+ or teen). 
 
 Make some small talk - Ask the participant how they got here. If they have participated before in research. Offer them a bottle of water. Thank them for coming and for giving up their weekend to help science.
 
-Tell the parent and child that the first thing you are going to do is go over all of the things they will do today, and have them sign the consent forms. 
+Tell the parent and child that the first thing you are going to do is go over all of the things they will do today, and have them sign the consent and assent forms. 
 
 Speak to them and direct them through the whole process. 
 
@@ -136,7 +136,7 @@ If a parent has a concern about the study before the session, send the email tem
 
 ## Parent/Child Observation
 
-The parent and child will be in the Rainbow Room for 15 minutes. During that time they will be filmed while planning a pleasant event, and then again while discussing an area of conflict. The conflict event will always go first, followed by the pleasant event. We did this to ensure that the parents were not thinking of the negative interaction upon answering the questionnaires about their child, which they did immediately after the observation interaction.  
+The parent and child will be in the Rainbow Room for 15 minutes. During that time they will be filmed while planning a conflict event, and then again while discussing a pleasant event. The conflict event will always go first, followed by the pleasant event. We did this to ensure that the parents were not thinking of the negative interaction upon answering the questionnaires about their child, which they did immediately after the observation interaction. If participants indicate that they prefer to speak in a language other than English, they may do so.
 
 **Step 1**: 
 
@@ -220,7 +220,7 @@ Researcher reenter the room, switch the iPad off and move the child/adolescent t
    - 2. CIB Training with Ruth Feldman.
    
 - We ultimately decided to go with FIMS for several reasons: 
-    - Expense - Sarah Whittle paid approximately $1000USD for a 10 hour skype training session with one of Holmbeck’s team), whereas CIB training is $2500 and also involves flights and accommodation at Yale. 
+    - Expense - Sarah Whittle paid approximately $ 1000USD for a 10 hour skype training session with one of Holmbeck’s team), whereas CIB training is /$2500 and also involves flights and accommodation at Yale. 
     - Validation in age range - I like CIB for younger children, but FIMS was designed for older children and adolescents, and Sarah Whittle has validated it in a community sample of 8 year olds and their mothers. 
     - FIMS is a less intensive coding schedule, producing global codes, rather than micro coded (i.e., minute to minute) scales - which makes more intuitive sense in the age range for MBB. 
     - FIMS has a peer version that we might brach out to in the future (but likely not needing further training): https://psycnet.apa.org/record/2014-24011-001

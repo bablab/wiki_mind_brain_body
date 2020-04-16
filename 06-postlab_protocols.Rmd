@@ -50,3 +50,46 @@
 - Log the sample in the [Sample Storage Log](https://app.box.com/file/630322897864).  
 
 ---------
+
+## Data Review & Audit
+
+### Follow-Up (completed by Scheduling Coordinator)
+- Before sending Home Reminder 3, make sure RA's have completed Data Entry, Data Quality Check 1, and Data Quality Check 2.
+- After sending Home Reminder 3 - create blank Trello card for participant on *In Data Review* list. 
+
+### Data Review (completed by Lab Manager #1)
+
+- Once card has been created, do Data Review.
+- After completing Data Review, move card to *Good Sample*, *Bad Sample*, or *No Sample* list based on the stool sample.
+
+### Data Audit (completed by Lab Manager #2)
+
+**If Good Sample:**
+
+- Send payment, thank you letter, and certificate via mail. 
+- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items). 
+- Move to *Paid* list.
+- One week after payment is sent, check outstanding items do Audit Call #1. 
+- One week following Audit Call #1, check outstanding items do Audit Call #2. 
+- Within 2 days, check outstanding items and do Audit Call #3. 
+- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to *Done* list.
+
+**If Bad Sample:**
+
+- Send payment, thank you letter, and certificate via mail. Include a new stool sample kit. 
+- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
+- Move to *Paid* list in Trello.
+- One week after payment is sent, check outstanding items do Audit Call #1. 
+- One week following Audit Call #1, check outstanding items do Audit Call #2. 
+- Within 2 days, check outstanding items and do Audit Call #3. 
+- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to *Done* list. 
+
+**If No Sample:**
+
+- Send [MBB - UNPAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
+- Leave participant on Unpaid list.
+- If stool sample recieved - send payment, thank you letter, and certificate via mail and move to *Paid* list.
+- If stool sample not received, one week after email is sent, check outstanding items do Audit Call #1. 
+- One week following Audit Call #1, check outstanding items do Audit Call #2. 
+- Within 2 days of Audit Call #2, check outstanding items and do Audit Call #3. 
+- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to *Done* list. 

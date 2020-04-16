@@ -206,32 +206,6 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 --------
 
-## Weight
-
-- Instruct participant to step on weight scale
-- Measure weight
-- Record weight on Lab Session Checklist
-
----------
-
-## Waist Measurement
-
-- Stand and hold tape measure at the participant’s belly button and bring it around their waist, over their t-shirt
-- Make sure measuring tape is horizontal around the waist and even in the front and back 
-- Keep the tape snug around the waist, but not compressing the skin
-- Have participant breathe in
-- Measure the participant’s waist just after they breathe out
-
-------------
-
-## Saliva Sample
-
-Sample Storage:
-
-- Screw lids on very tight (to prevent evaporation)
-- Log the location (grid) on the sample storage log
-
----------------
 
 ## Hair Sample
 
@@ -316,7 +290,25 @@ Sample Storage:
 - Label the ziplock bag with the participant’s ID.
 - Store the sample in a dry area at room temperature.
 
--------------
+------------
+
+## Weight
+
+- Instruct participant to step on weight scale
+- Measure weight
+- Record weight on Lab Session Checklist
+
+---------
+
+## Saliva Sample
+
+Sample Storage:
+
+- Screw lids on very tight (to prevent evaporation)
+- Log the location (grid) on the sample storage log
+
+---------------
+
 
 ## Memory Generalization
 
@@ -348,6 +340,16 @@ Sample Storage:
 Markers for physiology have been included for each trial type (object neutral, object negative, scene neutral, scene negative). For the test, physiology markers are entered for every trial. That way, we might be able to go back and look at GSR for the times they got the item correct.
 
 ----------
+
+## Waist Measurement
+
+- Stand and hold tape measure at the participant’s belly button and bring it around their waist, over their t-shirt
+- Make sure measuring tape is horizontal around the waist and even in the front and back 
+- Keep the tape snug around the waist, but not compressing the skin
+- Have participant breathe in
+- Measure the participant’s waist just after they breathe out
+
+------------
 
 ## WASI & WIAT
 
