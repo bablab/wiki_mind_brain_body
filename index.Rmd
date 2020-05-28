@@ -14,8 +14,6 @@ description: "These are the notes, logs, and protocols for the Mind, Brain, Body
 
 # Introduction
 
-Test
-
 The Mind, Brain, Body study looks at how early caregiving experiences influence the emotional, cognitive, and brain development, as well as physical health and wellness.
 
 The study also explores how the bacteria that live inside us (the microbiome) are connected to the development of our brains and bodies.
