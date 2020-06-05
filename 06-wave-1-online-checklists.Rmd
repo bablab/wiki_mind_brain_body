@@ -135,14 +135,8 @@
 
 #### Data Entry
 
-- Enter contact list information into recruitment database
-- Enter KSADS Summary Diagnostic Checklist data to REDCap
-- Enter height, weight, waist to REDCap 
-- Score and enter WASI data to REDCap
-- Score and enter WIAT data to REDCap
-- Enter Memory Intrusion Notes to REDCap
-- Enter lab session checklist - Child data to REDCap
-- Enter lab session checklist - Parent data to REDCap
+- Enter online session checklist data to REDCap
+- Enter height, weight, waist to REDCap
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKdWA0ABOrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -156,37 +150,44 @@
 
 #### Home Session
 
-- Halloween test delay
-- Memory Generalization test delay
-- Stool kit received
+- Halloween test delay completed
+- Hair sample received
+- Saliva sample received
+- Stool sample received
 - Bristol Stool Scale data received
-- ASA
+- Questionnaires received (if paper versions were sent)
+- Consent/Assent forms received (if paper versions were sent)
+- Contact information sheet received 
+
+*After package has been received...*
 
 #### Data Entry
 
-- Enter home session checklist child data to REDCap
-- Download and upload ASA data to participant Box folder
+- Enter contact list information into recruitment database
+- Enter questionnaires data (if paper versions were sent)
 - Scan and upload Bristol Stool Scale to Box
 - Enter Bristol Stool Scale data to REDCap
+
+#### Filing
+
+- File Consent/Assent forms in filing cabinet (consent manila folder)
+- File contact list in filing cabinet (contact list manila folder)
+- File Bristol Stool Scale in filing cabinet (participant folder)
+- File questionnaires in filing cabinet if paper versions were sent (participant folder)
 
 #### Sample Storage
 
 - Label and store stool sample (add data quality to REDCap)
+- Label and store saliva sample
+- Label and store hair sample
 - Update sample storage log on Box (once all received)
-- Upload sample photo to Box
-
-#### Reimbursement
-
-- Send thank you email (in templates)
-   - Attach letter, certificate, and parent report
-- Mail gift card 
-   - Include thank you letter, certificates, and any additional stool kits if needed
-
+- Upload all sample photos to Box
 
 #### Data Quality
 
 - Data quality check 1
 - Data quality check 2
+- Data review
 - Data audit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJJMLXLyiaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -230,6 +231,13 @@
 ![<!--- Report card --->](images/final_checklist/report_cards/7.png)
 
 8. The report card is now ready to be sent to the participant.
+
+#### Reimbursement
+
+- Mail payment with science kits
+- Take a picture of tracking information and upload to Box
+- Log participant payment in reimbursement log book
+- Log participant payment in reimbursement spreadsheet
 
 -----------------
 
