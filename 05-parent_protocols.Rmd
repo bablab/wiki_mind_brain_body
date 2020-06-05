@@ -1,8 +1,8 @@
-# Parent Protocols
+## Parent Protocols
 
-## KSADS
+### KSADS
 
-### Audio Recording
+#### Audio Recording
 
 - Make a separate recording for each KSADS administered if there is more than one child in one session.
 
@@ -21,7 +21,7 @@
 ![<!--- ksads --->](images/ksads/3.png)
 
 
-### Using the iPad for KSADS Summary Checklist
+#### Using the iPad for KSADS Summary Checklist
 
 - Before the start of every session, be sure to duplicate and rename all the KSADS documents in Acrobat (25 documents per participant) and rename them (MBBXXX_KSADS_suppX_XXX). 
    - *Note 1:* This may take a while, especially if there are more than one participant, so be sure to do it ahead of time.
@@ -42,7 +42,7 @@
 
 -------------
 
-## Home Kit
+### Home Kit
 
 Please refer to the diagram below for the complete list of items in a home kit:
 
@@ -62,11 +62,11 @@ Please refer to the diagram below for the complete list of items in a home kit:
 
 ----------
 
-## Participant Payment
+### Participant Payment
 
 **Participant Reimbursement Signature**
 
-### Setting up the iPad
+#### Setting up the iPad
 
 
 - To obtain participant’s signature for payment receipt form, log into the BABLab iPad 1 or 2 with the password “0719”.
@@ -79,7 +79,7 @@ Please refer to the diagram below for the complete list of items in a home kit:
     ![<!--- payment --->](images/payment/2.jpeg)
 
 
-### To Obtain Signature
+#### To Obtain Signature
 
 - Click the “Acrobat” app on the iPad.
 
@@ -98,7 +98,7 @@ Please refer to the diagram below for the complete list of items in a home kit:
 
    ![<!--- payment --->](images/payment/6.jpeg)
 
-### To Save the Filled-Out Form
+#### To Save the Filled-Out Form
 
 - Click the “share” icon. 
 
