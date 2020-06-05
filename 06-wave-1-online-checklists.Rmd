@@ -48,15 +48,15 @@
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
 
 - Print assent/consent forms (Check IRB expiration)
-- Parent consent
-- Assent - Child or Teen (None if under 7 years)
-- Referral consent
-- Print Pleasant/unpleasant events checklist
-- Print Bristol Stool Scale and label with participant ID (MBB Specific Version)
-- Print Contact list and label with participant ID
+   - [Parent Consent](https://ucla.app.box.com/file/665482692038)
+   - Assent - [Child](https://ucla.app.box.com/file/665458751802) or [Teen](https://ucla.app.box.com/file/665461517391) (None if under 7 years)
+   - Referral consent
+- Print [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
+- Print [Bristol Stool Scale](https://app.box.com/file/630326499609) and label with participant ID (MBB Specific Version)
+- Print [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
 - Print and label paper version of questionnaires if requested in screen
-- Print reward board (plus gold star stickers)
-- Print and fill in codes on Participant Info Brochure
+- Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers)
+- Print and fill in codes on [Participant Info Brochure](https://ucla.app.box.com/file/665449085502)
 - Prepare paper measuring tape (for waist and height measurements)
 - Label 2 biohazard bags (with 2 cotton balls in each bag)
 - Label 1 cardboard box (for samples)
@@ -77,137 +77,63 @@
 
 #### Lab Session Setup - 1 Hour Prior
 
-- Place in Rainbow Room
-   - Consent/assent/DBS/contact on clipboard with pens
-   - Consent protocol
-   - [Pleasant Events Checklist and Issues Checklist](https://app.box.com/file/630327764749)
-- Place WASI & books (2)/WIAT & card/protocol in testing room
-- Place audio recorders in testing rooms
-- Attach researcher documents to clipboards
-   - Child - Checklist, Memory Intrusion notes
-   - Parent - Checklist, KSADS summary
-- Turn iPads on airplane mode and WiFi off
-- Clear and setup KSADS on iPad (duplicate blanks)
-- Photograph FedEx slip
-- Pre-load questionnaires on computers 
-   - (Parent and Child; under 8-laminated faces)
-- Pre-load physiology data templates (8)
-- Move physiology station near Rainbow Room 
-- Move iPad and iPad stand near Rainbow Room 
-- Insert Participant Info Brochure in home kit
-- Assemble hair sample materials
-- Prep blood spot kit
+- Prepare consent protocol
+- Prepare session checklist with counterbalance order
+- Have the Participant's MBB and secondary MBB number on hand
+- Preload the following tabs on researcher's computer:
+   - Consent/Assent documents
+   - REDCap with child questionnaire codes ready
+- Prepare biological sample kits for demonstration during session
+   - hair sample, saliva sample, stool sample
+- Ensure researcher's Zoom security settings are set for study session
 
 --------------
 
 ### Lab Session Checklist
 
-#### Child
-
-- Assent
-- Physiology setup
-- Parent-child observation (video record)
-- Drink bottle of water
-- Memory intrusion (audio record)
+- Session walk-through/package explanation
+- Consent/Assent
+- Parent-child observation (note recording via Zoom or pre-recording)
+- If pre-recorded, instruct participant how to upload to Box
+- Explain Questionnaires Parent Proxy or Parent self on second device if available (for parent to complete during Halloween training, Halloween test, and Child Questionnaires)
 - Halloween training
-- Characters (monsters/aliens)
-- Halloween test
-- Discrimination (run 1 of 3) *no physio
-- Conditioning (sound)
-- Discrimination (run 2 of 3) *no physio
 - Height
-- Hair sample
 - Weight
-- Saliva sample
-- Memory generalization training (audio record)
-- Extinction
-- Discrimination (run 3 of 3) *no physio
-- Memory generalization test
 - Waist circumference
-- Snack and water break
-- WASI (audio record)
-- WIAT (audio record)
-- Blood sample
-- Questionnaires
-- Prize
-
-#### Parent
-
-- Consent
-- Parent-child observation (video record)
-- KSADS (audio record)
-- Transfer observation video/KSADS audio recording
-- Questionnaires 
-   - Parent Proxy or Parent Self
-- Home kit issues and explained 
-   - Take photo of Fedex label
-- Payment issued and signed
-   - Take photo of receipt
+- Halloween test
+- Saliva sample
+- Hair sample
+- Child Questionnaires
+- Stool Sample explanation
+- Contact list explanation
+- Confirm mailing address for payment
+- Schedule time to complete post-session tasks ~1 week post-session
+- Qualitative parent and child free responses (optional)
 
 ------------
 
 ### Post-Lab Session Checklist
 
-#### Clean Up
-
-- Tidy lab
-- Disinfectant spray
-- Disinfectant wipe 
-
 #### Notes
 
-- Make note in Trello of issues to discuss (if needed) (titled: MBB### Lab Session Discussion)
-
-#### Sample Storage
-
-- Label and leave blood sample to dry 
-- Store blood sample
-- Label and store hair sample
-- Label and store saliva sample
-- Create and assign Trello reminder to store blood sample
-- Update sample storage log on Box (after lab session)
+- Make note of issues to discuss (if needed) in Boxnote for next core meeting
 
 #### Filing
 
-- File consent and assent forms in filing cabinet (consent manila folder)
-- File contact list in filing cabinet (contact list manila folder)
-- Log participant payment in reimbursement log book
-- File payment receipt photo in Box payment folder
-- File FedEx tracking photo in Box folder
-
-#### Data Entry
-
-- Transfer and rename video recordings to external hard drive (delete originals)
-- Transfer and rename audio recordings to external hard drive (delete originals)
-- Copy behavioral task data to participant folder (raw)
-- Copy physiology task data to participant folder
-- Save and upload KSADS screen from iPad to participant Box folder
-- Save and upload any KSADS supplements from iPad to participant Box folder
+- "Scan" online session checklist and file in participant folder
+- Transfer and rename Zoom recording to Box
 
 --------
 
 ### Final Checklist
 
-#### Scoring
-
-- Fill out KSADS Summary Diagnostic Checklists
-- Score WASI
-- Score WIAT
-
 #### Filing 
 
-- Scan DBS consent and file in participant Box folder
-- Scan Memory Intrusion Notes and file in participant Box folder
-- Scan KSADS Summary Diagnostic Checklist and file in participant Box folder
-- Scan lab session checklists (parent & child) and file in participant Box folder
-- Scan WASI/WIAT (once scored) and file in participant Box folder
-- Make low-res parent-child interaction video and save on BABLab Drive
+- Make low-res parent child interaction video and save on BABLab External Hard Drive
 - Burn all audio and video (low res) files to CD and label/store CD in binder
-- Check video transfer and delete original
-- Check audio transfers and delete originals
+- Make manila folder for participants to file all hard copies
 
 #### Data Entry
-
 
 - Enter contact list information into recruitment database
 - Enter KSADS Summary Diagnostic Checklist data to REDCap
