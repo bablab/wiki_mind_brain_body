@@ -225,5 +225,3 @@ Researcher reenter the room, switch the iPad off and move the child/adolescent t
     - FIMS is a less intensive coding schedule, producing global codes, rather than micro coded (i.e., minute to minute) scales - which makes more intuitive sense in the age range for MBB. 
     - FIMS has a peer version that we might brach out to in the future (but likely not needing further training): https://psycnet.apa.org/record/2014-24011-001
     - Sarah Whittle’s group looked at the component structure for the FIMS and found components that seemed close to what they were finding with the Hops LIFE system - namely: negative maternal affect during pleasant event, negative maternal during conflict discussion, and pleasant maternal affect across both tasks (warmth). The negative maternal during pleasant event was the most predictive of child behavior problems. Overall, the correlations they report in their paper are all very sensical and convinced me that we should use the FIMS. https://journals.sagepub.com/doi/full/10.1177/1073191118796557
-
---------------
