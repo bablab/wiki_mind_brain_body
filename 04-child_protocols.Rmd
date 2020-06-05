@@ -540,7 +540,7 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 *Note: Keep an extra set of clothes or shoes available to replace contaminated items.*
 
 
-### Storage of Protein Cards
+## Storage of Protein Cards
 
 - Using a new drape, place the protein cards along the long horizontal midline of the drape.
 - Lightly fold the drape in half along the midline, covering the protein cards but ensure no contact between the drape and the blood spots (i.e. ensure complete exposure of the blood spots).
