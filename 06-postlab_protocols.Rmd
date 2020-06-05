@@ -1,8 +1,8 @@
-# Post-Lab Protocols
+## Post-Lab Protocols
 
-## Stool Sample
+### Stool Sample
 
-### Sample Quality 
+#### Sample Quality 
 
 - Put on gloves.
 - Open the mailer to ensure that it contains both the stool sample (in biohazard bag) and the Bristol Stool Scale.
@@ -10,7 +10,7 @@
 - If stool sample does not meet requirement (e.g. sample is in solid form or amount collected is too little), contact the family to see if they would be willing to send another sample with compensation. 
 - Contact family if the Bristol Stool Scale is missing in the mailer. 
 
-### Sample Transfer
+#### Sample Transfer
 
 - Wear appropriate PPE:
     - Gloves
@@ -51,18 +51,18 @@
 
 ---------
 
-## Data Review & Audit
+### Data Review & Audit
 
-### Follow-Up (completed by Scheduling Coordinator)
+#### Follow-Up (completed by Scheduling Coordinator)
 - Before sending Home Reminder 3, make sure RA's have completed Data Entry, Data Quality Check 1, and Data Quality Check 2.
 - After sending Home Reminder 3 - create blank Trello card for participant on *In Data Review* list. 
 
-### Data Review (completed by Lab Manager #1)
+#### Data Review (completed by Lab Manager #1)
 
 - Once card has been created, do Data Review.
 - After completing Data Review, move card to *Good Sample*, *Bad Sample*, or *No Sample* list based on the stool sample.
 
-### Data Audit (completed by Lab Manager #2)
+#### Data Audit (completed by Lab Manager #2)
 
 **If Good Sample:**
 

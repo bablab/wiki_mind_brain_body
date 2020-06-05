@@ -1,8 +1,10 @@
-# Child/Teen Protocols
+## Child/Teen Protocols
 
-## BioPac Electrode Hookup
+-----------
 
-### Electrode Placement/Preparation
+### BioPac Electrode Hookup
+
+#### Electrode Placement/Preparation
 
 - Wheel the cart into the Rainbow Room
 - Prep 2 electrodes with Gel 101. Stick to the participant’s ring and middle fingers on their non-dominant hand (we want to keep the pointer finger free so they can use it for tasks)
@@ -12,7 +14,7 @@
 - Prep 8 electrodes with Gel 100. Stick to the locations indicated on the skeleton diagram
 - Let all electrodes sit for the duration of the interaction filming task
 
-### GSR
+#### GSR
 
 - Put on gloves
 - Ensure that the finger electrodes are properly adhered and have had time to rest
@@ -22,21 +24,21 @@
 - Ask the participant to wear a glove over the whole setup to secure it throughout the tasks
 - To check if the GSR is working properly, ask the participant to briefly hold his/her breath - you should see a rise in the signal on the graph
 
-### ECG
+#### ECG
 
 - Ensure that the chest electrodes are properly adhered and have had time to rest.
 - Make sure the lead wire module is connected to the transmitter (RSPEC-R, yellow sticker) in the ECG channel. 
 - Take the transmitter and secure it around the participant’s stomach as shown below.
 - Hook up the lead wires so that the white lead connects to the Right Collarbone electrode, the black lead connects to the Left Collarbone electrode, and the red lead connects to the lowest Left Rib electrode.
 
-### EGG
+#### EGG
 
 - Ensure that the chest electrodes are properly adhered and have had time to rest.
 - Make sure the lead wires are connected to the transmitter (EGG2-R, red sticker). The lead module labelled “A” (3 short leads) should be in the EGG A channel, while the lead module labelled “B” (2 long leads) should be in the EGG B channel.
 - Take the transmitter and secure it around the participant’s stomach as show below.
 - Hook up the lead wires so that the “A” and “B” channel white leads connect to the sternum electrodes (which goes to which does not matter),  the “A” and “B” channel red leads connects to the upper left rib electrode and stomach electrode, and the “B” channel black lead connects to the remaining lower left rib electrode.
 
-### AcqKnowledge
+#### AcqKnowledge
 
 - Turn off the wifi on the Mac Mini and turn on the BioPac/transmitters
 - Open AcqKnowledge
@@ -46,7 +48,7 @@
 
 -----------
 
-## Memory Intrusion/Movie Watching
+### Memory Intrusion/Movie Watching
 
 - There are 4 counterbalanced versions of this task:
   - DRM_A_incongruent_first.psyexp
@@ -124,7 +126,7 @@
 
 --------------
 
-## Halloween
+### Halloween
 
 - Check master counterbalance sheet and fill out the participant’s ID # in the group which you assigned them.
 - Seat the participant at the computer desk in the Bear’s Den. Close the door to ensure privacy and freedom from distractions.
@@ -164,9 +166,9 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ----------
 
-## Disc/Cond/Ext
+### Disc/Cond/Ext
 
-### Discrimination
+#### Discrimination
 
 - Click into the discrimination folder
 - Right click on either discrimination_horiz.py or discrimination_vert.py (depending on counterbalancing) and open in PsychoPy
@@ -179,7 +181,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Read the instructions for the participant
 - Ask the participant to tell you which line was more tilted, the first or second and press the corresponding button for them
 
-### Conditioning
+#### Conditioning
 
 - Click into the conditioning folder
    - Test the sound file on the laptop - screech.ogg
@@ -188,7 +190,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Open the .psyexp file for the appropriate counterbalance by right clicking and opening in PsychoPy
 - Click the green running man icon and enter the Participant ID
 
-### Extinction
+#### Extinction
 
 - Click into the extinction folder
 - Open the .psyexp file
@@ -196,7 +198,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ---------
 
-## Height
+### Height
 
 - Place participant directly against wall/frame
 - Advise participant to stand up straight
@@ -207,10 +209,10 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 --------
 
 
-## Hair Sample
+### Hair Sample
 
 
-### Set Up Hair-Sample Station
+#### Set Up Hair-Sample Station
 - Ensure the hair-sample station is set up accordingly:
     - 1 sheet of aluminum foil
     - 1 small ziplock bag with participant ID
@@ -225,7 +227,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
     - 1 printed copy of the [Hair-Care Practice Questionnaire](https://app.box.com/file/630323877918)
     - Sample hair amount taken from wig
 
-### Prior to Getting Hair Sample 
+#### Prior to Getting Hair Sample 
 
 - With the parent present in the room, explain to both the child and parent that we will be collecting 30-50 strands of hair. The amount of hair to be collected is less hair than is lost in normal everyday-brushing from the back of the head. 
 - Inform them how the site for the sampling is hidden by the surrounding hair, therefore not visible after collection.
@@ -234,14 +236,14 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Complete the [Hair-Care Practice Questionnaire](https://app.box.com/file/630323877918). 
 
 
-### Hair Sample Prep  
+#### Hair Sample Prep  
 
 - Ask the parent to be present in the room when we collect the child’s hair sample.
 - Put on a pair of gloves.
 - Wipe down the hair scissor/comb/clips with an alcohol swab. 
 
 
-### Hair Length 
+#### Hair Length 
 
 - For short hair (less than 3cm), follow the Short-Hair Protocol below. 
 - For medium-length hair (3-6cm), follow the Medium-Hair Protocol below. 
@@ -292,7 +294,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ------------
 
-## Weight
+### Weight
 
 - Instruct participant to step on weight scale
 - Measure weight
@@ -300,7 +302,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ---------
 
-## Saliva Sample
+### Saliva Sample
 
 Sample Storage:
 
@@ -310,9 +312,9 @@ Sample Storage:
 ---------------
 
 
-## Memory Generalization
+### Memory Generalization
 
-### Training protocol
+#### Training protocol
 
 - There are two versions of this task (They differ in the pictures that are used for training):
    - memory_generalization_beta.psyexp
@@ -326,7 +328,7 @@ Sample Storage:
 - They will go through this photo viewing and recall phase another 2 times. 
 - When the task is complete, save the PsychoPy output file, as well as the recorded responses to the participant folder on the Dropbox.
 
-### Test Protocol
+#### Test Protocol
 
 - Immediately after the memory generalization training, administer the memory generalization test.
 - There is only one version of the memory generalization test: memory_test.psyexp
@@ -335,13 +337,13 @@ Sample Storage:
 - If the participant responds “I Don’t Know” they will skip the confidence rating screen.
 - When the task is complete, save the participants data output from PsychoPy into their participant folder on the server.
 
-### Physiology Marks
+#### Physiology Marks
 
 Markers for physiology have been included for each trial type (object neutral, object negative, scene neutral, scene negative). For the test, physiology markers are entered for every trial. That way, we might be able to go back and look at GSR for the times they got the item correct.
 
 ----------
 
-## Waist Measurement
+### Waist Measurement
 
 - Stand and hold tape measure at the participant’s belly button and bring it around their waist, over their t-shirt
 - Make sure measuring tape is horizontal around the waist and even in the front and back 
@@ -351,7 +353,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 
 ------------
 
-## WASI & WIAT
+### WASI & WIAT
 
 
 - Ensure that you have all of the following materials in the testing room:
@@ -370,7 +372,7 @@ Markers for physiology have been included for each trial type (object neutral, o
     
     *“We’re going to be doing a few things today, like playing some word games and answering some math questions. Some of these things might be really easy for you, but some might be hard. Most people do not answer every question correctly or finish every item, but please try your best. Do you have any questions?”*
 
-### WASI
+#### WASI
 
 
 - Open the WASI Stimulus Book to Vocabulary
@@ -400,7 +402,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 
    *“Okay, we are going to stop there and move on to the next task.”*
 
-### WIAT
+#### WIAT
 
 - Next, get the WIAT Word Reading List and the WIAT Score Sheet
 - Say the following:
@@ -422,9 +424,9 @@ Markers for physiology have been included for each trial type (object neutral, o
 
 --------------
 
-## Blood Sample (DBS) 
+### Blood Sample (DBS) 
 
-### DBS Prep
+#### DBS Prep
 
 - Label Whatman Protein cards with subject ID, date and time, and card number. 
    - Use cards in the order you have numbered them.
@@ -440,7 +442,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 
  ![<!--- dbs --->](images/dbs/2.png)
  
-### VR Headset Setup
+#### VR Headset Setup
 
 - Put VR goggles on for participant. 
 - Ensure the headset has been charged before it needs to be used.
@@ -472,7 +474,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 - Periodically check in with the child to ensure they aren’t feeling motion sick or uncomfortable in any way.
 - After the DBS is completed, take the headset off the child and power it down.
 
-### Blood Sample Administration
+#### Blood Sample Administration
 
 - Place heating pad on participant’s hand, making sure to cover fingers. Set to low or medium heat. 
    - Check to make sure it does not get too hot.
@@ -484,7 +486,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 - When finished, wipe with gauze, put pressure to stop bleeding and apply bandage.
 - Remove gloves, use hand sanitizer immediately, then wash hands ASAP.
 
-### Precautions
+#### Precautions
 
 - Before, during and after the procedure, ask if the participant is feeling lightheaded.
 - Check the participant’s complexion - turning pale is a warning sign for impeding faintness.
@@ -492,7 +494,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 - Stay with them for at least 15 minutes until they feel completely fine.
 - Report the incident to Bridget. 
 
-### SOP for Fainting Emergency 
+#### SOP for Fainting Emergency 
 
 - In case of fainting or any warning symptoms, lay the participant down flat on a surface on their back and elevate their feet if possible (to a level higher than their heart, about 30cm).
 - Loosen any constrictive clothing/belts etc. 
@@ -503,7 +505,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 - Offer water or warm sweet drinks.
 - Report the incident to Bridget. 
 
-### SOP for Biohazard Spill Emergency 
+#### SOP for Biohazard Spill Emergency 
 
 - Equipments:
    - Disinfectant (Sodium Hypochlorite (Bleach))
@@ -523,7 +525,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 *Note: Only proceed with biohazardous spill cleanup if you feel comfortable; 
        Always use physical tools for handling sharps.*
        
-### SOP for Incident Response and Reporting
+#### SOP for Incident Response and Reporting
 
 An exposure incident is specific contact with hazardous agents. Exposure incidents at UCLA must be reported, investigated, and documented by UCLA Insurance & Risk Management; Environment, Health & Safety; and/or the supervisor of the facility. 
 
@@ -540,7 +542,7 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 *Note: Keep an extra set of clothes or shoes available to replace contaminated items.*
 
 
-## Storage of Protein Cards
+### Storage of Protein Cards
 
 - Using a new drape, place the protein cards along the long horizontal midline of the drape.
 - Lightly fold the drape in half along the midline, covering the protein cards but ensure no contact between the drape and the blood spots (i.e. ensure complete exposure of the blood spots).
@@ -550,13 +552,13 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 
 ---------------
 
-## Child Questionnaires
+### Child Questionnaires
 
 - Ask the participant how comfortable they are reading and comprehending in English
 - If not fully comfortable, read the questionnaires for the participant
 - Read the first questionnaire - the SS - to all participants
 
-### Children 8 & Under
+#### Children 8 & Under
 
 - The researcher will need to read all questions to child
 - PEDSQL GI & PEDSQL F need the laminated face sheet

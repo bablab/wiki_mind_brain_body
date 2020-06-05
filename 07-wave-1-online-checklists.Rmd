@@ -44,46 +44,34 @@
 
 ### Pre-Lab Session Checklist
 
-#### Lab Session Setup - 1 Day Prior
+#### Package preparation
+*(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
 
-- Create participant manila folder
 - Print assent/consent forms (Check IRB expiration)
-   - [Parent consent](https://app.box.com/file/630320519707)
-   - Assent - [Child](https://app.box.com/file/630320502379) or [Teen](https://app.box.com/file/630326888191) (None if under 7 years)
-   - [Referral consent](https://app.box.com/file/630329099729)
-   - [Contact list](https://app.box.com/file/639652767665)
-   - [DBS consent](https://app.box.com/file/630326424318)
-- Print [MBB Lab-Session Checklist-Child](https://app.box.com/file/630326484181) (Enter counterbalance order)
-- Print [MBB Lab-Session Checklist-Parent](https://app.box.com/file/630325295018) 
-- Print [KSADS Summary Diagnostic Checklists](https://app.box.com/file/630326477910) (Write participant ID on all pages)
-- Print and prepare [WASI Form](https://app.box.com/file/630326463909) (Enter starting point; write participant ID on all pages)
-- Print and prepare [WIAT Form](https://app.box.com/file/630318060264) & [Booklet](https://app.box.com/file/630326404817) (Enter starting point; Write participant ID on all pages)
-- Print [Memory Intrusion Scratch Paper](https://app.box.com/file/630322810250)
-- Print and insert [Bristol Stool Scale](https://app.box.com/file/630326499609) (MBB Specific Version)
-- Print and fill in codes on [Participant Info Brochure](https://app.box.com/file/630317204624)
-- File participant manila folder in front section of file cabinet (Upcoming)
-- Charge
-   - iPads
-   - iPad pencils
-   - Biopac transmitters
-   - VR headset (Check remote battery)
-   - Audio recorders
-- Make sure audio recorder batteries have enough charge
-- Label electrodes with color stickers 
-   - Blue=EGG
-   - Yellow=ECG
-- Make [participant name tags](https://app.box.com/file/630320259767)
-- Print [Payment Receipt Template](https://app.box.com/file/630326568873) 
-- Assemble home kit
-   - Insert gut kit
-   - Insert toilet hat
-   - Insert oral kit
-   - Insert biohazard bag
-   - Insert Bristol Stool Scale
-   - Label all items with participant ID (in sharpie)
-   - Insert MBB info cards
-   - Attach FedEx slip to mailer
-   - Label mailer with “Exempt human specimen” (in sharpie)
+- Parent consent
+- Assent - Child or Teen (None if under 7 years)
+- Referral consent
+- Print Pleasant/unpleasant events checklist
+- Print Bristol Stool Scale and label with participant ID (MBB Specific Version)
+- Print Contact list and label with participant ID
+- Print and label paper version of questionnaires if requested in screen
+- Print reward board (plus gold star stickers)
+- Print and fill in codes on Participant Info Brochure
+- Prepare paper measuring tape (for waist and height measurements)
+- Label 2 biohazard bags (with 2 cotton balls in each bag)
+- Label 1 cardboard box (for samples)
+- Label hair sample kit (aluminum foil 7"x7", painter's tape with "root end" labeled, 1 ziplock bag pre-labeled with participant ID)
+- Label stool sample collection kit (collection tube, toilet hat)
+- Label saliva sample collection kit (collection tube)
+- Insert MBB info cards
+- Attach FedEx slip to return mailer
+- Label return mailer with "exempt human specimen" (in sharpie)
+- Take picture of prepaid blue return mailer (marked with MBB number) and file in participant data folder on Box
+- Insert all labeled items and forms into blue return mailer
+- Insert blue return mailer into study package
+- Take a picture of study package with tracking information to file on Box
+- Mail package to participant
+
 
 ------------
 
