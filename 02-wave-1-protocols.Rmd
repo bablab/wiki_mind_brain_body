@@ -1,6 +1,6 @@
 ## Child/Teen & Parent General Protocols
 
-### Consent & Assent
+### consent
 
 Once the parent and child/teen come into the lab, seat them in the Rainbow Room on the couch for consenting (parent) and assenting (child aged 7+ or teen). 
 
@@ -33,7 +33,7 @@ Speak to them and direct them through the whole process.
 
 <h4>Child</h4>
 
-- Poop sample - microbiome
+- Poop sample - [microbiome](#consent)
 - Stool scale
 - Memory game - to see what you remember from lab.
 
