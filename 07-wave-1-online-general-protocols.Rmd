@@ -1,11 +1,134 @@
-## Child/Teen & Parent General Protocols Online
+## General Protocols 
 
-### Consent & Assent
+### Recruitment Online
 
-Once the parent and child/teen come into the lab, seat them in the Rainbow Room on the couch for consenting (parent) and assenting (child aged 7+ or teen). 
+#### Pre-Screening
 
-Make some small talk - Ask the participant how they got here. If they have participated before in research. Offer them a bottle of water. Thank them for coming and for giving up their weekend to help science.
+ 1. Check if participant is in Recruitment Database
+     - If not, add them to the Recruitment Database
+ 3. Check if participant is in ID Drive
+    - If yes, check if they have a Screener ID
+    - If not, assign them a Screener ID once contact has been established based on the next available Screener ID # in REDCap and proceed with screening
+    - If yes, proceed with screening under existing Screener ID in REDCap
 
-Tell the parent and child that the first thing you are going to do is go over all of the things they will do today, and have them sign the consent and assent forms. 
+#### Screening
 
-Speak to them and direct them through the whole process. 
+1. To screen a new participant click “Add / Edit Records”
+![<!--- recap_screening --->](images/redcap_screening/1.png)
+2.  Click to enter a new Subject ID
+    - Make sure Arm 1: Recruitment is selected
+3. Type “SMBB#” (Screener ID) to create a record and hit “Enter”
+    - Make sure to link the participants Screener ID and their name on the **ID Drive ONLY**
+    - Before creating a new record, be sure to check the ID Drive to see if the participant already has an existing Screener ID
+    - If a record exists, add a new instance of the screen instead of creating a new record
+![<!--- recap_screening --->](images/redcap_screening/2.png)
+4. The screening arm contains two parts
+    - The screen
+    - The wave1_status
+        - The wave1_status is to be updated after the first and each subsequent contact
+![<!--- recap_screening --->](images/redcap_screening/3.png)
+5. Click on the radio button in the “screen” row to screen the participant
+![<!--- recap_screening --->](images/redcap_screening/4.png)
+6. Click “Now” to enter today’s date and time
+7. Select the appropriate choice to start the phone call and follow the skip logic
+8. Follow the skip logic to the end
+    - For items without a text field, write the information down in the Recruitment database (This identifying information cannot be on REDCap)
+9. Once done, select “Complete” and “Save & Exit Form”
+    - The screen can be entered multiple times - for instance if there are multiple phone calls or contacts
+    - It is important to keep a record of all instances of contact
+![<!--- recap_screening --->](images/redcap_screening/5.png)
+10. Click the screen_status radio button
+![<!--- recap_screening --->](images/redcap_screening/6.png)
+11. Select the appropriate option
+     - Contact - Participant needs to be re-contacted (add Recruitment Database & ID Drive)
+     - Ineligible - Participant not eligible for study
+     - To Enroll - Participant to enroll (need to create subject ID, enter subject info, schedule participant, add to Recruitment Database, add to ID Drive)
+     - Enrolled - Participant has been enrolled (all above have been completed)
+     - To Remove - Participant wants to be removed
+12. Be sure to update the screen status after each contact
+     - After 3 contacts (with no response) - review (time of day, contact method, etc.)
+13. If enrolled, proceed to pre-session checklist in the participant log
+
+
+#### Scheduling
+
+1. Open BabLab google calendar and note availability for designated data collection research team.
+2. Check-in with the Lab Manager to see what the designated "package mailing day" of the week is.
+Participants must be scheduled 2 weeks or more in advance from the "package mailing day", to ensure appropriate time for the package to be received by the participant.
+3. Create event on google calendar for 2 hours. Notify the participant that sessions may not last the full indicated time, however, we like to designate additional time just in case.
+4. As soon as the participant has been scheduled, create/add to a google calendar event for the designated "package mailing day" of the week the participant ID (MBB number).
+5. This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for "package mailing day."
+
+Making a Zoom link
+
+1. Log onto https://zoom.us
+2. Click to "Meetings" and "Schedule a new meeting" ![<!--- zoom_link --->](images/zoom_link/1.png)
+3. Title the meeting with the Participant's MBB number, set scheduled time, indicate 3 hours ![<!--- zoom_link --->](images/zoom_link/2.png)
+4. Set setting with password and turn host/participant on ![<!--- zoom_link --->](images/zoom_link/3.png)
+5. Save and click to add Zoom meeting to google calendar ![<!--- zoom_link --->](images/zoom_link/4.png)
+6. Click on the bablab.ucla@gmail.com ![<!--- zoom_link --->](images/zoom_link/5.png)
+7. Click allow ![<!--- zoom_link --->](images/zoom_link/6.png)
+8. Copy the Zoom link from the Description section and save ![<!--- zoom_link --->](images/zoom_link/7.png)
+9. Paste Zoom link into the "confirmation email" you send to the participant with their session confirmation, Zoom instruction sheet, and Next Steps sheet
+
+
+#### Other Screening Information
+
+<h4>Accessing Lists</h4>
+
+To find out where participants are in the recruitment process, there are several lists. 
+![<!--- recap_screening --->](images/redcap_screening/7.png)
+1. Click on “Record Status Dashboard”
+![<!--- recap_screening --->](images/redcap_screening/8.png)
+2. Participants who have been enrolled will be listed in the Enrollment - Wave 1 list
+3. Participants in the process of recruitment will be listed in one of the 4 Recruitment lists
+    - *These lists are populated based on the individuals “Screen Status” so be sure to update after each contact!
+
+<h4>List Types</h4>
+
+- Contact - List of individuals who need to be contacted or re-contacted (also includes waitlist)
+- Ineligible - Participants are ineligible but interested
+- To Enroll - Participants who have been screened and are eligible to enroll
+- To Remove - Participants who were not interested in being contacted for this or future research
+
+-----------
+
+### Concerns
+
+If a parent has a concern about the study before the session, send the email template: 
+
+- [MBB_online - CONCERNS]
+
+----------------
+
+### Session Preparation
+
+#### Package creation
+
+- There will be a designated "package mailing day" one day a week in which the Lab Manager will go into the lab to prepare necessary materials and send out packages from scheduled participants in the last week, on the same package mailing day.
+- Once the package has been created and sealed, it is time to bring the package down to Tyler's office in the Psychology building.
+- To mail the package to the participant, you will need the following information:
+    - Recharge ID
+    - Participant name
+    - Participant mailing address
+- From Tyler's office, you will receive a FedEx label in which you can write this information
+- Take a picture of the FedEx label and upload to Box
+- Leave the package in Tyler's office for FedEx pickup
+
+#### Zoom security Settings
+
+1. Require Encryption for 3rd Party Endpoints*
+2. Prevent participants from saving chat
+3. Click on the "security" button and ensure the following items are checked and all other items unchecked ![<!--- zoom_security --->](images/zoom_security/1.png)
+    a. "Enable Waiting room"
+    b. "Lock Meeting" after participant has entered
+    c. Allow participant to "Unmute Themselves"
+4. Disable Cloud recording*
+5. Host-only screen-sharing
+    a. click on the arrow next to "screen sharing" and click on "Advanced sharing options" ![<!--- zoom_screenshare --->](images/zoom_screenshare/1.png)
+    b. Ensure "one participant can share at a time" and "only host" options are selected ![<!--- zoom_screenshare --->](images/zoom_screenshare/2.png)
+
+*Note that #1 and #4 are the default settings (so those don't have to be changed).
+
+
+

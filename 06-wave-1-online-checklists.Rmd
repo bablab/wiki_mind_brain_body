@@ -1,17 +1,17 @@
 # Wave 1 Online
 
-## Checklists
+## Checklists Online
 
 -----------
 
-### Initial Checklist
+### Initial Online Checklist
 
 **Scheduling and Confirmation**
 
 - Schedule lab session 2 weeks in advance from "package mailing day" (see package preparation in pre-session checklist)
 - Make Zoom link with scheduled session time and save to google calendar
 - Send confirmation email (in templates)
-   - Attach [Next Steps](https://ucla.app.box.com/file/665452959932) and Zoom Instructions
+   - Attach [Next Steps](https://ucla.app.box.com/file/665452959932), [Computer Zoom Download Instructions](https://ucla.app.box.com/file/680632734387), and [Phone Zoom Download Instructions](https://ucla.app.box.com/file/680631353662)
 
 **Enrollment**
 
@@ -42,7 +42,7 @@
    
 ------------
 
-### Pre-Lab Session Checklist
+### Pre-Virtual Session Checklist
 
 #### Package preparation
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
@@ -75,7 +75,7 @@
 
 ------------
 
-#### Lab Session Setup - 1 Hour Prior
+#### Virtual Session Setup - 1 Hour Prior
 
 - Prepare consent protocol
 - Prepare session checklist with counterbalance order
@@ -89,7 +89,7 @@
 
 --------------
 
-### Lab Session Checklist
+### Virtual Session Checklist
 
 - Session walk-through/package explanation
 - Consent/Assent
@@ -112,7 +112,7 @@
 
 ------------
 
-### Post-Lab Session Checklist
+### Post-Virtual Session Checklist
 
 #### Notes
 
@@ -125,7 +125,7 @@
 
 --------
 
-### Final Checklist
+### Final Online Checklist
 
 #### Filing 
 

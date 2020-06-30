@@ -1,6 +1,6 @@
 --- 
 title: "Mind, Brain, Body"
-author: "Emily Towner"
+author: "Emily Towner, Kristen Chu"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
