@@ -1,4 +1,4 @@
-## General Protocols 
+## Pre-Online Session Protocols 
 
 ### Recruitment Online
 
@@ -101,7 +101,7 @@ If a parent has a concern about the study before the session, send the email tem
 
 ----------------
 
-### Session Preparation
+### Online Session Preparation
 
 #### Package creation
 

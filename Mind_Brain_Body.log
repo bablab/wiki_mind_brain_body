@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  24 JUN 2020 16:54
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  1 JUL 2020 13:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1277,15 +1277,15 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3732.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3732.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
-(rerunfilecheck)             Checksum: 8159E7AA034404DBEB2695AF45AB5780;1471.
+(rerunfilecheck)             Checksum: 7F30D344A7D9C6030AB448423CF63422;1529.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  18271 strings out of 479418
- 330790 string characters out of 5884586
- 765822 words of memory out of 5000000
+ 330804 string characters out of 5884586
+ 765836 words of memory out of 5000000
  35500 multiletter control sequences out of 15000+600000
  538789 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
