@@ -42,7 +42,7 @@
    
 ------------
 
-### Pre-Virtual Session Checklist
+### Pre-Online Session Checklist
 
 #### Package preparation
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
@@ -75,7 +75,7 @@
 
 ------------
 
-#### Virtual Session Setup - 1 Hour Prior
+#### Online Session Setup - 1 Hour Prior
 
 - Prepare consent protocol
 - Prepare session checklist with counterbalance order
@@ -89,7 +89,7 @@
 
 --------------
 
-### Virtual Session Checklist
+### Online Session Checklist
 
 - Session walk-through/package explanation
 - Consent/Assent
@@ -112,7 +112,7 @@
 
 ------------
 
-### Post-Virtual Session Checklist
+### Post-Online Session Checklist
 
 #### Notes
 
