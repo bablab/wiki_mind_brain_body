@@ -39,6 +39,7 @@ We want you to come in again in the future, so we will ask for some information 
 
 Have the participant indicate consent/assent on REDCap consent form.
 
+-----------------
 
 ### Parent Child Observation Online
 
@@ -54,16 +55,208 @@ Researcher will ensure Zoom security settings are set up for the video.
 Step 2:
 The researcher will ask the parent to find the [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749) piece of paper from their session package.
 
-*Researcher: Next we are going to take some film of you while you discuss a source of conflict (or something you disagree on). On this piece of paper is a list of things that parents and children sometimes have disagreements about. Please take a moment to read the list and think about some that you would like to discuss together. In about one minute, please start discussing the things you have selected from the list. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I am going to step out out of the room and away from the camera view, and silence my computer so I do not have a "virtual presence" during your conversation. I will give you five minutes to discuss the event, then I will come back into the video call and give you further instructions.*
+*Researcher: Next we are going to take some film of you while you discuss a source of conflict (or something you disagree on) and try to resolve it. On this piece of paper is a list of things that parents and children sometimes have disagreements about. Please take a moment to read the list and think about some that you would like to discuss together. In about one minute, please start discussing the things you have selected from the list and try to resolve the areas of conflict you have chosen from the list. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I am going to step out out of the room and away from the camera view, and silence my computer so I do not have a "virtual presence" during your conversation. I will give you five minutes to discuss the event, then I will come back into the video call and give you further instructions.*
 
 Step 3: 
 Researcher press record on the Zoom application.![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/3.png) Wait to hear the audio Zoom confirmation *"this meeting is now being recorded"* and view recording in progress at top left of screen to ensure recording is live. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/4.png) Researcher turn down the volume on the computer and leave the room. Start timer for 6 minutes. At the end of 6 minutes, reenter camera view and turn up volume on researcher's computer.
 
-*Researcher: Thank you for taking the time to discuss the source of conflict. Next we are going to take some film of you while you discuss a pleasant event you could do together. On your piece of paper is a list of events that parents and children sometimes find pleasant to do together. Please take a moment to read the list of events and think about what you would like to plan to do together. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I am going to step out out of the room and away from the camera view once again, and silence my computer so I do not have a "virtual presence" during your conversation. I will give you five minutes to discuss the event, then I will come back into the video call and give you further instructions.*
+*Researcher: Thank you for taking the time to discuss the source of conflict and try to resolve it. Next we are going to take some film of you while you discuss a pleasant event you could do together. On your piece of paper is a list of events that parents and children sometimes find pleasant to do together. Please take a moment to read the list of events and think about what you would like to plan to do together. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I am going to step out out of the room and away from the camera view once again, and silence my computer so I do not have a "virtual presence" during your conversation. I will give you five minutes to discuss the event, then I will come back into the video call and give you further instructions.*
 
 Step 4:
 Researcher keeps the recording going on Zoom and turns down the volume on the computer before leaving the room.
 
 Step 5:
 Researcher reenter the room and back into camera view, turn up volume on the computer, and stops the recording on Zoom. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/5.png) You will view this notification in the upper right hand corner that states the recorded file will be converted to mp4 once the meeting ends. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/6.png) Move the child/adolescent and parent onto the next task in the session, as the video will not be saved until after the session is complete.
+
+**POST SESSION**
+
+Step 6:
+When the session is complete, click the bottom right hand button to end the meeting. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/7.png) You will immediately see this window pop up to indicate the recording is being converted and saving to your computer. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/8.png)
+Step 7:
+When the video conversion is complete, the video files will be saved in a folder titled "Zoom" on your computer, wherever your current automatic working directory is saved. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/9.png)
+Step 8:
+There will be three files in the folder- find the mp4 file and click open to ensure you have captured and converted the file successfully. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/10.png) Rename the file to the participant's secondary ID number, and upload to Box. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/11.png)
+
+
+#### Coding the interview 
+
+- After the interviews are collected, videos will be coded by two observers blind to the caregiving group of the child (adversity or comparison). 
+
+- Our original plan was to follow the LIFE coding system developed by Hops:
+   - Hops H, Davis B, Longoria N. Methodological issues in direct observation – Illustrations with the Living in Familial Environments (LIFE) coding system. Journal of Clinical Child Psychology. 1995;24:193–203. [Google Scholar](https://www.tandfonline.com/doi/abs/10.1207/s15374424jccp2402_7?journalCode=hcap19)
+
+- However, this system is prohibitively expensive and very training intensive. Instead we decided to go with either of the following two coding schedules: 
+   - 1. Family Interaction Macrocoding Schedule (FIMS) Holmbeck, Zebracki, Johnson, Belvedere, & Hommeyer, 2007.
+   - 2. CIB Training with Ruth Feldman.
+   
+- We ultimately decided to go with FIMS for several reasons: 
+    - Expense - Sarah Whittle paid approximately $ 1000USD for a 10 hour skype training session with one of Holmbeck’s team), whereas CIB training is /$2500 and also involves flights and accommodation at Yale. 
+    - Validation in age range - I like CIB for younger children, but FIMS was designed for older children and adolescents, and Sarah Whittle has validated it in a community sample of 8 year olds and their mothers. 
+    - FIMS is a less intensive coding schedule, producing global codes, rather than micro coded (i.e., minute to minute) scales - which makes more intuitive sense in the age range for MBB. 
+    - FIMS has a peer version that we might brach out to in the future (but likely not needing further training): https://psycnet.apa.org/record/2014-24011-001
+    - Sarah Whittle’s group looked at the component structure for the FIMS and found components that seemed close to what they were finding with the Hops LIFE system - namely: negative maternal affect during pleasant event, negative maternal during conflict discussion, and pleasant maternal affect across both tasks (warmth). The negative maternal during pleasant event was the most predictive of child behavior problems. Overall, the correlations they report in their paper are all very sensical and convinced me that we should use the FIMS. https://journals.sagepub.com/doi/full/10.1177/1073191118796557
+
+-----------------
+
+### Parent Questionnaires Online
+
+If the family has a second device available (smartphone, second computer, etc.) for the parent to begin questionnaires, advise the parent to REDCap and continue on these questionnaires during Child Halloween training and test, and Child questionnaires.
+
+*parent questionnaire table coming soon...*
+
+-----------------
+
+### Halloween Online
+
+
+*coming soon...*
+
+-----------------
+
+### Height Online
+
+- Researcher will be walking the parent through how to measure their child's height via Zoom video call. Ask parent if they have a full length measurement tape. If not, we will proceed with the paper measurement tape.
+- Ask parent to place child/adolescent directly against wall/frame
+- Advise child/adolescent to stand up straight
+- Have parent ensure heels of child/adolescent are up against the wall/frame
+- Use a flat object (booklet, ruler, sheet of paper, etc.) to accurately mark the height on the wall/frame
+- Use the paper measuring tape to scale up the wall and measure the height marking
+- Record height on Lab Session Checklist
+
+-----------------
+
+### Weight Online
+
+- Instruct parent to have child/adolescent to step on weight scale
+- Measure weight
+- Record weight on Lab Session Checklist
+
+-----------------
+
+### Waist Measurement Online
+
+- Advise parent to hold tape measure at the child/adolescent's belly button and bring it around their waist, over their t-shirt
+- Make sure measuring tape is horizontal around the waist and even in the front and back
+- Keep the tape snug around the waist, but not compressing the skin
+- Have participant breathe in
+- Measure the participant’s waist just after they breathe out
+- Record waist measurement on Lab Session Checklist
+
+-----------------
+
+### Saliva Sample Collection Online
+
+- Researcher has saliva "spit tube" example for explanation to participants
+- Advise parents to have child/adolescent fill spit tube to indicated line
+- Do not count the bubbles at the top, ensure that the saliva reaches the line
+- Close the cap on the saliva tube, to release the stabilizing solution and seal the sample
+- Put the sample in the biohazard bag with the two cotton balls inside
+- Put the biohazard bag with sample inside the rigid box and set aside for now
+
+-----------------
+
+### Hair Sample Collection Online
+
+#### Set Up Hair-Sample Station
+
+- Ask parent to gather the following materials for their "hair-sample station":
+  - 1 sheet of aluminum foil (provided)
+  - 1 small ziplock bag with participant ID (provided)
+  - 1 alcohol swab (provided)
+  - Painter-tape (provided)
+  - 1 pair of gloves (provided)
+  - 1 scissor (salon grade if they have)
+  - 1 parting comb
+  - 2 alligator curl clips (optional)
+  - 1 hair claw clip (optional- for long hair)
+  - Hair sample picture directions
+- Researcher set up the following materials (to help explain hair sample collection):
+  - 1 sheet of aluminum foil
+  - 1 small ziplock bag with participant ID
+  - 1 salon grade scissor
+  - 1 wide and narrow tooth parting comb
+  - 1 alcohol swab
+  - Painter-tape
+  - 1 pair of gloves
+  - 2 alligator curl clips
+  - 1 hair claw clip (for long hair)
+  - Sample hair amount taken from wig
+
+#### Prior to Getting Hair Sample Collection
+
+- Explain to both the child and parent that they will be collecting 30-50 strands of hair. The amount of hair to be collected is less hair than is lost in normal everyday-brushing from the back of the head.
+- Inform them how the site for the sampling is hidden by the surrounding hair, therefore not visible after collection.
+- Explain how the sample is used to measure a hormone called cortisol that is present in the hair.
+- Show on the hair sample picture directions sheet the hair sample taken from the wig to illustrate the amount of hair that will be collected (30-50 strands).
+- Offer to show our hair sample collection video 
+
+#### Hair Sample Prep
+
+- Have parent use provided pair of gloves.
+- Wipe down the hair scissor/comb/clips with an alcohol swab.
+
+#### Hair Length
+
+- For short hair (less than 3cm), follow the Short-Hair Protocol below.
+- For medium-length hair (3-6cm), follow the Medium-Hair Protocol below.
+- For long hair (more than 6cm), follow the Long-Hair Protocol below.
+- Ideally, all hair sample should be at least 3cm long. If the hair is less than 1cm long, the sample cannot be used.
+
+**Short-Hair Protocol (1-3cm)- advise parent to:**
+
+- Take the comb and part the hair horizontally between the tips of the ears.
+- After parting, ask the participant to hold the parted hair close to the scalp.
+- Hold the loose hair tightly with index finger and thumb, and cut the hair along the part.
+- Place loose hairs in foil and fold it securely. Do NOT tape the hair to the foil.
+- Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
+- Ensure the root-end on the aluminum foil is labeled and place it in the ziplock bag.
+- Ensure the ziplock bag is labeled with the participant’s ID.
+
+**Medium-Hair Protocol (3-6cm)- advise parent to:**
+
+- Take the comb and part the hair horizontally between the tips of the ears.
+- Take a clip to clip away the hair from the top of the parting.
+- Place another clip at the bottom to expose a 5x10cm rectangle of loose hair between the two clips.
+- Ask if the child prefers the wide or narrow tooth comb to comb through the loose hair.
+- Ask if it is ok to discard any loose hair from the comb.
+- Grasp approx. 30-50 strands of hair to the right of the rectangle.
+- Gently pull and twist the hair away from the scalp in a rolling motion between the fingers.
+- Collect the sample as close to scalp as possible, but be careful to not cut the scalp.
+- Attach the hair to the center of the aluminum foil by taping with painter’s tape - do not cover the root end.
+- Label the root end on the tape.
+- Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
+- Ensure the root-end on the aluminum foil is labeled and place it in the ziplock bag.
+- Ensure the ziplock bag is labeled with the participant’s ID.
+
+**Long-Hair Protocol (> 6cm)- advise parent to:**
+
+- Part the hair left to right at the posterior vertex.
+- Clip away any extra hair, then create a twist of hair and hold tightly with index finger and thumb.
+- Make a clean cut as close to scalp as possible.
+- If the hair is thin, cut 2-3 small areas (1cm apart) across the posterior vertex to conceal the site of the cut.
+- Attach the hair to the center of the aluminum foil by taping with painter’s tape - do not cover the root end.
+- Label the root end on the tape.
+- Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
+- Ensure the root-end on the aluminum foil is labeled and place it in the ziplock bag.
+- Ensure the ziplock bag is labeled with the participant’s ID.
+
+-----------------
+
+### Child Questionnaires Online
+
+*coming soon...*
+
+-----------------
+
+### Home Session/Last Checks
+
+*coming soon...*
+
+-----------------
+
+### Qualitative Responses (Optional)
+
+*coming soon...*
+
+-----------------
 
