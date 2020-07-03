@@ -77,25 +77,6 @@ When the video conversion is complete, the video files will be saved in a folder
 Step 8:
 There will be three files in the folder- find the mp4 file and click open to ensure you have captured and converted the file successfully. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/10.png) Rename the file to the participant's secondary ID number, and upload to Box. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/11.png)
 
-
-#### Coding the interview 
-
-- After the interviews are collected, videos will be coded by two observers blind to the caregiving group of the child (adversity or comparison). 
-
-- Our original plan was to follow the LIFE coding system developed by Hops:
-   - Hops H, Davis B, Longoria N. Methodological issues in direct observation – Illustrations with the Living in Familial Environments (LIFE) coding system. Journal of Clinical Child Psychology. 1995;24:193–203. [Google Scholar](https://www.tandfonline.com/doi/abs/10.1207/s15374424jccp2402_7?journalCode=hcap19)
-
-- However, this system is prohibitively expensive and very training intensive. Instead we decided to go with either of the following two coding schedules: 
-   - 1. Family Interaction Macrocoding Schedule (FIMS) Holmbeck, Zebracki, Johnson, Belvedere, & Hommeyer, 2007.
-   - 2. CIB Training with Ruth Feldman.
-   
-- We ultimately decided to go with FIMS for several reasons: 
-    - Expense - Sarah Whittle paid approximately $ 1000USD for a 10 hour skype training session with one of Holmbeck’s team), whereas CIB training is /$2500 and also involves flights and accommodation at Yale. 
-    - Validation in age range - I like CIB for younger children, but FIMS was designed for older children and adolescents, and Sarah Whittle has validated it in a community sample of 8 year olds and their mothers. 
-    - FIMS is a less intensive coding schedule, producing global codes, rather than micro coded (i.e., minute to minute) scales - which makes more intuitive sense in the age range for MBB. 
-    - FIMS has a peer version that we might brach out to in the future (but likely not needing further training): https://psycnet.apa.org/record/2014-24011-001
-    - Sarah Whittle’s group looked at the component structure for the FIMS and found components that seemed close to what they were finding with the Hops LIFE system - namely: negative maternal affect during pleasant event, negative maternal during conflict discussion, and pleasant maternal affect across both tasks (warmth). The negative maternal during pleasant event was the most predictive of child behavior problems. Overall, the correlations they report in their paper are all very sensical and convinced me that we should use the FIMS. https://journals.sagepub.com/doi/full/10.1177/1073191118796557
-
 -----------------
 
 ### Parent Questionnaires Online
@@ -244,19 +225,38 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Child Questionnaires Online
 
-*coming soon...*
+- Researcher will open REDCap on their computer and enter in child code
+- On Zoom, click "share screen" with the participant ![<!--- Zoom Screenshare --->](images/zoom_screenshare/1.png)
+- Be sure to indicate the correct screen to share, NOT sharing full desktop ![<!--- Zoom Screenshare --->](images/zoom_screenshare/2.png)
+- Researcher will read through all questionnaires with children and indicate their responses on REDCap
+
+*table coming soon...*
 
 -----------------
 
 ### Home Session/Last Checks
 
-*coming soon...*
+- BSS sheet
+- Stool Sample explanation
+  - There is a toilet hat and a gut kit in the session package
+- Contact list explanation
+  - *In a longitudinal study, information may change in time and we want to ensure we have a way to recontact you for the next wave if you are still interested in joining*
+- Schedule time to complete post-session tasks ~1 week post-session
+  - Create MBB calendar event to send home session reminder 1 (email) (on the day that home session is scheduled)
+  - Create MBB calendar event to make home session reminder 1 (call) (2 days after scheduled home session)
+  - Create MBB calendar event to send home session reminder 2 (email) (4 days after scheduled home session)
+  - Create MBB calendar event to send home session reminder 3 (email) (6 days after scheduled home session)
+- Payment
+  - Confirm mailing address
+  - Explain that once the return mailer has been received to the lab, we will send payment through the mail along with a few educational science kits
 
 -----------------
 
-### Qualitative Responses (Optional)
+### Qualitative Responses 
 
-*coming soon...*
+- Two qualitative free responses on REDCap are optional, and should be offered to parents and children to complete if they are interested
+- These qualitative responses require five minutes of continued writing to capture the impacts of COVID-19 on families, caregivers, and children
+- If interested, researcher will send the REDCap link and codes for parent and child to complete
 
 -----------------
 

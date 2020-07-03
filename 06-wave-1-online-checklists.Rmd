@@ -139,9 +139,6 @@
 - Enter online session checklist data to REDCap
 - Enter height, weight, waist to REDCap
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKdWA0ABOrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### Reminders
 
 - Home session reminder 1 email sent
@@ -191,47 +188,11 @@
 - Data review
 - Data audit
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJJMLXLyiaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### Retention
 
 - Prep report card
 - Send report card email (in templates - attach report card)
 - Update participant Wave 2 status
-
-1. Open a participant data folder
-
-![<!--- Report card --->](images/final_checklist/report_cards/1.png)
-
-2. Navigate to the report card folder and rename the template file - MBB999 to the relevant participant - and open the file
-
-![<!--- Report card --->](images/final_checklist/report_cards/2.png)
-
-3. If an ASA nutrition report has been generated for this participant, delete page 4 of the pdf. If no ASA nutrition report has been generated, delete page 3 of the pdf. 
-
-![<!--- Report card --->](images/final_checklist/report_cards/3.png)
-
-4. Navigate to the last pge of the pdf, and fill in the scores for this participant. You can type directly on the page - it is a fillable form. 
-
-![<!--- Report card --->](images/final_checklist/report_cards/4.png)
-
-5. After you have entered the data, it should look like this
-
-![<!--- Report card --->](images/final_checklist/report_cards/5.png)
-
-6. If there are any comments, enter them on the comments page. 
-
-  - For example, if any NA's are present due to less than 70% of data for that subset being available to calculate a score - note that here. Or, for example if the child was too young to receive a grade based score, you could note the aged based reading of the table here. 
-
-  - If there are no comments, delete this page. 
-
-![<!--- Report card --->](images/final_checklist/report_cards/6.png)
-
-7. **Important** - Once you have completed the edits to the pdf, you must follow these steps to "lock" the data so that it is no longer editable before sending to the participant. To do so, click file/print/PDF/Save as PDF. Save the PDF to your desktop, then replace the original PDF with the desktop version.
-
-![<!--- Report card --->](images/final_checklist/report_cards/7.png)
-
-8. The report card is now ready to be sent to the participant.
 
 #### Reimbursement
 
