@@ -83,7 +83,21 @@ There will be three files in the folder- find the mp4 file and click open to ens
 
 If the family has a second device available (smartphone, second computer, etc.) for the parent to begin questionnaires, advise the parent to REDCap and continue on these questionnaires during Child Halloween training and test, and Child questionnaires.
 
-*parent questionnaire table coming soon...*
+#### Parent Self Questionnaires
+
+| Title        | Description  | Reference  |
+| ------------ | ------------ | ---------- |
+| Beck Depression Inventory – II (BDI-II) – 13-18 years. | Parent self-report. Domain assessed: mental health/affective functioning. Developed for the assessment of symptoms corresponding to criteria for diagnosing depressive disorders listed in the DSM IV. | (ABC, XXXX)
+| COVID-19 Objective Questionnaire (covid_objective) | Parent self-report. Domains assessed: COVID-19 objective measures. This questionnaire consists of 12 items to identify health changes and lifestyle changes made From the impacts of the COVID-19 outbreak. | (ABC, XXXX)
+| Parenting Stress | Parent self-report. Domain assessed: parenting and family structure. The PSI designed to evaluate the magnitude of stress in the parent-child system, focusing on three major domains of stress: 1) child/adolescent characteristics, 2) parent characteristics, and 3) situational/demographic life stress. Revised questionnaire focuses on stress in the context of COVID-19.| (ABC, XXXX)
+| COVID-19 Written Response- parent (optional) | Domain assessed: Emotional impacts of COVID-19. This self-report measure consists of one long-form qualitative response, prompting a parent to write continuously for five minutes about the impacts of COVID-19 on their life and family. This qualitative response was adapted from previous prompts in writing about emotional experiences, and seeks to assess the emotional and behavioral impacts of the Pandemic on children and families.| (ABC, XXXX)
+
+#### Parent Proxy Questionnaires
+
+| Title        | Description  | Reference  |
+| ------------ | ------------ | ---------- |
+| Demographic Questionnaire | Parent proxy and self-report. Domain assessed: demographics. The project developed questionnaire asks parents about their household income, their own and their child’s/adolescent’s race/ethnicity, the parent age, education, and marital status, and contact details. | (ABC, XXXX)
+*coming soon...*
 
 -----------------
 
@@ -225,12 +239,24 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Child Questionnaires Online
 
+#### Sharing Your Screen
+
 - Researcher will open REDCap on their computer and enter in child code
 - On Zoom, click "share screen" with the participant ![<!--- Zoom Screenshare --->](images/zoom_screenshare/1.png)
 - Be sure to indicate the correct screen to share, NOT sharing full desktop ![<!--- Zoom Screenshare --->](images/zoom_screenshare/2.png)
 - Researcher will read through all questionnaires with children and indicate their responses on REDCap
 
-*table coming soon...*
+
+#### Child Self Questionnaires
+
+| Title        | Description  | Reference  |
+| ------------ | ------------ | ---------- |
+| Alexithymia | Child/adolescent self-report. Domain assessed: mental health/affective function. This questionnaire asks youth to endorse a number of items falling within three factors (1) Difficulty identifying feelings, (2) difficulty describing feelings, (3) externally oriented thinking. | (Rieffe, Oosterveld, & Terwogt, 2006) 
+| Children’s Perception of Interparental Conflict Scale (cpic)– 6-18 years | Child/adolescent self-report. Domains assessed: parenting and family structure. The CPIC assesses children’s/adolescent’s experience of parental conflict, including subscales (Conflict Properties, Threat, Self-Blame). | (ABC, XXXX)
+| Child Somatization Symptom Inventory (cssi)– 6-17 years | Child/adolescent self-report. Parent report for children under 8 years. Domain assessed: physical symptoms. The CSSI assesses a variety of nonspecific somatic symptoms. | (ABC, XXXX)
+| Security Scale (ss) – 8-18 years | Child/adolescent self-report. Domain assessed: attachment. This measure asks children/adolescents to endorse statements about their feelings towards their parents (in the positive or negative) and how much each endorsed statement is characteristic of them. Statements assess domains of being able to rely on parents in times of need, feelings of closeness with parent etc.| (ABC, XXXX)
+| Benevolent Childhood Experiences Scale- Revised (bce) | Child/adolescent self-report. Domain assessed: benevolent childhood experiences. This child/adolescent self-report questionnaire consists of 10 items used to identify favorable childhood experiences, with regards to potential child adversity. | (ABC, XXXX)
+| COVID-19 Written Response- child (optional) | Domain assessed: Emotional impacts of COVID-19. This self-report measure consists of one long-form qualitative response, prompting a child to write continuously for five minutes about the impacts of COVID-19 on their life and family (for children who cannot write or do not feel comfortable writing, children can dictate and parent can write). This qualitative response was adapted from previous prompts in writing about emotional experiences, and seeks to assess the emotional and behavioral impacts of the Pandemic on children and families. | (ABC, XXXX)
 
 -----------------
 
