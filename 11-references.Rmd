@@ -19,3 +19,7 @@ Whittle, S., Simmons, J. G., [...], & Allen, N. B. (2014). Positive parenting pr
 Xie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton,     Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.
 
 https://www.brightfutures.org/mentalhealth/pdf/professionals/ad/issues.pdf
+
+## Questionnaire References
+
+Rieffe, C., Oosterveld, P., & Terwogt, M. M. (2006). An alexithymia questionnaire for children: Factorial and concurrent validation results. Personality and individual differences, 40(1), 123-133. [Google Scholar](https://www.sciencedirect.com/science/article/abs/pii/S019188690500231X)
