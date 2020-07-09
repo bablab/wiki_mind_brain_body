@@ -1,7 +1,21 @@
 ## Post-Online Session Protocols 
 
+### Parent Child Observation Online 
 
-### Parent Child Observation Online Coding
+#### Saving the Video
+
+Step 1:
+When the session is complete, click the bottom right hand button to end the meeting. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/7.png) You will immediately see this window pop up to indicate the recording is being converted and saving to your computer. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/8.png)
+Step 2:
+When the video conversion is complete, the video files will be saved in a folder titled "Zoom" on your computer, wherever your current automatic working directory is saved. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/9.png)
+
+To check where your automatic working directory is saved, login to Zoom and click on "Recordings" on the left menu column. Then switch to "Local Recordings" and view the Location for correct Meeting Recording you have just camptured. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/12.png) 
+
+Step 3:
+There will be three files in the folder- find the mp4 file and click open to ensure you have captured and converted the file successfully. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/10.png) 
+Step 4:
+Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/11.png)
+
 
 #### Coding the interview 
 
