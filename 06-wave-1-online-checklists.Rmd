@@ -47,17 +47,49 @@
 #### Package preparation
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
 
-- Print assent/consent forms (Check IRB expiration)
-   - [Parent Consent](https://ucla.app.box.com/file/665482692038)
-   - Assent - [Child](https://ucla.app.box.com/file/665458751802) or [Teen](https://ucla.app.box.com/file/665461517391) (None if under 7 years)
-   - Referral consent
-- Print [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
-- Print [Bristol Stool Scale](https://app.box.com/file/630326499609) and label with participant ID (MBB Specific Version)
-- Print [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
-- Print and label paper version of questionnaires if requested in screen
+- Print [What is in this package?]
 - Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers)
-- Print [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
-- Print and fill in codes on [Participant Info Brochure](https://ucla.app.box.com/file/665449085502)
+- Print/Staple Parent Questionnaire Booklet (in this order)
+  1. Parent Questionnaire Cover Page/Parent Proxy Intro 
+  2. pedsql_gi_parentproxy
+  3. pedsql_wb_parentproxy
+  4. peds1l_f_parentproxy
+  5. easy_revised
+  6. cshq_revised
+  7. mb_metadat
+  8. med_check
+  9. pds
+  10. dhws
+  11. hpq
+  12. cssi (for children under 8)
+  13. fci
+  14. iai
+  15. Demographics
+  16. financial
+  17. Parent Self Intro 
+  18. bdi
+  19. parent_stress
+  20. COVID_objective
+- Print/Staple Child Questionnaire Booklet (in this order)
+  1. Child Questionnaire Cover Page
+  2. ss
+  3. cpic
+  4. alexithymia
+  5. cssi (for children over 8)
+  6. bce_revised
+- Print/Staple Online Session Booklet (in this order)
+  1. Online Session Cover page
+  2. Fill in codes on [Participant Info Brochure](https://ucla.app.box.com/file/665449085502)
+  3. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
+  4. Anthropomorphic measurement sheets
+  5. Saliva Sample Instructions Sheet
+  6. [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
+- Print/Staple Home Session Booklet (in this order)
+  1. Home Session Cover Page
+  2. [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
+  3. Stool Sample Instructions Sheet
+  4. [Bristol Stool Scale](https://app.box.com/file/630326499609) and label with participant ID (MBB Specific Version)
+- Prepare 2 sharpened pencils
 - Prepare paper measuring tape (for waist and height measurements)
 - Label 2 biohazard bags (with 2 cotton balls in each bag)
 - Label 1 cardboard box (for samples)
@@ -70,6 +102,7 @@
 - Take picture of prepaid blue return mailer (marked with MBB number) and file in participant data folder on Box
 - Insert all labeled items and forms into blue return mailer
 - Insert blue return mailer into study package
+- Tape package closed and put BABLAB sticker on (if enough supplies)
 - Take a picture of study package with tracking information to file on Box
 - Mail package to participant
 
@@ -78,11 +111,12 @@
 
 #### Online Session Setup - 1 Hour Prior
 
-- Prepare consent protocol
+- Prepare session scripts/protocol
 - Prepare session checklist with counterbalance order
 - Have the Participant's MBB and secondary MBB number on hand
 - Preload the following tabs on researcher's computer:
-   - Consent/Assent documents
+   - Consent/Assent picture slideshow
+   - Hair Sample Collection video
    - REDCap with child questionnaire codes ready
 - Prepare biological sample kits for demonstration during session
    - hair sample, saliva sample, stool sample
