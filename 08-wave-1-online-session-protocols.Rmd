@@ -2,42 +2,78 @@
 
 ### Consent & Assent Online
 
-Once the parent and child/teen have connected with the researcher via Zoom, the researcher may begin the consenting (parent) and assenting (child aged 7+ or teen) process.
+[ONCE ZOOM IS CONNECTED]
 
-Make some small talk - Ask the participant how they got here. If they have participated before in research. Thank them for joining you via video call and for giving up their weekend to help science.
+*Hi! Thank you so much for joining us today! We are so looking forward to today’s session with you. Usually, when we conduct a study such as this, we would do it our lab at UCLA. However, with COVID-19 we’ve decided it would be safer to carry out this study online for the time being- social distancing and all!* 
 
-Tell the parent and child that the first thing you are going to do is go over all of the things they will do today, and have them fill out the consent and assent forms online.
+*Our session today should take around 1 hour long. In addition to what we do here today, there will be a follow up zoom appointment with us one week from now. At that appointment, we will reconnect on a second Zoom call in which your child will log on for 10 minutes and complete a computer game.*
 
-Speak to them and direct them through the whole process.
+*Sounds good? Let’s get started!*
 
-Things you will do during the online session:
+*First thing we are going to do is go over what is on the consent and assent forms. (These are the attached documents we sent you in the emails leading up to this session.) We will walk through, in a little bit more detail, all of the things we will be doing during today’s session.*
 
-- Sit with parent and talk about fun things and hard things (filming).
-- Parent stays in room and answers more questions while child is working.
-- Child will play a computer game (look at pictures). Some of the pictures will be a little bit scary, others sad, others boring.
-- Parent will help child measure height, weight, and waist circumference.
-- Child will answer some questionnaires with researcher
-- Parent will help take two biological samples during the session:
-  - Hair - stress hormones
-  - Saliva - microbiome
-- You will get $45 for the work you put in today
+*During today’s online session we are going to be doing some interactive things. First, we are going to have you and your parent sit and talk about some fun things and some not so fun things while on ZOOM. This conversation will be recorded but we will not be watching or listening in, you and your parent will be “virtually alone.”*
 
-Things you will do at home (after the online session):
+*Next, we are going to have you play a game on the computer. In this game, you will be looking at pictures. Some of the pictures will be a bit scary, some sad, others a bit boring. While you are playing this game, your parent will stay with you in the room but will be working on some surveys to fill out.*
 
-- Child Poop sample - microbiome
-- Stool scale
-- Memory game - to see what you remember from the session today
-- When you complete the poop sample and the game at home, we will pay you another $20.
+*After the game is over, your parent [NAME] will help measure your height, weight, and waist circumference.*
 
-Things to know:
+*You will also be answering some surveys with the researcher.*
 
-You are a volunteer, which means that you do not have to do anything, or say anything that makes you uncomfortable. We would like you to try everything you can, and to do your best, but if there are things you absolutely do not want to do, just tell us, that is o.k.
+*Lastly for today, your parent will help take two biological samples during this session.*
 
-We keep your participation confidential - ID number.
+1. One is the hair sample which helps measure stress hormones
+2. Two is the saliva sample which helps tell us learn a little bit more about your microbiome
 
-We want you to come in again in the future, so we will ask for some information so we can contact you in the future.
+*For helping us out in today’s session, you will be getting $45 for the work you put in! After this online session is over, we’ll ask you to do three more things at home:*
 
-Have the participant indicate consent/assent on REDCap consent form.
+1. One is the Child poop sample – this helps us learn a bit more about your microbiome
+2. Two is filling out the stool scale – this is a short scale that gives a description of your sample
+3. Three is the computer memory game – this is when you will log back on with us via ZOOM in a week’s time to see what you remember from today’s session
+
+*When you complete the poop sample and the computer game at home, we will pay you another $20!*
+
+*We will send the full payment of $65 ($45 for today’s session and $20 for completing the home session) as soon as we receive the samples back through the mail.*
+
+*Here are some things to keep in mind:*
+
+*You are a volunteer in this study, which means you do not have to do anything, or say anything, that makes you uncomfortable. We would like you to try everything you can, and to do your best, but if there are things you absolutely do not want to do, just tells us, that is o.k.*
+
+*We will keep your participation confidential. You are given an ID number in order to keep your data confidential and separated from your name. Therefore, any identifying information (like your name, email, address, etc.) will be kept private and not paired with your data. We will also use a secondary ID number to save the videos with (since your faces are in it), which will help separate this from your name and the other data we collect form you. Only members of our research team will have access to your name and ID numbers.*
+
+*As this is a longitudinal study, and we want you to come again in the future if you are interested, we will ask for some information so that we may reach out to you in the future. As I mentioned earlier, we sent you an email with a bunch of links that would be used in the session today. Please go there and click on the first one, which will allow you to virtually indicate your consent to participate in the study. Once you get that pulled up, you will see the consent/assent documents attached there as well- please feel free to take your time reading through the consent and assent forms now if you’d like.*
+
+[Then once they are done reading through]
+
+*All set and any questions?*
+
+[IF NO,] *Please click to indicate your consent/assent and submit the REDCap form. You may press submit once you are finished to “send in the form.”*
+
+*Once you are all set with that, we’d like you for to grab the box we sent you in the mail. This contains everything you will need for today’s session and what you will do at home after today’s session.*
+
+*The box should contain a sheet of paper at the top which details all of the contents of the box, which we will unpack now!*
+  
+*For today’s session here are the materials we will use:*
+
+1. Reward board with gold star stickers 2 pencils
+2. A session booklet
+3. Parent surveys booklet
+4. Child surveys booklet
+5. Paper measuring tape
+6. Hair sample kit
+7. Saliva sample collection kit
+8. Cardboard box with a bag and cotton balls inside
+
+It will also contain post-session materials. You will use these after today’s session is complete:
+
+1. Bristol Stool Scale sheet
+2. Stool sample collection kit
+3. Cardboard box with bag and cotton balls inside Mind Brain Body information card
+4. Return mailer with FedEx slip attached on the top
+
+*Please set aside the box for now but keep the materials near you as we may need to access materials from the box throughout today’s session!*
+
+*What you can pull out now and use throughout the session is the Reward Board and Gold Star Stickers. Use this reward board to track all the steps you accomplish today! Each space is like each task for the session. Once you complete the task you can put a gold star on the space!*
 
 -----------------
 
@@ -125,7 +161,8 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 - Instruct parent to have child/adolescent to step on weight scale
 - Measure weight
-- Record weight on Lab Session Checklist
+- Record weight on Online Session Checklist
+- Specify on Online Session Checklist if weight was estimated or not
 
 -----------------
 

@@ -148,6 +148,7 @@ Check the External drive for the participant's secondary ID number, and rename a
 - One week following Audit Call #1, check outstanding items do Audit Call #2.
 - Within 2 days, check outstanding items and do Audit Call #3.
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list.
+- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
 
 **If Bad Sample:**
 
@@ -158,6 +159,7 @@ Check the External drive for the participant's secondary ID number, and rename a
 - One week following Audit Call #1, check outstanding items do Audit Call #2.
 - Within 2 days, check outstanding items and do Audit Call #3.
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list.
+- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
 
 **If No Sample:**
 
@@ -168,6 +170,7 @@ Check the External drive for the participant's secondary ID number, and rename a
 - One week following Audit Call #1, check outstanding items do Audit Call #2.
 - Within 2 days of Audit Call #2, check outstanding items and do Audit Call #3.
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list.
+- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
 
 #### Getting A Code From REDCap
 

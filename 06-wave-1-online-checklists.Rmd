@@ -47,6 +47,8 @@
 #### Package preparation
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
 
+NOTE: Printing can be done in black and white.
+
 - Print [What is in this package?]
 - Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers)
 - Print/Staple Parent Questionnaire Booklet (in this order)
@@ -115,7 +117,7 @@
 #### Online Session Setup - 1 Hour Prior
 
 - Prepare session scripts/protocol
-- Prepare session checklist with counterbalance order
+- Prepare Online session checklist with counterbalance order
 - Have the Participant's MBB and secondary MBB number on hand
 - Preload the following tabs on researcher's computer:
    - Consent/Assent picture slideshow
