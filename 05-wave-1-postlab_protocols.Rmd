@@ -73,6 +73,7 @@
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
 - Within 2 days, check outstanding items and do Audit Call #3. 
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to *Done* list.
+- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
 
 **If Bad Sample:**
 
@@ -83,6 +84,7 @@
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
 - Within 2 days, check outstanding items and do Audit Call #3. 
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to *Done* list. 
+- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
 
 **If No Sample:**
 
@@ -93,3 +95,4 @@
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
 - Within 2 days of Audit Call #2, check outstanding items and do Audit Call #3. 
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to *Done* list. 
+- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
