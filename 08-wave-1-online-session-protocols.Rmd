@@ -1,4 +1,4 @@
-## Online Session Protocols 
+## Online Session 1 Protocols 
 
 ### Consent & Assent Online
 
@@ -9,6 +9,8 @@
 *Our session today should take around 1 hour long. In addition to what we do here today, there will be a follow up zoom appointment with us one week from now. At that appointment, we will reconnect on a second Zoom call in which your child will log on for 10 minutes and complete a computer game.*
 
 *Sounds good? Let’s get started!*
+
+[Researcher to open up the [MBB_Consent_Script_Presentation](https://ucla.app.box.com/file/689404174873)]]
 
 *First thing we are going to do is go over what is on the consent and assent forms. (These are the attached documents we sent you in the emails leading up to this session.) We will walk through, in a little bit more detail, all of the things we will be doing during today’s session.*
 
@@ -118,7 +120,17 @@ Researcher reenters the room and back into camera view, turns up volume on the c
 
 ### Parent Questionnaires Online
 
-If the family has a second device available (smartphone, second computer, etc.) for the parent to begin questionnaires, advise the parent to REDCap and continue on these questionnaires during Child Halloween training and test, and Child questionnaires.
+Next, advise the parent to continue onto their parent questionnaires during Child Halloween training and test, and Child questionnaires.
+
+*This next part is about your child’s learning and memory so it is important they dont get help from you! We actually prefer you don't watch the screen so you dont know which pictures they see. If you recall the example from our powerpoint at the beginning of this session, this will be the time that your child will see some pictures on the screen*
+
+[Researcher to bring back up powerpoint slide with example Halloween stimuli if requested]
+
+*While you wait for your child to complete their task, you can get started on some parent surveys. So now I will ask you to reach into your Session Package and pull out the booklet titled "Parent Survey Booklet" and a pencil to fill these out.*
+
+[Wait for parent to pull the parent survey booklet out]
+
+*We ask that you please fill the surveys out in the order that they are presented. This next part with your child will take around 15-20 minutes and I will notify you when we are finished with this next part. Don't worry- you will have time to return to the surveys during another part of this session!*
 
 #### Parent Self Questionnaires
 
@@ -147,6 +159,16 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Height Online
 
+*For the next part of this session, we will have you take some measurements from your child (height, weight, and waist). I will ask you to reach into your session package and pull out the "Session Booklet", a pencil, and the paper measuring tape.*
+
+[Wait for participant to retrieve session booklet, pencil, and paper measuring tape]
+
+*This booklet contains all the instructions for our measurements and sample collections during today's session. Please flip the booklet to the first page, titled "child measurement sheet." This is the page we will use to fill out your child's measurements. As you can see, the following pages are instructions sheets for each measurement so feel free to flip through these for reference as we go through each measurement.*
+
+*We will start with Height! Do you have a measuring tape? (Explain that sometimes measurements are easier done with real measuring tapes).*
+
+[If yes, wait for them to retrieve. If no, proceed with the paper measurement.]
+
 - Researcher will be walking the parent through how to measure their child's height via Zoom video call. Ask parent if they have a full length measurement tape. If not, we will proceed with the paper measurement tape.
 - Ask parent to place child/adolescent directly against wall/frame
 - Advise child/adolescent to stand up straight
@@ -159,6 +181,12 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Weight Online
 
+*Next, we will do weight! You can flip to the instructions on weight measurement in your session booklet. Do you have a weight scale?*
+
+[If yes, say] *Please go and weigh your child, and return to the screen so we may record the number.* [Once they return, say] *Please record your child's weight on the child measurement sheet in the space next to "Measured Weight"*
+
+[If no, say] *Can you please record an estimate of your child's weight on the child measurement sheet in the space next to "approximate weight"?*
+
 - Instruct parent to have child/adolescent to step on weight scale
 - Measure weight
 - Record weight on Online Session Checklist
@@ -167,6 +195,8 @@ If the family has a second device available (smartphone, second computer, etc.) 
 -----------------
 
 ### Waist Measurement Online
+
+*Next, we will do the Waist measurement! You can flip to the instructions on Waist measurement in your session booklet.*
 
 - Advise parent to hold tape measure at the child/adolescent's belly button and bring it around their waist, over their t-shirt
 - Make sure measuring tape is horizontal around the waist and even in the front and back
@@ -179,6 +209,8 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Saliva Sample Collection Online
 
+*Now, we will do some sample collections! The first one is the Saliva Sample. You can flip to the instructions on Saliva Sample Collection in your session booklet. Feel free to take a quick look through these instructions, then grab your "spit tube" from the Session Package. When you are ready, I will walk you through it step-by-step!*
+
 - Researcher has saliva "spit tube" example for explanation to participants
 - Advise parents to have child/adolescent fill spit tube to indicated line
 - Do not count the bubbles at the top, ensure that the saliva reaches the line
@@ -190,19 +222,18 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Hair Sample Collection Online
 
+*Next up is the Hair Sample. You can flip to the instructions on Hair Sample Collection in your session booklet. Feel free to take a quick look through these instructions, then grab the Zipbloc bag with the foil inside from the Session Package. When you are ready, I will walk you through it step-by-step!*
+
 #### Set Up Hair-Sample Station
 
 - Ask parent to gather the following materials for their "hair-sample station":
   - 1 sheet of aluminum foil (provided)
   - 1 small ziplock bag with participant ID (provided)
-  - 1 alcohol swab (provided)
   - Painter-tape (provided)
-  - 1 pair of gloves (provided)
   - 1 scissor (salon grade if they have)
-  - 1 parting comb
+  - 1 parting comb (optional)
   - 2 alligator curl clips (optional)
   - 1 hair claw clip (optional- for long hair)
-  - Hair sample picture directions
 - Researcher set up the following materials (to help explain hair sample collection):
   - 1 sheet of aluminum foil
   - 1 small ziplock bag with participant ID
@@ -277,13 +308,28 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Child Questionnaires Online
 
+#### If child is ages 8+
+
+*Next, we will move on to some Child Surveys. I will ask you to now reach into your Session Package and pull out the "Child Survey Booklet" and a pencil.*
+
+[Wait for participant to retrieve child survey booklet and pencil]
+
+[To the child, say] *Please fill the surveys and the questions out in order. Let me know if anything is confusing, or if you have any questions! Let us know when you are all done!*
+
+[To the parent, say] *At this point, you may continue on your parent survey booklet.*
+
+#### If child is aged 6-7
+
+*Next, we will move on to some Child Surveys. In a moment, I am going to share my screen  with you, so you can see the survey questions. I will then read out each question and answer choice and [child's name] can tell me your answer. Does that sound okay?*
+
+[Researcher to share screen]
+
 #### Sharing Your Screen
 
 - Researcher will open REDCap on their computer and enter in child code
 - On Zoom, click "share screen" with the participant ![<!--- Zoom Screenshare --->](images/zoom_screenshare/1.png)
 - Be sure to indicate the correct screen to share, NOT sharing full desktop ![<!--- Zoom Screenshare --->](images/zoom_screenshare/2.png)
 - Researcher will read through all questionnaires with children and indicate their responses on REDCap
-
 
 #### Child Self Questionnaires
 
@@ -300,27 +346,32 @@ If the family has a second device available (smartphone, second computer, etc.) 
 
 ### Home Session/Last Checks
 
-- BSS sheet
-- Stool Sample explanation
-  - *There is a toilet hat and a gut kit in the session package*
+*At this time, I will now ask you to reach into your Session Package and pull out your "Home Session Booklet" so I can walk through its contents.*
+
+[Wait for participant to retrieve Home Session Booklet]
+
+- Stool Sample explanation & BSS sheet
+  - *In the "Home session booklet" there are instructions for the Stool Sample Collection and a short survey that should be filled out after the stool sample collection. There is a toilet hat and a gut kit in the session package, which are the two major materials you will need for this collection. If you would like, we encourage you to try the stool sample collection this week so if you run into any trouble before the second session, we can answer any questions you might have at that time.*
 - Contact list explanation
-  - *In a longitudinal study, information may change in time and we want to ensure we have a way to recontact you for the next wave if you are still interested in joining*
-- Schedule time to complete post-session tasks ~1 week post-session
-  - Create MBB calendar event to send home session reminder 1 (email) (on the day that home session is scheduled)
-  - Create MBB calendar event to make home session reminder 1 (call) (2 days after scheduled home session)
-  - Create MBB calendar event to send home session reminder 2 (email) (4 days after scheduled home session)
-  - Create MBB calendar event to send home session reminder 3 (email) (6 days after scheduled home session)
+  - *In a longitudinal study, information may change in time and we want to ensure we have a way to recontact you for the next wave if you are still interested in joining. The contact list is also in your Home Session Booklet for you to fill out.*
+- Confirm pre-scheduled time to complete post-session tasks ~1 week post-session
 - Payment
   - Confirm mailing address
-  - Explain that once the return mailer has been received to the lab, we will send payment through the mail along with a few educational science kits
+  - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
 
 -----------------
 
 ### Qualitative Responses 
 
+*The last part of this session is optional to you and your child! It is a five minute writing activity that allows you to logon and type for five minutes about you and you family's expereinces with COVID-19. These written responses are meant to capture the impacts of COVID-19 on families, caregivers, and children. Are you interested in doing this?*
+
+[If they are interested, direct the participant to their LINKS EMAIL and have them click on the REDCap link for Written Responses.]
+
+[If not interested, say] *No problem at all! We thank you so much for your participation today and look forward to seeing you next week for our second session. We will send you a confirmation email right after we hang up today with the next session time and Zoom link. Please feel free to give us a call or email if you have any follow-up questions. Thanks so much!*
+
 - Two qualitative free responses on REDCap are optional, and should be offered to parents and children to complete if they are interested
 - These qualitative responses require five minutes of continued writing to capture the impacts of COVID-19 on families, caregivers, and children
-- If interested, researcher will send the REDCap link and codes for parent and child to complete
+- If interested, researcher will advise parents to click on the REDCap link for parent and child to complete
 
 -----------------
 

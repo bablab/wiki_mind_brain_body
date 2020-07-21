@@ -1,6 +1,6 @@
-## Post-Online Session Protocols 
+## Post-Online Session 1 Protocols 
 
-### Parent Child Observation Online 
+### Immediately After Session 1
 
 #### Saving the Video
 
@@ -16,6 +16,41 @@ There will be three files in the folder- find the mp4 file and click open to ens
 Step 4:
 Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/11.png)
 
+#### Sending the Session 2 Confirmation Email
+
+- If session scheduling has not changed, copy Zoom link and Session 2 time information into Session 2 Confirmation Email and send
+- If session scheduling has changed, update google calendar. Then, copy Zoom link and updated Session 2 time information into Session 2 Confirmation Email and send. 
+
+## Online Session 2 Protocols
+
+### Child Halloween Test Delay
+
+[Once Zoom is Connected]
+
+*Hello! Welcome back to Session 2!* [Ask how they are doing, and if they were able to try the Stool Sample collection. Answer any questions they have about their Home Session tasks (Stool sample, BSS sheet, Contact list)]
+
+*So today we are just going to do one quick task and then I will walk you through how to close up package and send it back to us, then answer any questions you might have*
+
+[Log into Gorilla and complete task]
+
+### Participant Mailing Package
+
+*Next, I just want to check-in with you about mailing the package back to the lab.*
+
+- Reference the Package Checklist which has a checklist for every item they need to send back to the lab
+- Everything goes into the mailer with the FedEx sheet on top
+- Double check that stool and saliva sample are correctly packed (tube in biohazard bag with cotton balls, inside rigid white box)
+- Drop off at any FedEx location or post box
+
+### Payment
+
+- Confirm mailing address
+- Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
+- Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment
+
+## Post-Online Sessions Protocols 
+
+### Parent Child Observation Online 
 
 #### Coding the interview 
 
@@ -256,6 +291,7 @@ Check the External drive for the participant's secondary ID number, and rename a
 - From Tyler's office, you will receive a FedEx label in which you can write this information
 - Take a picture of the FedEx label and upload to Box
 - Leave the package in Tyler's office for FedEx pickup
+- Send payment confirmation email to participants 
 
 **Recording Payment**
 
