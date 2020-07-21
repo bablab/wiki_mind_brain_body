@@ -130,5 +130,17 @@ If a parent has a concern about the study before the session, send the email tem
 
 *Note that #1 and #4 are the default settings (so those don't have to be changed).
 
+
+#### Sending the "LINKS EMAIL”
+
+- Fill out "MBB_online- LINKS EMAIL" with the following information:
+    - link to consent redcap
+    - link to child gorilla game
+    - link to hair sample video
+    - link to covid-19 qual responses (optional)
+    - link to fedex locations for drop-off afterwards
+    - zoom link 1 again
+- Send LINKS EMAIL to participant
+
 -----------------
 
