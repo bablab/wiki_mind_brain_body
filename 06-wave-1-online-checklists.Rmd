@@ -8,8 +8,9 @@
 
 **Scheduling and Confirmation**
 
-- Schedule lab session 2 weeks in advance from "package mailing day" (see package preparation in pre-session checklist)
-- Make Zoom link with scheduled session time and save to google calendar
+- Schedule session 1 two weeks in advance from "package mailing day" (see package preparation in pre-session checklist)
+- Schedule session 2 ~one week after session 1
+- Make Zoom link with scheduled session times and save to google calendar
 - Send session 1 confirmation email (in templates)
    - Attach [Next Steps](https://ucla.app.box.com/file/665452959932), [Computer Zoom Download Instructions](https://ucla.app.box.com/file/680632734387), and [Phone Zoom Download Instructions](https://ucla.app.box.com/file/680631353662)
 
@@ -254,6 +255,7 @@ NOTE: Printing can be done in black and white.
 - Take a picture of tracking information and upload to Box
 - Log participant payment in reimbursement log book
 - Log participant payment in reimbursement spreadsheet
+- Send payment confirmation email to participant
 
 -----------------
 
