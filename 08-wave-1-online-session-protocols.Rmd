@@ -116,6 +116,22 @@ Researcher reenters the room and back into camera view, turns up volume on the c
 
 **Please visit "Post-Online Session Protocols to view instructions on how to save the video recording.**
 
+#### Plan B
+
+If Zoom recording is not possible, parents will be given same instructions - but told to record on their cell phone and upload to a secure private link.
+
+Participants can access the link [here](https://ucla.app.box.com/f/3c52df2afb1a446ab363b793f8af22c1). Parents can access this link from their mobile phone or computer. 
+
+When they click on the link, they will see the screen below.
+
+![<!--- Parent Child Observation Plan B --->](images/zoom_parent_child_interaction/13.png) 
+
+Parents can drag their video file directly from their phone/computer into the folder.
+
+The video will appear to the researchers in our Box under BABLAB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_interactions/Uploads
+
+Videos can then be renamed and organized by the researcher. 
+
 -----------------
 
 ### Halloween Training Online
