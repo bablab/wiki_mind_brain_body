@@ -31,7 +31,10 @@ Check the External drive for the participant's secondary ID number, and rename a
 
 *So today we are just going to do one quick task and then I will walk you through how to close up package and send it back to us, then answer any questions you might have*
 
-[Log into Gorilla and complete task]
+[Log into REDCap, pull up the instrument titled "halloween_test_delay" for this participant in the home_child arm and click into the survey options. You can either send them the general link and unique password, or give them a shortcode that expires within 1-hour]
+
+![<!--- Halloween test delay --->](images/halloween/8.png)
+
 
 ### Participant Mailing Package
 
