@@ -1,10 +1,10 @@
 # Wave 1 Online
 
-## Checklists Online
+## Checklists
 
 -----------
 
-### Initial Online Checklist
+### Checklist - Initial
 
 **Scheduling and Confirmation**
 
@@ -43,7 +43,7 @@
    
 ------------
 
-### Pre-Online Session 1 Checklist
+### Checklist - Pre-Session 1
 
 #### Package preparation
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
@@ -115,7 +115,7 @@ NOTE: Printing can be done in black and white.
 
 ------------
 
-#### Online Session 1 Setup - 1 Hour Prior
+#### Setup - 1 Hour Prior
 
 - Prepare session scripts/protocol
 - Prepare Online session checklist with counterbalance order
@@ -136,7 +136,7 @@ NOTE: Printing can be done in black and white.
 
 --------------
 
-### Online Session 1 Checklist
+### Checklist - Session 1 
 
 - Session walk-through/package explanation
 - Consent/Assent
@@ -159,7 +159,7 @@ NOTE: Printing can be done in black and white.
 
 ------------
 
-### Post-Online Session 1 Checklist
+### Checklist - Post-Session 1 
 
 #### Reminders
 
@@ -178,7 +178,7 @@ NOTE: Printing can be done in black and white.
 
 ------------
 
-### Online Session 2 Checklist 
+### Cheklist - Session 2 
 
 - Halloween test delay completed
 - Stool sample questions answered 
@@ -188,7 +188,7 @@ NOTE: Printing can be done in black and white.
 
 --------
 
-### Final Online Checklist
+### Checklist - Final
 
 #### Filing 
 
