@@ -1,0 +1,261 @@
+# Wave 1 Online
+
+## Checklists
+
+-----------
+
+### Checklist - Initial
+
+**Scheduling and Confirmation**
+
+- Schedule session 1 two weeks in advance from "package mailing day" (see package preparation in pre-session checklist)
+- Schedule session 2 ~one week after session 1
+- Make Zoom link with scheduled session times and save to google calendar
+- Send session 1 confirmation email (in templates)
+   - Attach [Next Steps](https://ucla.app.box.com/file/665452959932), [Computer Zoom Download Instructions](https://ucla.app.box.com/file/680632734387), and [Phone Zoom Download Instructions](https://ucla.app.box.com/file/680631353662)
+
+**Enrollment**
+
+- Create participant Box folder using MBB_template (delete blank README from newly created folder)
+- Enroll participant in Wave 1 on REDCap
+- Fill participant instrument on REDCap
+- Fill counterbalance order on REDCap (Checklist - Lab Session Child Instrument)
+
+**Calendar**
+
+- Create MBB calendar event session 1 and session 2 and invite researcher
+- Create MBB calendar event to mail study package to participant
+- Create MBB calendar event session 1 reminder 1 (email) (1 week prior)
+- Create MBB calendar event session 1 reminder 2 (email and call) (3 days prior)
+- Create MBB calendar event session 1 links email (day of first session- right before)
+- Create MBB calendar event to send session 2 confirmation email (email) (day of first session- right after)
+- Create MBB calendar event session 2 reminder 1 (call) (day before second session)
+- Create MBB calendar event to send session 2 reminder 1 (email) (day of second session- right before)
+
+**Reminders**
+
+- Send session 1 reminder 1 email (in templates - attach next steps, consent/assent, zoom instructions, researcher information, "What is involved in this study?" video, confirm if package is received)
+- Send session 1 reminder 2 email (in templates - attach previous, confirm if package is received)
+- Confirm package is delivered and received
+- Confirm participant
+   - Preferably by phone
+   - Update session 1 calendar status
+   
+------------
+
+### Checklist - Pre-Session 1
+
+#### Package preparation
+*(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
+
+NOTE: Printing can be done in black and white.
+
+- Print [What is in this package?]
+- Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers)
+- Print/Staple Parent Questionnaire Booklet (in this order)
+  1. Parent Questionnaire Cover Page/Parent Proxy Intro 
+  2. pedsql_gi_parentproxy
+  3. pedsql_wb_parentproxy
+  4. peds1l_f_parentproxy
+  5. easy_revised
+  6. cshq_revised
+  7. mb_metadat
+  8. med_check
+  9. pds
+  10. dhws
+  11. hpq
+  12. cssi (for children under 8)
+  13. fci
+  14. iai
+  15. Demographics
+  16. financial
+  17. Parent Self Intro 
+  18. bdi
+  19. parent_stress
+  20. COVID_objective
+- Print/Staple Child Questionnaire Booklet (in this order)
+  1. Child Questionnaire Cover Page
+  2. ss
+  3. cpic
+  4. alexithymia
+  5. cssi (for children over 8)
+  6. bce_revised
+- Print/Staple Online Session Booklet (in this order)
+  1. Online Session Cover page
+  2. Fill in codes on [Participant Info Brochure](https://ucla.app.box.com/file/665449085502)
+  3. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
+  5. [Child Measurement Sheet](https://ucla.app.box.com/file/689380736637)
+  6. [Height Measurement Instruction](https://ucla.app.box.com/file/689385482411)
+  7. [Weight Measurement Instruction](https://ucla.app.box.com/file/689387417719)
+  8. [Waist Measurement Instruction](https://ucla.app.box.com/file/689387420907)
+  9. Saliva Sample Instructions Sheet
+  10. [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
+- Print/Staple Home Session Booklet (in this order)
+  1. Home Session Cover Page
+  2. [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
+  3. Stool Sample Instructions Sheet
+  4. [Bristol Stool Scale](https://app.box.com/file/630326499609) and label with participant ID (MBB Specific Version)
+- Prepare 2 sharpened pencils
+- Prepare paper measuring tape (for waist and height measurements)
+- Label 2 biohazard bags (with 2 cotton balls in each bag)
+- Label 1 cardboard box (for samples)
+- Label hair sample kit (aluminum foil 7"x7", painter's tape with "root end" labeled, 1 ziplock bag pre-labeled with participant ID)
+- Label stool sample collection kit (collection tube, toilet hat)
+- Label saliva sample collection kit (collection tube)
+- Insert MBB info cards
+- Attach FedEx slip to return mailer
+- Label return mailer with "exempt human specimen" (in sharpie)
+- Take picture of prepaid blue return mailer (marked with MBB number) and file in participant data folder on Box
+- Insert all labeled items and forms into blue return mailer
+- Insert blue return mailer into study package
+- Tape package closed and put BABLAB sticker on (if enough supplies)
+- Take a picture of study package with tracking information to file on Box
+- Mail package to participant
+
+
+------------
+
+#### Setup - 1 Hour Prior
+
+- Prepare session scripts/protocol
+- Prepare Online session checklist with counterbalance order
+- Have the Participant's MBB and secondary MBB number on hand
+- Preload the following tabs on researcher's computer:
+   - Consent/Assent picture slideshow
+   - Hair Sample Collection video
+   - REDCap with child questionnaire codes ready
+- Prepare biological sample kits for demonstration during session
+   - hair sample, saliva sample, stool sample
+- Ensure researcher's Zoom security settings are set for study session
+- Fill out the "[MBB_online - LINKS EMAIL] UCLA Mind, Brain, Body Study (online)" email with the following links:
+   - link to Consent on REDCap
+   - link to Child's Gorilla Game
+   - link to COVID-19 Qualitative Responses on REDCap
+   - Zoom link for Session 1
+- Send the "[MBB_online - LINKS EMAIL] UCLA Mind, Brain, Body Study (online)" to the participant
+
+--------------
+
+### Checklist - Session 1 
+
+- Session walk-through/package explanation
+- Consent/Assent
+- Parent-child observation (note recording via Zoom or pre-recording)
+- If pre-recorded, instruct participant how to upload to Box
+- Explain Questionnaires Parent Proxy or Parent self on second device if available (for parent to complete during Halloween training, Halloween test, and Child Questionnaires)
+- Halloween training
+- Height
+- Weight
+- Waist circumference
+- Halloween test
+- Saliva sample
+- Hair sample
+- Child Questionnaires
+- Stool Sample explanation
+- Contact list explanation
+- Confirm mailing address for payment
+- Schedule time to complete post-session tasks ~1 week post-session
+- Qualitative parent and child free responses (optional)
+
+------------
+
+### Checklist - Post-Session 1 
+
+#### Reminders
+
+- Session 2 Confirmation Email sent with Zoom link, researcher info (right after Session 1)
+- Session 2 reminder 1 phone call made (day before Session 2)
+- Session 2 reminder 1 email sent with Zoom link (right before Session 2)
+
+#### Notes
+
+- Make note of issues to discuss (if needed) in Boxnote for next core meeting
+
+#### Filing
+
+- "Scan" online session checklist and file in participant folder
+- Transfer and rename Zoom recording to Box
+
+------------
+
+### Cheklist - Session 2 
+
+- Halloween test delay completed
+- Stool sample questions answered 
+- Bristol Stool Scale reminder
+- Contact information sheet reminder
+- Walk through package to send back (check "mbb_online_package_checklists") for checklist of items participant needs to send back to the lab
+
+--------
+
+### Checklist - Final
+
+#### Filing 
+
+- Make low-res parent child interaction video and save on BABLab External Hard Drive
+- Burn all audio and video (low res) files to CD and label/store CD in binder
+- Make manila folder for participants to file all hard copies
+
+#### Data Entry
+
+- Enter online session checklist data to REDCap
+- Enter height, weight, waist to REDCap
+
+*After package has been received...*
+
+#### Package confirmation
+
+- Halloween test delay completed
+- Hair sample received
+- Saliva sample received
+- Stool sample received
+- Bristol Stool Scale data received
+- Questionnaires received (if paper versions were sent)
+- Consent/Assent forms received (if paper versions were sent)
+- Contact information sheet received 
+
+#### Data Entry
+
+- Enter contact list information into recruitment database
+- Enter questionnaires data (if paper versions were sent)
+- Scan and upload Bristol Stool Scale to Box
+- Enter Bristol Stool Scale data to REDCap
+
+#### Filing
+
+- File Consent/Assent forms in filing cabinet (consent manila folder)
+- File contact list in filing cabinet (contact list manila folder)
+- File Bristol Stool Scale in filing cabinet (participant folder)
+- File questionnaires in filing cabinet if paper versions were sent (participant folder)
+
+#### Sample Storage
+
+- Label and store stool sample (add data quality to REDCap)
+- Label and store saliva sample
+- Label and store hair sample
+- Update sample storage log on Box (once all received)
+- Upload all sample photos to Box
+
+#### Data Quality
+
+- Data quality check 1
+- Data quality check 2
+- Data review
+- Data audit
+
+#### Retention
+
+- Prep report card
+- Send report card email (in templates - attach report card)
+- Update participant Wave 2 status
+
+#### Reimbursement
+
+- Mail payment with science kits
+- Take a picture of tracking information and upload to Box
+- Log participant payment in reimbursement log book
+- Log participant payment in reimbursement spreadsheet
+- Send payment confirmation email to participant
+
+-----------------
+

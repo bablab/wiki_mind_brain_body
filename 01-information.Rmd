@@ -1,0 +1,166 @@
+# Information
+
+## Measures
+
+-----------------
+
+### Observation
+
+#### Pleasant Events & Issues
+
+Participants choose events from these two lists:
+
+| Pleasant Events Checklist                                         | Issues Checklist                                           |
+| ----------------------------------------------------------------- | ---------------------------------------------------------- |
+| Being in the country                                              | Telephone calls                                            |
+| Talking about sports                                              | Bedtime                                                    |
+| Going to a concert                                                | Cleaning bedroom                                           |
+| Planning trips or vacations                                       | Doing homework                                             |
+| Being at the beach                                                | Putting away clothes                                       |
+| Doing art work (painting, sculpture, drawing, movie-making)       | Using the television                                       |
+| Rock climbing or mountaineering                                   | Cleanliness (washing, showers, brushing teeth)             |
+| Playing golf                                                      | Which clothes to wear                                      |
+| Re-arranging or redecorating my room or house                     | How neat clothes look                                      |
+| Going to a sports event                                           | Making too much noise at home                              |
+| Reading stories, novels, poems, or plays                          | Table manners                                              |
+| Making music together                                             | Fighting with siblings (brothers and sisters)              |
+| Boating (canoeing, kyaking, motorboating, sailing, etc            | Cursing                                                    |
+| Watching TV                                                       | How money is spent                                         |
+| Camping                                                           | Picking books or movies                                    |
+| Playing cards                                                     | Allowance                                                  |
+| Completing a difficult task                                       | Going places without parents (shopping, movies, etc)       |
+| Laughing                                                          | Playing stereo or radio too loudly                         |
+| Solving a problem, puzzle, crossword                              | Turning off lights in house                                |
+| Playing tennis                                                    | Taking care of records, games                              |
+| Driving long distances                                            | Buying records, games, toys, and other things              |
+| Woodworking, carpentry                                            | Going on dates                                             |
+| Writing stones, novels, plays or poetry                           | Who friends should be                                      |
+| Being with animals                                                | Selecting new clothes                                      |
+| Riding in an airplane                                             | Coming home on time                                        |
+| Exploring (hiking away from known routes)                         | Getting to school on time                                  |
+| Going to a party                                                  | Getting low grades in school                               |
+| Playing a musical instrument                                      | Getting in trouble at school                               |
+| Making snacks                                                     | Lying                                                      |
+| Snow skiing                                                       | Helping out around the house                               |
+| Doing craft work (pottery, jewelry, leather, beads, weaving, etc) | Talking back to parents                                    |
+|                                                                   | Getting up in the morning                                  |
+|                                                                   | Bothering parents when they want to be left alone          |
+|                                                                   | Bothering child/adolescent when they want to be left alone |
+|                                                                   | Putting feet on furniture                                  |
+|                                                                   | Messing up the house                                       |
+|                                                                   | What time to have meals                                    |
+|                                                                   | How to spend free time                                     |
+|                                                                   | Earning money away from the house                          |
+|                                                                   | What child/adolescent eats                                 |
+
+-----------------
+
+#### Coding the Observation
+
+- After the observation are collected, videos will be coded by two observers blind to the caregiving group of the child (adversity or comparison). 
+
+- Our original plan was to follow the LIFE coding system developed by Hops:
+   - Hops H, Davis B, Longoria N. Methodological issues in direct observation – Illustrations with the Living in Familial Environments (LIFE) coding system. Journal of Clinical Child Psychology. 1995;24:193–203. [Google Scholar](https://www.tandfonline.com/doi/abs/10.1207/s15374424jccp2402_7?journalCode=hcap19)
+
+- However, this system is prohibitively expensive and very training intensive. Instead we decided to go with either of the following two coding schedules: 
+   - 1. Family Interaction Macrocoding Schedule (FIMS) Holmbeck, Zebracki, Johnson, Belvedere, & Hommeyer, 2007.
+   - 2. CIB Training with Ruth Feldman.
+   
+- We ultimately decided to go with FIMS for several reasons: 
+    - Expense - Sarah Whittle paid approximately $ 1000USD for a 10 hour skype training session with one of Holmbeck’s team), whereas CIB training is /$2500 and also involves flights and accommodation at Yale. 
+    - Validation in age range - I like CIB for younger children, but FIMS was designed for older children and adolescents, and Sarah Whittle has validated it in a community sample of 8 year olds and their mothers. 
+    - FIMS is a less intensive coding schedule, producing global codes, rather than micro coded (i.e., minute to minute) scales - which makes more intuitive sense in the age range for MBB. 
+    - FIMS has a peer version that we might brach out to in the future (but likely not needing further training): https://psycnet.apa.org/record/2014-24011-001
+    - Sarah Whittle’s group looked at the component structure for the FIMS and found components that seemed close to what they were finding with the Hops LIFE system - namely: negative maternal affect during pleasant event, negative maternal during conflict discussion, and pleasant maternal affect across both tasks (warmth). The negative maternal during pleasant event was the most predictive of child behavior problems. Overall, the correlations they report in their paper are all very sensical and convinced me that we should use the FIMS. https://journals.sagepub.com/doi/full/10.1177/1073191118796557
+    
+-----------------
+
+### Interview
+
+-----------------
+
+### Physiology
+
+#### Memory Intrusion/Movie Watching
+
+- Physiology Marks:
+   - We have inserted start and stop times for the physiology for the movie component of the task, which will be used for one of the analyses. We have also inserted physiology marks for the start and stop times for each of the word lists, and finally for the recall phases. Note: be careful using physiology during the recall phase, as the participant is talking during that phase.
+   
+-----------------
+
+### Tasks
+
+-----------------
+
+### Tests
+
+-----------------
+
+### Measurements
+
+-----------------
+
+### Biological Samples
+
+-----------------
+
+### Questionnaires
+
+#### Child
+
+| Title        | Description  | Reference  |
+| ------------ | ------------ | ---------- |
+| Alexithymia | Child/adolescent self-report. Domain assessed: mental health/affective function. This questionnaire asks youth to endorse a number of items falling within three factors (1) Difficulty identifying feelings, (2) difficulty describing feelings, (3) externally oriented thinking. | (Rieffe, Oosterveld, & Terwogt, 2006) 
+| Children’s Perception of Interparental Conflict Scale (cpic)– 6-18 years | Child/adolescent self-report. Domains assessed: parenting and family structure. The CPIC assesses children’s/adolescent’s experience of parental conflict, including subscales (Conflict Properties, Threat, Self-Blame). | (ABC, XXXX)
+| Child Somatization Symptom Inventory (cssi)– 6-17 years | Child/adolescent self-report. Parent report for children under 8 years. Domain assessed: physical symptoms. The CSSI assesses a variety of nonspecific somatic symptoms. | (ABC, XXXX)
+| Security Scale (ss) – 8-18 years | Child/adolescent self-report. Domain assessed: attachment. This measure asks children/adolescents to endorse statements about their feelings towards their parents (in the positive or negative) and how much each endorsed statement is characteristic of them. Statements assess domains of being able to rely on parents in times of need, feelings of closeness with parent etc.| (ABC, XXXX)
+| Benevolent Childhood Experiences Scale- Revised (bce) | Child/adolescent self-report. Domain assessed: benevolent childhood experiences. This child/adolescent self-report questionnaire consists of 10 items used to identify favorable childhood experiences, with regards to potential child adversity. | (ABC, XXXX)
+
+-----------------
+
+#### Parent
+
+##### Parent Self 
+
+| Title        | Description  | Reference  |
+| ------------ | ------------ | ---------- |
+| Beck Depression Inventory – II (BDI-II) – 13-18 years. | Parent self-report. Domain assessed: mental health/affective functioning. Developed for the assessment of symptoms corresponding to criteria for diagnosing depressive disorders listed in the DSM IV. | (ABC, XXXX)
+| COVID-19 Objective Questionnaire (covid_objective) | Parent self-report. Domains assessed: COVID-19 objective measures. This questionnaire consists of 12 items to identify health changes and lifestyle changes made From the impacts of the COVID-19 outbreak. | (ABC, XXXX)
+| Parenting Stress | Parent self-report. Domain assessed: parenting and family structure. The PSI designed to evaluate the magnitude of stress in the parent-child system, focusing on three major domains of stress: 1) child/adolescent characteristics, 2) parent characteristics, and 3) situational/demographic life stress. Revised questionnaire focuses on stress in the context of COVID-19.| (ABC, XXXX)
+
+
+##### Parent Proxy 
+
+| Title        | Description  | Reference  |
+| ------------ | ------------ | ---------- |
+| Demographic Questionnaire | Parent proxy and self-report. Domain assessed: demographics. The project developed questionnaire asks parents about their household income, their own and their child’s/adolescent’s race/ethnicity, the parent age, education, and marital status, and contact details. | (ABC, XXXX)
+| Pediatric Quality of Life (PedsQL) – 2-25 years of age. | Parent proxy responder. Domain assessed: Physical symptoms. The PedsQL Gastrointestinal Symptoms Scale will be administered. These questionnaires are designed to assess the incidence of gastrointestinal symptoms in youth.| (ABC, XXXX)
+| Pediatric Quality of Life (PedsQL) – 2-25 years of age. | Parent proxy responder. Domain assessed: Physical symptoms. The PedsQL General Wellbeing Scale will be administered. These questionnaires are designed to assess general feelings of wellbeing in youth. | (ABC, XXXX)
+| Pediatric Quality of Life (PedsQL) – 2-25 years of age.| Parent proxy responder. Domain assessed: Physical symptoms. The PedsQL Multidimensional Fatigue Scale will be administered. These questionnaires are designed to assess the incidence of fatigue symptoms in youth.| (ABC, XXXX)
+| Revised Evaluation of Activity Survey in Youth (EASY) – 6-18 years of age.  | Parent report. Domain assessed: physical symptoms. The EASY asks parents to rate how physically active their child/adolescent has been during COVID-19. | (ABC, XXXX)
+| Revised Traumatic Events Screening Inventory - children (TESI-C) – 6-18 years.  | Parent proxy. Domain assessed: Caregiving adversity. The TESI-C assesses a child's/adolescent’s experience of a variety of potential traumatic events including physical/sexual abuse and neglect. | (ABC, XXXX)
+| Child Behavior Checklist (CBCL) – 6-18 years.|  Parent proxy report. Domain assessed: mental health/affective function. Assesses behavioral competency and behavioral problems in children and adolescents within the past six months. The following syndrome scales are assessed: anxious/depressed, withdrawn/depressed, somatic complains, social problems, thought problems, rule-breaking behavior, and aggressive behavior. | (ABC, XXXX)
+| Revised Child Sleep Habits Questionnaire (CSHQ) – 4-11 years.  | Parent proxy. Domain assessed: sleep. Multidimensional sleep assessment including sleeping difficulties, behavioral problems around sleep etc. | (ABC, XXXX)
+| Microbiome metadata questionnaire – 6-18 years. | Parent proxy. Domain assessed: microbiome metadata. This study developed questionnaire asks parents to report on a number of variables known to influence the microbiome, including whether their child/adolescent was born prematurely, mode of birth, pre- or post-natal antibiotic usage, pets in the home, country of birth, breast or bottle feeding, special diets (e.g., vegetarianism or dairy free). | (ABC, XXXX)
+| Medication Checklist – 6-18 years.  | Parent proxy report. Domain assessed: physical symptoms. Parents are asked to list all medications that their children/adolescents are on. This information is used as a covariate in analyses of brain, microbiome, and biomarker data, as different medications can affect the readouts from these assays/analyses. | (ABC, XXXX)
+| Petersen Physical Development Scales (pds) – 6-18 years. | Parent proxy report for all children and adolescents. Domain assessed: physical symptoms. The Peterson Puberty Scale is an adaptation of an interview-based puberty-rating scale by Petersen, and includes scores for each of five items rating physical development, an overall maturation measure, and a categorical maturation score. It is designed to be non-invasive, not requiring the use of pictures. | (ABC, XXXX)
+| Digestive Health and Wellbeing Survey (dhws) – 6-22 years.| Parent proxy report. Domain assessed: physical symptoms. This survey asks parents to endorse whether a doctor has ever diagnosed their child/adolescent with a range of allergic and autoimmune conditions. | (ABC, XXXX)
+| Hair-Care Practice Questionnaire (hpq). | Parent proxy report. Domain assessed: hair-care practice. This questionnaire consists of 9 items for parents to indicate their child/adolescent’s hair care practices for information relevant to the hair sample.| (ABC, XXXX)
+| Child Somatization Symptom Inventory (CSSI) – 6-17 years of age.| Child/adolescent self-report for children 8+. Parent report for children under 8 years. Domain assessed: physical symptoms. The CSSI assesses a variety of nonspecific somatic symptoms. | (ABC, XXXX)
+| Foster Care Inventory (FCI) – 6-18 years.| Parent proxy. Domain assessed: caregiving adversity. This instrument was made for the current study and assesses the number of foster care placements and care history. | (ABC, XXXX)
+| International Adoption Inventory (IAI) – 6-18 years.| Parent proxy. Domain assessed: caregiving adversity. This instrument was made for the study and asks parents of internationally adopted youth about the quality of institution and details of the adoption process. | (ABC, XXXX)
+| Financial Support Questionnaire – all study participants. | Parent self-report. Domain assessed: demographics. The project developed financial support questionnaire assesses public assistance received, and health insurance information. All questions on this assessment (as with all assessments) will have an option not to disclose this information. | (ABC, XXXX)
+| Bristol Stool Scale (BSS) | Stool sample short questionnaire: After collecting the stool sample, participants will be asked to indicate on a short questionnaire whether they were feeling ill on the day the sample was collected, what time the sample was collected, and what consistency their stool was (indicated using the Bristol Stool Scale). They will also be asked if their diet on the day of sample collection was typical. | (ABC, XXXX)
+
+-----------------
+
+#### Qualitative
+
+##### COVID-19 Written Responses
+
+| Title        | Description  | Reference  |
+| ------------ | ------------ | ---------- |
+| COVID-19 Written Response- parent (optional) | Domain assessed: Emotional impacts of COVID-19. This self-report measure consists of one long-form qualitative response, prompting a parent to write continuously for five minutes about the impacts of COVID-19 on their life and family. This qualitative response was adapted from previous prompts in writing about emotional experiences, and seeks to assess the emotional and behavioral impacts of the Pandemic on children and families.| (ABC, XXXX)
+| COVID-19 Written Response- child (optional) | Domain assessed: Emotional impacts of COVID-19. This self-report measure consists of one long-form qualitative response, prompting a child to write continuously for five minutes about the impacts of COVID-19 on their life and family (for children who cannot write or do not feel comfortable writing, children can dictate and parent can write). This qualitative response was adapted from previous prompts in writing about emotional experiences, and seeks to assess the emotional and behavioral impacts of the Pandemic on children and families. | (ABC, XXXX)
+
+-----------------

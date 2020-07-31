@@ -1,0 +1,218 @@
+## Protocols - Parent 
+
+### Protocol - Consent & Assent
+
+Once the parent and child/teen come into the lab, seat them in the Rainbow Room on the couch for consenting (parent) and assenting (child aged 7+ or teen). 
+
+Make some small talk - Ask the participant how they got here. If they have participated before in research. Offer them a bottle of water. Thank them for coming and for giving up their weekend to help science.
+
+Tell the parent and child that the first thing you are going to do is go over all of the things they will do today, and have them sign the consent and assent forms. 
+
+Speak to them and direct them through the whole process. 
+
+#### Things you will do in the lab
+
+- Stick stickers on you to measure heart rate, sweat, stomach muscles.
+- Sit with parent and talk about fun things and hard things (filming).
+- Parent stays in room and answers more questions. 
+- Child goes next door to play computer games (look at pictures, watch movies). Some of the movies and pictures will be a little bit scary, others sad, others boring. 
+- One of the games involves a loud annoying noise, we will adjust it for you. 
+- You will also do some other games on paper and pencil - like puzzle and word games
+- You will answer some questionnaires
+- We will also measure your height, weight, and waist circumference. 
+- We will take three biological samples: 
+    - Hair - stress hormones
+    - Saliva - microbiome 
+    - Blood - immune - wear goggles
+- Do you get sick or dizzy when you see blood or hurt yourself? 
+- If we need to, can we prick two fingers?
+- When you are done with all of that, you will get a big prize, then we will pay you and you will go home. 
+- You will get $45 for the work you put in today.
+
+#### Things you will do at home
+
+<h4>Child</h4>
+
+- Poop sample - microbiome
+- Stool scale
+- Memory game - to see what you remember from lab.
+
+<h4>Parent</h4>
+
+- 24 hour food recall
+
+When you complete the poop sample and the games at home, we will pay you another $20 in the form of a giftcard. 
+
+#### Things to know
+
+You are a volunteer, which means that you do not have to do anything, or say anything that makes you uncomfortable. We would like you to try everything you can, and to do your best, but if there are things you absolutely do not want to do, just tell us, that is o.k.
+
+We keep your participation confidential - ID number. 
+
+We want you to come in again in the future, so we will ask for some information so we can contact you in the future. 
+
+*Sign consent/assent forms including DBS form and Contact Sheet*
+
+-----------------
+
+### Protocol - Parent/Child Observation
+
+The parent and child will be in the Rainbow Room for 15 minutes. During that time they will be filmed while planning a conflict event, and then again while discussing a pleasant event. The conflict event will always go first, followed by the pleasant event. We did this to ensure that the parents were not thinking of the negative interaction upon answering the questionnaires about their child, which they did immediately after the observation interaction. If participants indicate that they prefer to speak in a language other than English, they may do so.
+
+**Step 1**: 
+
+Parent and child will be situated on the grey couch in the Rainbow Room. The iPad video camera will be placed about 4 feet away from the dyad, on a tripod stand. The screen of the iPad will be facing away from the parent and child.
+
+![<!--- parent:child_obser --->](images/parent:child_obser/2.png)
+
+
+**Step 2**:
+
+The researcher will give the parent and child the Pleasant Events Checklist (PEC) on a piece of paper. 
+
+*Researcher: Next we are going to take some film of you while you discuss a source of conflict (or something you disagree on) and try to resolve it. On this piece of paper is a list of things that parents and children sometimes have disagreements about. Please take a moment to read the list and think about some that you would like to discuss together. When I knock on the door, please start discussing the things you have selected from the list and try to resolve the areas of conflict you have chosen from the list. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I will give you five minutes to discuss the event, then I will come back and give you further instructions.*
+
+**Step 3**: 
+
+Researcher press record on the iPad and leave the room. Start timer for 1 minute, then knock on the door and ask the dyad to begin discussing their event. Start timer for 5 minutes. At the end of 5 minutes, again knock on the door and enter the Rainbow Room. 
+
+*Researcher: Thank you for taking the time to discuss the source of conflict and try to resolve it. Next we are going to take some film of you while you discuss a pleasant event you could do together. On this piece of paper is a list of events that parents and children sometimes find pleasant to do together. Please take a moment to read the list of events and think about what you would like to plan to do together. When I knock on the door, please start discussing the event you would like to do together and make a plan for how you could do it. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I will give you five minutes to discuss the event, then I will come back and give you further instructions.*
+
+**Step 4**: 
+
+Researcher press record on the iPad and leave the room. Start timer for 1 minute, then knock on the door and ask the dyad to begin discussing their event. Start timer for 5 minutes. At the end of 5 minutes, again knock on the door and enter the Rainbow Room. 
+
+**Step 5**: 
+
+Researcher reenter the room, switch the iPad off and move the child/adolescent to their next session. 
+
+-----------------
+
+### Protocol - KSADS
+
+#### Audio Recording
+
+- Make a separate recording for each KSADS administered if there is more than one child in one session.
+
+**Step-by-step guide on how to use recorder:**
+
+*Step 1: Press and hold highlighted Power button to turn recorder.*
+
+![<!--- ksads --->](images/ksads/1.png)
+
+*Step 2: Press highlighted button until "TALK" appears on the screen. Now you are on the "Talk" setting.*
+
+![<!--- ksads --->](images/ksads/2.png)
+
+*Step 3: Push highlighted button up to start recording. Push down to stop recording.*
+
+![<!--- ksads --->](images/ksads/3.png)
+
+
+#### Using the iPad for KSADS Summary Checklist
+
+- Before the start of every session, be sure to duplicate and rename all the KSADS documents in Acrobat (25 documents per participant) and rename them (MBBXXX_KSADS_suppX_XXX). 
+   - *Note 1:* This may take a while, especially if there are more than one participant, so be sure to do it ahead of time.
+   - *Note 2:* With multiple participants in one session, keep them all on the same iPad as the same iPad will be used to administer all KSADS.
+
+- Follow instructions below on how to duplicate and rename the documents:
+   - Turn on iPad and go to the “Acrobat” app.
+   - Your screen should look like this. If it does not, tap on “Files” at the bottom, and ensure that the Locations is set to “On This iPad”.
+     
+     ![<!--- ksads --->](images/ksads/4.png)
+   - For each document, tap the three horizontal dot to the right, and select “Duplicate”.
+     ![<!--- ksads --->](images/ksads/5.png)
+   - The duplicated document should appear right below the original document.
+   - Tape the three horizontal dot to the right of the duplicated document, and select “Rename”.
+     ![<!--- ksads --->](images/ksads/6.png)
+   - Replace the word “Blank” with the participant ID, and remove the “(1) at the end of the name. For example, if the participant ID is MBB001, the name of the duplicated document should be: MBB001_KSADS_screen
+   - Do the same for all 25 documents (Duplicate, Rename).
+
+-------------
+
+### Protocol - Questionnaires
+
+#### Parent Proxy
+
+#### Parent Self
+
+-------------
+
+### Protocol - Home Kit
+
+Please refer to the diagram below for the complete list of items in a home kit:
+
+![<!--- home_kit --->](images/home_kit/1.jpeg)
+
+
+- Take a white paper gift bag and paste a BABLab sticker at the center of the bag (one side only).
+- Take a blue mailer and paste a FedEx slip on the front. Label the mailer with “Exempt Human Specimen” and the participant ID.
+- Label the following 4 items with the participant ID and put them in the blue mailer:
+   - a gut kit
+   - a toilet hat
+   - an oral kit
+   - a biohazard bag
+- Put two MBB note cards (one biological and one adoption) in the gift bag.
+- Print and insert the Bristol Stool Scale. 
+- Print, fill-out and insert MBB brochure.
+
+----------
+
+### Protocol - Participant Payment
+
+**Participant Reimbursement Signature**
+
+#### Setting up the iPad
+
+
+- To obtain participant’s signature for payment receipt form, log into the BABLab iPad 1 or 2 with the password “0719”.
+- Make sure the Apple Pencil is paired with the iPad by going into “Settings” and then selecting “Bluetooth”, ensuring that “Apple Pencil” is connected.
+
+
+   ![<!--- payment --->](images/payment/1.jpeg)
+- If the Apple Pencil is not connected, remove the cap of the pencil and insert it into the charging port of the iPad. A pop-up should appear to ask you to “pair” the devices.
+
+    ![<!--- payment --->](images/payment/2.jpeg)
+
+
+#### Obtaining Signature
+
+- Click the “Acrobat” app on the iPad.
+
+   ![<!--- payment --->](images/payment/3.jpeg)
+
+- Select the file “Payment Receipt Signature Form BABLab”.
+
+   ![<!--- payment --->](images/payment/4.jpeg)
+   
+- Double tap the screen with the pencil. Ensure the pen icon is selected and fill in the payment receipt number. Now the form is ready to be filled out by the participant. 
+
+    ![<!--- payment --->](images/payment/5.jpeg)
+
+- Ask the participant to fill out every highlighted spaces (except for the payment receipt #).
+- After every space has been completed, click “Done” on the top left corner. 
+
+   ![<!--- payment --->](images/payment/6.jpeg)
+
+#### Saving Form
+
+- Click the “share” icon. 
+
+   ![<!--- payment --->](images/payment/7.jpeg)
+ 
+- Click “Share a Copy” at the bottom.
+
+   ![<!--- payment --->](images/payment/8.jpeg)
+   
+- Click “AirDrop” to send the file to “Brain’s MacBook Air”.
+
+  ![<!--- payment --->](images/payment/9.jpeg)
+  
+- Save the file to a folder named “Reimbursement_signed” on the MacBook Air.
+- Return to the iPad and tap the screen once. A box should appear that selects all the participant’s input. Clear the input by clicking on the trash icon on the top right.
+
+    ![<!--- payment --->](images/payment/10.jpeg)
+
+- Now the file in Acrobat on the iPad is ready to be used for the next participant. 
+
+-----------------
