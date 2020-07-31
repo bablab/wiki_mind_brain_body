@@ -126,8 +126,6 @@ Participants choose events from these two lists:
 | ------------ | ------------ | ---------- |
 | Beck Depression Inventory – II (BDI-II) – 13-18 years. | Parent self-report. Domain assessed: mental health/affective functioning. Developed for the assessment of symptoms corresponding to criteria for diagnosing depressive disorders listed in the DSM IV. | (ABC, XXXX)
 | COVID-19 Objective Questionnaire (covid_objective) | Parent self-report. Domains assessed: COVID-19 objective measures. This questionnaire consists of 12 items to identify health changes and lifestyle changes made From the impacts of the COVID-19 outbreak. | (ABC, XXXX)
-| Parenting Stress | Parent self-report. Domain assessed: parenting and family structure. The PSI designed to evaluate the magnitude of stress in the parent-child system, focusing on three major domains of stress: 1) child/adolescent characteristics, 2) parent characteristics, and 3) situational/demographic life stress. Revised questionnaire focuses on stress in the context of COVID-19.| (ABC, XXXX)
-
 
 ##### Parent Proxy 
 
@@ -151,6 +149,8 @@ Participants choose events from these two lists:
 | International Adoption Inventory (IAI) – 6-18 years.| Parent proxy. Domain assessed: caregiving adversity. This instrument was made for the study and asks parents of internationally adopted youth about the quality of institution and details of the adoption process. | (ABC, XXXX)
 | Financial Support Questionnaire – all study participants. | Parent self-report. Domain assessed: demographics. The project developed financial support questionnaire assesses public assistance received, and health insurance information. All questions on this assessment (as with all assessments) will have an option not to disclose this information. | (ABC, XXXX)
 | Bristol Stool Scale (BSS) | Stool sample short questionnaire: After collecting the stool sample, participants will be asked to indicate on a short questionnaire whether they were feeling ill on the day the sample was collected, what time the sample was collected, and what consistency their stool was (indicated using the Bristol Stool Scale). They will also be asked if their diet on the day of sample collection was typical. | (ABC, XXXX)
+| COVID-19 Objective Questionnaire (covid_objective) | Parent proxy. Domains assessed: COVID-19 objective measures. This questionnaire consists of 12 items to identify health changes and lifestyle changes made From the impacts of the COVID-19 outbreak. | (ABC, XXXX)
+| Parenting Stress | Parent proxy. Domain assessed: parenting and family structure. The PSI designed to evaluate the magnitude of stress in the parent-child system, focusing on three major domains of stress: 1) child/adolescent characteristics, 2) parent characteristics, and 3) situational/demographic life stress. Revised questionnaire focuses on stress in the context of COVID-19.| (ABC, XXXX)
 
 -----------------
 

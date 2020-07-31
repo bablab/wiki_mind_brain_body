@@ -227,24 +227,56 @@
 </ul>
 <p><strong>Calendar</strong></p>
 <ul>
-<li>Create MBB calendar event session 1 and session 2 and invite researcher</li>
-<li>Create MBB calendar event to mail study package to participant</li>
-<li>Create MBB calendar event session 1 reminder 1 (email) (1 week prior)</li>
-<li>Create MBB calendar event session 1 reminder 2 (email and call) (3 days prior)</li>
-<li>Create MBB calendar event session 1 links email (day of first session- right before)</li>
-<li>Create MBB calendar event to send session 2 confirmation email (email) (day of first session- right after)</li>
-<li>Create MBB calendar event session 2 reminder 1 (call) (day before second session)</li>
-<li>Create MBB calendar event to send session 2 reminder 1 (email) (day of second session- right before)</li>
+<li>Create MBB session calendar events (and invite researcher)
+<ul>
+<li><em>MBBXXX - Online Session 1</em>
+<ul>
+<li>Add <em>Status: Incomplete</em> to the description</li>
+<li>Add <em>Session 1 Links Email Sent: Incomplete</em> to the description</li>
+<li>Add <em>Status Of Package: Not Received</em> to the description</li>
+</ul></li>
+<li><em>MBBXXX - Online Session 2</em>
+<ul>
+<li>Add <em>Status: Incomplete</em> to the description</li>
+<li>Add <em>Session 2 Confirmation Email Sent: Incomplete</em> to the description</li>
+<li>Add <em>Session 2 Links Email Sent: Incomplete</em> to the description</li>
+</ul></li>
+</ul></li>
+<li>Create MBB mailing calendar event
+<ul>
+<li><em>MBBXXX - Mail Package</em></li>
+</ul></li>
+<li>Create MBB reminder calendar events
+<ul>
+<li><em>MBBXXX - Session 1 Reminder 1 (email)</em> - 1 week prior</li>
+<li><em>MBBXXX - Session 1 Reminder 2 (email and call)</em> - 3 days prior</li>
+<li><em>MBBXXX - Session 2 Reminder 1 (email) </em> - 3 days before second session</li>
+<li><em>MBBXXX - Session 2 Reminder 2 (call)</em> - 2 days before second session</li>
+</ul></li>
 </ul>
 <p><strong>Reminders</strong></p>
 <ul>
-<li>Send session 1 reminder 1 email (in templates - attach next steps, consent/assent, zoom instructions, researcher information, “What is involved in this study?” video, confirm if package is received)</li>
-<li>Send session 1 reminder 2 email (in templates - attach previous, confirm if package is received)</li>
+<li>Send <em>Session 1 Reminder 1</em> email
+<ul>
+<li>In templates - attach next steps, consent/assent, zoom instructions, researcher information, “What is involved in this study?” video</li>
+<li>Confirm package is received</li>
+</ul></li>
+<li>Send <em>Session 1 Reminder 2</em> email
+<ul>
+<li>In templates - attach previous</li>
+<li>Confirm package is received</li>
+</ul></li>
 <li>Confirm package is delivered and received</li>
 <li>Confirm participant
 <ul>
 <li>Preferably by phone</li>
-<li>Update session 1 calendar status</li>
+<li>Update <em>Session 1</em> calendar status</li>
+</ul></li>
+<li>Send <em>Session 2 Reminder 1</em> email</li>
+<li>Confirm participant
+<ul>
+<li>Preferably by phone</li>
+<li>Update <em>Session 2</em> calendar status</li>
 </ul></li>
 </ul>
 <hr />
@@ -260,13 +292,13 @@
 <li>Print <a href="https://ucla.app.box.com/file/668504120930">Reward Board</a> (plus gold star stickers)</li>
 <li>Print/Staple Parent Questionnaire Booklet (in this order)
 <ol style="list-style-type: decimal">
-<li>Parent Questionnaire Cover Page/Parent Proxy Intro</li>
+<li>Parent Questionnaire Cover Page / Parent Proxy Intro</li>
 <li>pedsql_gi_parentproxy</li>
 <li>pedsql_wb_parentproxy</li>
-<li>peds1l_f_parentproxy</li>
+<li>pedsql_f_parentproxy</li>
 <li>easy_revised</li>
 <li>cshq_revised</li>
-<li>mb_metadat</li>
+<li>mb_metadata</li>
 <li>med_check</li>
 <li>pds</li>
 <li>dhws</li>
@@ -274,21 +306,13 @@
 <li>cssi (for children under 8)</li>
 <li>fci</li>
 <li>iai</li>
-<li>Demographics</li>
+<li>demographics</li>
 <li>financial</li>
+<li>covid_objective (parentproxy version)</li>
+<li>parenting_stress</li>
 <li>Parent Self Intro</li>
 <li>bdi</li>
-<li>parent_stress</li>
-<li>COVID_objective</li>
-</ol></li>
-<li>Print/Staple Child Questionnaire Booklet (in this order)
-<ol style="list-style-type: decimal">
-<li>Child Questionnaire Cover Page</li>
-<li>ss</li>
-<li>cpic</li>
-<li>alexithymia</li>
-<li>cssi (for children over 8)</li>
-<li>bce_revised</li>
+<li>covid_objective (parentself version)</li>
 </ol></li>
 <li>Print/Staple Online Session Booklet (in this order)
 <ol style="list-style-type: decimal">
@@ -701,40 +725,51 @@ List Types
 <p><em>Hi! Thank you so much for joining us today! We are so looking forward to today’s session with you. Usually, when we conduct a study such as this, we would do it our lab at UCLA. However, with COVID-19 we’ve decided it would be safer to carry out this study online for the time being- social distancing and all!</em></p>
 <p><em>Our session today should take around 1 hour long. In addition to what we do here today, there will be a follow up zoom appointment with us one week from now. At that appointment, we will reconnect on a second Zoom call in which your child will log on for 10 minutes and complete a computer game.</em></p>
 <p><em>Sounds good? Let’s get started!</em></p>
-<p>[Researcher to open up the <a href="https://ucla.app.box.com/file/689404174873">MBB_Consent_Script_Presentation</a>]]</p>
+<p>[Researcher to open up the <a href="https://ucla.app.box.com/file/689404174873">MBB_Consent_Script_Presentation</a>]</p>
 <p><em>First thing we are going to do is go over what is on the consent and assent forms. (These are the attached documents we sent you in the emails leading up to this session.) We will walk through, in a little bit more detail, all of the things we will be doing during today’s session.</em></p>
 <p><em>During today’s online session we are going to be doing some interactive things. First, we are going to have you and your parent sit and talk about some fun things and some not so fun things while on ZOOM. This conversation will be recorded but we will not be watching or listening in, you and your parent will be “virtually alone.”</em></p>
 <p><em>Next, we are going to have you play a game on the computer. In this game, you will be looking at pictures. Some of the pictures will be a bit scary, some sad, others a bit boring. While you are playing this game, your parent will stay with you in the room but will be working on some surveys to fill out.</em></p>
 <p><em>After the game is over, your parent [NAME] will help measure your height, weight, and waist circumference.</em></p>
-<p><em>You will also be answering some surveys with the researcher.</em></p>
+<p><em>You will also be answering some surveys (for children) with the researcher OR (for teens) on your own.</em></p>
 <p><em>Lastly for today, your parent will help take two biological samples during this session.</em></p>
 <ol style="list-style-type: decimal">
-<li>One is the hair sample which helps measure stress hormones</li>
+<li>One is the hair sample which helps measure hormones that everyone has in their hair</li>
 <li>Two is the saliva sample which helps tell us learn a little bit more about your microbiome</li>
 </ol>
+<ul>
+<li>Do you know what a microbiome is?</li>
+<li>A microbiome is all the little bacteria that live inside your mouth. Everyone has these, they are healthy! We just want to know what kind and how many of each there are.</li>
+</ul>
 <p><em>For helping us out in today’s session, you will be getting $45 for the work you put in! After this online session is over, we’ll ask you to do three more things at home:</em></p>
 <ol style="list-style-type: decimal">
 <li>One is the Child poop sample – this helps us learn a bit more about your microbiome</li>
+</ol>
+<ul>
+<li>There are also little bacteria that live in your tummy! Everyone has these and we want to know more about them.</li>
+</ul>
+<ol start="2" style="list-style-type: decimal">
 <li>Two is filling out the stool scale – this is a short scale that gives a description of your sample</li>
 <li>Three is the computer memory game – this is when you will log back on with us via ZOOM in a week’s time to see what you remember from today’s session</li>
 </ol>
+<p><em>Great! Do you have any questions for us about any of the samples</em></p>
 <p><em>When you complete the poop sample and the computer game at home, we will pay you another $20!</em></p>
 <p><em>We will send the full payment of $65 ($45 for today’s session and $20 for completing the home session) as soon as we receive the samples back through the mail.</em></p>
 <p><em>Here are some things to keep in mind:</em></p>
 <p><em>You are a volunteer in this study, which means you do not have to do anything, or say anything, that makes you uncomfortable. We would like you to try everything you can, and to do your best, but if there are things you absolutely do not want to do, just tells us, that is o.k.</em></p>
 <p><em>We will keep your participation confidential. You are given an ID number in order to keep your data confidential and separated from your name. Therefore, any identifying information (like your name, email, address, etc.) will be kept private and not paired with your data. We will also use a secondary ID number to save the videos with (since your faces are in it), which will help separate this from your name and the other data we collect form you. Only members of our research team will have access to your name and ID numbers.</em></p>
-<p><em>As this is a longitudinal study, and we want you to come again in the future if you are interested, we will ask for some information so that we may reach out to you in the future. As I mentioned earlier, we sent you an email with a bunch of links that would be used in the session today. Please go there and click on the first one, which will allow you to virtually indicate your consent to participate in the study. Once you get that pulled up, you will see the consent/assent documents attached there as well- please feel free to take your time reading through the consent and assent forms now if you’d like.</em></p>
+<p><em>As this is a longitudinal study, and we want you to come again in the future if you are interested, we will ask for some information so that we may reach out to you in the future. As I mentioned earlier, we sent you an email with a bunch of links that would be used in the session today. Please go there and click on the first one, which will allow you to virtually indicate your consent to participate in the study. If you’d like,you can share your screen with us now and we can walk you through it. Once you get that pulled up, you will see the consent/assent documents attached there as well- please feel free to take your time reading through the consent and assent forms now if you’d like.</em></p>
 <p>[Then once they are done reading through]</p>
 <p><em>All set and any questions?</em></p>
 <p>[IF NO,] <em>Please click to indicate your consent/assent and submit the REDCap form. You may press submit once you are finished to “send in the form.”</em></p>
-<p><em>Once you are all set with that, we’d like you for to grab the box we sent you in the mail. This contains everything you will need for today’s session and what you will do at home after today’s session.</em></p>
-<p><em>The box should contain a sheet of paper at the top which details all of the contents of the box, which we will unpack now!</em></p>
+<p>Researcher to grab magic box.</p>
+<p><em>Once you are all set with that, we’d like you for to grab the magic box we sent you in the mail. This contains everything you will need for today’s session and what you will do at home after today’s session.</em></p>
+<p><em>The magic box should contain a sheet of paper at the top which details all of the contents, which we will unpack now!</em></p>
 <p><em>For today’s session here are the materials we will use:</em></p>
 <ol style="list-style-type: decimal">
-<li>Reward board with gold star stickers 2 pencils</li>
+<li>Reward board with gold star stickers</li>
+<li>2 pencils</li>
 <li>A session booklet</li>
 <li>Parent surveys booklet</li>
-<li>Child surveys booklet</li>
 <li>Paper measuring tape</li>
 <li>Hair sample kit</li>
 <li>Saliva sample collection kit</li>
@@ -742,38 +777,48 @@ List Types
 </ol>
 <p>It will also contain post-session materials. You will use these after today’s session is complete:</p>
 <ol style="list-style-type: decimal">
+<li>Home session booklet</li>
 <li>Bristol Stool Scale sheet</li>
 <li>Stool sample collection kit</li>
-<li>Cardboard box with bag and cotton balls inside Mind Brain Body information card</li>
+<li>Cardboard box with bag and cotton balls inside</li>
+<li>Mind Brain Body information card</li>
 <li>Return mailer with FedEx slip attached on the top</li>
 </ol>
-<p><em>Please set aside the box for now but keep the materials near you as we may need to access materials from the box throughout today’s session!</em></p>
+<p><em>Please set aside the magic box for now but keep the materials near you as we may need to access materials from the magic box throughout today’s session!</em></p>
 <p><em>What you can pull out now and use throughout the session is the Reward Board and Gold Star Stickers. Use this reward board to track all the steps you accomplish today! Each space is like each task for the session. Once you complete the task you can put a gold star on the space!</em></p>
 <hr />
 </div>
 <div id="protocol---parent-child-observation" class="section level3">
 <h3>Protocol - Parent Child Observation</h3>
-<p>The parent and child will be seated together in view on the Zoom camera. During that time they will be filmed while planning a conflict event, and then again while discussing a pleasant event. The conflict event will always go first, followed by the pleasant event. We did this to ensure that the parents were not thinking of the negative interaction upon answering the questionnaires about their child, which they did immediately after the observation interaction.</p>
+<p>The parent and child will be seated together in view on the Zoom camera. During that time they will be filmed while solving a conflict, and then again while discussing a pleasant event. The conflict event will always go first, followed by the pleasant event. We did this to ensure that the parents were not thinking of the negative interaction upon answering the questionnaires about their child, which they did immediately after the observation interaction.</p>
 <p>Step 1:
-Researcher will ensure Zoom security settings are set up for the video.</p>
-<ul>
-<li>Parent and child will be situated side-by-side in view on the Zoom camera.</li>
-<li>Researcher will rename the participant’s name to the participant Secondary MBB ID number. <img src="images/zoom_parent_child_interaction/1.png" alt="" /></li>
-<li>Researcher will “hide self view” <img src="images/zoom_parent_child_interaction/2.png" alt="" /></li>
-</ul>
-<p>Step 2:
 The researcher will ask the parent to find the <a href="https://ucla.app.box.com/file/630327764749">Pleasant/Unpleasant Events Checklist</a> piece of paper from their session package.</p>
-<p><em>Researcher: So the first thing we will have you pull out of the box is the paper packet titled “Online Session Booklet.” You can flip to the page that says “Pleasant and Unpleasant Events Checklist.”</em></p>
+<p><em>Researcher: So the first thing we will have you pull out of the magic box is the paper packet titled “Online Session Booklet.” You can flip to the page that says “Pleasant and Unpleasant Events Checklist.”</em></p>
 <p>Researcher will wait for the participant to find the Online Session Booklet and flip to the correct page.</p>
-<p><em>Researcher: Next we are going to take some film of you while you discuss a source of conflict (or something you disagree on) and try to resolve it. On this piece of paper is a list of things that parents and children sometimes have disagreements about. We will give you a moment to read the list and think about some that you would like to discuss together. Then after about one minute, please start discussing the things you have selected from the list and try to resolve the areas of conflict you have chosen from the list. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I am not going to respond to you during this time, as I am going to step out out of the room to be away from the camera view and lower the volume on my computer so I do not have a “virtual presence” during your conversation. So, I will give you a total of six minutes once the recording begins- one minute to decide what you would like to discuss, and five minutes to discuss the event. Then I will come back into the video call and give you further instructions. Do you have any questions?</em></p>
+<p><em>Researcher: Next we are going to take some film of you while you discuss something that’s hard and try to resolve it. On this piece of paper is a list of things that parents and children sometimes have disagreements about. We will give you a moment to read the list and think about some that you would like to discuss together. Then after about one minute, you will start discussing the things you have selected and try to resolve them. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from this list, or decide to choose something else. I’ll be there while you choose, but once we start recording I am going to step out out of the room to be away from the camera view and lower the volume on my computer so I won’t be watching or listening during your conversation. I am not going to respond to you during this time. I will give you a total of five minutes once the recording begins. Take 1 minute now to choose.</em></p>
+<p>Step 2:
+- Researcher set timer for 1 minute (mute self).
+- Researcher will ensure Zoom security settings are set up for the video.
+- Parent and child will be situated side-by-side in view on the Zoom camera.
+- Researcher will rename the participant’s name to the participant Secondary MBB ID number. <img src="images/zoom_parent_child_interaction/1.png" alt="" /></p>
+<p><em>Ok, now it’s time to get started. Remember, try to solve whatever problem or disagreement you talk about for the next five minutes. After, I will come back into the video call and give you further instructions. Do you have any questions?</em></p>
 <p>If no questions, proceed.</p>
 <p>Step 3:
-Researcher will press record on the Zoom application.<img src="images/zoom_parent_child_interaction/3.png" alt="" /> Wait to hear the audio Zoom confirmation <em>“this meeting is now being recorded”</em> and view recording in progress at top left of screen to ensure recording is live. <img src="images/zoom_parent_child_interaction/4.png" alt="" /> Researcher will lower the volume on their computer (but do not mute computer volume entirely), and mute their audio on Zoom. Researcher will then leave the room/be out of camera view. Start timer for 6 minutes. At the end of 6 minutes, reenter camera view and turn up volume on researcher’s computer.</p>
-<p><em>Researcher: Thank you for taking the time to discuss the source of conflict and try to resolve it. Next we are going to take some film of you while you discuss a pleasant event you could do together. On your piece of paper is a list of events that parents and children sometimes find pleasant to do together. I will give you a moment to read the list of events and think about what you would like to plan to do together. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from the list, or decide to choose something else not included on the list. I am not going to respond to you during this time, as I am going to step out out of the room to be away from the camera view and lower the volume on my computer so I do not have a “virtual presence” during your conversation. So, I will give you a total of six minutes once the recording begins- one minute to decide what you would like to discuss, and five minutes to discuss the event. Then I will come back into the video call and give you further instructions. Do you have any questions?</em></p>
-<p>If no questions, proceed.</p>
+- Researcher will press record on the Zoom application. <img src="images/zoom_parent_child_interaction/3.png" alt="" /> Wait to hear the audio Zoom confirmation <em>“this meeting is now being recorded”</em> and view recording in progress at top left of screen to ensure recording is live. <img src="images/zoom_parent_child_interaction/4.png" alt="" />
+- Researcher will “hide self view” <img src="images/zoom_parent_child_interaction/2.png" alt="" />
+- Researcher will lower the volume on their computer (but do not mute computer volume entirely), and mute their audio on Zoom.
+- Researcher will start timer for 5 minutes. At the end of 5 minutes, reenter camera view and turn up volume on researcher’s computer.</p>
+<p><em>Researcher: Thank you for taking the time to discuss something difficult. Next we are going to take some film of you talking about something nice. On your piece of paper is a list of fun things that parents and children sometimes do together. I will give you a moment to read the list and pick something that you would like to plan to do together. Then after about one minute, you will start discussing the things you have selected and try to plan them. You do not need to tell us what you chose to discuss, and it does not matter if you choose something from this list, or decide to choose something else. I’ll be there while you choose, but once we start recording I am going to step out out of the room to be away from the camera view and lower the volume on my computer so I won’t be watching or listening during your conversation. I am not going to respond to you during this time. I will give you a total of five minutes once the recording begins. Take 1 minute now to choose.</em></p>
 <p>Step 4:
-Researcher keeps the recording going on Zoom and lowers the volume on the computer, and mutes their audio on Zoom before leaving the room.</p>
+- Researcher set timer for 1 minute (mute self).</p>
+<p><em>Ok, now it’s time to get started. Remember, try to plan whatever fun thing you talk about for the next five minutes. After, I will come back into the video call and give you further instructions. Do you have any questions?</em></p>
+<p>If no questions, proceed.</p>
 <p>Step 5:
+- Researcher will press record on the Zoom application. <img src="images/zoom_parent_child_interaction/3.png" alt="" /> Wait to hear the audio Zoom confirmation <em>“this meeting is now being recorded”</em> and view recording in progress at top left of screen to ensure recording is live. <img src="images/zoom_parent_child_interaction/4.png" alt="" />
+- Researcher will “hide self view” <img src="images/zoom_parent_child_interaction/2.png" alt="" />
+- Researcher will lower the volume on their computer (but do not mute computer volume entirely), and mute their audio on Zoom.
+- Researcher will start timer for 5 minutes. At the end of 5 minutes, reenter camera view and turn up volume on researcher’s computer.</p>
+<p>Step 6:
 Researcher reenters the room and back into camera view, turns up volume on the computer, and stops the recording on Zoom. <img src="images/zoom_parent_child_interaction/5.png" alt="" /> You will view this notification in the upper right hand corner that states the recorded file will be converted to mp4 once the meeting ends. <img src="images/zoom_parent_child_interaction/6.png" alt="" /> Move the child/adolescent and parent onto the next task in the session, as the video will not be saved until after the session is complete.</p>
 <p><strong>Please visit &quot;Post-Online Session Protocols to view instructions on how to save the video recording.</strong></p>
 <div id="plan-b" class="section level4">
@@ -793,7 +838,8 @@ Researcher reenters the room and back into camera view, turns up volume on the c
 </div>
 <div id="protocol---halloween-training" class="section level3">
 <h3>Protocol - Halloween Training</h3>
-<p><em>So to get started on this next part about your child’s learning and memory, we will have you log go back to that “LINKS EMAIL” we sent right before the session to access a link to the activity. Once you find the email, please click on the link under “Child Learning and Memory” and let me know once you have done this.</em></p>
+<p><em>Now we are done with the group activity. Next we will move on to some individual activities, where you the parent will complete some surveys while your child plays a computer game. The computer game is about your child’s learning and memory so it is important they dont get help from you! We actually prefer you don’t watch the screen so you dont know which pictures they see. If you recall the example from our powerpoint at the beginning of this session, this will be the time that your child will see some pictures on the screen</em></p>
+<p><em>So to get your child setup for the computer game, we will have you log go back to that “LINKS EMAIL” we sent right before the session to access a link to the activity. Once you find the email, please click on the link under “Child Learning and Memory” and let me know once you have done this.</em></p>
 <p>[Wait for them to pull up the Gorilla task]</p>
 <p>If necessary - the link can be found <a href="https://research.sc/participant/login/20451/publicid">here</a>.</p>
 <p>[Then, confirm they are on the right page] <em>You should be seeing a login screen that asks you to enter your participant ID screen.</em></p>
@@ -801,21 +847,16 @@ Researcher reenters the room and back into camera view, turns up volume on the c
 <img src="images/halloween/7.png" alt="" />
 <p class="caption"><!--- Halloween login screen ---></p>
 </div>
-<p><em>You can now enter your MBB number on the screen</em></p>
-<p>[Once confirmed, let the parent know they can start on their surveys and the child can run through the task] <em>Great! That sounds right. So, you can get started on the task while [child’s name] runs through this activity for about 15-20 minutes. It will tell you once the task is over, and we can regroup!</em></p>
-<p>[If particiapnts do not seem to check-in with researcher after ~15 minutes, ask if they have any questions] <em>Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?</em></p>
-<p>[Once the Halloween training is complete, you may proceed to Height]</p>
+<p><em>You can now enter your MBB number on the screen, but don’t click start yet.</em></p>
 <hr />
 </div>
 <div id="protocol---parent-questionnaires" class="section level3">
 <h3>Protocol - Parent Questionnaires</h3>
-<p>Next, advise the parent to continue onto their parent questionnaires during Child Halloween training and test, and Child questionnaires.</p>
-<p><em>This next part is about your child’s learning and memory so it is important they dont get help from you! We actually prefer you don’t watch the screen so you dont know which pictures they see. If you recall the example from our powerpoint at the beginning of this session, this will be the time that your child will see some pictures on the screen</em></p>
-<p>[Researcher to bring back up powerpoint slide with example Halloween stimuli if requested]</p>
-<p><em>While you wait for your child to complete their task, you can get started on some parent surveys. So now I will ask you to reach into your Session Package and pull out the booklet titled “Parent Survey Booklet” and a pencil to fill these out.</em></p>
+<p><em>While your child is doing the game, you can get started on some parent surveys. So now I will ask you to reach into your Session Package and pull out the booklet titled “Parent Survey Booklet” and a pencil to fill these out.</em></p>
 <p>[Wait for parent to pull the parent survey booklet out]</p>
-<p><em>We ask that you please fill the surveys out in the order that they are presented. This next part with your child will take around 15-20 minutes and I will notify you when we are finished with this next part. Don’t worry- you will have time to return to the surveys during another part of this session! Once we get your child get set up with the activity, you can work on the survey booklet.</em></p>
-<p>Make sure the parent knows that some of the questionnaires are Parent Proxy (about their child(ren)) and others are Parent Self (about themselves).</p>
+<p><em>We ask that you please fill the surveys out in the order that they are presented. Some of these surveys are about your child and some of these surveys are about you. The game will take around 15-20 minutes and I will notify you when we are finished. Don’t worry - you will have time to return to the surveys during another part of this session! You can go ahead and work on the surveys now and your child can start the game. It will tell you once the game is over, and we can regroup!</em></p>
+<p>[If participants do not seem to check-in with researcher after ~15 minutes, ask if they have any questions] <em>Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?</em></p>
+<p>[Once the Halloween training is complete, you may proceed to Height]</p>
 <hr />
 </div>
 <div id="protocol---height-1" class="section level3">
@@ -832,7 +873,7 @@ Researcher reenters the room and back into camera view, turns up volume on the c
 <li>Have parent ensure heels of child/adolescent are up against the wall/frame</li>
 <li>Use a flat object (booklet, ruler, sheet of paper, etc.) to accurately mark the height on the wall/frame</li>
 <li>Use the paper measuring tape to scale up the wall and measure the height marking</li>
-<li>Record height on Lab Session Checklist</li>
+<li>Record height on Online Session Checklist</li>
 </ul>
 <hr />
 </div>
@@ -858,7 +899,7 @@ Researcher reenters the room and back into camera view, turns up volume on the c
 <li>Keep the tape snug around the waist, but not compressing the skin</li>
 <li>Have participant breathe in</li>
 <li>Measure the participant’s waist just after they breathe out</li>
-<li>Record waist measurement on Lab Session Checklist</li>
+<li>Record waist measurement on Online Session Checklist</li>
 </ul>
 <hr />
 </div>
@@ -990,8 +1031,8 @@ Researcher reenters the room and back into camera view, turns up volume on the c
 <h3>Protocol - Child Questionnaires</h3>
 <div id="ages-8" class="section level4">
 <h4>Ages 8+</h4>
-<p><em>Next, we will move on to some Child Surveys. I will ask you to now reach into your Session Package and pull out the “Child Survey Booklet” and a pencil.</em></p>
-<p>[Wait for participant to retrieve child survey booklet and pencil]</p>
+<p><em>Next, we will move on to some Child Surveys. I will ask you to now to pull up the link to the child surveys from your email.</em></p>
+<p>[Wait for participant to pull up REDCap]</p>
 <p>[To the child, say] <em>Please fill the surveys and the questions out in order. Let me know if anything is confusing, or if you have any questions! Let us know when you are all done!</em></p>
 <p>[To the parent, say] <em>At this point, you may continue on your parent survey booklet.</em></p>
 </div>
