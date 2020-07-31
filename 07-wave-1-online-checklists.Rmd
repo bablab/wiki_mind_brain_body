@@ -23,23 +23,39 @@
 
 **Calendar**
 
-- Create MBB calendar event session 1 and session 2 and invite researcher
-- Create MBB calendar event to mail study package to participant
-- Create MBB calendar event session 1 reminder 1 (email) (1 week prior)
-- Create MBB calendar event session 1 reminder 2 (email and call) (3 days prior)
-- Create MBB calendar event session 1 links email (day of first session- right before)
-- Create MBB calendar event to send session 2 confirmation email (email) (day of first session- right after)
-- Create MBB calendar event session 2 reminder 1 (call) (day before second session)
-- Create MBB calendar event to send session 2 reminder 1 (email) (day of second session- right before)
+- Create MBB session calendar events (and invite researcher)
+  - *MBBXXX - Online Session 1*
+    - Add *Status: Incomplete* to the description
+    - Add *Session 1 Links Email Sent: Incomplete* to the description
+    - Add *Status Of Package: Not Received* to the description
+  - *MBBXXX - Online Session 2*
+    - Add *Status: Incomplete* to the description
+    - Add *Session 2 Confirmation Email Sent: Incomplete* to the description
+    - Add *Session 2 Links Email Sent: Incomplete* to the description
+- Create MBB mailing calendar event 
+  - *MBBXXX - Mail Package*
+- Create MBB reminder calendar events
+  - *MBBXXX - Session 1 Reminder 1 (email)* - 1 week prior
+  - *MBBXXX - Session 1 Reminder 2 (email and call)* - 3 days prior
+  - *MBBXXX - Session 2 Reminder 1 (email) * - 3 days before second session
+  - *MBBXXX - Session 2 Reminder 2 (call)* - 2 days before second session
 
 **Reminders**
 
-- Send session 1 reminder 1 email (in templates - attach next steps, consent/assent, zoom instructions, researcher information, "What is involved in this study?" video, confirm if package is received)
-- Send session 1 reminder 2 email (in templates - attach previous, confirm if package is received)
+- Send *Session 1 Reminder 1* email
+  - In templates - attach next steps, consent/assent, zoom instructions, researcher information, "What is involved in this study?" video
+  - Confirm package is received
+- Send *Session 1 Reminder 2* email
+  - In templates - attach previous 
+  - Confirm package is received
 - Confirm package is delivered and received
 - Confirm participant
    - Preferably by phone
-   - Update session 1 calendar status
+   - Update *Session 1* calendar status
+- Send *Session 2 Reminder 1* email
+- Confirm participant
+  - Preferably by phone
+  - Update *Session 2* calendar status
    
 ------------
 
@@ -53,13 +69,13 @@ NOTE: Printing can be done in black and white.
 - Print [What is in this package?]
 - Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers)
 - Print/Staple Parent Questionnaire Booklet (in this order)
-  1. Parent Questionnaire Cover Page/Parent Proxy Intro 
+  1. Parent Questionnaire Cover Page / Parent Proxy Intro 
   2. pedsql_gi_parentproxy
   3. pedsql_wb_parentproxy
-  4. peds1l_f_parentproxy
+  4. pedsql_f_parentproxy
   5. easy_revised
   6. cshq_revised
-  7. mb_metadat
+  7. mb_metadata
   8. med_check
   9. pds
   10. dhws
@@ -67,19 +83,13 @@ NOTE: Printing can be done in black and white.
   12. cssi (for children under 8)
   13. fci
   14. iai
-  15. Demographics
+  15. demographics
   16. financial
-  17. Parent Self Intro 
-  18. bdi
-  19. parent_stress
-  20. COVID_objective
-- Print/Staple Child Questionnaire Booklet (in this order)
-  1. Child Questionnaire Cover Page
-  2. ss
-  3. cpic
-  4. alexithymia
-  5. cssi (for children over 8)
-  6. bce_revised
+  17. covid_objective (parentproxy version)
+  18. parenting_stress
+  19. Parent Self Intro 
+  20. bdi
+  21. covid_objective (parentself version)
 - Print/Staple Online Session Booklet (in this order)
   1. Online Session Cover page
   2. Fill in codes on [Participant Info Brochure](https://ucla.app.box.com/file/665449085502)
