@@ -66,32 +66,34 @@
 
 NOTE: Printing can be done in black and white.
 
-- Print [What is in this package?]
+- Print [What is in this magic box and what goes back to the lab?]
 - Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers)
 - Print/Staple Parent Questionnaire Booklet (in this order)
   1. Parent Questionnaire Cover Page / Parent Proxy Intro 
   2. pedsql_gi_parentproxy
   3. pedsql_wb_parentproxy
   4. pedsql_f_parentproxy
-  5. easy_revised
-  6. cshq_revised
-  7. mb_metadata
-  8. med_check
-  9. pds
-  10. dhws
-  11. hpq
-  12. cssi (for children under 8)
-  13. fci
-  14. iai
-  15. demographics
-  16. financial
-  17. covid_objective (parentproxy version)
-  18. parenting_stress
-  19. Parent Self Intro 
-  20. bdi
-  21. covid_objective (parentself version)
-- Print/Staple Online Session Booklet (in this order)
-  1. Online Session Cover page
+  5. easy (revised)
+  6. tesi (revised)
+  7. cbcl (revised)
+  8. cshq (revised)
+  9. mb_metadata
+  10. med_check
+  11. pds
+  12. dhws
+  13. hpq
+  14. cssi (for children under 8)
+  15. fci (only adopted)
+  16. iai (only internationally adopted)
+  17. financial
+  18. demographics
+  19. covid_objective (parentproxy version)
+  20. parent_stress
+  21. Parent Self Intro 
+  22. bdi
+  23. covid_objective (parentself version)
+- Print/Staple Session 1 Booklet (in this order)
+  1. Session 1 Cover page
   2. Fill in codes on [Participant Info Brochure](https://ucla.app.box.com/file/665449085502)
   3. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
   5. [Child Measurement Sheet](https://ucla.app.box.com/file/689380736637)
@@ -100,8 +102,8 @@ NOTE: Printing can be done in black and white.
   8. [Waist Measurement Instruction](https://ucla.app.box.com/file/689387420907)
   9. Saliva Sample Instructions Sheet
   10. [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
-- Print/Staple Home Session Booklet (in this order)
-  1. Home Session Cover Page
+- Print/Staple Session 2 Booklet (in this order)
+  1. Session 2 Cover Page
   2. [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
   3. Stool Sample Instructions Sheet
   4. [Bristol Stool Scale](https://app.box.com/file/630326499609) and label with participant ID (MBB Specific Version)
@@ -127,8 +129,8 @@ NOTE: Printing can be done in black and white.
 
 #### Setup - 1 Hour Prior
 
-- Prepare session scripts/protocol
-- Prepare Online session checklist with counterbalance order
+- Pull up session scripts/protocol
+- Prepare Session 1 checklist with counterbalance order
 - Have the Participant's MBB and secondary MBB number on hand
 - Preload the following tabs on researcher's computer:
    - Consent/Assent picture slideshow
@@ -171,24 +173,24 @@ NOTE: Printing can be done in black and white.
 
 ### Checklist - Post-Session 1 
 
-#### Reminders
-
-- Session 2 Confirmation Email sent with Zoom link, researcher info (right after Session 1)
-- Session 2 reminder 1 phone call made (day before Session 2)
-- Session 2 reminder 1 email sent with Zoom link (right before Session 2)
-
 #### Notes
 
 - Make note of issues to discuss (if needed) in Boxnote for next core meeting
 
 #### Filing
 
-- "Scan" online session checklist and file in participant folder
+- "Scan" Session 1 checklist and file in participant folder
 - Transfer and rename Zoom recording to Box
+
+#### Reminders
+
+- Session 2 Confirmation Email sent with Zoom link, researcher info (right after Session 1)
+- Session 2 reminder 1 phone call made (day before Session 2)
+- Session 2 reminder 1 email sent with Zoom link (right before Session 2)
 
 ------------
 
-### Cheklist - Session 2 
+### Checklist - Session 2 
 
 - Halloween test delay completed
 - Stool sample questions answered 
