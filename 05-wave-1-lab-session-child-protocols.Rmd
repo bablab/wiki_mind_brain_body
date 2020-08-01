@@ -12,13 +12,15 @@
 - Look at the skeleton diagram and use the EL-PREP Gel to abrade the skin around the remaining electrode sites (below the collarbones, below the sternum, on the left lower ribs, and in the remaining two positions on the stomach and left ribs)
 - Clean the remaining EL-PREP off with a tissue or baby wipe
 - Prep 8 electrodes with Gel 100. Stick to the locations indicated on the skeleton diagram
-- Let all electrodes sit for the duration of the interaction filming task
+- Let all electrodes sit for the duration of the parent/child observation
+
+![<!--- physiology diagram --->](images/physiology/1.png)
 
 #### GSR
 
 - Put on gloves
 - Ensure that the finger electrodes are properly adhered and have had time to rest
-- Make sure the lead wire module is connected to the transmitter (PPGED, blue sticker) in the “EDA” channel
+- Make sure the lead wire module is connected to the transmitter (PPGED, green sticker) in the “EDA” channel
 - Take the transmitter and secure it around the participant’s wrist as shown below
 - Hook up the lead wires so that the black wire connects to the middle finger and the red wire connects to the ring finger
 - Ask the participant to wear a glove over the whole setup to secure it throughout the tasks
@@ -34,7 +36,7 @@
 #### EGG
 
 - Ensure that the chest electrodes are properly adhered and have had time to rest.
-- Make sure the lead wires are connected to the transmitter (EGG2-R, red sticker). The lead module labelled “A” (3 short leads) should be in the EGG A channel, while the lead module labelled “B” (2 long leads) should be in the EGG B channel.
+- Make sure the lead wires are connected to the transmitter (EGG2-R, blue sticker). The lead module labelled “A” (3 short leads) should be in the EGG A channel, while the lead module labelled “B” (2 long leads) should be in the EGG B channel.
 - Take the transmitter and secure it around the participant’s stomach as show below.
 - Hook up the lead wires so that the “A” and “B” channel white leads connect to the sternum electrodes (which goes to which does not matter),  the “A” and “B” channel red leads connects to the upper left rib electrode and stomach electrode, and the “B” channel black lead connects to the remaining lower left rib electrode.
 
@@ -199,7 +201,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Place participant directly against wall/frame
 - Advise participant to stand up straight
 - Make sure heels of participant are up against the wall/frame 
-- Use a flat object (booklet, ruler, sheet of paper, etc.) to accurately measure height in inches 
+- Use a flat object (booklet, ruler, sheet of paper, etc.) to accurately measure height in centimeters 
 - Record height on Lab Session Checklist 
 
 --------
@@ -207,6 +209,9 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ### Protocol - Hair Sample
 
+#### Training video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iRv1VMdRdeI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Set Up Hair Sample Station
 - Ensure the hair-sample station is set up accordingly:
@@ -220,7 +225,6 @@ If the task exits due to an error, take a screenshot of the error screen and mes
     - 1 pair of gloves
     - 2 alligator curl clips
     - 1 hair claw clip (for long hair)
-    - 1 printed copy of the [Hair-Care Practice Questionnaire](https://app.box.com/file/630323877918)
     - Sample hair amount taken from wig
 
 #### Prior to Getting Hair Sample 
@@ -255,7 +259,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Label the root-end on the aluminum foil and place it in the ziplock bag.
 - Label the ziplock bag with the participant’s ID.
-- Store the sample in a dry area at room temperature.
+- Store the sample in a dry area at room temperature (in the plastic folder under the participant ID in cabinet 1).
 
 
 **Medium-Hair Protocol (3-6cm)**
@@ -273,7 +277,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Label the root-end on the aluminum foil and place it in the ziplock bag.
 - Label the ziplock bag with the participant’s ID.
-- Store the sample in a dry area at room temperature.
+- Store the sample in a dry area at room temperature (in the plastic folder under the participant ID in cabinet 1).
 
 **Long-Hair Protocol (>6cm)**
 
@@ -286,14 +290,14 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Label the root-end on the aluminum foil and place it in the ziplock bag.
 - Label the ziplock bag with the participant’s ID.
-- Store the sample in a dry area at room temperature.
+- Store the sample in a dry area at room temperature (in the plastic folder under the participant ID in cabinet 1).
 
 ------------
 
 ### Protocol - Weight
 
 - Instruct participant to step on weight scale
-- Measure weight
+- Measure weight (in kg)
 - Record weight on Lab Session Checklist
 
 ---------
@@ -306,7 +310,6 @@ Sample Storage:
 - Log the location (grid) on the sample storage log
 
 ---------------
-
 
 ### Protocol - Memory Generalization
 
@@ -345,7 +348,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 - Make sure measuring tape is horizontal around the waist and even in the front and back 
 - Keep the tape snug around the waist, but not compressing the skin
 - Have participant breathe in
-- Measure the participant’s waist just after they breathe out
+- Measure the participant’s waist just after they breathe out (in cm)
 
 ------------
 
@@ -366,7 +369,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 - Make one recording for the WASI and one for the WIAT
 - Say the following:
     
-    *“We’re going to be doing a few things today, like playing some word games and answering some math questions. Some of these things might be really easy for you, but some might be hard. Most people do not answer every question correctly or finish every item, but please try your best. Do you have any questions?”*
+*“We’re going to be doing a few things today, like playing some word games and answering some math questions. Some of these things might be really easy for you, but some might be hard. Most people do not answer every question correctly or finish every item, but please try your best. Do you have any questions?”*
 
 #### WASI
 
@@ -379,42 +382,42 @@ Markers for physiology have been included for each trial type (object neutral, o
     
 - For ALL of our participants, we will skip the visual stimuli and go straight to the words (they are all ages 6+). Point to the words and say them aloud to the participant, asking 
 
-  *“What does ____ mean?” or “What is ____?”*
+*“What does ____ mean?” or “What is ____?”*
   
 - Record answers in the WASI Score Sheet. Score by comparing their response with the Manual’s response criteria. If
 - Once the end criteria are met (3 consecutive 0’s) OR the participant hits the max score for their age group (for age 6, item 22; for ages 7-11, item 25; for ages 12-14, after item 28), say: 
 
-  *“Okay, we are going to stop there and move on to the next task.”*
+*“Okay, we are going to stop there and move on to the next task.”*
   
 - Open the WASI Stimulus Book to Matrix Reasoning
 - Say the following:
     
-  *“Now we’re going to look at some patterns, and I want you to tell me which picture completes the pattern.     If there’s one you don’t know, we can skip it.”*
+*“Now we’re going to look at some patterns, and I want you to tell me which picture completes the pattern.     If there’s one you don’t know, we can skip it.”*
   
 - Flip to Sample Item A and ask “Which one of these items here (motion to the bottom row) goes here (motion to the blank space)?” Correct and teach if the participant gets the question wrong.
 - Repeat for Sample Item B.
 - If the child is 6-8 years old, start at Item 1. If the child is 9+, start at item 4. For each item, ask the same question as above, but do not give feedback or teach if they got the question wrong. Record answers in the WASI Score Sheet. 
 - Once the end criteria (3 consecutive 0’s) are met OR the participant hits the max score for their age group (for ages 6-8, item 24), say: 
 
-   *“Okay, we are going to stop there and move on to the next task.”*
+*“Okay, we are going to stop there and move on to the next task.”*
 
 #### WIAT
 
 - Next, get the WIAT Word Reading List and the WIAT Score Sheet
 - Say the following:
     
-  *“Now you’re going to read some words out loud for me. Please read off of this list left to right, top to bottom just like a book (motion along with the directions as you say them). If you read all of the words on the front, flip over to the back and continue the same way. Go at your own pace, and say the words as clearly as you can. If there’s one you don’t know, we can skip it. Any questions?”*
+*“Now you’re going to read some words out loud for me. Please read off of this list left to right, top to bottom just like a book (motion along with the directions as you say them). If you read all of the words on the front, flip over to the back and continue the same way. Go at your own pace, and say the words as clearly as you can. If there’s one you don’t know, we can skip it. Any questions?”*
   
 - Hand the word card to the participant and begin recording their answers in the WIAT Score Sheet. Keep track of self-corrections, responses taking longer than 3 seconds, and ask for repeat pronunciations if they are sounding out the word or ambiguous.
 - Once the end criteria (4 consecutive 0’s) are met, say: 
 
-  *“Okay, we are going to stop there and move on to the next task.”*
+*“Okay, we are going to stop there and move on to the next task.”*
   
 - Lastly, get the WIAT Math Booklet
 - Ask the participant what grade they are in in school
 - Say the following:
     
-  *“Now, I want you to solve some math problems. Start here (motion to the appropriate item, item 1 for Grade 1, Item 14 for Grades 2-4, Item 18 for Grades 5+) and work left to right, top to bottom. If you get to a problem you don’t know, just skip it. Continue on and let me know when you’re finished. Any questions?”*
+*“Now, I want you to solve some math problems. Start here (motion to the appropriate item, item 1 for Grade 1, Item 14 for Grades 2-4, Item 18 for Grades 5+) and work left to right, top to bottom. If you get to a problem you don’t know, just skip it. Continue on and let me know when you’re finished. Any questions?”*
   
 - When they have indicated they’re complete, take all of their materials and put them back in their folder. Congratulate them and let them know they did well.
 
@@ -432,7 +435,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 - Participant must wash hands. 
    - Use water as hot as participant can stand and interlace fingers and rub together while washing as shown in photo to increase circulation in the hands.
 
-       ![<!--- dbs --->](images/dbs/1.png)
+![<!--- dbs --->](images/dbs/1.png)
  
 - Prepare collection area. It should look like this:
 
@@ -454,15 +457,14 @@ Markers for physiology have been included for each trial type (object neutral, o
    - moving your hand acts as the pointer/cursor
    - to make selections, use the large bumper button on the back or press down the touchpad at the top of the controller
 
-      ![<!--- dbs --->](images/dbs/3.jpeg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![<!--- dbs --->](images/dbs/4.jpeg) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      *Touchpad*      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Back bumper*
+![<!--- dbs --->](images/dbs/3.jpeg) *Touchpad*   
+
+![<!--- dbs --->](images/dbs/4.jpeg) *Back bumper*
 
    -  to scroll, move your finger up and down on the touch pad
    -  to go back to the movie selection list, press the upper round button below the touchpad
       
-      ![<!--- dbs --->](images/dbs/5.jpeg)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      *Back button*
-
+![<!--- dbs --->](images/dbs/5.jpeg) *Back button*
 
 - To put on the headset, loosen the side velcro straps and ask the child to hold the goggles in a comfortable position on their face. If the child wears glasses, they should be fine to use the headset while wearing them.
 - Tighten the straps so that the headset stays on its own but isn’t uncomfortable for the child to wear.
@@ -536,15 +538,6 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 - Record the incident in the Incident and Near Miss Log in the Biosafety Manual.
 
 *Note: Keep an extra set of clothes or shoes available to replace contaminated items.*
-
-
-#### Storage of Protein Cards
-
-- Using a new drape, place the protein cards along the long horizontal midline of the drape.
-- Lightly fold the drape in half along the midline, covering the protein cards but ensure no contact between the drape and the blood spots (i.e. ensure complete exposure of the blood spots).
-- Leave the protein cards to dry for 8-24 hours. 
-- After drying, close the protein cards with the flap (make sure each one is labeled with participant ID, date and card number), and place each card in a separate ziplock bag with a silica gel pack. 
-- Place the bags in the BABLab freezer box in the -80˚C freezer in room C454 (key in BABLab lockbox). 
 
 ---------------
 

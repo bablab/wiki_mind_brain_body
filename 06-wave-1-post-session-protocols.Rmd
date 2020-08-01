@@ -12,7 +12,11 @@
 
 -----------------
 
-### Protocol - Stool Sample
+### Protocol - Stool Sample Storage
+
+#### Training Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PR0U60j3uso" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Sample Quality 
 
@@ -33,7 +37,6 @@
     - Long pants
     - Hair tied back
     
-
 - Prepare your station and ensure that you have the following:
     - Drape
     - 2.0mL cryogenic vials 
@@ -41,7 +44,6 @@
     - Test tube racks
     - Transport box with divider
     - Sharpie for labeling
-
 
 **Steps:**
 
@@ -60,6 +62,16 @@
 - Bring the transport box to C454 where the -80˚C freezer is located (key in BABLab Lock Box).
 - Place the 2.0mL vials in their designated space in the freezer box (in accordance to the Sample Storage Log Diagram). 
 - Log the sample in the [Sample Storage Log](https://app.box.com/file/630322897864).  
+
+-----------------
+
+### Protocol - DBS Sample Storage
+
+- Using a new drape, place the protein cards along the long horizontal midline of the drape.
+- Lightly fold the drape in half along the midline, covering the protein cards but ensure no contact between the drape and the blood spots (i.e. ensure complete exposure of the blood spots).
+- Leave the protein cards to dry for 8-24 hours. 
+- After drying, close the protein cards with the flap (make sure each one is labeled with wave #, participant ID, date and card number), and place each card in a separate ziplock bag with a silica gel pack. 
+- Place the bags in the BABLab freezer box in the -80˚C freezer in room C454 (key in BABLab lockbox). 
 
 -----------------
 
