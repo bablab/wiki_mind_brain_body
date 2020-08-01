@@ -5,10 +5,11 @@ date: "Updated on: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [references.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+nocite: | 
+  @*
 description: "These are the notes, logs, and protocols for the Mind, Brain, Body study at the Brain and Body Lab at UCLA"
 ---
 

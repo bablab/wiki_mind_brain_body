@@ -90,6 +90,95 @@ Participants choose events from these two lists:
 
 ### Tasks
 
+#### Halloween
+
+The idea from this task comes from four papers:
+
+
+1. Tambini & Davachi - enhanced brain correlations at rest are associated with long term memory. Based on the results of this paper, Callaghan, Tottenham and Davachi developed the task that Bridget subsequently used for the K99 grant. See details below. https://www.ncbi.nlm.nih.gov/pubmed/20152133
+2. Brunec et al., (2018) - Multiple scales of representation along the hippocampal anteroposterior axis in humans. The analysis used in this paper - representational granularity - we adopted for my K99 project. https://www.cell.com/current-biology/fulltext/S0960-9822(18)30618-3
+3. Results of the K99 project - in the K99, across typical development, we found that during an associative learning task (contexts paired with objects or faces) there were different levels of granularity in the anterior third vs. posterior third of the hippocampus - where representations were more granular in the posterior than anterior and that this granularity increased across age. Although we have not yet analyzed the brain in PI youth, we have seen interesting behavior associations with adversity. Specifically, we see an age x adversity interaction on memory retention, where PI children have better long term memory retention, which becomes normalized by adolescence. 
+4. Lambert et al., (2019) - altered development of hippocampus dependent associative learning following early life adversity. https://sdlab.fas.harvard.edu/files/sdlab/files/lambert_et_al._-_2019_-_altered_development_of_hippocampus-dependent_assoc.pdf. In this paper they found that adversity (violence exposed youth) were impaired in hippocampus associative memory only when the item (faces) were angry. That is, when threat cues were present, they suggested that is hijacked encoding and made more elemental and less context integrated. 
+
+In the R00, I wanted to continue looking at the association between granularity in the anterior vs. posterior hippocampus and long term memory retention. However, rather than do the exact same task as the in the K99, I wanted to include a component that looked at the role of emotion in processing. One way to do this is doing the same item + context task as I did during the K99, but having one of the runs of the task being emotional or threatening in some way. 
+
+Idea for the halloween game:
+
+Items will be toys and sweets, and the contexts will either be scary or not scary. This is different than the Lambert study in that her contexts were neutral and the items (i.e., faces) were angry or not. So therefore the scary item prevented the processing of the context. In this version, the context will be scary and the item will be neutral - so will the context hijack the processing and make the scary run harder for adversity exposed kids to learn the association? Or will it be the opposite, heightening attention and improving learning? 
+
+Structure of the game: 
+Children will be told that they are going to play a halloween game. In one run, they will see bright and cheery indoor and outdoor scenes, and in the next run the scenes will be dark and haunted looking. They will be told that their job is to collect the toys and sweets and remember what house the toys/sweets came from. 
+
+![<!--- halloween --->](images/information/measures/tasks/halloween/1.png)
+
+
+This is the basic structure of each block. First there is a fixation cross for 1 second, then a house will appear on the screen for 500ms, then the house+toy/sweets will appear on the screen for an addition 2.5 seconds (total of 3 seconds for the house and the house+toy/sweet, then there will be a baseline period that is jittered in length. The baseline is jittered in the MRI but it will be a fixed length of 1 seconds in the lab-based version of the task. In the MRI the active baseline will involve pressing buttons to indicate the direction of arrows on the screen, in the lab-based version of the task, it involves simply looking at a fixation dot.
+
+There will be two blocks (day, and night). The day block is the emotionally neutral block, whereas the night block is the scary block. Each block has 20 trials (10 are the house + toy, 10 are the house + sweets). The toys/sweets that are paired with the houses are not counterbalanced, but the order of the blocks will be counterbalanced between participants (some will have day then night, and the rest will have night then day). 
+
+As an added layer to this task, we will not only pair an item with a house, but we will place it on top of the house in one quadrant. To encode a detailed associative memory, the individual will need to remember what item was paired with the house and then what quadrant it was in. For this test, a picture of a house will be shown along with 3 choices for which item matches with the house, one being correct and 2 serving as filler “foils.” The two “foil” options are items from other houses, so the child will have seen them before. Each item will both be a correct answer for the house it was initially paired with and a foil answer for two other houses throughout the trial. Additionally, the child will have to recall which quadrant the selected item was in on the house. The quadrants appear 
+
+For the recognition test there should be an equal number of foils as target items. 
+
+-----------------
+
+#### Discrimination / Conditioning / Extinction
+
+This task has two purposes. 
+
+
+1. The first is to simply look at threat learning and extinction in children and adolescents across typical development and after adversity exposure. This has been done many times before, but we will also have children attached to an electrogastrogram (EGG - which is completely novel), GSR (sweat - which is the common measure), and heart rate (which is somewhat common but less so in the conditioning literature) while they and learning and extinguishing. 
+2. The second purpose of the task is to look at how conditioning and extinction affect perceptual thresholds. This is built from a large literature in adults showing that threat learning can lead to a broadening or narrowing of tuning curves following threat conditioning, depending on the specific parameters in place (more narrowing - i.e., better, occurs when a discriminatory conditioning procedure is employed and where the CS- and the CS+ and really different; more broadening occurs when the CS- and the CS+ are similar and when there is not explicit discriminative conditioning. We are going to employ a form of conditioning that has been shown to lead to perceptual broadening in adults. 
+
+Past literature: 
+This paper by Shalev (2018) demonstrates the effect we are trying to test in children/adolescents. They use an across sensory modality procedure (CSs = auditory, USs = visual) and between subjects design (control group = CS+ are positive/neutral, and experiments group where CS+ are negative) with pre/post perceptual tuning curves to determine the effect of threat learning on sensory discrimination. 
+
+The basic task structure:
+
+![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/1.png)
+
+The task and results:
+
+They find that when the CS+ is paired with the aversive picture, people show a deterioration in their ability to discriminate the CS+ from tones that are similar to it, whereas they show very little change in their ability to discriminate the CS- from tones that are similar to it. They saw the same thing with gabors that differed in contrast (right) and lines that differed in orientation (left). 
+
+![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/2.png)
+![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/3.png)
+![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/4.png)
+
+Current Task Structure: 
+
+We will use an approach where we pair aversive/pleasant noises (USs) with lines at different orientations (CSs). In the control group the noise will be pleasant or neutral. In the experimental group the noise will be aversive. 
+
+![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/5.png)
+
+The timeline of the task will be as follows: 
+
+![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/6.png)
+
+
+Norrholm, S. D., Jovanovic, T., Olin, I. W., Sands, L. A., Karapanou, I., Bradley, B., & Ressler, K. J. (2011). Fear Extinction in Traumatized Civilians with Posttraumatic Stress Disorder: Relation to Symptom Severity. Biological Psychiatry, 69(6), 556–563. https://doi.org/10.1016/j.biopsych.2010.09.013
+    - 56 total trials
+    
+Norrholm, S. D., Jovanovic, T., Vervliet, B., Myers, K. M., Davis, M., Rothbaum, B. O., & Duncan, E. J. (2006). Conditioned fear extinction and reinstatement in a human fear-potentiated startle paradigm. Learning & Memory, 13(6), 681–685. https://doi.org/10.1101/lm.393906
+    - 72 total trials
+    
+Schiller, D., Kanen, J. W., LeDoux, J. E., Monfils, M.-H., & Phelps, E. A. (2013). Extinction during reconsolidation of threat memory diminishes prefrontal cortex involvement. Proceedings of the National Academy of Sciences, 110(50), 20040–20045. https://doi.org/10.1073/pnas.1320322110
+    - 32 total trials
+    
+Phelps, E. A., Delgado, M. R., Nearing, K. I., & LeDoux, J. E. (2004). Extinction Learning in Humans: Role of the Amygdala and vmPFC. Neuron, 43(6), 897–905. https://doi.org/10.1016/j.neuron.2004.08.042
+    - 34 total trials
+
+Jovanovic, T., Nylocks, K. M., Gamwell, K. L., Smith, A., Davis, T. A., Norrholm, S. D., & Bradley, B. (2014). Development of fear acquisition and extinction in children: effects of age and anxiety. Neurobiology of learning and memory, 113, 135–142. doi:10.1016/j.nlm.2013.10.016
+
+The experimental protocol consisted of two phases: fear acquisition and extinction. The sessions were separated by 10 minutes. The acquisition phase consisted of 3 blocks, each with 3 CS+ trials, 3 CS− trials, and 3 noise alone (NA, no CS presented during startle probe) trials, for a total of 27 startle trials. Both CSs were colored shapes presented on a computer monitor for 6000 ms prior to the delivery of the startle probe, and co-terminated with the US 500 ms after the presentation of the startle stimulus. The CS+ was reinforced with the airblast 100% of the time. The extinction phase consisted of 4 blocks with 3 trials of each type. The CSs were same as above, except that the CS+ was no longer paired with the airblast. In all phases of the experiment, inter-trial intervals will be randomized between 9 and 22 seconds
+
+| Person            | Role                                                                                                              |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Bridget           | Developed concept                                                                                                 |
+| Psychopy tutorial | The structure of the staircase                                                                                    |
+| Paul Bloom        | Helped to adapt the staircase (changed from sequential to serial, centered stimuli, randomized order, added mask) |
+| Emily Towner      | Building the task and completing the staircase                                                                    |
+
 -----------------
 
 ### Tests

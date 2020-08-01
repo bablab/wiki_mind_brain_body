@@ -57,9 +57,8 @@
 To find out where participants are in the recruitment process, there are several lists. 
 ![<!--- recap_screening --->](images/redcap_screening/7.png)
 1. Click on “Record Status Dashboard”
-![<!--- recap_screening --->](images/redcap_screening/8.png)
 2. Participants who have been enrolled will be listed in the Enrollment - Wave 1 list
-3. Participants in the process of recruitment will be listed in one of the 4 Recruitment lists
+3. Participants in the process of recruitment will be listed in one of the 4 Recruitment lists for the appropriate wave
     - *These lists are populated based on the individuals “Screen Status” so be sure to update after each contact!
 
 <h4>List Types</h4>
@@ -76,3 +75,34 @@ If a parent has a concern about the study before the session, send the email tem
 - [MBB - CONCERNS]
 
 ----------------
+
+### Protocol - Calendar
+
+- Lab session events format
+   - W1 MBBXXX - Lab Session
+        - MBBXXX - Sex, Age #, Group
+        - Status: Scheduled / Confirmed / Completed
+        - Arrival: X AM
+- Lab session reminders format
+    - W1 MBBXXX - Lab Reminder 1 (email)
+        - Status: Incomplete / Complete
+    - W1 MBBXXX - Lab Reminder 2 (Email & Call) 
+        - Status: Incomplete / Complete
+- Home session reminders format
+    - W1 MBBXXX - Home Reminder 1 (Call) 
+        - Status: Incomplete / Complete
+    - W1 MBBXXX - Home Reminder 1 (Email)
+        - Status: Incomplete / Complete
+    - W1 MBBXXX - Home Reminder 2 (Email)
+        - Status: Incomplete / Complete
+    - W1 MBBXXX - Home Reminder 3 (Email)
+        - Status: Incomplete / Complete
+        
+----------------
+
+### Protocol - Home Kit Assembly
+        
+Please refer to the diagram below for the complete list of items in a home kit:
+
+![<!--- home_kit --->](images/home_kit/1.jpeg)
+

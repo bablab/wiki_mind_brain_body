@@ -134,85 +134,16 @@ Researcher reenter the room, switch the iPad off and move the child/adolescent t
 
 #### Parent Proxy
 
+Parents will complete REDCap questionnaires for each child.
+
 #### Parent Self
+
+Parents will complete REDCap questionnaires about themselves only once (under eldest child's [lower number] ID)
 
 -------------
 
 ### Protocol - Home Kit
 
-Please refer to the diagram below for the complete list of items in a home kit:
-
-![<!--- home_kit --->](images/home_kit/1.jpeg)
-
-
-- Take a white paper gift bag and paste a BABLab sticker at the center of the bag (one side only).
-- Take a blue mailer and paste a FedEx slip on the front. Label the mailer with “Exempt Human Specimen” and the participant ID.
-- Label the following 4 items with the participant ID and put them in the blue mailer:
-   - a gut kit
-   - a toilet hat
-   - an oral kit
-   - a biohazard bag
-- Put two MBB note cards (one biological and one adoption) in the gift bag.
-- Print and insert the Bristol Stool Scale. 
-- Print, fill-out and insert MBB brochure.
+Explain to the parent what is included in the home kit / home session and how to collect the stool sample.
 
 ----------
-
-### Protocol - Participant Payment
-
-**Participant Reimbursement Signature**
-
-#### Setting up the iPad
-
-
-- To obtain participant’s signature for payment receipt form, log into the BABLab iPad 1 or 2 with the password “0719”.
-- Make sure the Apple Pencil is paired with the iPad by going into “Settings” and then selecting “Bluetooth”, ensuring that “Apple Pencil” is connected.
-
-
-   ![<!--- payment --->](images/payment/1.jpeg)
-- If the Apple Pencil is not connected, remove the cap of the pencil and insert it into the charging port of the iPad. A pop-up should appear to ask you to “pair” the devices.
-
-    ![<!--- payment --->](images/payment/2.jpeg)
-
-
-#### Obtaining Signature
-
-- Click the “Acrobat” app on the iPad.
-
-   ![<!--- payment --->](images/payment/3.jpeg)
-
-- Select the file “Payment Receipt Signature Form BABLab”.
-
-   ![<!--- payment --->](images/payment/4.jpeg)
-   
-- Double tap the screen with the pencil. Ensure the pen icon is selected and fill in the payment receipt number. Now the form is ready to be filled out by the participant. 
-
-    ![<!--- payment --->](images/payment/5.jpeg)
-
-- Ask the participant to fill out every highlighted spaces (except for the payment receipt #).
-- After every space has been completed, click “Done” on the top left corner. 
-
-   ![<!--- payment --->](images/payment/6.jpeg)
-
-#### Saving Form
-
-- Click the “share” icon. 
-
-   ![<!--- payment --->](images/payment/7.jpeg)
- 
-- Click “Share a Copy” at the bottom.
-
-   ![<!--- payment --->](images/payment/8.jpeg)
-   
-- Click “AirDrop” to send the file to “Brain’s MacBook Air”.
-
-  ![<!--- payment --->](images/payment/9.jpeg)
-  
-- Save the file to a folder named “Reimbursement_signed” on the MacBook Air.
-- Return to the iPad and tap the screen once. A box should appear that selects all the participant’s input. Clear the input by clicking on the trash icon on the top right.
-
-    ![<!--- payment --->](images/payment/10.jpeg)
-
-- Now the file in Acrobat on the iPad is ready to be used for the next participant. 
-
------------------
