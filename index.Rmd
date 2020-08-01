@@ -1,7 +1,7 @@
 --- 
 title: "Mind, Brain, Body"
-author: "Emily Towner, Kristen Chu"
-date: "`r Sys.Date()`"
+author: "By: Bridget Callaghan, Emily Towner, Kristen Chu"
+date: "Updated on: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -12,15 +12,10 @@ github-repo: rstudio/bookdown-demo
 description: "These are the notes, logs, and protocols for the Mind, Brain, Body study at the Brain and Body Lab at UCLA"
 ---
 
-# Introduction
+# 
 
-The Mind, Brain, Body study looks at how early caregiving experiences influence the emotional, cognitive, and brain development, as well as physical health and wellness.
+![<!--- MBB Banner --->](images/index/banner.png)
+
+The Mind, Brain, Body study looks at how early caregiving experiences influence emotional, cognitive, and brain development, as well as physical health and wellness.
 
 The study also explores how the bacteria that live inside us (the microbiome) are connected to the development of our brains and bodies.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
