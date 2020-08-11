@@ -128,17 +128,23 @@ If a parent has a concern about the study before the session, send the email tem
 
 *Note that #1 and #4 are the default settings (so those don't have to be changed).
 
+#### Activating participant on Gorilla
 
-#### Sending the "LINKS EMAIL”
+1. Log in to Gorilla
+2. Navigate to Projects/MBB/MBB_wave_1_online
+3. Navigate to the participants tab
+4. Click "Activate" for the designated participant
 
-- Fill out "MBB_online- LINKS EMAIL" with the following information:
-    - link to consent redcap
-    - link to child gorilla game
-    - link to hair sample video
-    - link to covid-19 qual responses (optional)
-    - link to fedex locations for drop-off afterwards
-    - zoom link 1 again
-- Send LINKS EMAIL to participant
+
+![<!--- Zoom Security --->](images/gorilla/1.png)
+
+![<!--- Zoom Security --->](images/gorilla/2.png)
+
+![<!--- Zoom Security --->](images/gorilla/3.png)
+
+![<!--- Zoom Security --->](images/gorilla/4.png)
+
+![<!--- Zoom Security --->](images/gorilla/5.png)
 
 -----------------
 

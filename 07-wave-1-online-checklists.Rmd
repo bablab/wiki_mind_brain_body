@@ -145,6 +145,7 @@ NOTE: Printing can be done in black and white.
    - link to COVID-19 Qualitative Responses on REDCap
    - Zoom link for Session 1
 - Send the "[MBB_online - LINKS EMAIL] UCLA Mind, Brain, Body Study (online)" to the participant
+- Activate the participant's ID on Gorilla
 
 --------------
 
