@@ -183,6 +183,7 @@ NOTE: Printing can be done in black and white.
 
 - "Scan" Session 1 checklist and file in participant folder
 - Transfer and rename Zoom recording to Box
+- Download and copy behavioral task data (from Gorilla) to participant folder (raw)
 
 #### Reminders
 

@@ -14,6 +14,32 @@ There will be three files in the folder- find the mp4 file and click open to ens
 Step 4:
 Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/11.png)
 
+### Protocol - Downloading the Gorilla task data
+
+1. Login to Gorilla and navigate to the experiment's data tab.
+
+![<!--- Gorilla Data Download --->](images/gorilla/6.png)
+
+2. If data is up to date, you can go ahead and click download. 
+
+![<!--- Gorilla Data Download --->](images/gorilla/7.png)
+
+3. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data".
+
+![<!--- Gorilla Data Download --->](images/gorilla/8.png)
+
+4. You will see a wait screen as it generates.
+
+![<!--- Gorilla Data Download --->](images/gorilla/9.png)
+
+5. After a few minutes click into "Manage experiment data" again and download. 
+
+- Unzip the file to your desktop. The first and third files are the task data we need. 
+- Open the first file, and delete the rows for all participants except the participant in question.
+- Save the file in the participants Box folder as "MBBXXX_halloween_training.csv"
+- Open the third file, and delete the rows for all participants except the participant in question.
+- Save this file in the participants Box folder as "MBBXXX_halloween_test.csv"
+
 ### Protocol - Session 2 Confirmation Email
 
 - If session scheduling has not changed, copy Zoom link and Session 2 time information into Session 2 Confirmation Email and send
