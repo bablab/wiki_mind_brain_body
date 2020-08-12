@@ -61,7 +61,7 @@
 
 ### Checklist - Pre-Session 1
 
-#### Package preparation
+#### Package preparation: "magic box"
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
 
 NOTE: Printing can be done in black and white.
@@ -70,25 +70,25 @@ NOTE: Printing can be done in black and white.
 - Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers)
 - Print/Staple Parent Questionnaire Booklet (in this order)
   1. Parent Questionnaire Cover Page / Parent Proxy Intro 
-  2. pedsql_gi_parentproxy
-  3. pedsql_wb_parentproxy
-  4. pedsql_f_parentproxy
-  5. easy (revised)
-  6. tesi (revised)
-  7. cbcl (revised)
-  8. cshq (revised)
-  9. mb_metadata
-  10. med_check
-  11. pds
-  12. dhws
-  13. hpq
-  14. cssi (for children under 8)
-  15. fci (only adopted)
-  16. iai (only internationally adopted)
-  17. financial
-  18. demographics
-  19. covid_objective (parentproxy version)
-  20. parent_stress
+  2. demographics
+  3. financial
+  4. covid_objective (parentproxy version)
+  5. pedsql_gi_parentproxy
+  6. pedsql_wb_parentproxy
+  7. pedsql_f_parentproxy
+  8. easy (revised)
+  9. tesi (revised)
+  10. cbcl (revised)
+  11. cshq (revised)
+  12. mb_metadata
+  13. med_check
+  14. pds
+  15. dhws
+  16. hpq
+  17. parent_stress
+  18. cssi (for children under 8)
+  19. fci (only adopted)
+  20. iai (only internationally adopted)
   21. Parent Self Intro 
   22. bdi
   23. covid_objective (parentself version)
@@ -112,13 +112,14 @@ NOTE: Printing can be done in black and white.
 - Label 2 biohazard bags (with 2 cotton balls in each bag)
 - Label 1 cardboard box (for samples)
 - Label hair sample kit (aluminum foil 7"x7", painter's tape with "root end" labeled, 1 ziplock bag pre-labeled with participant ID)
-- Label stool sample collection kit (collection tube, toilet hat)
+- Label stool sample collection kit (paper clip collection tube and toilet hat together)
 - Label saliva sample collection kit (collection tube)
-- Insert MBB info cards
+- Insert MBB info card
 - Attach FedEx slip to return mailer
 - Label return mailer with "exempt human specimen" (in sharpie)
 - Take picture of prepaid blue return mailer (marked with MBB number) and file in participant data folder on Box
-- Insert all labeled items and forms into blue return mailer
+- Insert all labeled items and forms for post-session in blue return mailer
+- Insert all labeled items and forms for session itself in magic box
 - Insert blue return mailer into study package
 - Tape package closed and put BABLAB sticker on (if enough supplies)
 - Take a picture of study package with tracking information to file on Box

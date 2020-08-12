@@ -385,6 +385,13 @@ Participants can also watch the video below:
 - Be sure to indicate the correct screen to share, NOT sharing full desktop ![<!--- Zoom Screenshare --->](images/zoom_screenshare/2.png)
 - Researcher will read through all questionnaires with children and indicate their responses on REDCap
 
+
+-----------------
+
+### Protocol - Multiple Child Sessions
+
+If there are multiple participants in one session, refer back to top of protocols for MBB Online Session 1 from this point on. Repeat all protocols for each child, then proceed to Protocol - Home Session once the last child has finished their questionnaires. 
+
 -----------------
 
 ### Protocol - Home Session
