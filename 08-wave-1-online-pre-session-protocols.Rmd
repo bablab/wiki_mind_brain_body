@@ -104,14 +104,15 @@ If a parent has a concern about the study before the session, send the email tem
 #### Package creation
 
 - There will be a designated "package mailing day" one day a week in which the Lab Manager will go into the lab to prepare necessary materials and send out packages from scheduled participants in the last week, on the same package mailing day.
-- Once the package has been created and sealed, it is time to bring the package down to Tyler's office in the Psychology building.
+- Once the package has been put together, it is time to bring the package down to Tyler's office in the Psychology building OR to the UCLA MDDS.
 - To mail the package to the participant, you will need the following information:
     - Recharge ID
     - Participant name
     - Participant mailing address
 - From Tyler's office, you will receive a FedEx label in which you can write this information
+- At MDDS, they will package your materials for you. 
 - Take a picture of the FedEx label and upload to Box
-- Leave the package in Tyler's office for FedEx pickup
+- Leave the package in Tyler's office for FedEx pickup/MDDS to mail out 
 
 #### Zoom security Settings
 
