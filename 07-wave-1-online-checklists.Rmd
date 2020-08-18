@@ -1,10 +1,10 @@
 # Wave 1 Online
 
-## Checklists
+## Checklists Online
 
 -----------
 
-### Checklist - Initial
+### Checklist - Initial Online
 
 **Scheduling and Confirmation**
 
@@ -26,7 +26,6 @@
 - Create MBB session calendar events (and invite researcher)
   - *MBBXXX - Online Session 1*
     - Add *Status: Incomplete* to the description
-    - Add *Session 1 Links Email Sent: Incomplete* to the description
     - Add *Status Of Package: Not Received* to the description
   - *MBBXXX - Online Session 2*
     - Add *Status: Incomplete* to the description
@@ -94,14 +93,12 @@ NOTE: Printing can be done in black and white.
   23. covid_objective (parentself version)
 - Print/Staple Session 1 Booklet (in this order)
   1. Session 1 Cover page
-  2. Fill in codes on [Participant Info Brochure](https://ucla.app.box.com/file/665449085502)
-  3. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
-  5. [Child Measurement Sheet](https://ucla.app.box.com/file/689380736637)
-  6. [Height Measurement Instruction](https://ucla.app.box.com/file/689385482411)
-  7. [Weight Measurement Instruction](https://ucla.app.box.com/file/689387417719)
-  8. [Waist Measurement Instruction](https://ucla.app.box.com/file/689387420907)
-  9. Saliva Sample Instructions Sheet
-  10. [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
+  2. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
+  3. [Height Measurement Instruction](https://ucla.app.box.com/file/689385482411)
+  4. [Weight Measurement Instruction](https://ucla.app.box.com/file/689387417719)
+  5. [Waist Measurement Instruction](https://ucla.app.box.com/file/689387420907)
+  6. Saliva Sample Instructions Sheet
+  7. [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
 - Print/Staple Session 2 Booklet (in this order)
   1. Session 2 Cover Page
   2. [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
@@ -121,32 +118,29 @@ NOTE: Printing can be done in black and white.
 - Insert all labeled items and forms for post-session in blue return mailer
 - Insert all labeled items and forms for session itself in magic box
 - Insert blue return mailer into study package
-- Tape package closed and put BABLAB sticker on (if enough supplies)
+- Tape package closed and put BABLAB sticker on 
 - Take a picture of study package with tracking information to file on Box
-- Mail package to participant
-
+- Mail "Magic Box" package to participant
 
 ------------
 
 #### Setup - 1 Hour Prior
 
 - Pull up session scripts/protocol
-- Prepare Session 1 checklist with counterbalance order
+- Activate the participant's ID on Gorilla
+- Prepare Session 1 checklist on google forms
 - Have the Participant's MBB and secondary MBB number on hand
-- Preload the following tabs on researcher's computer:
-   - Consent/Assent picture slideshow
-   - Hair Sample Collection video
-   - REDCap with child questionnaire codes ready
+- Preload the Consent/Assent picture slideshow on researcher computer
 - Prepare biological sample kits for demonstration during session
    - hair sample, saliva sample, stool sample
 - Ensure researcher's Zoom security settings are set for study session
-- Fill out the "[MBB_online - LINKS EMAIL] UCLA Mind, Brain, Body Study (online)" email with the following links:
-   - link to Consent on REDCap
+- Have the following links ready to send to the Participant throughout the session: 
+   - link to Consent on REDCap with codes ready
    - link to Child's Gorilla Game
-   - link to COVID-19 Qualitative Responses on REDCap
+   - link to child questionnaires on REDCap with codes ready
+    - link to COVID-19 Qualitative Responses on REDCap with codes ready
    - Zoom link for Session 1
-- Send the "[MBB_online - LINKS EMAIL] UCLA Mind, Brain, Body Study (online)" to the participant
-- Activate the participant's ID on Gorilla
+
 
 --------------
 
@@ -165,11 +159,11 @@ NOTE: Printing can be done in black and white.
 - Saliva sample
 - Hair sample
 - Child Questionnaires
+- Qualitative parent and child free responses (optional)
 - Stool Sample explanation
 - Contact list explanation
 - Confirm mailing address for payment
 - Schedule time to complete post-session tasks ~1 week post-session
-- Qualitative parent and child free responses (optional)
 
 ------------
 
@@ -203,7 +197,7 @@ NOTE: Printing can be done in black and white.
 
 --------
 
-### Checklist - Final
+### Checklist - Final Online
 
 #### Filing 
 

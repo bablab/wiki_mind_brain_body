@@ -1,19 +1,19 @@
 ## Protocols - Final
 
-### Protocol - Saliva Sample Storage
+### Protocol - Storing Saliva Sample 
 
 - Screw lids on very tight (to prevent evaporation)
 - Log the location (grid) on the sample storage log
 
 -----------------
 
-### Protocol - Hair Sample Storage
+### Protocol - Storing Hair Sample 
 
 - Store the sample in a dry area at room temperature
 
 -----------------
 
-### Protocol - Stool Sample Storage
+### Protocol - Storing Stool Sample
 
 #### Sample Quality 
 
@@ -64,7 +64,7 @@
 
 -----------------
 
-### Protool - Data Entry & Quality
+### Protocol - Data Entry & Data Quality
 
 #### Data Entry
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKdWA0ABOrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,7 +75,7 @@
 
 -----------------
 
-### Protocol - Data Review & Audit 
+### Protocol - Data Review & Data Audit 
 
 #### Follow-Up (completed by Scheduling Coordinator)
 
