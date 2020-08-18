@@ -1,6 +1,6 @@
 ## Protocols - Pre-Session 1 
 
-### Protocol - Recruitment 
+### Protocol - Recruitment Online
 
 #### Pre-Screening
 
@@ -99,7 +99,7 @@ If a parent has a concern about the study before the session, send the email tem
 
 ----------------
 
-### Protocol - Session Preparation
+### Protocol - Session Preparation 
 
 #### Package creation
 
