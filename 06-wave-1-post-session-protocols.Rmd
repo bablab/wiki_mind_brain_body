@@ -129,7 +129,7 @@
 **If Good Sample:**
 
 - Send payment, thank you letter, and certificate via mail. 
-- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items). 
+- Send [MBB - PAID] email and attach thank you letter, certificate, and report card (including outstanding items). 
 - Move to *Paid* list.
 - One week after payment is sent, check outstanding items do Audit Call #1. 
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
@@ -140,7 +140,7 @@
 **If Bad Sample:**
 
 - Send payment, thank you letter, and certificate via mail. Include a new stool sample kit. 
-- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
+- Send [MBB - PAID] email and attach thank you letter, certificate, and report card (including outstanding items - emphasize stool sample kit). 
 - Move to *Paid* list in Trello.
 - One week after payment is sent, check outstanding items do Audit Call #1. 
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
@@ -150,7 +150,7 @@
 
 **If No Sample:**
 
-- Send [MBB - UNPAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
+- Send [MBB - UNPAID] email and attach thank you letter, certificate, and report card (including outstanding items - emphasize stool sample kit). 
 - Leave participant on Unpaid list.
 - If stool sample recieved - send payment, thank you letter, and certificate via mail and move to *Paid* list.
 - If stool sample not received, one week after email is sent, check outstanding items do Audit Call #1. 
