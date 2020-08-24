@@ -124,6 +124,8 @@
 - Once card has been created, do Data Review.
 - After completing Data Review, move card to *Good Sample*, *Bad Sample*, or *No Sample* list based on the stool sample.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z_mQGyguaEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Data Audit (completed by Lab Manager #2)
 
 **If Good Sample:**
