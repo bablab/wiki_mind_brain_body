@@ -258,8 +258,8 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Place loose hairs in foil and fold it securely. Do not tape the hair to the foil.
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Label the root-end on the aluminum foil and place it in the ziplock bag.
-- Label the ziplock bag with the participant’s ID.
-- Store the sample in a dry area at room temperature (in the plastic folder under the participant ID in cabinet 1).
+- Label the ziplock bag with the participant’s ID and Wave.
+- Store the sample in a dry area at room temperature (in the plastic folder under the participant IDin cabinet 1).
 
 
 **Medium-Hair Protocol (3-6cm)**
@@ -276,7 +276,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Label the root end on the tape. 
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Label the root-end on the aluminum foil and place it in the ziplock bag.
-- Label the ziplock bag with the participant’s ID.
+- Label the ziplock bag with the participant’s ID and Wave.
 - Store the sample in a dry area at room temperature (in the plastic folder under the participant ID in cabinet 1).
 
 **Long-Hair Protocol (>6cm)**
@@ -289,7 +289,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 - Label the root end on the tape. 
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Label the root-end on the aluminum foil and place it in the ziplock bag.
-- Label the ziplock bag with the participant’s ID.
+- Label the ziplock bag with the participant’s ID and Wave.
 - Store the sample in a dry area at room temperature (in the plastic folder under the participant ID in cabinet 1).
 
 ------------

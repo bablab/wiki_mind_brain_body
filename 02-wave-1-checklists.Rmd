@@ -80,7 +80,7 @@
    - Insert oral kit
    - Insert biohazard bag
    - Insert Bristol Stool Scale
-   - Label all items with participant ID (in sharpie)
+   - Label all items with participant ID and Wave (in sharpie)
    - Insert MBB info cards (adopted and bio)
    - Attach FedEx slip to mailer
    - Label padded mailer with “Exempt human specimen” (in sharpie)
