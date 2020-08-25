@@ -8,7 +8,33 @@
 
 *Our session today should take around 1 hour long. In addition to what we do here today, there will be a follow up zoom appointment with us one week from now. At that appointment, we will reconnect on a second Zoom call in which your child will log on for 10 minutes and complete a computer game.*
 
-*Sounds good? Let’s get started!*
+*Sounds good? Let’s get started! I am first going to walk through some technical things, then I will do a little presentation of all the things we have planned for the session today!*
+
+*So first, I'll just ask- have you ever used Zoom before?*
+
+[If yes, say] *Great! So you are probably familiar with the different functions here, but I will just give you a little refresher on some buttons we will need for today. The most important thing you need to be aware of is the "chat" button below. If you click on it, a chat box should open- I will be using this throughuot the session to send you imporant links. You may already know this, but you can also display your camera so that it is in gallery view or speaker view in the top right corner. I think it might be best for you to do speaker view so it will feel more like we are in the room together!*
+
+[If no, say] *No problem! Welcome to Zoom- it is very easy to use! The most important thing you need to be aware of is the "chat" button below. If you click on it, a chat box should open- I will be using this throughuot the session to send you imporant links. You can also display your camera so that it is in gallery view or speaker view in the top right corner. I think it might be best for you to do speaker view so it will feel more like we are in the room together!*
+
+[Get them to have the links email open just in case]
+
+*You should have received an email from us right before this session full of links for today. Can you please pull that up to have it ready just in case? I will be sending you all of these links through the Zoom chat, but it will a good reference in case we have any technical difficulties! Once you have it up, you can co ahead and minimize the window.*
+
+[Try to get the best internet connection possible.]
+
+*Are you working on a computer that is connected via ethernet cable? We want to ensure you have the best internet connection possible for the session, as we will be doing many activities today that may need strong internet connection.*
+
+[If so, proceed]
+
+[If not, say] *Thats alright! If possible, can you please move to the best area of your house for internet connection?* 
+
+[Troubleshooting...]
+
+*Great! If for any reason, we lose each other over Zoom, the connection seems to be bad, or one of us freezes, lets leave the session and try to reconnect on the same link again. If I am frozen- feel free to leave and come back. If you leave and I don;t see you come back, I will try to give you a phone call!*
+
+*How does that sound? Do you have any questions?*
+
+[If no, say] *Great! Lets switch gears and talk a little bit about what we are going to do today. Let me just pull up a little presentation we have got!* 
 
 [Researcher to open up the [MBB_Consent_Script_Presentation](https://ucla.app.box.com/file/689404174873)]
 
@@ -60,7 +86,9 @@
 
 *All set and any questions?*
 
-[IF NO,] *Please click to indicate your consent/assent and submit the REDCap form. You may press submit once you are finished to “send in the form.”*
+[IF NO,] *Please click to indicate your consent/assent and verbally let us know each of the items you have consented/not consented for, so we can adjust the session in case there is something you/your child may not feel up for today!*
+
+*You may press submit once you are finished to “send in the form.”*
 
 Researcher to grab magic box.
 
@@ -360,7 +388,7 @@ Participants can also watch the video below:
 - Place loose hairs in foil and fold it securely. Do NOT tape the hair to the foil.
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Ensure the root-end on the aluminum foil is labeled and place it in the ziplock bag.
-- Ensure the ziplock bag is labeled with the participant’s ID.
+- Ensure the ziplock bag is labeled with the participant’s ID and Wave.
 
 **Medium-Hair Protocol (3-6cm)- advise parent to:**
 
@@ -376,7 +404,7 @@ Participants can also watch the video below:
 - Label the root end on the tape.
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Ensure the root-end on the aluminum foil is labeled and place it in the ziplock bag.
-- Ensure the ziplock bag is labeled with the participant’s ID.
+- Ensure the ziplock bag is labeled with the participant’s ID and Wave.
 
 **Long-Hair Protocol (> 6cm)- advise parent to:**
 
@@ -388,7 +416,7 @@ Participants can also watch the video below:
 - Label the root end on the tape.
 - Fold the foil without bending the hair, and ensure that the hair does not fall out of the foil.
 - Ensure the root-end on the aluminum foil is labeled and place it in the ziplock bag.
-- Ensure the ziplock bag is labeled with the participant’s ID.
+- Ensure the ziplock bag is labeled with the participant’s ID and Wave.
 
 *Now we are all done with the hair sample! You can go ahead and put another star on your token board!*
 
@@ -396,11 +424,23 @@ Participants can also watch the video below:
 
 ### Protocol - Child Questionnaires Online
 
+#### IF THERE IS NOT ENOUGH TIME
+
+- If parents want to cut time, questionnaires can be done at another time, unless we have to read the surveys to the child through share-screen. (This applies to children who may have trouble reading, or are under the age of 8.)
+
 #### Ages 8+
 
-*Next, we will move on to some Child Surveys. I am going to send you a link through the Zoom chat for you to access your surveys! We are ALMOST done with the session, and these surveys will not take too long- there should only be around 5!*
+*Next, we will move on to some Child Surveys. How comfortable do you feel with reading? Would you like to do the surveys all on your own, or would you like it better if we read through them together?*
+
+[If the child wants to do it together, refer to instructions under AGES 6-7 below]
+
+[If the child wants to do it on their own, say] *I am going to send you a link through the Zoom chat, with a code you will input to access the survey! We are ALMOST done with the session, and these surveys will not take too long- there should only be around 5! This should take around 15-20 minutes to complete!*
 
 [Wait for participant to pull up REDCap]
+
+[To the child, say] *Ok! Do you have it up? It should say "Welcome to the Mind, Brain, Body Study" at the top.*
+
+[Confirm the child is on the right page before proceeding.]
 
 [To the child, say] *Please fill the surveys and the questions out in order. Let me know if anything is confusing, or if you have any questions! Let us know when you are all done!*
 
@@ -408,7 +448,7 @@ Participants can also watch the video below:
 
 #### Ages 6-7
 
-*Next, we will move on to some Child Surveys. In a moment, I am going to share my screen  with you, so you can see the survey questions. I will then read out each question and answer choice and [child's name] can tell me your answer. Does that sound okay?*
+*Next, we will move on to some Child Surveys. In a moment, I am going to share my screen  with you, so you can see the survey questions. I will then read out each question and answer choice and [child's name] can tell me your answer. Does that sound okay? This should take around 15-20 minutes to complete!*
 
 *We are ALMOST done with the session, and these surveys will not take too long- there should only be around 4!*
 
@@ -441,7 +481,7 @@ Participants can also watch the video below:
 
 ### Protocol - Home Session 
 
-*At this time, I will now ask you to reach into your Magic Box and pull out your "Home Session Booklet" so I can walk through its contents.*
+*At this time, I will now ask you to reach into your Magic Box and pull out your "Session 1 Booklet" out and flip to the cover page that says "Home Session Booklet" so I can walk through the Home Session instructions*
 
 [Wait for participant to retrieve Home Session Booklet]
 
@@ -449,10 +489,14 @@ Participants can also watch the video below:
   - *In the "Home session booklet" there are instructions for the Stool Sample Collection and a short survey that should be filled out after the stool sample collection. There is a toilet hat and a gut kit in the session package, which are the two major materials you will need for this collection. If you would like, we encourage you to try the stool sample collection this week so if you run into any trouble before the second session, we can answer any questions you might have at that time.*
 - Contact list explanation
   - *In a longitudinal study, information may change in time and we want to ensure we have a way to recontact you for the next wave if you are still interested in joining. The contact list is also in your Home Session Booklet for you to fill out.*
+- Parent Questionnaires
+  - *We know it is a lot to ask, but it would really help us out a lot if you could take a photo of each of the queestionnaires and save them just in case the package you send back to our lab gets lost in the mail! That way, if anything gets lost, we will have a backup of your responses in your photos.* 
+  - If questionnaires get lost in the mail, ask parents to use the *Plan B* in the Parent Child interaction protocol for a "safe upload" to Box 
 - Confirm pre-scheduled time to complete post-session tasks ~1 week post-session
 - Payment
   - Confirm mailing address
   - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
+
 
 -----------------
 
@@ -464,7 +508,7 @@ All children:
 - Height, Weight, Waist 
 - Saliva and Hair sample 
 
-Parent
+Parent (simultaneously)
 
 - Parent surveys
 

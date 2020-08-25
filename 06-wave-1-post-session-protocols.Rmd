@@ -54,7 +54,7 @@
 - Untwist the stool sample collection vial, and carefully pour the sample into the first 2.0mL vial. (It’s okay if the ball does or does not get transferred)
 - Stop pouring when solution reached the 1.8mL line to prevent overflow, and pour the remaining sample (if any) in a second 2.0mL vial. 
 - Cap the 2.0mL vials tightly to prevent spills. 
-- Label the 2.0mL vials with a sharpie, ensure it has the participant ID and vial number.
+- Label the 2.0mL vials with a sharpie, ensure it has the participant ID, Wave, and vial number.
 - Place the labeled 2.0mL vials in the transport box with divider.
 - Close the now-empty stool sample collection vial, put it back in the biohazard bag, and dispose it in the biohazard waste bin. 
 - Clean up work station, dispose the drape, and wipe down the table top with disinfectant wipe.

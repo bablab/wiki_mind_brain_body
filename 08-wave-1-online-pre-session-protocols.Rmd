@@ -40,11 +40,12 @@
 10. Click the screen_status radio button
 ![<!--- recap_screening --->](images/redcap_screening/6.png)
 11. Select the appropriate option
-     - Contact - Participant needs to be re-contacted (add Recruitment Database & ID Drive)
+     - Contact - Participant needs to be re-contacted (add Recruitment Database & ID Drive). Participants who are still too young to participate, or are unavailable at the moment should stay on this list but be set for a future recontact time/date. 
      - Ineligible - Participant not eligible for study
      - To Enroll - Participant to enroll (need to create subject ID, enter subject info, schedule participant, add to Recruitment Database, add to ID Drive)
      - Enrolled - Participant has been enrolled (all above have been completed)
      - To Remove - Participant wants to be removed
+     - Out of Town- Participant lives outside of LA, and will not be returning after the pandemic. This is our "waitlist" of those we will contact if really necessary
 12. Be sure to update the screen status after each contact
      - After 3 contacts (with no response) - review (time of day, contact method, etc.)
 13. If enrolled, proceed to pre-session checklist in the participant log
@@ -90,6 +91,7 @@ To find out where participants are in the recruitment process, there are several
 - Ineligible - Participants are ineligible but interested
 - To Enroll - Participants who have been screened and are eligible to enroll
 - To Remove - Participants who were not interested in being contacted for this or future research
+- Out of Town- Participants who do not live in LA and will not be returning after the pandemic. This is a waitlist of individuals who we may contact if (1) we are behind on recruitment for Wave 1 and will need to just schedule people who we know cannot come back for future waves so we make sure we get data or (2) we have to stay in the pandemic and future waves will be remote. 
 
 #### Concerns
 
