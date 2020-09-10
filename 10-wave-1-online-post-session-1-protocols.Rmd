@@ -38,7 +38,8 @@ Check the External drive for the participant's secondary ID number, and rename a
 - Open the first file, and delete the rows for all participants except the participant in question.
 - Save the file in the participants Box folder as "MBBXXX_halloween_training.csv"
 - Open the third file, and delete the rows for all participants except the participant in question.
-- Save this file in the participants Box folder as "MBBXXX_halloween_test.csv"
+- Save this file in the participants Box folder as "MBBXXX_halloween_test_immediate.csv"
+- The delayed test will be saved as "MBBXXX_halloween_test_delay.csv"
 
 ### Protocol - Session 2 Confirmation Email
 
