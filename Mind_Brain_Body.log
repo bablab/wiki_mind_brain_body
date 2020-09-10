@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  9 SEP 2020 18:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  9 SEP 2020 20:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -134,7 +134,7 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/unicode-math/unicode-math.sty (
 /usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2019-05-07 L3 programming layer (loader) 
+Package: expl3 2019-05-07 L3 programming layer (loader)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2019-05-07 L3 programming layer (code)
 \c_max_int=\count101
@@ -804,18 +804,18 @@ Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Ligatures=TeX,Scale=MatchLowercase,BoldItalicFont={},It
 alicFont={},SmallCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
-(fontspec)              
+(fontspec)
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
-(fontspec)              
+(fontspec)
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=
 DFLT;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=
 DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 83.
@@ -841,20 +841,20 @@ Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 alicFont={},SmallCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,
 Font=latinmodern-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,
 Style=MathScriptScript}},BoldFont={latinmodern-math.otf}].
-(fontspec)              
+(fontspec)
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
-(fontspec)              
+(fontspec)
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <8.5->s*[1]"[latinmodern-math.otf]/OT:script=math;langua
 ge=DFLT;mapping=tex-text;"<6-8.5>s*[1]"[latinmodern-math.otf]/OT:script=math;la
 nguage=DFLT;+ssty=0;mapping=tex-text;"<-6>s*[1]"[latinmodern-math.otf]/OT:scrip
 t=math;language=DFLT;+ssty=1;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=
 DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 83.
@@ -916,16 +916,16 @@ Adjustment={\fontdimen
 (fontspec)             \fontdimen 19\font =2.0pt\relax \fontdimen 22\font
 (fontspec)             =2.5pt\relax \fontdimen 20\font =0pt\relax \fontdimen
 (fontspec)             21\font =0pt\relax }].
-(fontspec)              
+(fontspec)
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
-(fontspec)              
+(fontspec)
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <8.5->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;l
 anguage=DFLT;mapping=tex-text;"<6-8.5>s*[1.0001]"[latinmodern-math.otf]/OT:scri
 pt=math;language=DFLT;+ssty=0;mapping=tex-text;"<-6>s*[1.0001]"[latinmodern-mat
 h.otf]/OT:script=math;language=DFLT;+ssty=1;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
 (fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
@@ -936,11 +936,11 @@ h.otf]/OT:script=math;language=DFLT;+ssty=1;mapping=tex-text;"
 (fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
 (fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
 (fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
-(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             \fontdimen 21\font =0pt\relax
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
 (fontspec)             <->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;lang
 uage=DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =6.77pt\relax \fontdimen 9\font
 (fontspec)             =3.94pt\relax \fontdimen 10\font =4.44pt\relax
@@ -951,7 +951,7 @@ uage=DFLT;mapping=tex-text;"
 (fontspec)             \fontdimen 17\font =2.47pt\relax \fontdimen 18\font
 (fontspec)             =2.5pt\relax \fontdimen 19\font =2.0pt\relax \fontdimen
 (fontspec)             22\font =2.5pt\relax \fontdimen 20\font =0pt\relax
-(fontspec)             \fontdimen 21\font =0pt\relax 
+(fontspec)             \fontdimen 21\font =0pt\relax
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 83.
@@ -1005,30 +1005,30 @@ Adjustment={\fontdimen
 (fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
 (fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
 (fontspec)             \fontdimen 13\font =0pt\relax }].
-(fontspec)              
+(fontspec)
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
-(fontspec)              
+(fontspec)
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <8.5->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;l
 anguage=DFLT;mapping=tex-text;"<6-8.5>s*[0.9999]"[latinmodern-math.otf]/OT:scri
 pt=math;language=DFLT;+ssty=0;mapping=tex-text;"<-6>s*[0.9999]"[latinmodern-mat
 h.otf]/OT:script=math;language=DFLT;+ssty=1;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
 (fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
 (fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
-(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
 (fontspec)             <->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;lang
 uage=DFLT;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
 (fontspec)             and font adjustment code:
 (fontspec)             \fontdimen 8\font =0.4pt\relax \fontdimen 9\font
 (fontspec)             =2.0pt\relax \fontdimen 10\font =1.67pt\relax
 (fontspec)             \fontdimen 11\font =1.11pt\relax \fontdimen 12\font
-(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 8
@@ -1143,17 +1143,17 @@ File: images/information/measures/tasks/halloween/1.png Graphic file (type bmp)
 
 <images/information/measures/tasks/halloween/1.png>
 [16] [17] [18]
-File: images/information/measures/tasks/disc_cond_ext/1.png Graphic file (type 
+File: images/information/measures/tasks/disc_cond_ext/1.png Graphic file (type
 bmp)
 <images/information/measures/tasks/disc_cond_ext/1.png>
 [19]
-File: images/information/measures/tasks/disc_cond_ext/2.png Graphic file (type 
+File: images/information/measures/tasks/disc_cond_ext/2.png Graphic file (type
 bmp)
 <images/information/measures/tasks/disc_cond_ext/2.png>
-File: images/information/measures/tasks/disc_cond_ext/3.png Graphic file (type 
+File: images/information/measures/tasks/disc_cond_ext/3.png Graphic file (type
 bmp)
 <images/information/measures/tasks/disc_cond_ext/3.png>
-File: images/information/measures/tasks/disc_cond_ext/4.png Graphic file (type 
+File: images/information/measures/tasks/disc_cond_ext/4.png Graphic file (type
 bmp)
 <images/information/measures/tasks/disc_cond_ext/4.png>
 
@@ -1170,10 +1170,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 605--608
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [20]
-File: images/information/measures/tasks/disc_cond_ext/5.png Graphic file (type 
+File: images/information/measures/tasks/disc_cond_ext/5.png Graphic file (type
 bmp)
 <images/information/measures/tasks/disc_cond_ext/5.png>
-File: images/information/measures/tasks/disc_cond_ext/6.png Graphic file (type 
+File: images/information/measures/tasks/disc_cond_ext/6.png Graphic file (type
 bmp)
 <images/information/measures/tasks/disc_cond_ext/6.png>
 [21]
@@ -1181,517 +1181,517 @@ Overfull \vbox (118.27278pt too high) has occurred while \output is active []
 
 [22] [23] [24]
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 744--745
-[]\TU/lmr/m/n/10 Wave|  
+[]\TU/lmr/m/n/10 Wave|
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 733--749
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 
 Overfull \hbox (11.30252pt too wide) in paragraph at lines 753--754
-[]\TU/lmr/m/n/10 Child/adolescent 
+[]\TU/lmr/m/n/10 Child/adolescent
  []
 
 
 Overfull \hbox (5.95253pt too wide) in paragraph at lines 753--754
-\TU/lmr/m/n/10 health/affective 
+\TU/lmr/m/n/10 health/affective
  []
 
 
 Overfull \hbox (11.30252pt too wide) in paragraph at lines 766--767
-[]\TU/lmr/m/n/10 Child/adolescent 
+[]\TU/lmr/m/n/10 Child/adolescent
  []
 
 
 Overfull \hbox (20.59253pt too wide) in paragraph at lines 766--767
-\TU/lmr/m/n/10 dren’s/adolescent’s 
+\TU/lmr/m/n/10 dren’s/adolescent’s
  []
 
 
 Overfull \hbox (11.30252pt too wide) in paragraph at lines 779--780
-[]\TU/lmr/m/n/10 Child/adolescent 
+[]\TU/lmr/m/n/10 Child/adolescent
  []
 
 
 Overfull \hbox (11.30252pt too wide) in paragraph at lines 792--793
-[]\TU/lmr/m/n/10 Child/adolescent 
+[]\TU/lmr/m/n/10 Child/adolescent
  []
 
 
 Overfull \hbox (11.09253pt too wide) in paragraph at lines 792--793
-\TU/lmr/m/n/10 dren/adolescents 
+\TU/lmr/m/n/10 dren/adolescents
  []
 
 
 Overfull \hbox (11.30252pt too wide) in paragraph at lines 805--806
-[]\TU/lmr/m/n/10 Child/adolescent 
+[]\TU/lmr/m/n/10 Child/adolescent
  []
 
 
 Overfull \hbox (8.24252pt too wide) in paragraph at lines 805--806
-\TU/lmr/m/n/10 child/adolescent 
+\TU/lmr/m/n/10 child/adolescent
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 749--816
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 [25] [26] [27]
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 855--856
-[]\TU/lmr/m/n/10 Wave|  
+[]\TU/lmr/m/n/10 Wave|
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 844--860
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 
 Overfull \hbox (5.95253pt too wide) in paragraph at lines 864--865
-\TU/lmr/m/n/10 health/affective 
+\TU/lmr/m/n/10 health/affective
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 870--871
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 870--871
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 870--871
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (13.68253pt too wide) in paragraph at lines 875--876
-\TU/lmr/m/n/10 (covid_objective)|  
+\TU/lmr/m/n/10 (covid_objective)|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 883--884
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 883--884
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 860--888
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 [28]
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 904--905
-[]\TU/lmr/m/n/10 Wave|  
+[]\TU/lmr/m/n/10 Wave|
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 893--909
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 
 Overfull \hbox (21.95253pt too wide) in paragraph at lines 913--914
-\TU/lmr/m/n/10 child’s/adolescent’s 
+\TU/lmr/m/n/10 child’s/adolescent’s
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 919--920
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 919--920
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 919--920
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 932--933
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 932--933
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 932--933
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 945--946
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 945--946
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 945--946
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 958--959
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 958--959
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 958--959
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (8.24252pt too wide) in paragraph at lines 965--966
-\TU/lmr/m/n/10 child/adolescent 
+\TU/lmr/m/n/10 child/adolescent
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 971--972
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 971--972
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 971--972
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (21.95253pt too wide) in paragraph at lines 978--979
-\TU/lmr/m/n/10 child’s/adolescent’s 
+\TU/lmr/m/n/10 child’s/adolescent’s
  []
 
 
 Overfull \hbox (5.95253pt too wide) in paragraph at lines 991--992
-\TU/lmr/m/n/10 health/affective 
+\TU/lmr/m/n/10 health/affective
  []
 
 
 Overfull \hbox (3.37253pt too wide) in paragraph at lines 991--992
-\TU/lmr/m/n/10 ious/depressed, 
+\TU/lmr/m/n/10 ious/depressed,
  []
 
 
 Overfull \hbox (13.07253pt too wide) in paragraph at lines 991--992
-\TU/lmr/m/n/10 drawn/depressed, 
+\TU/lmr/m/n/10 drawn/depressed,
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 997--998
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 997--998
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 997--998
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1010--1011
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1010--1011
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1010--1011
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (6.73253pt too wide) in paragraph at lines 1015--1016
-\TU/lmr/m/n/10 (mb_metadata)|  
+\TU/lmr/m/n/10 (mb_metadata)|
  []
 
 
 Overfull \hbox (8.24252pt too wide) in paragraph at lines 1017--1018
-\TU/lmr/m/n/10 child/adolescent 
+\TU/lmr/m/n/10 child/adolescent
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1023--1024
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1023--1024
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1023--1024
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (11.09253pt too wide) in paragraph at lines 1030--1031
-\TU/lmr/m/n/10 dren/adolescents 
+\TU/lmr/m/n/10 dren/adolescents
  []
 
 
 Overfull \hbox (8.44254pt too wide) in paragraph at lines 1030--1031
-\TU/lmr/m/n/10 assays/analyses.|  
+\TU/lmr/m/n/10 assays/analyses.|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1036--1037
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1036--1037
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1036--1037
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1049--1050
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1049--1050
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1049--1050
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (8.24252pt too wide) in paragraph at lines 1056--1057
-\TU/lmr/m/n/10 child/adolescent 
+\TU/lmr/m/n/10 child/adolescent
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1062--1063
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1062--1063
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1062--1063
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (15.23253pt too wide) in paragraph at lines 1069--1070
-\TU/lmr/m/n/10 child/adolescent’s 
+\TU/lmr/m/n/10 child/adolescent’s
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1075--1076
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1075--1076
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1075--1076
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (13.70874pt too wide) in paragraph at lines 1086--1087
-\TU/lmr/m/n/10 (proxy)[children 
+\TU/lmr/m/n/10 (proxy)[children
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1088--1089
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1088--1089
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1088--1089
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (13.95874pt too wide) in paragraph at lines 1099--1100
-\TU/lmr/m/n/10 (proxy)[adopted 
+\TU/lmr/m/n/10 (proxy)[adopted
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1101--1102
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1101--1102
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1101--1102
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (13.95874pt too wide) in paragraph at lines 1112--1113
-\TU/lmr/m/n/10 (proxy)[adopted 
+\TU/lmr/m/n/10 (proxy)[adopted
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1127--1128
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1127--1128
-\TU/lmr/m/n/10 Wave 
+\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (8.20084pt too wide) in paragraph at lines 1127--1128
-\TU/lmr/m/n/10 Online|  
+\TU/lmr/m/n/10 Online|
  []
 
 
 Overfull \hbox (8.09084pt too wide) in paragraph at lines 1140--1141
-[]\TU/lmr/m/n/10 Parent 
+[]\TU/lmr/m/n/10 Parent
  []
 
 
 Overfull \hbox (10.67085pt too wide) in paragraph at lines 1140--1141
-\TU/lmr/m/n/10 (proxy)|  
+\TU/lmr/m/n/10 (proxy)|
  []
 
 
 Overfull \hbox (13.68253pt too wide) in paragraph at lines 1145--1146
-\TU/lmr/m/n/10 (covid_objective)|  
+\TU/lmr/m/n/10 (covid_objective)|
  []
 
 
 Overfull \hbox (17.51253pt too wide) in paragraph at lines 1158--1159
-\TU/lmr/m/n/10 (parenting_stress)|  
+\TU/lmr/m/n/10 (parenting_stress)|
  []
 
 
 Overfull \hbox (8.24252pt too wide) in paragraph at lines 1160--1161
-\TU/lmr/m/n/10 child/adolescent 
+\TU/lmr/m/n/10 child/adolescent
  []
 
 
 Overfull \hbox (23.50253pt too wide) in paragraph at lines 1160--1161
-\TU/lmr/m/n/10 tional/demographic 
+\TU/lmr/m/n/10 tional/demographic
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1166--1167
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (5.42084pt too wide) in paragraph at lines 1166--1167
-\TU/lmr/m/n/10 online|  
+\TU/lmr/m/n/10 online|
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 909--1170
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 [29]
 Overfull \hbox (1.34546pt too wide) in alignment at lines 1170--1171
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1192--1193
-[]\TU/lmr/m/n/10 Wave|  
+[]\TU/lmr/m/n/10 Wave|
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 1181--1197
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 
 Overfull \hbox (70.88252pt too wide) in paragraph at lines 1199--1200
-\TU/lmr/m/n/10 (written_response_parentself)|  
+\TU/lmr/m/n/10 (written_response_parentself)|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1207--1208
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (20.43085pt too wide) in paragraph at lines 1207--1208
-\TU/lmr/m/n/10 [optional]|  
+\TU/lmr/m/n/10 [optional]|
  []
 
 
 Overfull \hbox (20.79253pt too wide) in paragraph at lines 1212--1213
-\TU/lmr/m/n/10 (written_response)|  
+\TU/lmr/m/n/10 (written_response)|
  []
 
 
 Overfull \hbox (2.40085pt too wide) in paragraph at lines 1220--1221
-[]\TU/lmr/m/n/10 Wave 
+[]\TU/lmr/m/n/10 Wave
  []
 
 
 Overfull \hbox (20.43085pt too wide) in paragraph at lines 1220--1221
-\TU/lmr/m/n/10 [optional]|  
+\TU/lmr/m/n/10 [optional]|
  []
 
 
 Overfull \hbox (1.34546pt too wide) in alignment at lines 1197--1225
- [] [] [] [] [] [] 
+ [] [] [] [] [] []
  []
 
 [40] [41] [42] [43] [44
@@ -1709,7 +1709,7 @@ File: images/redcap_screening/1.png Graphic file (type bmp)
 <images/redcap_screening/1.png>
 
 Overfull \hbox (236.56511pt too wide) in paragraph at lines 1882--1885
-[]\TU/lmr/m/n/10 To screen a new participant click “Add / Edit Records” [] 
+[]\TU/lmr/m/n/10 To screen a new participant click “Add / Edit Records” []
  []
 
 
@@ -1720,7 +1720,7 @@ File: images/redcap_screening/2.png Graphic file (type bmp)
 <images/redcap_screening/2.png>
 
 Overfull \hbox (56.16548pt too wide) in paragraph at lines 1902--1904
-\TU/lmr/m/n/10 a new record [] 
+\TU/lmr/m/n/10 a new record []
  []
 
 
@@ -1731,7 +1731,7 @@ File: images/redcap_screening/3.png Graphic file (type bmp)
 <images/redcap_screening/3.png>
 
 Overfull \hbox (60.83553pt too wide) in paragraph at lines 1918--1920
-\TU/lmr/m/n/10 quent contact [] 
+\TU/lmr/m/n/10 quent contact []
  []
 
 File: images/redcap_screening/4.png Graphic file (type bmp)
@@ -1755,7 +1755,7 @@ File: images/redcap_screening/6.png Graphic file (type bmp)
 <images/redcap_screening/6.png>
 
 Overfull \hbox (159.38324pt too wide) in paragraph at lines 1949--1952
-[]\TU/lmr/m/n/10 Click the screen_status radio button [] 
+[]\TU/lmr/m/n/10 Click the screen_status radio button []
  []
 
 
@@ -1796,7 +1796,7 @@ File: images/ksads/5.png Graphic file (type bmp)
 <images/ksads/5.png>
 
 Overfull \hbox (74.77399pt too wide) in paragraph at lines 2312--2315
-\TU/lmr/m/n/10 lect “Duplicate”. [] 
+\TU/lmr/m/n/10 lect “Duplicate”. []
  []
 
 
@@ -1807,7 +1807,7 @@ File: images/ksads/6.png Graphic file (type bmp)
 <images/ksads/6.png>
 
 Overfull \hbox (94.534pt too wide) in paragraph at lines 2317--2320
-\TU/lmr/m/n/10 and select “Rename”. [] 
+\TU/lmr/m/n/10 and select “Rename”. []
  []
 
 
@@ -1839,7 +1839,7 @@ File: images/halloween/5.png Graphic file (type bmp)
 <images/halloween/5.png>
 
 Overfull \hbox (187.6301pt too wide) in paragraph at lines 2611--2614
-\TU/lmr/m/n/10 the participant is in the “night first” group. [] 
+\TU/lmr/m/n/10 the participant is in the “night first” group. []
  []
 
 
@@ -1905,7 +1905,7 @@ File: images/redcap_screening/1.png Graphic file (type bmp)
 <images/redcap_screening/1.png>
 
 Overfull \hbox (236.56511pt too wide) in paragraph at lines 4433--4436
-[]\TU/lmr/m/n/10 To screen a new participant click “Add / Edit Records” [] 
+[]\TU/lmr/m/n/10 To screen a new participant click “Add / Edit Records” []
  []
 
 [105]
@@ -1913,7 +1913,7 @@ File: images/redcap_screening/2.png Graphic file (type bmp)
 <images/redcap_screening/2.png>
 
 Overfull \hbox (56.16548pt too wide) in paragraph at lines 4453--4455
-\TU/lmr/m/n/10 a new record [] 
+\TU/lmr/m/n/10 a new record []
  []
 
 
@@ -1924,7 +1924,7 @@ File: images/redcap_screening/3.png Graphic file (type bmp)
 <images/redcap_screening/3.png>
 
 Overfull \hbox (60.83553pt too wide) in paragraph at lines 4469--4471
-\TU/lmr/m/n/10 quent contact [] 
+\TU/lmr/m/n/10 quent contact []
  []
 
 File: images/redcap_screening/4.png Graphic file (type bmp)
@@ -1948,7 +1948,7 @@ File: images/redcap_screening/6.png Graphic file (type bmp)
 <images/redcap_screening/6.png>
 
 Overfull \hbox (159.38324pt too wide) in paragraph at lines 4500--4503
-[]\TU/lmr/m/n/10 Click the screen_status radio button [] 
+[]\TU/lmr/m/n/10 Click the screen_status radio button []
  []
 
 
@@ -1959,14 +1959,14 @@ File: images/zoom_link/1.png Graphic file (type bmp)
 <images/zoom_link/1.png>
 
 Overfull \hbox (217.7984pt too wide) in paragraph at lines 4559--4561
-[]\TU/lmr/m/n/10 Click to “Meetings” and “Schedule a new meeting” [] 
+[]\TU/lmr/m/n/10 Click to “Meetings” and “Schedule a new meeting” []
  []
 
 File: images/zoom_link/2.png Graphic file (type bmp)
 <images/zoom_link/2.png>
 
 Overfull \hbox (70.0902pt too wide) in paragraph at lines 4561--4563
-\TU/lmr/m/n/10 indicate 3 hours [] 
+\TU/lmr/m/n/10 indicate 3 hours []
  []
 
 
@@ -1977,14 +1977,14 @@ File: images/zoom_link/3.png Graphic file (type bmp)
 <images/zoom_link/3.png>
 
 Overfull \hbox (237.56862pt too wide) in paragraph at lines 4563--4565
-[]\TU/lmr/m/n/10 Set setting with password and turn host/participant on [] 
+[]\TU/lmr/m/n/10 Set setting with password and turn host/participant on []
  []
 
 File: images/zoom_link/4.png Graphic file (type bmp)
 <images/zoom_link/4.png>
 
 Overfull \hbox (234.7402pt too wide) in paragraph at lines 4565--4567
-[]\TU/lmr/m/n/10 Save and click to add Zoom meeting to google calendar [] 
+[]\TU/lmr/m/n/10 Save and click to add Zoom meeting to google calendar []
  []
 
 File: images/zoom_link/5.png Graphic file (type bmp)
@@ -1992,7 +1992,7 @@ File: images/zoom_link/5.png Graphic file (type bmp)
 
 Overfull \hbox (157.79019pt too wide) in paragraph at lines 4567--4569
 []\TU/lmr/m/n/10 Click on the []$[][][][][][] [] [][][][] [] [][][][][] [] [][]
-[]$[] [] 
+[]$[] []
  []
 
 
@@ -2003,14 +2003,14 @@ File: images/zoom_link/6.png Graphic file (type bmp)
 <images/zoom_link/6.png>
 
 Overfull \hbox (49.1602pt too wide) in paragraph at lines 4569--4571
-[]\TU/lmr/m/n/10 Click allow [] 
+[]\TU/lmr/m/n/10 Click allow []
  []
 
 File: images/zoom_link/7.png Graphic file (type bmp)
 <images/zoom_link/7.png>
 
 Overfull \hbox (248.4102pt too wide) in paragraph at lines 4571--4573
-[]\TU/lmr/m/n/10 Copy the Zoom link from the Description section and save [] 
+[]\TU/lmr/m/n/10 Copy the Zoom link from the Description section and save []
  []
 
 
@@ -2036,21 +2036,21 @@ File: images/zoom_security/1.png Graphic file (type bmp)
 <images/zoom_security/1.png>
 
 Overfull \hbox (128.4102pt too wide) in paragraph at lines 4663--4664
-\TU/lmr/m/n/10 and all other items unchecked [] 
+\TU/lmr/m/n/10 and all other items unchecked []
  []
 
 File: images/zoom_security/2.png Graphic file (type bmp)
 <images/zoom_security/2.png>
 
 Overfull \hbox (72.66336pt too wide) in paragraph at lines 4684--4686
-\TU/lmr/m/n/10 sharing options” [] 
+\TU/lmr/m/n/10 sharing options” []
  []
 
 File: images/zoom_security/3.png Graphic file (type bmp)
 <images/zoom_security/3.png>
 
 Overfull \hbox (51.73718pt too wide) in paragraph at lines 4686--4687
-\TU/lmr/m/n/10 are selected [] 
+\TU/lmr/m/n/10 are selected []
  []
 
 
@@ -2072,7 +2072,7 @@ File: images/zoom_parent_child_interaction/1.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/1.png>
 
 Overfull \hbox (17.0378pt too wide) in paragraph at lines 4850--4851
-\TU/lmr/m/n/10 MBB ID number. [] 
+\TU/lmr/m/n/10 MBB ID number. []
  []
 
 [121] [122] [123]
@@ -2116,7 +2116,7 @@ File: images/zoom_parent_child_interaction/13.png Graphic file (type bmp)
 Overfull \hbox (408.57002pt too wide) in paragraph at lines 4940--4941
 []\TU/lmr/m/n/10 The video will appear to the researchers in our Box under BABL
 AB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_intera
-ctions/Uploads 
+ctions/Uploads
  []
 
 [127]
@@ -2130,7 +2130,7 @@ File: images/zoom_screenshare/1.png Graphic file (type bmp)
 <images/zoom_screenshare/1.png>
 
 Overfull \hbox (218.74222pt too wide) in paragraph at lines 5383--5385
-[]\TU/lmr/m/n/10 On Zoom, click “share screen” with the participant [] 
+[]\TU/lmr/m/n/10 On Zoom, click “share screen” with the participant []
  []
 
 File: images/zoom_screenshare/2.png Graphic file (type bmp)
@@ -2157,7 +2157,7 @@ Overfull \hbox (172.83986pt too wide) in paragraph at lines 5521--5525
 
 
 Overfull \hbox (96.47247pt too wide) in paragraph at lines 5521--5525
-\TU/lmr/m/n/10 ing directory is saved. [] 
+\TU/lmr/m/n/10 ing directory is saved. []
  []
 
 
@@ -2168,7 +2168,7 @@ File: images/zoom_parent_child_interaction/12.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/12.png>
 
 Overfull \hbox (30.2066pt too wide) in paragraph at lines 5526--5527
-\TU/lmr/m/n/10 tured. [] 
+\TU/lmr/m/n/10 tured. []
  []
 
 
@@ -2195,13 +2195,13 @@ File: images/gorilla/9.png Graphic file (type bmp)
 
 Overfull \hbox (32.01001pt too wide) in paragraph at lines 5606--5608
 []\TU/lmr/m/n/10 Save the file in the participants Box folder as “MBBXXX_hallow
-een_training.csv” 
+een_training.csv”
  []
 
 
 Overfull \hbox (69.01001pt too wide) in paragraph at lines 5610--5612
 []\TU/lmr/m/n/10 Save this file in the participants Box folder as “MBBXXX_hallo
-ween_test_immediate.csv” 
+ween_test_immediate.csv”
  []
 
 
@@ -2270,7 +2270,7 @@ File: images/report_card_online/5.png Graphic file (type bmp)
 <images/report_card_online/5.png>
 
 Overfull \hbox (183.60107pt too wide) in paragraph at lines 6035--6037
-[]\TU/lmr/m/n/10 If there are no comments, delete this page. [] 
+[]\TU/lmr/m/n/10 If there are no comments, delete this page. []
  []
 
 
@@ -2298,7 +2298,7 @@ Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
 
 LaTeX Warning: There were multiply-defined labels.
 
- ) 
+ )
 Here is how much of TeX's memory you used:
  27396 strings out of 492916
  508234 string characters out of 6133346
