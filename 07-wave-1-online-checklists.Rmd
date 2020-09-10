@@ -194,6 +194,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 ### Checklist - Session 2 
 
 - Halloween test delay completed
+- Download and copy delayed behavioral task data (from Gorilla) to participant folder (raw)
 - Stool sample questions answered 
 - Bristol Stool Scale reminder
 - Contact information sheet reminder
@@ -223,16 +224,18 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Saliva sample received
 - Stool sample received
 - Bristol Stool Scale data received
-- Questionnaires received (if paper versions were sent)
-- Consent/Assent forms received (if paper versions were sent)
+- Questionnaires received
 - Contact information sheet received 
 
 #### Data Entry
 
 - Enter contact list information into recruitment database
-- Enter questionnaires data (if paper versions were sent)
+- Scan and upload parentproxy questionnaires to Box
+- Scan and upload parentself questionnaires to Box
+- Enter questionnaires data to REDCap (parentproxy and parenself)
 - Scan and upload Bristol Stool Scale to Box
 - Enter Bristol Stool Scale data to REDCap
+- Enter height/weight/waist to body measurements on REDCap
 
 #### Filing
 
