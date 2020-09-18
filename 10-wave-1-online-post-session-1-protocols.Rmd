@@ -21,6 +21,8 @@ Check the External drive for the participant's secondary ID number, and rename a
 ![<!--- Gorilla Data Download --->](images/gorilla/6.png)
 
 2. If data is up to date, you can go ahead and click download. 
+2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participat. 
+2a. NOTE: if you are downloading right after the session, scroll down and click "TODAY" to minimize the amount of data you have to scroll through to find the participant's data.
 
 ![<!--- Gorilla Data Download --->](images/gorilla/7.png)
 
@@ -34,14 +36,16 @@ Check the External drive for the participant's secondary ID number, and rename a
 
 5. After a few minutes click into "Manage experiment data" again and download. 
 
-- Unzip the file to your desktop. The first and third files are the task data we need. 
-- Open the first file, and delete the rows for all participants except the participant in question.
+- Unzip the file to your desktop.
+- Open the correct training file for the participant, and delete the rows for all participants except the participant in question.
 - Save the file in the participants Box folder as "MBBXXX_halloween_training.csv"
-- Open the third file, and delete the rows for all participants except the participant in question.
+- Open the correct test file for the participant, and delete the rows for all participants except the participant in question.
 - Save this file in the participants Box folder as "MBBXXX_halloween_test_immediate.csv"
-- The delayed test will be saved as "MBBXXX_halloween_test_delay.csv"
 
 ### Protocol - Session 2 Confirmation Email
 
 - If session scheduling has not changed, copy Zoom link and Session 2 time information into Session 2 Confirmation Email and send
 - If session scheduling has changed, update google calendar. Then, copy Zoom link and updated Session 2 time information into Session 2 Confirmation Email and send. 
+
+
+-------------

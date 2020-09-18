@@ -106,15 +106,18 @@ If a parent has a concern about the study before the session, send the email tem
 #### Package creation
 
 - There will be a designated "package mailing day" one day a week in which the Lab Manager will go into the lab to prepare necessary materials and send out packages from scheduled participants in the last week, on the same package mailing day.
-- Once the package has been put together, it is time to bring the package down to Tyler's office in the Psychology building OR to the UCLA MDDS.
+- Once the package materials have been put together, it is time to bring the package down to the mailroom in the Psychology building, Tyler's Office, OR to the UCLA MDDS.
+    - If you go to the mailroom or to Tyler's Office, you need to have your own box. Tyler can tape up the box for you if needed.
+    - At MDDS, they provide free mailers (but no boxes), which can fit materials for up to 1 participant
 - To mail the package to the participant, you will need the following information:
     - Recharge ID
     - Participant name
     - Participant mailing address
-- From Tyler's office, you will receive a FedEx label in which you can write this information
-- At MDDS, they will package your materials for you. 
-- Take a picture of the FedEx label and upload to Box
-- Leave the package in Tyler's office for FedEx pickup/MDDS to mail out 
+    - Lab mailing address
+- From the mailroom: you can write the addresses directly on the box, and circle the recharge ID. Leave the box on the table above the "outgoing mail" sign. 
+- From Tyler's office: you will receive a FedEx label in which you can write this information. Take a picture of the tracking number and save OFFLINE. Leave the box in Tyler's office for FedEx to pick up. 
+- From MDDS: they will package your materials for you, and you will write the shipping information on provided labels. You can also request a tracking number, which they attach to the box for you. Take a picture of the tracking number and save OFFLINE Leave the box with MDDS to mail out. 
+
 
 #### Zoom security Settings
 
