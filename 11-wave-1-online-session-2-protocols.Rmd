@@ -8,9 +8,7 @@
 
 *So today we are just going to do one quick task and then I will walk you through how to close up package and send it back to us, then answer any questions you might have*
 
-[Log into REDCap, pull up the instrument titled "halloween_test_delay" for this participant in the home_child arm and click into the survey options. You can either send them the general link and unique password, or give them a shortcode that expires within 1-hour]
-
-![<!--- Halloween test delay --->](images/halloween/8.png)
+Send participant [Gorilla link](https://research.sc/participant/login/20451/publicid) and MBB number for login through the zoom chat.
 
 
 ### Protocol - Mailing Package
@@ -27,3 +25,31 @@
 - Confirm mailing address
 - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
 - Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment
+
+-----------
+
+## Protocols - Post-Session 2 
+
+
+### Protocol - Downloading the Gorilla delay test data
+
+1. Login to Gorilla and navigate to the experiment's data tab.
+2. If data is up to date, you can go ahead and click download. 
+2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participat. 
+2a. NOTE: if you are downloading right after the session, scroll down and click "TODAY" to minimize the amount of data you have to scroll through to find the participant's data.
+3. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data".
+4. You will see a wait screen as it generates.
+5. After a few minutes click into "Manage experiment data" again and download. 
+
+- Unzip the file to your desktop.
+- Open the correct delay test file for the participant, and delete the rows for all participants except the participant in question.
+- Save this file in the participants Box folder as "MBBXXX_halloween_test_delay.csv"
+
+### Protocol - Session 2 TO DO List Email
+
+- Fill in templated email with all leftover tasks for participant to complete
+- Add links to REDCap for their optional qualitative responses
+
+
+
+

@@ -1,6 +1,6 @@
 ## Protocols - Session 1  
 
-### Protocol - Consent & Assent Online
+### Protocol - Welcome & Zoom Introduction
 
 [ONCE ZOOM IS CONNECTED]
 
@@ -38,6 +38,9 @@
 
 [Researcher to open up the [MBB_Consent_Script_Presentation](https://ucla.app.box.com/file/689404174873)]
 
+
+### Protocol - Consent & Assent Online
+
 *First thing we are going to do is go over what is on the consent and assent forms. (These are the attached documents we sent you in the emails leading up to this session.) We will walk through, in a little bit more detail, all of the things we will be doing during today’s session.*
 
 *During today’s online session we are going to be doing some interactive things. First, we are going to have you and your parent sit and talk about some not so fun things and some fun things while on ZOOM. This conversation will be recorded but we will not be watching or listening in*
@@ -72,11 +75,13 @@
 
 *You are a volunteer in this study, which means you do not have to do anything, or say anything, that makes you uncomfortable. We would like you to try everything you can, and to do your best, but if there are things you absolutely do not want to do, just tells us, that is o.k.*
 
+*Another thing we want to remind you is that nothing you do today is a TEST!! We want you to try your best, but there is no "right" or "wrong" answers in anything you do today. We just want to learn about you!*
+
 *We will keep your participation confidential. You are given an ID number in order to keep your data confidential and separated from your name. Therefore, any identifying information (like your name, email, address, etc.) will be kept private and not paired with your data. We will also use a secondary ID number to save the videos with (since your faces are in it), which will help separate this from your name and the other data we collect form you. Only members of our research team will have access to your name and ID numbers.*
 
 *I will rename your "ZOOM Name" right now with your Secondary ID number, to prepare for the recordings we will take in our session today* 
 
-[Researcher will rename the participant's name to the participant Secondary MBB ID number. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/1.png)
+[Researcher will rename the participant's name to "P" for participant. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/1.png)
 
 *As this is a longitudinal study, and we want you to come again in the future if you are interested, we will ask for some information so that we may reach out to you in the future. Do you have any questions?*
 
@@ -113,7 +118,11 @@ The researcher will ask the parent to find the [Pleasant/Unpleasant Events Check
 
 Researcher will wait for the participant to find the Online Session Booklet and flip to the correct page.
 
-*Researcher: Next we are going to take some film of you while you discuss something that's hard and try to resolve it. On this piece of paper (Issues Cheklist) is a list of things that parents and children sometimes have disagreements about. We will give you a moment to read the list and think about some that you would like to discuss together. Then after about one minute, you will start discussing the things you have selected and try to resolve them. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from this list, or decide to choose something else. I'll be there while you choose, but once your five minute discussion starts, I am going to turn off my camera and mute myself to be out of the recording. When you are ready, I will begin the recording and give you a minute or so to choose. Then, I will let you know when to start discussing for five minutes! Are you ready?*
+*Researcher: Next we are going to take some film of you while you discuss something that's hard and try to resolve it. On this piece of paper (Issues Cheklist) is a list of things that parents and children sometimes have disagreements about. We will give you a moment to read the list and think about some that you would like to discuss together. Then after about one minute, you will start discussing the things you have selected and try to resolve them. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from this list, or decide to choose something else. And we want you to remember- this is not a test and there are no right or wrong things to say!*
+
+*I'll be there while you choose, but once your five minute discussion starts, I am going to turn off my camera and mute myself to be out of the recording, and I will also step out of the room and will not be listening in. I will come back in and let you know when the five minutes are all done!*
+
+*When you are ready, I will begin the recording and give you a minute or so to choose. Then, I will let you know when to start discussing for five minutes! Are you ready?*
 
 Step 2: 
 - Researcher will ensure Zoom security settings are set up for the video.
@@ -128,8 +137,8 @@ If no questions, proceed.
 *Ok great! You can start chatting!*
 
 Step 3:
-- Researcher will mute themselves on Zoom and turn off their camera. 
-- Researcher will start timer for 5 minutes. At the end of 5 minutes, reenter camera view and turn up volume on researcher's computer.
+- Researcher will mute themselves on Zoom and turn off their camera, and step out of the room.
+- Researcher will start timer for 5 minutes. At the end of 5 minutes, reenter camera view and unmute themselves.
 
 [After 5 minutes have passed, say] *Thank you for taking the time to discuss something difficult. Next we are going to take some film of you talking about something nice. On your "Pleasant Events Checklist" is a list of fun things that parents and children sometimes do together. I will give you a moment to read the list and pick something that you would like to plan to do together. Then after about one minute, you will start discussing the things you have selected and try to plan them. Again, you do not need to tell us what you chose to discuss, and it does not matter if you choose something from this list, or decide to choose something else. When you are ready, I will start the recording and then give you a minute to choose. Then, I will let you know when to start discussing for your five minutes!*
 
@@ -200,16 +209,21 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
 *Sometimes you will get a toy while other times you will get a candy, and sometimes you will be visiting a nice house while other times you will be visiting a scary one. Remember that the type of toy or candy will vary and where it is found will differ. You will only be shown the photos for a few seconds, so do your best to memorize these details as quickly and as much as possible!*
 
-*When you finish, all you have to do is let me know!*
+*We also want to make sure you are paying attention, so when you see this red triangle, we want you to hit the space bar!*
+
+*You will be reaching a halfway point where you can just click "continue"*
+
+*There are TWO PARTS to this game- we are only going to be doing PART 1 right now. So, it is super important that when you see the page that says you're finished with this part, PLEASE LET ME KNOW!!*
 
 [Researcher to stop sharing screen.]
 
 *Ok! If you are both ready to start, we will just have Mom/Dad click "Log in" on [Child's name]'s page, and you can both get started!*
 
+[Researcher to open [gorilla](https://gorilla.sc) to track participant progress. Click on my projects>MBB>MBB_wave_1_online>participants tab>scroll to their mbb number and click "view progress"]
 
 [If participants do not seem to check-in with researcher after ~15 minutes, ask if they have any questions] *Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?*
 
-[Once the Halloween training is complete, say] *Great job! We have completed the second part of this session- you can go ahead and take out your token board and gold star stickers, and put another star on the second block!*
+[Once you confirm on the "view progress" node that Halloween training is complete, say] *Great job! We have completed the second part of this session- you can go ahead and take out your token board and gold star stickers, and put another star on the second block!*
 
 -----------------
 
@@ -272,7 +286,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
 -----------------
 
-### Protocol - Halloween Test Online
+### Protocol - Halloween "Test" Online
 
 *OK! It is time to go back to our learning and memory section. Can you please go back to the "Gorilla" website. If you still have the browser up that's great - please refresh the screen to continue. If not, you can go back to the same link as before and enter your MBB ID. Here you will be completing the second part of the computer game.*
 
@@ -295,6 +309,8 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 *The next set of questions show the houses that you visited and asks what candy was found there and where it was located on the screen.*
 
 *Here are examples of what this looks like!*
+
+*We also want you to remember that this is not a test! Just try your best!*
 
 *When you finish, all you have to do is let me know!*
 
@@ -465,20 +481,6 @@ Participants can also watch the video below:
 
 -----------------
 
-### Protocol - Qualitative  
-
-*The last part of this session is optional to you and your child! It is a five minute writing activity that allows you to logon and type for five minutes about you and you family's expereinces with COVID-19. These written responses are meant to capture the impacts of COVID-19 on families, caregivers, and children. Are you interested in doing this?*
-
-[If they are interested, direct the participant to their LINKS EMAIL and have them click on the REDCap link for Written Responses.]
-
-[If not interested, say] *No problem at all! We thank you so much for your participation today and look forward to seeing you next week for our second session. We will send you a confirmation email right after we hang up today with the next session time and Zoom link. Please feel free to give us a call or email if you have any follow-up questions. Thanks so much!*
-
-- Two qualitative free responses on REDCap are optional, and should be offered to parents and children to complete if they are interested
-- These qualitative responses require five minutes of continued writing to capture the impacts of COVID-19 on families, caregivers, and children
-- If interested, researcher will advise parents to click on the REDCap link for parent and child to complete
-
------------------
-
 ### Protocol - Home Session 
 
 *At this time, I will now ask you to reach into your Magic Box and pull out your "Session 1 Booklet" out and flip to the cover page that says "Home Session Booklet" so I can walk through the Home Session instructions*
@@ -492,11 +494,11 @@ Participants can also watch the video below:
 - Parent Questionnaires
   - *We know it is a lot to ask, but it would really help us out a lot if you could take a photo of each of the queestionnaires and save them just in case the package you send back to our lab gets lost in the mail! That way, if anything gets lost, we will have a backup of your responses in your photos.* 
   - If questionnaires get lost in the mail, ask parents to use the *Plan B* in the Parent Child interaction protocol for a "safe upload" to Box 
+- Qualitative Response (optional)
+*We also have a few extra things that are optional to you, that would realy help our research team! It is a five minute writing activity that allows you to logon and type for five minutes about you and you family's expereinces with COVID-19. These written responses are meant to capture the impacts of COVID-19 on families, caregivers, and children. We will send you the links and codes in an email as soon as we log off, so you and your child can participate in this if you are intersted.*
 - Confirm pre-scheduled time to complete post-session tasks ~1 week post-session
 - Payment
-  - Confirm mailing address
   - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
-
 
 -----------------
 
@@ -517,11 +519,9 @@ Child 1-4 (one at a time)
 - Halloween Training
 - Child Questionnaires
 - Halloween Test
-- Qualitative Response (optional)
 
-Parent:
+Parent/All children:
 
-- Qualitative Responses (optional)
 - Home Session explanation
 
 -----------------
