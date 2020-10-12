@@ -6,6 +6,24 @@
 
 ### Checklist - Initial Online
 
+**Calling participants from REDCap**
+
+- Participants can be considered "lost to follow up" if they meet all of the following criteria:
+  - Researcher has tried to contact individual at different times of day.
+  - Researcher has used at least 2 different approaches (e.g. email and phone), UNLESS only 1 form of contact has been given, in which case participant should fully meet all other criteria.
+  - Person has been contact at least 4 times. 
+  - Situation is NOT considered "phone tag" (a participant calls and lab member returns call but keeps missing one another- this shows participant may still be interested, therefore number of contact and lack of response may not be due to lack of interest. Participants in "phone tag" situation should stay on contact list).
+
+**Waitlist criteria**
+- This regards the “out of town” option on the wave1_Status on REDCap
+- Should include:
+  - any participants here live outside of LA, and won’t be coming back to LA (e.g. did not relocate just for COVID-19 pandemic purposes)
+  - participants whose age tally exceed 15, the target collection number for each age group in our age range. Refer to the [Participant Tally](https://ucla.app.box.com/file/724688028024) for reference. 
+
+PLEASE NOTE: Participants who have not aged out yet, or who are not free at the moment yet, OR live outside the US but plan to come back as soon as the pandemic is over should all still be kept on the contact log and just have a future recontact date. We only want to put people who are going on our  “out of town” waitlist (like a plan B, only contact if necessary)!
+
+We will only refer to the waitlist if (1) we will be behind on recruitment for Wave 1 and will need to just schedule people who we know cannot come back for future waves to complete data collection or (2) we will be behind on recruitment for Wave 1 and will need to just schedule people who are anywhere within our age range, rather than targeted numbers by age to complete data collection (3) we have to stay in the pandemic and all future waves will be remote. 
+
 **Scheduling and Confirmation**
 
 - Schedule session 1 two weeks in advance from "package mailing day" (see package preparation in pre-session checklist)
@@ -19,7 +37,7 @@
 - Create participant Box folder using MBB_template (delete blank README from newly created folder)
 - Enroll participant in Wave 1 on REDCap
 - Fill participant instrument on REDCap
-- Fill counterbalance order on REDCap (Checklist - Lab Session Child Instrument)
+- Update [Participant Tally](https://ucla.app.box.com/file/724688028024)
 
 **Calendar**
 
@@ -48,6 +66,8 @@
   
 **Reminders**
 
+NOTE: all template emails are in bablab gmail 
+
 - Send *Session 1 Reminder 1* email
   - Confirm package is received
 - Send *Session 1 Reminder 2* email
@@ -57,6 +77,25 @@
 - Confirm participant
    - Preferably by phone
    - Update *Session 1* calendar status
+
+
+**No Show Protocol**
+
+- Delete session 2 & reminder calendar events from MBB calendar to avoid confusion
+  - Session 2 reminder email
+  - Session 2 reminder call
+  - Session 2 session event 
+  - Home session reminder 1 email
+  - Home session reminder 1 call
+  - Home session reminder 2 email
+- Change REDCap status 
+  - Go to “Default Dashboard” to access full list of SMBB numbers
+  - Change REDCap SMBB wave 1 status from enrolled to contact
+  - Add a new screening and make a note that they were a no-show and are reaching out about rescheduling
+  - Note - MBB stays the same 
+- Email the participant about rescheduling / check in to see if they are still interested in MBB study 
+  - There’s no email template, just ask if they are interested in rescheduling their session or if they are no longer interested in participating
+- Update [Participant Tally] (https://ucla.app.box.com/file/724688028024)
 
 ------------
 
@@ -96,16 +135,16 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Print/Staple Session 1/Home Session Booklet (in this order)
   1. Session 1 Cover page
   2. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
-  3. [Height Measurement Instruction](https://ucla.app.box.com/file/689385482411)
-  4. [Weight Measurement Instruction](https://ucla.app.box.com/file/689387417719)
-  5. [Waist Measurement Instruction](https://ucla.app.box.com/file/689387420907)
+  3. [Height Measurement Instruction](https://ucla.app.box.com/file/698389151155)
+  4. [Weight Measurement Instruction](https://ucla.app.box.com/file/698395394087)
+  5. [Waist Measurement Instruction](https://ucla.app.box.com/file/698395657078)
   6. Saliva Sample Instructions Sheet
   7. [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
   8. Home session 2 Cover Page
   9. [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
   10. Stool Sample Instructions Sheet
   11. [Bristol Stool Scale](https://app.box.com/file/630326499609) and label with participant ID (MBB Specific Version)
-- Prepare 2 sharpened pencils
+- Prepare 1-2 sharpened pencils
 - Prepare paper measuring tape (for waist and height measurements)
 - Label 2 biohazard bags (with 2 cotton balls in each bag)
 - Label 1 cardboard box (for samples)
@@ -121,7 +160,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Insert all labeled items and forms for session itself in magic box
 - Insert blue return mailer into study package
 - Tape package closed and put BABLAB sticker on 
-- Take a picture of study package with tracking information to file on Box
+- Take a picture of study package with tracking information to file offline on researcher computer (NOT Box)
 - Mail "Magic Box" package to participant
 
 ------------
@@ -129,11 +168,12 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 #### Setup - 1 Hour Prior
 
 - Open up Zoom link for Session 1
+- Open Slack and keep open for entirety of session for communication with the research team/Lab Manager
 - If Lab Manager, assign all fellow researchers co-host. If SRA, ask Lab Manager to sign on to assign you Host or co-host.
-- Pull up session scripts/protocol
+- Pull up session scripts/protocol, Halloween training instructions, and Halloween Test instructions
 - Send *Session 1 Links* email
   - NOTE: do not add Gorilla Code to LINKS email- code is their MBB # which cannot be paired with private information (participant's name/email)
-- Activate the participant's ID on Gorilla
+- Activate the participant's ID on Gorilla; leave Gorilla open so researcher can track participant progress during behavioral task
 - Prepare Session 1 checklist on google forms
 - Have the Participant's MBB and secondary MBB number on hand
 - Preload the Consent/Assent picture slideshow on researcher computer
@@ -176,14 +216,18 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 #### Notes
 
 - Make note of issues to discuss (if needed) in Boxnote for next core meeting
+- Update [Participant Tally](https://ucla.app.box.com/file/724688028024)
+- Update Participant Log
 
 #### Filing
 
 - "Scan" Session 1 checklist and file in participant folder
 - Transfer and rename Zoom recording to Box
-- Download and copy behavioral task data (from Gorilla) to participant folder (raw)
+- Download and copy behavioral task data (from Gorilla) to Gorilla data folder on Box
 
 #### Reminders
+
+NOTE: all template emails are in bablab gmail 
 
 - *Session 2 Confirmation Email* sent with Zoom link, researcher info (right after Session 1)
 - *Session 2 reminder 1* email sent with Zoom link (3 days before session 2)
@@ -192,6 +236,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 ------------
 
 ### Checklist - Pre-Session 2 
+
+NOTE: all template emails are in bablab gmail 
 
 - Send *Session 2 Links* email
 - Open Gorilla to track participant progress
@@ -208,7 +254,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Contact information sheet reminder
 - Walk through package to send back (check "mbb_online_package_checklists") for checklist of items participant needs to send back to the lab
 - Download and copy delayed behavioral task data (from Gorilla) to participant folder (raw)
-- Send *Session 2 TO DO List* email
+- Send *Session 2 TO DO List* email from bablab gmail templates
 
 --------
 
@@ -226,6 +272,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Enter height, weight, waist to REDCap
 
 #### Reminders
+
+NOTE: all template emails are in bablab gmail 
 
 - *Home Session Reminder 1 Email* made
 - *Home Session Reminder 1 phone call* made

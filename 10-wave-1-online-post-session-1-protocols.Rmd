@@ -22,7 +22,6 @@ Check the External drive for the participant's secondary ID number, and rename a
 
 2. If data is up to date, you can go ahead and click download. 
 2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participat. 
-2a. NOTE: if you are downloading right after the session, scroll down and click "TODAY" to minimize the amount of data you have to scroll through to find the participant's data.
 
 ![<!--- Gorilla Data Download --->](images/gorilla/7.png)
 
@@ -37,10 +36,9 @@ Check the External drive for the participant's secondary ID number, and rename a
 5. After a few minutes click into "Manage experiment data" again and download. 
 
 - Unzip the file to your desktop.
-- Open the correct training file for the participant, and delete the rows for all participants except the participant in question.
-- Save the file in the participants Box folder as "MBBXXX_halloween_training.csv"
-- Open the correct test file for the participant, and delete the rows for all participants except the participant in question.
-- Save this file in the participants Box folder as "MBBXXX_halloween_test_immediate.csv"
+- Open the correct CSV to ensure participant's halloween training and immediate test data are both included in this data download. 
+- Open the gorilla data folder on Box to the correct year and version.
+- Save the folder of CSVs in the Gorilla data Box folder as date in format "00_00_00" 
 
 ### Protocol - Session 2 Confirmation Email
 
