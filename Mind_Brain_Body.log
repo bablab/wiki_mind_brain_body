@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  14 OCT 2020 11:54
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  16 OCT 2020 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1913,7 +1913,7 @@ File: images/zoom_screenshare/2.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[140] [141] [142]
+[140] [141]
 File: images/zoom_parent_child_interaction/7.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/7.png>
 File: images/zoom_parent_child_interaction/8.png Graphic file (type bmp)
@@ -1935,7 +1935,7 @@ Overfull \hbox (96.47247pt too wide) in paragraph at lines 5690--5694
 \TU/lmr/m/n/10 ing directory is saved. [] 
  []
 
-
+[142]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [143]
@@ -2054,8 +2054,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  18654 strings out of 479418
- 342269 string characters out of 5884586
- 815649 words of memory out of 5000000
+ 342266 string characters out of 5884586
+ 815646 words of memory out of 5000000
  35870 multiletter control sequences out of 15000+600000
  538789 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

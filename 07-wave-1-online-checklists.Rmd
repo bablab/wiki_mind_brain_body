@@ -133,7 +133,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   21. Parent Self Intro 
   22. bdi
   23. covid_objective (parentself version)
-- Print/Staple Session 1/Home Session Booklet (in this order)
+- Print/Staple Session 1/Session 2 Booklet (in this order)
   1. Session 1 Cover page
   2. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749)
   3. [Height Measurement Instruction](https://ucla.app.box.com/file/698389151155)
@@ -141,7 +141,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   5. [Waist Measurement Instruction](https://ucla.app.box.com/file/698395657078)
   6. Saliva Sample Instructions Sheet
   7. [Hair Sample Instructions Sheet](https://ucla.app.box.com/file/685938821891)
-  8. Home session 2 Cover Page
+  8. Session 2 Cover Page
   9. [Contact List](https://ucla.app.box.com/file/639652767665) and label with participant ID
   10. Stool Sample Instructions Sheet
   11. [Bristol Stool Scale](https://app.box.com/file/630326499609) and label with participant ID (MBB Specific Version)
