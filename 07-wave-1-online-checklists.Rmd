@@ -217,13 +217,13 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
 #### Notes
 
+- Submit lab session checklist child
 - Make note of issues to discuss (if needed) in Boxnote for next core meeting
 - Update [Participant Tally](https://ucla.app.box.com/file/724688028024)
 - Update Participant Log
 
 #### Filing
 
-- "Scan" Session 1 checklist and file in participant folder
 - Transfer and rename Zoom recording to Box
 - Download and copy behavioral task data (from Gorilla) to Gorilla data folder on Box
 
@@ -244,17 +244,26 @@ NOTE: all template emails are in bablab gmail
 - Send *Session 2 Links* email
 - Open Gorilla to track participant progress
 - Have the Participant’s MBB number on hand
-
+- Open home session checklist on REDCap
 
 ------------
 
 ### Checklist - Session 2 
 
 - Halloween test delay completed
-- Stool sample questions answered 
+- Fill in home session checklist on REDCap (halloween test delay information)
+- Stool sample questions answered
+
 - Bristol Stool Scale reminder
 - Contact information sheet reminder
 - Walk through package to send back (check "mbb_online_package_checklists") for checklist of items participant needs to send back to the lab
+
+------------
+
+### Checklist - Post-Session 2 
+
+- Save and submit home session checklist on REDCap (halloween test delay information)
+- Update Participant Log
 - Download and copy delayed behavioral task data (from Gorilla) to participant folder (raw)
 - Send *Session 2 TO DO List* email from bablab gmail templates
 
