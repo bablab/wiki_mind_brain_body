@@ -35,7 +35,7 @@ Send participant [Gorilla link](https://research.sc/participant/login/20451/publ
 
 1. Login to Gorilla and navigate to the experiment's data tab.
 2. If data is up to date, you can go ahead and click download. 
-2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participat. 
+2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participant. 
 2a. NOTE: if you are downloading right after the session, scroll down and click "TODAY" to minimize the amount of data you have to scroll through to find the participant's data.
 3. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data".
 4. You will see a wait screen as it generates.
@@ -51,5 +51,5 @@ Send participant [Gorilla link](https://research.sc/participant/login/20451/publ
 - Add links to REDCap for their optional qualitative responses
 
 
-
+-----------
 
