@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Mind_Brain_Body.aux
+The style file: apalike.bst
+Database file #1: references.bib
+Warning--empty journal in bailey_1999
+Warning--empty journal in collins_2013
+Warning--empty journal in cowan_2013
+Warning--empty journal in kessler_2005
+Warning--empty journal in repetti_2002
+You've used 33 entries,
+            1935 wiz_defined-function locations,
+            684 strings with 12229 characters,
+and the built_in function-call counts, 16475 in all, are:
+= -- 1568
+> -- 929
+< -- 6
++ -- 344
+- -- 332
+* -- 1576
+:= -- 2848
+add.period$ -- 99
+call.type$ -- 33
+change.case$ -- 331
+chr.to.int$ -- 33
+cite$ -- 38
+duplicate$ -- 503
+empty$ -- 993
+format.name$ -- 371
+if$ -- 3131
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 33
+newline$ -- 168
+num.names$ -- 99
+pop$ -- 282
+preamble$ -- 1
+purify$ -- 331
+quote$ -- 0
+skip$ -- 393
+stack$ -- 0
+substring$ -- 1207
+swap$ -- 71
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 5
+while$ -- 123
+width$ -- 0
+write$ -- 425
+(There were 5 warnings)
