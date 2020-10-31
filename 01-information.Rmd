@@ -4,7 +4,7 @@
 
 ### Abstract
 
-The Mind, Brain, Body (MBB) study examines links between early life adversity (ELA), the gastrointestinal microbiome, memory and affective neurodevelopment, across three years in middle childhood through adolescence. The specific aims of this study are to (1) determine how adversity affects developmental change in the microbiome in middle childhood and adolescence, (2) establish associations between the microbiome, memory development, and the hippocampus, and (3) identify independent and joint influences of adversity exposure, the microbiome, brain and memory performance on the emergence of anxiety symptoms across development. We are recruiting N = 75 ELA exposed, and N = 75 not adversity exposed (Comparison) children and adolescents to take part in 3 waves of data collection. Children in the ELA group must be 6-16 years of age, while children in the comparison group must be 6-9 or 13-16 years of age. Participants complete a laboratory session (in-person or online) in Wave 1-3, and also complete a neuroimaging session in Wave 2. Study procedures for the laboratory session in Wave 1-3 remain similar. For the ELA group, we are recruiting youth who were adopted from institutional or foster care: previously institutionalized and who are now adopted internationally (PI), adopted domestically from foster care (DA). Comparison youth have not experienced these forms of early life caregiving adversities (i.e., they have always been with their biological parents). In addition to the primary aims of the MBB study, described above, we are also collecting a range of supplemental biological, questionnaire, and MRI measures aimed at assessing cognitive and emotional functioning, family functioning, as well as immune, biomarkers, and physical health assessments to aid in understanding the mechanisms behind the specific aims under investigation. The MBB study will test for links between the microbiome, memory, hippocampal function, and anxiety across a three-year time frame in middle childhood – adolescence (6-16 years of age). Participants may opt out of the study at any point in time but will be asked to participate in testing every year until funding ceases (current grant funding this research – R00 NIMH – ends in 2022). 
+The Mind, Brain, Body (MBB) study examines links between early life adversity (ELA), the gastrointestinal microbiome, memory and affective neurodevelopment, across three years in middle childhood through adolescence. The specific aims of this study are to (1) determine how adversity affects developmental change in the microbiome in middle childhood and adolescence, (2) establish associations between the microbiome, memory development, and the hippocampus, and (3) identify independent and joint influences of adversity exposure, the microbiome, brain and memory performance on the emergence of anxiety symptoms across development. We are recruiting N = 75 ELA exposed, and N = 75 not adversity exposed (Comparison) children and adolescents to take part in 3 waves of data collection. Children in the ELA group must be 6-16 years of age, while children in the comparison group must be 6-9 or 13-16 years of age. Participants complete a laboratory session (in-person or online) in Wave 1-3, and also complete a neuroimaging session in Wave 2. Study procedures for the laboratory session in Wave 1-3 remain similar. For the ELA group, we are recruiting youth who were adopted from institutional or foster care: previously institutionalized and who are now adopted internationally (PI), adopted domestically from foster care (DA). Comparison youth have not experienced these forms of early life caregiving adversities (i.e., they have always been with their biological parents). In addition to the primary aims of the MBB study, described above, we are also collecting a range of supplemental biological, questionnaire, and MRI measures aimed at assessing cognitive and emotional functioning, family functioning, as well as immune, biomarkers, and physical health assessments to aid in understanding the mechanisms behind the specific aims under investigation. The MBB study will test for links between the microbiome, memory, hippocampal function, and anxiety across a three-year time frame in middle childhood – adolescence (6-16 years of age). Participants may opt out of the study at any point in time but will be asked to participate in testing every year until funding ceases (current grant funding this research – R00 NIMH – ends in 2022).
 
 -----------------
 
@@ -18,17 +18,17 @@ The study will test four primary and two supplemental hypotheses. The primary hy
 
 An individuals early rearing history has a significant effect on their emotional functioning across the lifespan. In particular, access to consistent/stable caregivers is strongly associated with mental health [@repetti_2002], and parent-related early adversities (e.g., abuse and neglect) contribute to more than a third of mental illnesses [anxiety being the most common diagnosis; @kessler_2005]. Clinical, epidemiological and basic science suggests that two systems affected by early adversity – the gastrointestinal microbiome, and the hippocampal memory system, are also consistently associated with the emergence and maintenance of anxiety symptoms. Rodent and monkey models have established that adversity alters microbial communities in the gut [@bailey_1999; @bailey_2010; @omahony_2009] and that microbial populations are causally related to the expression of anxious behaviors [@collins_2013]. In humans too, microbiome-related gastrointestinal disturbances (e.g., irritable bowel syndrome) and anxiety are highly comorbid [@kennedy_2014; @callaghan_2019]. In terms of the memory system, rodent studies show that typically weak memories in childhood get stronger following adversity [@callaghan_2012a; callaghan_2012b; @cowan_2013], and exposure to early stress promotes hippocampal synaptic development [@huang_2005], which aids long-term memory persistence. Memory dysfunction is key to maintaining anxiety disorders, which are characterized by persistent and intrusive memories of threat[@acheson_2012; @zlomuzica_2014], and hippocampal dysfunction is common in anxiety disorders [@godsil_2013]. Importantly, hippocampal development is causally tied to the microbiome in early life [@callaghan_2016; @clarke_2013; @cowan_2016; @gareau_2011], suggesting that interactions between these two systems could contribute to anxiety emergence. Although microbial and hippocampal memory systems exert their effects on anxiety in the context of one another, until now, they have always been studied independently.
 
-Using a completely novel longitudinal design, we will test the hypothesis that changes in the gastrointestinal microbiome are associated with early adverse caregiving and underlie altered hippocampal development and memory functioning in middle childhood – adolescence. Moreover, we will examine whether those microbial, and neurodevelopmental changes mediate the progression towards anxiety symptoms in early adversity exposed individuals. To answer these questions, we will compare longitudinal data from a group of adolescents who have experienced early caregiving adversity, to a group of comparison youth who have not experienced those same events. The study will involve examining the gastrointestinal microbiome (measured through stool samples), and functional magnetic resonance imaging (fMRI) to understand hippocampal functional development. In addition, the study will collect saliva and blood spot samples to assess saliva biomarkers (e.g., cortisol, testosterone) and blood immune markers (e.g., CRP, interleukins), as well as hair samples to assess chronic cortisol exposure, which can be used to understand the mechanisms behind microbiome-brain associations in youth. 
+Using a completely novel longitudinal design, we will test the hypothesis that changes in the gastrointestinal microbiome are associated with early adverse caregiving and underlie altered hippocampal development and memory functioning in middle childhood – adolescence. Moreover, we will examine whether those microbial, and neurodevelopmental changes mediate the progression towards anxiety symptoms in early adversity exposed individuals. To answer these questions, we will compare longitudinal data from a group of adolescents who have experienced early caregiving adversity, to a group of comparison youth who have not experienced those same events. The study will involve examining the gastrointestinal microbiome (measured through stool samples), and functional magnetic resonance imaging (fMRI) to understand hippocampal functional development. In addition, the study will collect saliva and blood spot samples to assess saliva biomarkers (e.g., cortisol, testosterone) and blood immune markers (e.g., CRP, interleukins), as well as hair samples to assess chronic cortisol exposure, which can be used to understand the mechanisms behind microbiome-brain associations in youth.
 
 -----------------
 
 ## Procedure
 
-All youth will be recruited through community settings, clinics (e.g., pediatricians office), specialized services (e.g., adoption services), and through the internet (community boards, targeted advertisements). 
+All youth will be recruited through community settings, clinics (e.g., pediatricians office), specialized services (e.g., adoption services), and through the internet (community boards, targeted advertisements).
 
-Three assessments (spaced 12 months apart – Wave 1-3) will occur with youth who fall within the period of development in the hippocampal and microbiome: ‘children’, and ‘adolescents’ aged 6-16 years. Biological (stool, saliva, blood spots, hair), questionnaire, and behavioral data will be collected in each wave of the study, and an fMRI scan will be collected in Wave 2. Participants will be recruited who have either experienced early life adversity (ELA) through adverse caregiving (previously institutionalized, domestically adopted), or who have not been exposed to those caregiving experiences (Comparison). A sample size of N = 75 youth will be recruited into each of those groups, resulting in a final target of N = 150 youth in the study (N = 37-38 in each of the age groups = children versus adolescents, for the ELA and Comparison groups at Wave 1). That target sample size takes attrition into account across the longitudinal study (expected at 20%, to arrive at a final sample size of N = 120). Study procedures for each wave of data collection will be similar, except for Wave 2 where an fMRI scan will occur in a second session. In addition, Wave 1 of data collection was transitioned online due to the outbreak of the global COVID-19 pandemic. 
+Three assessments (spaced 12 months apart – Wave 1-3) will occur with youth who fall within the period of development in the hippocampal and microbiome: ‘children’, and ‘adolescents’ aged 6-16 years. Biological (stool, saliva, blood spots, hair), questionnaire, and behavioral data will be collected in each wave of the study, and an fMRI scan will be collected in Wave 2. Participants will be recruited who have either experienced early life adversity (ELA) through adverse caregiving (previously institutionalized, domestically adopted), or who have not been exposed to those caregiving experiences (Comparison). A sample size of N = 75 youth will be recruited into each of those groups, resulting in a final target of N = 150 youth in the study (N = 37-38 in each of the age groups = children versus adolescents, for the ELA and Comparison groups at Wave 1). That target sample size takes attrition into account across the longitudinal study (expected at 20%, to arrive at a final sample size of N = 120). Study procedures for each wave of data collection will be similar, except for Wave 2 where an fMRI scan will occur in a second session. In addition, Wave 1 of data collection was transitioned online due to the outbreak of the global COVID-19 pandemic.
 
-Participants will therefore range in age from 6-16 years at Wave 1, 7-17 years at Wave 2, and 8-20 years at Wave 3. Participants will be recruited through targeted mailout (birth records), online advertising (e.g., Craigslist), school and community organization partnerships, street-fairs and community gathering events, and flyers. After contacting the lab to express interest in study participation, parents of child and adolescent participants are contacted by telephone or email to be screened for study eligibility. An experienced research associate will conduct a scripted telephone interview to assess whether the participant/s meet criteria for inclusion/exclusion. If participants prefer to communicate via email, they will be sent a detailed infographic which contains the same key information communicated in the telephone script. In addition to this informational infographic, in the body of the email, participants will be sent a few brief questions to determine eligibility and basic demographics. 
+Participants will therefore range in age from 6-16 years at Wave 1, 7-17 years at Wave 2, and 8-20 years at Wave 3. Participants will be recruited through targeted mailout (birth records), online advertising (e.g., Craigslist), school and community organization partnerships, street-fairs and community gathering events, and flyers. After contacting the lab to express interest in study participation, parents of child and adolescent participants are contacted by telephone or email to be screened for study eligibility. An experienced research associate will conduct a scripted telephone interview to assess whether the participant/s meet criteria for inclusion/exclusion. If participants prefer to communicate via email, they will be sent a detailed infographic which contains the same key information communicated in the telephone script. In addition to this informational infographic, in the body of the email, participants will be sent a few brief questions to determine eligibility and basic demographics.
 
 During this initial contact, if eligible and interested, participants will be scheduled for their Wave 1 session and sent the consent and assent forms. They will also be told about Wave 2-3 and that scheduling for those visits will take place approximately 12 and 24 months after Wave 1. Participants involved in any wave will be told that they will be invited to participate in future waves, but are not required to do so. When the study transitions to Wave 2, parents of children and adolescents who participated in Wave 1 will be re-contacted and screened for eligibility in Wave 2 using the same procedure. When the study transitions to Wave 3, parents of children and adolescents who participated in Wave 1 and/or Wave 2 will be re-contacted and screened for eligibility for Wave 3.
 
@@ -95,16 +95,16 @@ Participants choose events from these two lists [@macphillamy_1982]:
 
 ##### Coding the Interaction
 
-- After the observation are collected, videos will be coded by two observers blind to the caregiving group of the child (adversity or comparison). 
+- After the observation are collected, videos will be coded by two observers blind to the caregiving group of the child (adversity or comparison).
 - Videos will be coded using the Family Interaction Macrocoding Schedule (FIMS)[@holmbeck_1995].
 
-- We ultimately decided to go with FIMS for several reasons: 
+- We ultimately decided to go with FIMS for several reasons:
     - Expense - Approximately \$1000 USD for a 10 hour skype training session with one of Holmbeck’s team
-    - Validation in age range - FIMS was designed for older children and adolescents, and Sarah Whittle has validated it in a community sample of 8 year olds and their mothers. 
-    - FIMS is a less intensive coding schedule, producing global codes, rather than micro coded (i.e., minute to minute) scales - which makes more intuitive sense in the age range for MBB. 
+    - Validation in age range - FIMS was designed for older children and adolescents, and Sarah Whittle has validated it in a community sample of 8 year olds and their mothers.
+    - FIMS is a less intensive coding schedule, producing global codes, rather than micro coded (i.e., minute to minute) scales - which makes more intuitive sense in the age range for MBB.
     - FIMS has a peer version that we might branch out to in the future (but likely not needing further training)[@holbein_2014].
     - Sarah Whittle’s group looked at the component structure for the FIMS and found components that seemed close to what they were finding with the Hops LIFE system - namely: negative maternal affect during pleasant event, negative maternal during conflict discussion, and pleasant maternal affect across both tasks (warmth). The negative maternal during pleasant event was the most predictive of child behavior problems. Overall, the correlations they report in their paper are all very sensical and convinced me that we should use the FIMS [@richmond_2018]
-    
+
 -----------------
 
 ### Interviews
@@ -117,7 +117,7 @@ Participants choose events from these two lists [@macphillamy_1982]:
 
 ##### ECG - Electrocardiogram
 
-Child and adolescent participants will have their heart rate recorded using a Biopac recording device. Two small stickers containing a recording electrode are placed on the front of participant’s bodies (underneath their collarbone on the left and right side). A third sticker, also containing a recording electrode, will be placed on participant’s left lower rib. The electrodes are attached to recording wires, which lead to the Biopac machine, which is itself hooked up to a computer. Participants will have their heart rate measured during all of the computer tasks (which include playing computer games and watching movie clips). 
+Child and adolescent participants will have their heart rate recorded using a Biopac recording device. Two small stickers containing a recording electrode are placed on the front of participant’s bodies (underneath their collarbone on the left and right side). A third sticker, also containing a recording electrode, will be placed on participant’s left lower rib. The electrodes are attached to recording wires, which lead to the Biopac machine, which is itself hooked up to a computer. Participants will have their heart rate measured during all of the computer tasks (which include playing computer games and watching movie clips).
 
 ##### GSR - Galvanic Skin Response
 
@@ -125,7 +125,7 @@ Child and adolescent participants will have their GSR (sweat) response measured 
 
 ##### EGG - Electrogastrogram
 
-Child and adolescent participants will have their gastric activity monitored through an EGG. Similar to measures of heart rate, the EGG is collected through small stickers containing recording electrodes that are stuck on the abdomen, and are connected through recording wires to the Biopac machine and then computer. EGG will be measured at the same time as participants heart rate and sweat response (during the computer tasks). 
+Child and adolescent participants will have their gastric activity monitored through an EGG. Similar to measures of heart rate, the EGG is collected through small stickers containing recording electrodes that are stuck on the abdomen, and are connected through recording wires to the Biopac machine and then computer. EGG will be measured at the same time as participants heart rate and sweat response (during the computer tasks).
 
 -----------------
 
@@ -141,7 +141,7 @@ Note that the movie clips are age appropriate and follow film classification gui
 
 ##### Details
 
-Physiology Marks - We have inserted start and stop times for the physiology for the movie component of the task, which will be used for one of the analyses. We have also inserted physiology marks for the start and stop times for each of the word lists, and finally for the recall phases. 
+Physiology Marks - We have inserted start and stop times for the physiology for the movie component of the task, which will be used for one of the analyses. We have also inserted physiology marks for the start and stop times for each of the word lists, and finally for the recall phases.
 
 *Note: Be careful using physiology during the recall phase, as the participant is talking during that phase.*
 
@@ -151,11 +151,11 @@ Physiology Marks - We have inserted start and stop times for the physiology for 
 
 ##### Description
 
-The Halloween task is a memory task comprised of both recognition and associative memory components. Children are told that they are going to play a Halloween game. In one block, they see bright and cheery indoor and outdoor scenes, and in the next block the scenes are dark and haunted looking. In addition to these scenes, an item (toy or candy) is overlaid somewhere in the scene. They are told that their job is to collect the toys and sweets and remember what house the toys/candy came from. Each block has 20 trials (10 are the house + toy, 10 are the house + candy). The toys/candy that are paired with the houses are not counterbalanced, but the order of the blocks will be counterbalanced between participants (some will have day then night, and some will have night then day). The context is presented for 500ms before the item is overlaid on the context image for an additional 2500ms (3000ms total). There is a 500ms interstimulus interval between trials. There is a self-advancing break between the blocks. 
+The Halloween task is a memory task comprised of both recognition and associative memory components. Children are told that they are going to play a Halloween game. In one block, they see bright and cheery indoor and outdoor scenes, and in the next block the scenes are dark and haunted looking. In addition to these scenes, an item (toy or candy) is overlaid somewhere in the scene. They are told that their job is to collect the toys and sweets and remember what house the toys/candy came from. Each block has 20 trials (10 are the house + toy, 10 are the house + candy). The toys/candy that are paired with the houses are not counterbalanced, but the order of the blocks will be counterbalanced between participants (some will have day then night, and some will have night then day). The context is presented for 500ms before the item is overlaid on the context image for an additional 2500ms (3000ms total). There is a 500ms interstimulus interval between trials. There is a self-advancing break between the blocks.
 
 ##### Background
 
-In prior work, across typical development, the research team found that during an associative learning task (contexts paired with objects or faces) there were different levels of granularity in the anterior third versus posterior third of the hippocampus - where representations were more granular in the posterior than anterior and that this granularity increased across age. Although brain data from previously institutionalized youth have not yet been analyzed, we have seen interesting behavior associations with adversity. Specifically, we see an age by adversity interaction on memory retention, where previously institutionalized children have better long-term memory retention, which becomes normalized by adolescence. 
+In prior work, across typical development, the research team found that during an associative learning task (contexts paired with objects or faces) there were different levels of granularity in the anterior third versus posterior third of the hippocampus - where representations were more granular in the posterior than anterior and that this granularity increased across age. Although brain data from previously institutionalized youth have not yet been analyzed, we have seen interesting behavior associations with adversity. Specifically, we see an age by adversity interaction on memory retention, where previously institutionalized children have better long-term memory retention, which becomes normalized by adolescence.
 
 To further this line of research, we will continue looking at the association between granularity in the anterior versus posterior hippocampus and long-term memory retention. In this task, we also include a component looking at the role of emotion in processing. To incorporate this, we have one block of the task being emotional or threatening in some way – the contexts (scenes) will be either scary or not scary. The idea for this task comes from several papers [@brunec_2018; @lambert_2019; @tambini_2010].
 
@@ -165,28 +165,28 @@ The idea from this task comes from four papers:
 
 1. @tambini_2010 - enhanced brain correlations at rest are associated with long term memory. Based on the results of this paper, Callaghan, Tottenham and Davachi developed the task that Bridget subsequently used for the K99 grant. See details below.
 2. @brunec_2018 - Multiple scales of representation along the hippocampal anteroposterior axis in humans. The analysis used in this paper - representational granularity - we adopted for my K99 project.
-3. Results of the K99 project - in the K99, across typical development, we found that during an associative learning task (contexts paired with objects or faces) there were different levels of granularity in the anterior third vs. posterior third of the hippocampus - where representations were more granular in the posterior than anterior and that this granularity increased across age. Although we have not yet analyzed the brain in PI youth, we have seen interesting behavior associations with adversity. Specifically, we see an age x adversity interaction on memory retention, where PI children have better long term memory retention, which becomes normalized by adolescence. 
-4. @lambert_2019 - altered development of hippocampus dependent associative learning following early life adversity. In this paper they found that adversity (violence exposed youth) were impaired in hippocampus associative memory only when the item (faces) were angry. That is, when threat cues were present, they suggested that is hijacked encoding and made more elemental and less context integrated. 
+3. Results of the K99 project - in the K99, across typical development, we found that during an associative learning task (contexts paired with objects or faces) there were different levels of granularity in the anterior third vs. posterior third of the hippocampus - where representations were more granular in the posterior than anterior and that this granularity increased across age. Although we have not yet analyzed the brain in PI youth, we have seen interesting behavior associations with adversity. Specifically, we see an age x adversity interaction on memory retention, where PI children have better long term memory retention, which becomes normalized by adolescence.
+4. @lambert_2019 - altered development of hippocampus dependent associative learning following early life adversity. In this paper they found that adversity (violence exposed youth) were impaired in hippocampus associative memory only when the item (faces) were angry. That is, when threat cues were present, they suggested that is hijacked encoding and made more elemental and less context integrated.
 
-In the R00, I wanted to continue looking at the association between granularity in the anterior vs. posterior hippocampus and long term memory retention. However, rather than do the exact same task as the in the K99, I wanted to include a component that looked at the role of emotion in processing. One way to do this is doing the same item + context task as I did during the K99, but having one of the runs of the task being emotional or threatening in some way. 
+In the R00, I wanted to continue looking at the association between granularity in the anterior vs. posterior hippocampus and long term memory retention. However, rather than do the exact same task as the in the K99, I wanted to include a component that looked at the role of emotion in processing. One way to do this is doing the same item + context task as I did during the K99, but having one of the runs of the task being emotional or threatening in some way.
 
 Idea for the halloween game:
 
-Items will be toys and sweets, and the contexts will either be scary or not scary. This is different than the Lambert study in that her contexts were neutral and the items (i.e., faces) were angry or not. So therefore the scary item prevented the processing of the context. In this version, the context will be scary and the item will be neutral - so will the context hijack the processing and make the scary run harder for adversity exposed kids to learn the association? Or will it be the opposite, heightening attention and improving learning? 
+Items will be toys and sweets, and the contexts will either be scary or not scary. This is different than the Lambert study in that her contexts were neutral and the items (i.e., faces) were angry or not. So therefore the scary item prevented the processing of the context. In this version, the context will be scary and the item will be neutral - so will the context hijack the processing and make the scary run harder for adversity exposed kids to learn the association? Or will it be the opposite, heightening attention and improving learning?
 
-Structure of the game: 
-Children will be told that they are going to play a halloween game. In one run, they will see bright and cheery indoor and outdoor scenes, and in the next run the scenes will be dark and haunted looking. They will be told that their job is to collect the toys and sweets and remember what house the toys/sweets came from. 
+Structure of the game:
+Children will be told that they are going to play a halloween game. In one run, they will see bright and cheery indoor and outdoor scenes, and in the next run the scenes will be dark and haunted looking. They will be told that their job is to collect the toys and sweets and remember what house the toys/sweets came from.
 
 ![<!--- halloween --->](images/information/measures/tasks/halloween/1.png)
 
 
 This is the basic structure of each block. First there is a fixation cross for 1 second, then a house will appear on the screen for 500ms, then the house+toy/sweets will appear on the screen for an addition 2.5 seconds (total of 3 seconds for the house and the house+toy/sweet, then there will be a baseline period that is jittered in length. The baseline is jittered in the MRI but it will be a fixed length of 1 seconds in the lab-based version of the task. In the MRI the active baseline will involve pressing buttons to indicate the direction of arrows on the screen, in the lab-based version of the task, it involves simply looking at a fixation dot.
 
-There will be two blocks (day, and night). The day block is the emotionally neutral block, whereas the night block is the scary block. Each block has 20 trials (10 are the house + toy, 10 are the house + sweets). The toys/sweets that are paired with the houses are not counterbalanced, but the order of the blocks will be counterbalanced between participants (some will have day then night, and the rest will have night then day). 
+There will be two blocks (day, and night). The day block is the emotionally neutral block, whereas the night block is the scary block. Each block has 20 trials (10 are the house + toy, 10 are the house + sweets). The toys/sweets that are paired with the houses are not counterbalanced, but the order of the blocks will be counterbalanced between participants (some will have day then night, and the rest will have night then day).
 
-As an added layer to this task, we will not only pair an item with a house, but we will place it on top of the house in one quadrant. To encode a detailed associative memory, the individual will need to remember what item was paired with the house and then what quadrant it was in. For this test, a picture of a house will be shown along with 3 choices for which item matches with the house, one being correct and 2 serving as filler “foils.” The two “foil” options are items from other houses, so the child will have seen them before. Each item will both be a correct answer for the house it was initially paired with and a foil answer for two other houses throughout the trial. Additionally, the child will have to recall which quadrant the selected item was in on the house. The quadrants appear 
+As an added layer to this task, we will not only pair an item with a house, but we will place it on top of the house in one quadrant. To encode a detailed associative memory, the individual will need to remember what item was paired with the house and then what quadrant it was in. For this test, a picture of a house will be shown along with 3 choices for which item matches with the house, one being correct and 2 serving as filler “foils.” The two “foil” options are items from other houses, so the child will have seen them before. Each item will both be a correct answer for the house it was initially paired with and a foil answer for two other houses throughout the trial. Additionally, the child will have to recall which quadrant the selected item was in on the house. The quadrants appear
 
-For the recognition test there should be an equal number of foils as target items. 
+For the recognition test there should be an equal number of foils as target items.
 
 -----------------
 
@@ -198,7 +198,7 @@ Participants are instructed that their job in this game is to learn which "chara
 
 If participants choose "correctly" they will see a green check mark and hear "ding" sound. If they choose "incorrectly" they will see a red x mark and hear a "horn" sound. If they take longer than 3500 milliseconds to respond, they are shown a screen that says "Too Slow". All feedback is presented for 2000 milliseconds before moving on to the next trial. Stimuli pairs are presented 10 times each in random order in each block (total of 60 trials). PsychoPy tallies the correct and incorrect responses on a block-by-block basis. Participants move onto the test phase once they have reached a performance criterion (65% accuracy for AB/BA trials, 60% accuracy for CD/DC trials, 50% accuracy for EF/FE trials). If participants do not reach criterion, they are automatically directed to the test after reaching a certain number of blocks (3 for children, 5 for adolescents).
 
-During the test, participants are presented with all training pairs (AB/BA, CD/DC, EF/FE), and novel pairs including A and B (AC/CA, AD/DA, AE/EA, AF/FA, BC/CB, BD/DB, BE/EB, BF/FB). Test pairs are each presented 6 times. This section is untimed, and no feedback is provided. 
+During the test, participants are presented with all training pairs (AB/BA, CD/DC, EF/FE), and novel pairs including A and B (AC/CA, AD/DA, AE/EA, AF/FA, BC/CB, BD/DB, BE/EB, BF/FB). Test pairs are each presented 6 times. This section is untimed, and no feedback is provided.
 
 ##### Background
 
@@ -220,7 +220,7 @@ Physiology markers are set to:
 - Channel 4 (31) - Miss
 - Channel 5 (32) - Test stimulus onset
 
-Task based on original task by @frank_2004, re-programmed and adapted by Emily Towner and Ryan Burnell. 
+Task based on original task by @frank_2004, re-programmed and adapted by Emily Towner and Ryan Burnell.
 
 -----------------
 
@@ -233,14 +233,14 @@ Children and adolescent participants will take part in a visual perceptual thres
 
 ##### Details
 
-This task has two purposes. 
+This task has two purposes.
 
 
-1. The first is to simply look at threat learning and extinction in children and adolescents across typical development and after adversity exposure. This has been done many times before, but we will also have children attached to an electrogastrogram (EGG - which is completely novel), GSR (sweat - which is the common measure), and heart rate (which is somewhat common but less so in the conditioning literature) while they and learning and extinguishing. 
-2. The second purpose of the task is to look at how conditioning and extinction affect perceptual thresholds. This is built from a large literature in adults showing that threat learning can lead to a broadening or narrowing of tuning curves following threat conditioning, depending on the specific parameters in place (more narrowing - i.e., better, occurs when a discriminatory conditioning procedure is employed and where the CS- and the CS+ and really different; more broadening occurs when the CS- and the CS+ are similar and when there is not explicit discriminative conditioning. We are going to employ a form of conditioning that has been shown to lead to perceptual broadening in adults. 
+1. The first is to simply look at threat learning and extinction in children and adolescents across typical development and after adversity exposure. This has been done many times before, but we will also have children attached to an electrogastrogram (EGG - which is completely novel), GSR (sweat - which is the common measure), and heart rate (which is somewhat common but less so in the conditioning literature) while they and learning and extinguishing.
+2. The second purpose of the task is to look at how conditioning and extinction affect perceptual thresholds. This is built from a large literature in adults showing that threat learning can lead to a broadening or narrowing of tuning curves following threat conditioning, depending on the specific parameters in place (more narrowing - i.e., better, occurs when a discriminatory conditioning procedure is employed and where the CS- and the CS+ and really different; more broadening occurs when the CS- and the CS+ are similar and when there is not explicit discriminative conditioning. We are going to employ a form of conditioning that has been shown to lead to perceptual broadening in adults.
 
-Past literature: 
-This paper by @shalev_2018 demonstrates the effect we are trying to test in children/adolescents. They use an across sensory modality procedure (CSs = auditory, USs = visual) and between subjects design (control group = CS+ are positive/neutral, and experiments group where CS+ are negative) with pre/post perceptual tuning curves to determine the effect of threat learning on sensory discrimination. 
+Past literature:
+This paper by @shalev_2018 demonstrates the effect we are trying to test in children/adolescents. They use an across sensory modality procedure (CSs = auditory, USs = visual) and between subjects design (control group = CS+ are positive/neutral, and experiments group where CS+ are negative) with pre/post perceptual tuning curves to determine the effect of threat learning on sensory discrimination.
 
 The basic task structure:
 
@@ -248,19 +248,19 @@ The basic task structure:
 
 The task and results:
 
-They find that when the CS+ is paired with the aversive picture, people show a deterioration in their ability to discriminate the CS+ from tones that are similar to it, whereas they show very little change in their ability to discriminate the CS- from tones that are similar to it. They saw the same thing with gabors that differed in contrast (right) and lines that differed in orientation (left). 
+They find that when the CS+ is paired with the aversive picture, people show a deterioration in their ability to discriminate the CS+ from tones that are similar to it, whereas they show very little change in their ability to discriminate the CS- from tones that are similar to it. They saw the same thing with gabors that differed in contrast (right) and lines that differed in orientation (left).
 
 ![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/2.png)
 ![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/3.png)
 ![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/4.png)
 
-Current Task Structure: 
+Current Task Structure:
 
-We will use an approach where we pair aversive/pleasant noises (USs) with lines at different orientations (CSs). In the control group the noise will be pleasant or neutral. In the experimental group the noise will be aversive. 
+We will use an approach where we pair aversive/pleasant noises (USs) with lines at different orientations (CSs). In the control group the noise will be pleasant or neutral. In the experimental group the noise will be aversive.
 
 ![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/5.png)
 
-The timeline of the task will be as follows: 
+The timeline of the task will be as follows:
 
 ![<!--- disc/cond/ext --->](images/information/measures/tasks/disc_cond_ext/6.png)
 
@@ -350,14 +350,16 @@ Attention checks were embedded in several child questionnaires beginning with MB
 
 #### Parent
 
-##### Parent Self 
+##### Parent Self
 
 | Title        | Description  | Reference  | Respondent  | Wave | Version |
 | ------------ | ------------ | ---------- | ----------- | ---- | ------- |
 | Beck Depression Inventory – II (bdi_ii)| Mental health/affective functioning. Developed for the assessment of symptoms corresponding to criteria for diagnosing depressive disorders listed in the DSM IV. | (ABC, XXXX) | Parents (self report) | Wave 1, Wave 1 Online
 | COVID-19 Objective Questionnaire (covid_objective) | COVID-19 objective measures. This questionnaire consists of 12 items to identify health changes and lifestyle changes made From the impacts of the COVID-19 outbreak. | (ABC, XXXX) | Parents (self report) | Wave 1 Online
+| Financial Hardship | This 2-item questionnaire asks how often in the past 12 months the participant was worried or stressed about having enough money to pay rent/mortage and to buy nutritious meals. | Jachimowicz et al., 2020 | Parents (self report) | Wave 1 online
+| Community Financial Support | This 3-item questionnaire assesses the degree that participants feel they can rely on others in their community for financial support if needed. | Jachimowicz et al., 2020 | Parents (self report) | Wave 1 Online 
 
-##### Parent Proxy 
+##### Parent Proxy
 
 | Title        | Description  | Reference  | Respondent  | Wave | Version |
 | ------------ | ------------ | ---------- | ----------- | ---- | ------- |
