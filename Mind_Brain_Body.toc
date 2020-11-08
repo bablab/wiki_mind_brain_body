@@ -200,13 +200,12 @@
 \contentsline {subsection}{\numberline {4.3.9}Protocol - Saliva Sample Online}{141}{subsection.4.3.9}%
 \contentsline {subsection}{\numberline {4.3.10}Protocol - Hair Sample Online}{142}{subsection.4.3.10}%
 \contentsline {subsubsection}{\numberline {4.3.10.1}Set Up Hair Sample Station}{142}{subsubsection.4.3.10.1}%
-\contentsline {subsubsection}{\numberline {4.3.10.2}Explanation}{143}{subsubsection.4.3.10.2}%
-\contentsline {subsubsection}{\numberline {4.3.10.3}Hair Sample Prep}{143}{subsubsection.4.3.10.3}%
-\contentsline {subsubsection}{\numberline {4.3.10.4}Hair Length}{143}{subsubsection.4.3.10.4}%
-\contentsline {subsection}{\numberline {4.3.11}Protocol - Child Questionnaires Online}{145}{subsection.4.3.11}%
-\contentsline {subsubsection}{\numberline {4.3.11.1}IF THERE IS NOT ENOUGH TIME}{145}{subsubsection.4.3.11.1}%
+\contentsline {subsubsection}{\numberline {4.3.10.2}Explanation}{142}{subsubsection.4.3.10.2}%
+\contentsline {subsubsection}{\numberline {4.3.10.3}Hair Length}{143}{subsubsection.4.3.10.3}%
+\contentsline {subsection}{\numberline {4.3.11}Protocol - Child Questionnaires Online}{144}{subsection.4.3.11}%
+\contentsline {subsubsection}{\numberline {4.3.11.1}IF THERE IS NOT ENOUGH TIME}{144}{subsubsection.4.3.11.1}%
 \contentsline {subsubsection}{\numberline {4.3.11.2}Ages 8+}{145}{subsubsection.4.3.11.2}%
-\contentsline {subsubsection}{\numberline {4.3.11.3}Ages 6-7}{146}{subsubsection.4.3.11.3}%
+\contentsline {subsubsection}{\numberline {4.3.11.3}Ages 6-7}{145}{subsubsection.4.3.11.3}%
 \contentsline {subsubsection}{\numberline {4.3.11.4}Sharing Your Screen}{146}{subsubsection.4.3.11.4}%
 \contentsline {subsection}{\numberline {4.3.12}Protocol - Session 2}{147}{subsection.4.3.12}%
 \contentsline {subsection}{\numberline {4.3.13}Protocol - Multiple Child Sessions}{148}{subsection.4.3.13}%
