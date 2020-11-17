@@ -48,11 +48,18 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 - Double check that stool and saliva sample are correctly packed (tube in biohazard bag with cotton balls, inside rigid white box)
 - Drop off at any FedEx location or post box
 
+
 ### Protocol - Payment
 
 - Confirm mailing address
 - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
 - Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment
+
+
+### Protocol - Wave 2 Interview
+
+- open up the Home Session Checklist to check for the script on the Wave 2 Interview
+- note parent comfortability with in-person sessions (as a projection for Wave 2)
 
 -----------
 
@@ -73,7 +80,8 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 - Open the correct delay test file for the participant, and delete the rows for all participants except the participant in question.
 - Save this file in the participants Box folder as "MBBXXX_halloween_test_delay.csv"
 
-### Protocol - Session 2 TO DO List Email
+
+### Wave 2 interview
 
 - Fill in templated email with all leftover tasks for participant to complete
 - Add links to REDCap for their optional qualitative responses

@@ -106,42 +106,36 @@ The researcher will ask the parent to find the [Pleasant/Unpleasant Events Check
 
 Researcher will wait for the participant to find the Online Session Booklet and flip to the correct page.
 
-*Researcher: Next we are going to take some film of you while you discuss something that's hard and try to resolve it. On this piece of paper (Issues Cheklist) is a list of things that parents and children sometimes have disagreements about. We will give you a moment to read the list and think about some that you would like to discuss together. Then after about one minute, you will start discussing the things you have selected and try to resolve them. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from this list, or decide to choose something else. And we want you to remember- this is not a test and there are no right or wrong things to say!*
+*Researcher: Next we are going to take some film of you while you discuss something that's hard and try to resolve it. On this piece of paper (Issues Cheklist) is a list of things that parents and children sometimes have disagreements about. We will give you a minute to read the list and think about some that you would like to discuss together. Then after about one minute, you will start discussing the things you have selected and try to resolve them. You do not need to tell us what you chose to discuss, and it does not matter if you chose something from this list, or decide to choose something else. And we want you to remember- this is not a test and there are no right or wrong things to say!*
 
-*I'll be there while you choose, but once your five minute discussion starts, I am going to turn off my camera and mute myself to be out of the recording, and I will also step out of the room and will not be listening in. I will come back in and let you know when the five minutes are all done!*
+*For this activity, I am going to turn off my camera and mute myself to be out of the recording, and I will also step out of the room and will not be listening in. I will come back in and let you know when the six minutes are all done!*
 
-*When you are ready, I will begin the recording and give you a minute or so to choose. Then, I will let you know when to start discussing for five minutes! Are you ready?*
+*When you are ready, I will begin the recording and give you a total of 6 minutes- 1 minute to choose, and five minutes to try to solve whatever problem or disagreements you chose! Are you ready?*
+
 
 Step 2: 
 - Researcher will ensure Zoom security settings are set up for the video.
 - Parent and child will be situated side-by-side in view on the Zoom camera.
 -Researcher will press record on the Zoom application. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/3.png) Wait to hear the audio Zoom confirmation *"this meeting is now being recorded"* and view recording in progress at top left of screen to ensure recording is live. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/4.png) 
-- Researcher set timer for 1 minute 
-
-[After 1 minute has passed, say] *Ok, now it's time to get started. Remember, try to solve whatever problem or disagreement you talk about for the next five minutes. After, I will come back into the video call and give you further instructions. Do you have any questions?*
 
 If no questions, proceed.
 
 *Ok great! You can start chatting!*
 
+
 Step 3:
 - Researcher will mute themselves on Zoom and turn off their camera, and step out of the room.
-- Researcher will start timer for 5 minutes. At the end of 5 minutes, reenter camera view and unmute themselves.
+- Researcher will start timer for 5 minutes. At the end of 6 minutes, reenter camera view and unmute themselves.
 
-[After 5 minutes have passed, say] *Thank you for taking the time to discuss something difficult. Next we are going to take some film of you talking about something nice. On your "Pleasant Events Checklist" is a list of fun things that parents and children sometimes do together. I will give you a moment to read the list and pick something that you would like to plan to do together. Then after about one minute, you will start discussing the things you have selected and try to plan them. Again, you do not need to tell us what you chose to discuss, and it does not matter if you choose something from this list, or decide to choose something else. When you are ready, I will start the recording and then give you a minute to choose. Then, I will let you know when to start discussing for your five minutes!*
-
-Step 4: 
-- Researcher set timer for 1 minute.
-
-*Ok, now it's time to get started. Remember, try to plan whatever fun thing you talk about for the next five minutes. After, I will come back into the video call and give you further instructions. Do you have any questions?*
+[After 6 minutes have passed, say] *Thank you for taking the time to discuss something difficult. Next we are going to take some film of you talking about something nice. On your "Pleasant Events Checklist" is a list of fun things that parents and children sometimes do together. I will give you a minute to read the list and pick something that you would like to plan to do together. Then after about one minute, you will start discussing the things you have selected and try to plan them for about five minutes. Again, you do not need to tell us what you chose to discuss, and it does not matter if you choose something from this list, or decide to choose something else. When you are ready, I will start the recording and then give you 6 minutes in total- 1 to choose and five minutes to try and plan whatever fun thing you want to talk about!*
 
 If no questions, proceed.
 
-Step 5:
-- Researcher will start timer for 5 minutes. 
+Step 4:
+- Researcher will start timer for 6 minutes. 
 
-Step 6:
-- After five minutes, researcher reenters the room and back into camera view, turns up volume on the computer, and stops the recording on Zoom. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/5.png) You will view this notification in the upper right hand corner that states the recorded file will be converted to mp4 once the meeting ends. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/6.png) Move the child/adolescent and parent onto the next task in the session, as the video will not be saved until after the session is complete.
+Step 5:
+- After six minutes, researcher reenters the room and back into camera view, turns up volume on the computer, and stops the recording on Zoom. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/5.png) You will view this notification in the upper right hand corner that states the recorded file will be converted to mp4 once the meeting ends. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/6.png) Move the child/adolescent and parent onto the next task in the session, as the video will not be saved until after the session is complete.
 
 **Please visit "Post-Online Session Protocols to view instructions on how to save the video recording.**
 
