@@ -54,6 +54,12 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
 - Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment
 
+### Protocol - Wave 2 Interview
+
+- Researcher to open up REDCap Home Session Checklist and read script about Wave 2 Interview
+- Researcher to take notes on parent response
+
+
 -----------
 
 ## Protocols - Post-Session 2 

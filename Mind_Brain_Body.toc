@@ -155,31 +155,32 @@
 \contentsline {chapter}{\numberline {4}Wave 1 Online}{99}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Checklists Online}{99}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Checklist - Initial Online}{99}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Checklist - Pre-Session 1}{102}{subsection.4.1.2}%
-\contentsline {subsubsection}{\numberline {4.1.2.1}Package preparation: ``magic box''}{102}{subsubsection.4.1.2.1}%
+\contentsline {subsection}{\numberline {4.1.2}Checklist - Pre-Session 1}{101}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}Package preparation: ``magic box''}{101}{subsubsection.4.1.2.1}%
 \contentsline {subsubsection}{\numberline {4.1.2.2}Setup - 1 Hour Prior}{103}{subsubsection.4.1.2.2}%
-\contentsline {subsection}{\numberline {4.1.3}Checklist - Session 1}{104}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.3}Checklist - Session 1}{103}{subsection.4.1.3}%
 \contentsline {subsection}{\numberline {4.1.4}Checklist - Post-Session 1}{104}{subsection.4.1.4}%
 \contentsline {subsubsection}{\numberline {4.1.4.1}Notes}{104}{subsubsection.4.1.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.4.2}Filing}{105}{subsubsection.4.1.4.2}%
-\contentsline {subsubsection}{\numberline {4.1.4.3}Reminders}{105}{subsubsection.4.1.4.3}%
-\contentsline {subsection}{\numberline {4.1.5}Checklist - Pre-Session 2}{105}{subsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.4.2}Filing}{104}{subsubsection.4.1.4.2}%
+\contentsline {subsubsection}{\numberline {4.1.4.3}Reminders}{104}{subsubsection.4.1.4.3}%
+\contentsline {subsection}{\numberline {4.1.5}Checklist - Pre-Session 2}{104}{subsection.4.1.5}%
 \contentsline {subsection}{\numberline {4.1.6}Checklist - Session 2}{105}{subsection.4.1.6}%
 \contentsline {subsection}{\numberline {4.1.7}Checklist - Post-Session 2}{105}{subsection.4.1.7}%
-\contentsline {subsection}{\numberline {4.1.8}Checklist - Final Online}{106}{subsection.4.1.8}%
-\contentsline {subsubsection}{\numberline {4.1.8.1}Filing}{106}{subsubsection.4.1.8.1}%
-\contentsline {subsubsection}{\numberline {4.1.8.2}Data Entry}{106}{subsubsection.4.1.8.2}%
-\contentsline {subsubsection}{\numberline {4.1.8.3}Reminders}{106}{subsubsection.4.1.8.3}%
+\contentsline {subsection}{\numberline {4.1.8}Checklist - Final Online}{105}{subsection.4.1.8}%
+\contentsline {subsubsection}{\numberline {4.1.8.1}Filing}{105}{subsubsection.4.1.8.1}%
+\contentsline {subsubsection}{\numberline {4.1.8.2}Data Entry}{105}{subsubsection.4.1.8.2}%
+\contentsline {subsubsection}{\numberline {4.1.8.3}Reminders}{105}{subsubsection.4.1.8.3}%
 \contentsline {subsubsection}{\numberline {4.1.8.4}Package confirmation}{106}{subsubsection.4.1.8.4}%
 \contentsline {subsubsection}{\numberline {4.1.8.5}Data Entry}{106}{subsubsection.4.1.8.5}%
-\contentsline {subsubsection}{\numberline {4.1.8.6}Filing}{107}{subsubsection.4.1.8.6}%
-\contentsline {subsubsection}{\numberline {4.1.8.7}Sample Storage}{107}{subsubsection.4.1.8.7}%
-\contentsline {subsubsection}{\numberline {4.1.8.8}Data Quality}{107}{subsubsection.4.1.8.8}%
+\contentsline {subsubsection}{\numberline {4.1.8.6}Filing}{106}{subsubsection.4.1.8.6}%
+\contentsline {subsubsection}{\numberline {4.1.8.7}Sample Storage}{106}{subsubsection.4.1.8.7}%
+\contentsline {subsubsection}{\numberline {4.1.8.8}Data Quality}{106}{subsubsection.4.1.8.8}%
 \contentsline {subsubsection}{\numberline {4.1.8.9}Retention}{107}{subsubsection.4.1.8.9}%
 \contentsline {subsubsection}{\numberline {4.1.8.10}Reimbursement}{107}{subsubsection.4.1.8.10}%
-\contentsline {section}{\numberline {4.2}Protocols - Pre-Session 1}{107}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Protocol - Recruitment Online}{107}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.1}Pre-Screening}{107}{subsubsection.4.2.1.1}%
+\contentsline {subsection}{\numberline {4.1.9}Checklist - No Show}{107}{subsection.4.1.9}%
+\contentsline {section}{\numberline {4.2}Protocols - Pre-Session 1}{108}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Protocol - Recruitment Online}{108}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Pre-Screening}{108}{subsubsection.4.2.1.1}%
 \contentsline {subsubsection}{\numberline {4.2.1.2}Screening}{108}{subsubsection.4.2.1.2}%
 \contentsline {subsubsection}{\numberline {4.2.1.3}Scheduling}{112}{subsubsection.4.2.1.3}%
 \contentsline {subsubsection}{\numberline {4.2.1.4}Other Screening Information}{115}{subsubsection.4.2.1.4}%
@@ -192,8 +193,8 @@
 \contentsline {subsection}{\numberline {4.3.1}Protocol - Welcome \& Zoom Introduction}{118}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}Protocol - Consent \& Assent Online}{122}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Protocol - Parent Child Observation Online}{125}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Protocol - Halloween Training/Parent Questionnaires}{129}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Protocol - Height Online}{131}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.4}Protocol - Halloween Training/Parent Questionnaires}{128}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Protocol - Height Online}{130}{subsection.4.3.5}%
 \contentsline {subsection}{\numberline {4.3.6}Protocol - Weight Online}{131}{subsection.4.3.6}%
 \contentsline {subsection}{\numberline {4.3.7}Protocol - Waist Measurement Online}{132}{subsection.4.3.7}%
 \contentsline {subsection}{\numberline {4.3.8}Protocol - Halloween ``Test'' Online}{132}{subsection.4.3.8}%
@@ -201,7 +202,7 @@
 \contentsline {subsection}{\numberline {4.3.10}Protocol - Hair Sample Online}{134}{subsection.4.3.10}%
 \contentsline {subsubsection}{\numberline {4.3.10.1}Set Up Hair Sample Station}{134}{subsubsection.4.3.10.1}%
 \contentsline {subsubsection}{\numberline {4.3.10.2}Explanation}{135}{subsubsection.4.3.10.2}%
-\contentsline {subsubsection}{\numberline {4.3.10.3}Hair Length}{136}{subsubsection.4.3.10.3}%
+\contentsline {subsubsection}{\numberline {4.3.10.3}Hair Length}{135}{subsubsection.4.3.10.3}%
 \contentsline {subsection}{\numberline {4.3.11}Protocol - Child Questionnaires Online}{137}{subsection.4.3.11}%
 \contentsline {subsubsection}{\numberline {4.3.11.1}IF THERE IS NOT ENOUGH TIME}{137}{subsubsection.4.3.11.1}%
 \contentsline {subsubsection}{\numberline {4.3.11.2}Ages 8+}{137}{subsubsection.4.3.11.2}%
@@ -210,7 +211,7 @@
 \contentsline {subsection}{\numberline {4.3.12}Protocol - Session 2}{139}{subsection.4.3.12}%
 \contentsline {subsection}{\numberline {4.3.13}Protocol - Multiple Child Sessions}{140}{subsection.4.3.13}%
 \contentsline {subsection}{\numberline {4.3.14}Protocol - Troubleshooting}{141}{subsection.4.3.14}%
-\contentsline {subsubsection}{\numberline {4.3.14.1}Plan B to Zoom recording on PC interaction}{141}{subsubsection.4.3.14.1}%
+\contentsline {subsubsection}{\numberline {4.3.14.1}Plan B to Zoom recording on PC interaction}{142}{subsubsection.4.3.14.1}%
 \contentsline {section}{\numberline {4.4}Protocols - Post-Session 1}{143}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Protocol - Saving the Video}{143}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}Protocol - Downloading the Gorilla task data}{145}{subsection.4.4.2}%
@@ -219,11 +220,12 @@
 \contentsline {subsection}{\numberline {4.5.1}Protocol - Halloween Test Delay}{147}{subsection.4.5.1}%
 \contentsline {subsection}{\numberline {4.5.2}Protocol - Mailing Package}{149}{subsection.4.5.2}%
 \contentsline {subsection}{\numberline {4.5.3}Protocol - Payment}{150}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Protocol - Wave 2 Interview}{150}{subsection.4.5.4}%
 \contentsline {section}{\numberline {4.6}Protocols - Post-Session 2}{150}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Protocol - Downloading the Gorilla delay test data}{150}{subsection.4.6.1}%
 \contentsline {subsection}{\numberline {4.6.2}Protocol - Session 2 TO DO List Email}{150}{subsection.4.6.2}%
-\contentsline {section}{\numberline {4.7}Protocols - Final}{150}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{150}{subsection.4.7.1}%
+\contentsline {section}{\numberline {4.7}Protocols - Final}{151}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{151}{subsection.4.7.1}%
 \contentsline {subsection}{\numberline {4.7.2}Protocol - Storing Hair Sample}{151}{subsection.4.7.2}%
 \contentsline {subsection}{\numberline {4.7.3}Protocol - Storing Stool Sample}{151}{subsection.4.7.3}%
 \contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{151}{subsubsection.4.7.3.1}%

@@ -80,24 +80,6 @@ NOTE: all template emails are in bablab gmail
    - Update *Session 1* calendar status
 
 
-**No Show Protocol**
-
-- Delete session 2 & reminder calendar events from MBB calendar to avoid confusion
-  - Session 2 reminder email
-  - Session 2 reminder call
-  - Session 2 session event 
-  - Home session reminder 1 email
-  - Home session reminder 1 call
-  - Home session reminder 2 email
-- Change REDCap status 
-  - Go to “Default Dashboard” to access full list of SMBB numbers
-  - Change REDCap SMBB wave 1 status from enrolled to contact
-  - Add a new screening and make a note that they were a no-show and are reaching out about rescheduling
-  - Note - MBB stays the same 
-- Email the participant about rescheduling / check in to see if they are still interested in MBB study 
-  - There’s no email template, just ask if they are interested in rescheduling their session or if they are no longer interested in participating
-- Update [Participant Tally] (https://ucla.app.box.com/file/724688028024)
-
 ------------
 
 ### Checklist - Pre-Session 1
@@ -253,7 +235,7 @@ NOTE: all template emails are in bablab gmail
 - Halloween test delay completed
 - Fill in home session checklist on REDCap (halloween test delay information)
 - Stool sample questions answered
-
+- Wave 2 Interview
 - Bristol Stool Scale reminder
 - Contact information sheet reminder
 - Walk through package to send back (check "mbb_online_package_checklists") for checklist of items participant needs to send back to the lab
@@ -348,6 +330,26 @@ NOTE: all template emails are in bablab gmail
 - Log participant payment in reimbursement log book
 - Log participant payment in reimbursement spreadsheet
 - Send payment confirmation email to participant
+
+-----------------
+
+### Checklist - No Show
+
+- Delete session 2 & reminder calendar events from MBB calendar to avoid confusion
+  - Session 2 reminder email
+  - Session 2 reminder call
+  - Session 2 session event 
+  - Home session reminder 1 email
+  - Home session reminder 1 call
+  - Home session reminder 2 email
+- Change REDCap status 
+  - Go to “Default Dashboard” to access full list of SMBB numbers
+  - Change REDCap SMBB wave 1 status from enrolled to contact
+  - Add a new screening and make a note that they were a no-show and are reaching out about rescheduling
+  - Note - MBB stays the same 
+- Email the participant about rescheduling / check in to see if they are still interested in MBB study 
+  - There’s no email template, just ask if they are interested in rescheduling their session or if they are no longer interested in participating
+- Update [Participant Tally] (https://ucla.app.box.com/file/724688028024)
 
 -----------------
 
