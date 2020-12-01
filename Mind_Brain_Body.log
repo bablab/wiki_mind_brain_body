@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  23 NOV 2020 10:57
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  1 DEC 2020 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,99 +410,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count295
-) (./Mind_Brain_Body.aux
-
-LaTeX Warning: Label `child' multiply defined.
-
-
-LaTeX Warning: Label `parent' multiply defined.
-
-
-LaTeX Warning: Label `parent-proxy' multiply defined.
-
-
-LaTeX Warning: Label `parent-self' multiply defined.
-
-
-LaTeX Warning: Label `wasi' multiply defined.
-
-
-LaTeX Warning: Label `wiat' multiply defined.
-
-
-LaTeX Warning: Label `training-video' multiply defined.
-
-
-LaTeX Warning: Label `notes' multiply defined.
-
-
-LaTeX Warning: Label `filing' multiply defined.
-
-
-LaTeX Warning: Label `reminders' multiply defined.
-
-
-LaTeX Warning: Label `filing-1' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `sample-storage' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `retention' multiply defined.
-
-
-LaTeX Warning: Label `reimbursement' multiply defined.
-
-
-LaTeX Warning: Label `pre-screening' multiply defined.
-
-
-LaTeX Warning: Label `screening' multiply defined.
-
-
-LaTeX Warning: Label `other-screening-information' multiply defined.
-
-
-LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
-
-
-LaTeX Warning: Label `hair-length' multiply defined.
-
-
-LaTeX Warning: Label `sample-quality' multiply defined.
-
-
-LaTeX Warning: Label `sample-transfer' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
-efined.
-
-
-LaTeX Warning: Label `protocol---payment' multiply defined.
-
-
-LaTeX Warning: Label `summary' multiply defined.
-
-
-LaTeX Warning: Label `measures' multiply defined.
-
-
-LaTeX Warning: Label `questionnaires' multiply defined.
-
-)
+) (./Mind_Brain_Body.aux)
 \openout1 = `Mind_Brain_Body.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -2073,15 +1981,12 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6482.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
 (rerunfilecheck)             Checksum: 59E980B1F7C72DBF7925F3BBE9E7DBDD;2881.
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 18658 strings out of 479418
- 342408 string characters out of 5884586
- 814925 words of memory out of 5000000
- 35874 multiletter control sequences out of 15000+600000
+ 18688 strings out of 479418
+ 342897 string characters out of 5884586
+ 816479 words of memory out of 5000000
+ 35904 multiletter control sequences out of 15000+600000
  538789 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
