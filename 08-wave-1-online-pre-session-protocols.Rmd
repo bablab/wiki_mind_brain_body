@@ -2,6 +2,20 @@
 
 ### Protocol - Recruitment Online
 
+#### Adding Participants to Participant Database 
+
+*For when there is a new email interest form *
+
+1. Verify that potential participant is actually a new participant 
+    - In other words check Participant Database to check that they didn’t previously participate / fill out interest form before 
+2. Add the info provided on interest submission ( name, age, email, phone number) 3. For column labeled “Added”: 
+    - Yes if you’ve added them to REDCap
+    - No if they haven’t been added
+    - * Recommended that you add to REDCap immediately and reach out to them
+4. Add participant to REDCap ( see below for full instructions) 
+5. Move interest form email from inbox to “Added” tab of MBB 
+    - “Move to” button is at top next to labels button, make sure you move not just put “Added” label 
+
 #### Pre-Screening
 
  1. Check if participant is in Recruitment Database
