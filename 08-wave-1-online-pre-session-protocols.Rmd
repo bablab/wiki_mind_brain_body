@@ -2,14 +2,28 @@
 
 ### Protocol - Recruitment Online
 
+#### Adding participants to Participant Database
+* For when there is a new email interest form 
+1. Verify that potential participant is actually a new participant 
+    - In other words check Participant Database to check that they didn’t previously participate / fill out interest form before 
+2. Add the info provided on interest submission ( name, age, email, phone number) 
+3. For column labeled “Added”: 
+    - Yes if you’ve added them to REDCap
+    - No if they haven’t been added
+    - Recommended that you add to REDCap immediately and reach out to them
+4. Add participant to REDCap ( see below for full instructions) 
+5. Move interest form email from inbox to “Added” tab of MBB 
+    - “Move to” button is at top next to labels button, make sure you move not just put “Added” label 
+
 #### Pre-Screening
 
- 1. Check if participant is in Recruitment Database
-     - If not, add them to the Recruitment Database
+ 1. Check if participant is in Participant Database
+     - If not, add them to the Participant Database ( see section above)
  3. Check if participant is in ID Drive
     - If yes, check if they have a Screener ID
     - If not, assign them a Screener ID once contact has been established based on the next available Screener ID # in REDCap and proceed with screening
     - If yes, proceed with screening under existing Screener ID in REDCap
+    - Check participant tally before making call to see if they would be scheduled or waitlisted ( if we reached 15 participants for that age group) if eligible for study 
 
 #### Screening
 
@@ -33,6 +47,8 @@
 7. Select the appropriate choice to start the phone call and follow the skip logic
 8. Follow the skip logic to the end
     - For items without a text field, write the information down in the Recruitment database (This identifying information cannot be on REDCap)
+    - In “Notes” make detailed note of relevant info ( eg. Session scheduled for this day, participant has not responded to prior emails, etc )
+
 9. Once done, select “Complete” and “Save & Exit Form”
     - The screen can be entered multiple times - for instance if there are multiple phone calls or contacts
     - It is important to keep a record of all instances of contact
@@ -42,13 +58,17 @@
 11. Select the appropriate option
      - Contact - Participant needs to be re-contacted (add Recruitment Database & ID Drive). Participants who are still too young to participate, or are unavailable at the moment should stay on this list but be set for a future recontact time/date. 
      - Ineligible - Participant not eligible for study
-     - To Enroll - Participant to enroll (need to create subject ID, enter subject info, schedule participant, add to Recruitment Database, add to ID Drive)
+     - To Enroll - Participant to enroll (need to create subject ID, enter subject info, schedule participant, add to Participant Database, add to ID Drive)
      - Enrolled - Participant has been enrolled (all above have been completed)
      - To Remove - Participant wants to be removed
      - Out of Town- Participant lives outside of LA, and will not be returning after the pandemic. This is our "waitlist" of those we will contact if really necessary
 12. Be sure to update the screen status after each contact
+    - Update the recontact date on wave status 
+        - One week from today (date you contacted them)
+        - For individuals that have been unresponsive for long time ( 6+ months) two weeks is recontact date
      - After 3 contacts (with no response) - review (time of day, contact method, etc.)
 13. If enrolled, proceed to pre-session checklist in the participant log
+    - Highly recommended to do all post-enrollment tasks by following the “Pre-Session Checklist” on MBB participant log
 
 
 #### Scheduling
@@ -59,18 +79,6 @@ Participants must be scheduled 2 weeks or more in advance from the "package mail
 3. Create event on google calendar for 2 hours. Notify the participant that sessions may not last the full indicated time, however, we like to designate additional time just in case.
 4. As soon as the participant has been scheduled, create/add to a google calendar event for the designated "package mailing day" of the week the participant ID (MBB number).
 5. This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for "package mailing day."
-
-Making a Zoom link
-
-1. Log onto https://zoom.us
-2. Click to "Meetings" and "Schedule a new meeting" ![<!--- zoom_link --->](images/zoom_link/1.png)
-3. Title the meeting with the Participant's MBB number, set scheduled time, indicate 3 hours ![<!--- zoom_link --->](images/zoom_link/2.png)
-4. Set setting with password and turn host/participant on ![<!--- zoom_link --->](images/zoom_link/3.png)
-5. Save and click to add Zoom meeting to google calendar ![<!--- zoom_link --->](images/zoom_link/4.png)
-6. Click on the bablab.ucla@gmail.com ![<!--- zoom_link --->](images/zoom_link/5.png)
-7. Click allow ![<!--- zoom_link --->](images/zoom_link/6.png)
-8. Copy the Zoom link from the Description section and save ![<!--- zoom_link --->](images/zoom_link/7.png)
-9. Paste Zoom link into the "confirmation email" you send to the participant with their session confirmation, Zoom instruction sheet, and Next Steps sheet
 
 
 #### Other Screening Information
@@ -98,6 +106,20 @@ To find out where participants are in the recruitment process, there are several
 If a parent has a concern about the study before the session, send the email template: 
 
 - [MBB_online - CONCERNS]
+
+
+### Making a Zoom Link
+
+1. Log onto https://zoom.us
+2. Click to "Meetings" and "Schedule a new meeting" ![<!--- zoom_link --->](images/zoom_link/1.png)
+3. Title the meeting with the Participant's MBB number, set scheduled time, indicate 3 hours ![<!--- zoom_link --->](images/zoom_link/2.png)
+4. Set setting with password and turn host/participant on ![<!--- zoom_link --->](images/zoom_link/3.png)
+5. Save and click to add Zoom meeting to google calendar ![<!--- zoom_link --->](images/zoom_link/4.png)
+6. Click on the bablab.ucla@gmail.com ![<!--- zoom_link --->](images/zoom_link/5.png)
+7. Click allow ![<!--- zoom_link --->](images/zoom_link/6.png)
+8. Copy the Zoom link from the Description section and save ![<!--- zoom_link --->](images/zoom_link/7.png)
+9. Paste Zoom link into the "confirmation email" you send to the participant with their session confirmation, Zoom instruction sheet, and Next Steps sheet
+
 
 ----------------
 

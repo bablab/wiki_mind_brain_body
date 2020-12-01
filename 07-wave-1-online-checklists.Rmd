@@ -29,7 +29,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
 
 - Schedule session 1 two weeks in advance from "package mailing day" (see package preparation in pre-session checklist)
 - Schedule session 2 ~one week after session 1
-- Make Zoom link with scheduled session times and save to google calendar
+- Ask Kristen to make Zoom link with scheduled session times and save to google calendar
 - Send session 1 confirmation email (in templates)
    - Attach [Next Steps](https://ucla.app.box.com/file/665452959932), [Computer Zoom Download Instructions](https://ucla.app.box.com/file/680632734387)
 
@@ -37,7 +37,12 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
 
 - Create participant Box folder using MBB_template (delete blank README from newly created folder)
 - Enroll participant in Wave 1 on REDCap
+  - Go to “Add / Edit Records” of MBB
+  - Make sure the tab is “Arm 2: wave 1”
+  - Type in the next available MBB
+  * Be careful because any premature clicking makes a new ID*
 - Fill participant instrument on REDCap
+  - In notes section add the date and time of their scheduled session
 - Update [Participant Tally](https://ucla.app.box.com/file/724688028024)
 
 **Calendar**
@@ -56,13 +61,23 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
   - *MBB999 WX (Scheduled for 00/00/00) Sent: Incomplete*
 - Create MBB Session 1/2 reminder calendar events
   - *MBBXXX WX- Session 1 Reminder 1 (email)* - 1 week prior
+    - Add Status: Incomplete to the description
+  - *MBBXXX WX- Session 1 Reminder 1 (call)* - the day after Reminder 1 email
+    - Add Status: Incomplete to the description
+    - Add “Only if no email response yesterday”  to description
   - *MBBXXX WX- Session 1 Reminder 2 (email and call)* - 3 days prior
+    - Add Status: Incomplete to the description
   - *MBBXXX WX- Session 2 Reminder 1 (email) * - 3 days before second session
+    - Add Status: Incomplete to the description
   - *MBBXXX WX- Session 2 Reminder 2 (call)* - 2 days before second session
+    - Add Status: Incomplete to the description
 - Create MBB Home Session reminder calendar events
   - *MBBXXX WX- Home Session Reminder 1 (email)* - 1 week after Session 2
+    - Add Status: Incomplete to the description
   - *MBBXXX WX- Home Session Reminder 2 (call)* - 8 days after Session 2
+    - Add Status: Incomplete to the description
   - *MBBXXX WX- Home Session Reminder 2 (email)* - 14 days after Session 2
+    - Add Status: Incomplete to the description
   
   
 **Reminders**
@@ -70,14 +85,36 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
 NOTE: all template emails are in bablab gmail 
 
 - Send *Session 1 Reminder 1* email
+  - Update calendar event description to Status: Complete
+  - Update MBB participant log 
+    - Confirm package is received
+- *Session 1 Reminder 1* call made
+  - Update calendar event description to Status: Complete 
+  - If no call made put “NA - responded to yesterday’s email”
+  - Update MBB participant log - if NA put NA 
+- Send *Session 1 Reminder 2* email & call
+  - Update calendar event description to Status: Complete
+  - Update MBB participant log
+  - *Make a note if no verbal confirmation & send a message to SRA chat*
   - Confirm package is received
-- Send *Session 1 Reminder 2* email
+- *Session 2 Reminder 1 email* made
+  - Update calendar event description to Status: Complete
+  - Update MBB participant log
   - Confirm package is received
-- *Session 1 Reminder 2 call* made
-  - Confirm package is received
+- *Session 2 Reminder 2 call* made
+  - Update calendar event description to Status: Complete
+  - Update MBB participant log
+  - *Make a note if no verbal confirmation & send a message to SRA chat*
 - Confirm participant
-   - Preferably by phone
-   - Update *Session 1* calendar status
+  - Preferably by phone
+  - Update calendar event description to Status: Complete
+  - Update MBB participant log
+  - Update *Session 1* calendar status
+- Home Session Reminders
+  - Check participant log to see what info is missing before sending home session reminder emails 
+  - Check with Kristen if unsure what info is missing 
+  - Make sure the list of “items needed” is tailored to that participant
+  - Send written response links if it hasn’t been completed yet 
 
 
 **No Show Protocol**
@@ -94,9 +131,50 @@ NOTE: all template emails are in bablab gmail
   - Change REDCap SMBB wave 1 status from enrolled to contact
   - Add a new screening and make a note that they were a no-show and are reaching out about rescheduling
   - Note - MBB stays the same 
-- Email the participant about rescheduling / check in to see if they are still interested in MBB study 
-  - There’s no email template, just ask if they are interested in rescheduling their session or if they are no longer interested in participating
 - Update [Participant Tally] (https://ucla.app.box.com/file/724688028024)
+- Rescheduling steps 
+  - Send No-show rescheduling email same day 
+  - Add calendar event for reschedule call 1 (following day) 
+  - Add calendar event for rescheduling email 2 (1 week after) 
+  - Add calendar event for rescheduling call 2 (8 days later) 
+  - Add calendar event for rescheduling email 3 (2 weeks after) 
+  - Add calendar event for rescheduling call 3 (15 days later) 
+- Add participant to “No-Show Tracking Sheet” 
+  - Fill out information on tracking sheet for participant 
+  - After last “rescheduling step” set to recall in RedCap for three months later 
+
+**Important Reminders** 
+
+- **Screening**
+  - Check participant tally before screening to know if we would be scheduling or waitlisting if they qualify 
+  - When answering the call ask who you are speaking with ( so we know if it’s a parent or teen)
+  - If a potential participant is not of age then put their recontact to future around the time they would qualify 
+  - If screening a family with multiple children each child has to be screened with their own smbb
+    - Oldest child gets next available smbb number just like the mbb number protocol 
+    - Only exception is if we only knew about younger child then during screening mentions they have another child that wants to participate.
+  - Triple check you write down the address correctly for participants ( repeat it back to them / spell it out) 
+
+- **Calendar**
+  - Put the W1 for wave one ( e.g. S1 W1 ) on session events
+  - For reminder emails put Status: Incomplete in description
+  - For Session 1 Reminder 1 call event put “Only if no email response yesterday” in the description and then status: Incomplete
+  - Whenever you complete a reminder event mark it as complete and update the MBB participant log 
+  
+- **Emails to participant**
+  - Move potential participant email to “Added” tab of MBB once you add them to the participant database 
+  - All emails to a participant should be in the same thread 
+    - The thread we initially contacted them at should be the one we send the session confirmation to 
+  - The easiest way to not forget steps is to do all “ session has just been scheduled” tasks based on the MBB log 
+  - Make sure you are sending the correct reminder email - S1 R2 is the one with the researcher card 
+
+- **Confirming sessions**
+  - Do not put as “ confirmed session” on MBB log unless we got verbal confirmation / email confirmation
+  - If called and no answer leave a note on the calendar event saying was not able to verbally confirm & also put into SRA chat 
+
+- **REDCap** 
+  - Log into REDCap with your own account to avoid confusion and for easier identification of who screened each smbb participant
+  - After contacting someone change the Wave status “date to recontact”  to one week from the current date ( can be two weeks if it’s someone that hasn’t responded in long time)
+  - When you schedule a new MBB participant change their SMBB “Wave 1 status” to enrolled 
 
 ------------
 
