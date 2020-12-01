@@ -2,7 +2,7 @@
 
 ### Protocol - Recruitment Online
 
-#### Adding participants to Participant Database
+#### Adding to Participant Database
 * For when there is a new email interest form 
 1. Verify that potential participant is actually a new participant 
     - In other words check Participant Database to check that they didn’t previously participate / fill out interest form before 

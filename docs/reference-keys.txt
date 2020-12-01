@@ -179,7 +179,7 @@ retention-1
 reimbursement-1
 protocols---pre-session-1
 protocol---recruitment-online
-adding-participants-to-participant-database
+adding-to-participant-database
 pre-screening-1
 screening-1
 scheduling
