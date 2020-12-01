@@ -177,6 +177,7 @@ sample-storage-2
 data-quality-1
 retention-1
 reimbursement-1
+checklist---no-show
 protocols---pre-session-1
 protocol---recruitment-online
 pre-screening-1
@@ -219,6 +220,7 @@ protocols---session-2
 protocol---halloween-test-delay
 protocol---mailing-package
 protocol---payment
+protocol---wave-2-interview
 protocols---post-session-2
 protocol---downloading-the-gorilla-delay-test-data
 protocol---session-2-to-do-list-email
