@@ -1,14 +1,14 @@
 # Wave 1 SONA
 
-## Summary
+## Summary - MBB SONA
 
 Additional data collection of the 2 part Halloween task (for immediate and delayed testing of the memory task) will be taken with participants aged 18+. We project collecting from 250 participants (due to potential attrition of the 2 part task) and will compensate participants with school credit on the UCLA SONA system.
 
 -----------------
 
-## Measures
+## Measures - MBB SONA
 
-### Questionnaires
+### SONA Questionnaires
 
 | Title        | Description  | Reference  |
 | ------------ | ------------ | ---------- |
@@ -16,3 +16,5 @@ Additional data collection of the 2 part Halloween task (for immediate and delay
 | Revised Childhood Traumatic Experiences Survey (cte_revised) – 18+ years of age. | Adult report. Domain assessed: Traumatic Experiences. The Childhood Trauma Questionnaire is a brief 6 item survey of retrospectively-reported traumatic experiences (death, divorce, violence, sexual abuse, illness, and upheaval). | (ABC, XXXX)
 
 -----------------
+
+## Halloween
