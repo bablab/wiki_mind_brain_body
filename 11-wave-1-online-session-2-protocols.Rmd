@@ -10,7 +10,7 @@
 
 *OK! It is time to go back to our learning and memory section.*
 
-[Give child instructions on Halloween Test] [Researcher to open up the [halloween_test](https://ucla.app.box.com/file/709479264913)]
+[Give child instructions on Halloween Test] [Researcher to open up the [halloween_part_3](https://ucla.app.box.com/file/737558206552)]
 
 *Ok [Child's name]- now we want to see how much of your trick-or-treating adventure you remember. You will see an instructions page like this first!*
 
@@ -50,7 +50,6 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
 ### Protocol - Payment
 
-- Confirm mailing address
 - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
 - Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment
 
@@ -59,6 +58,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 - Researcher to open up REDCap Home Session Checklist and read script about Wave 2 Interview
 - Researcher to take notes on parent response
 
+*Usually we do these sessions in person, and for second wave of this study in one year from now, we'd love to have you come in person! Who knows what world will look like then, but I'd still like to ask some questions to gauge at a bare minimum what you would need to feel comfortable with coming back into the lab.*
 
 -----------
 
@@ -68,22 +68,20 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 ### Protocol - Downloading the Gorilla delay test data
 
 1. Login to Gorilla and navigate to the experiment's data tab.
-2. If data is up to date, you can go ahead and click download. 
-2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participant. 
-2a. NOTE: if you are downloading right after the session, scroll down and click "TODAY" to minimize the amount of data you have to scroll through to find the participant's data.
+2. If data is up to date, you can go ahead and click download. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participant. 
+
 3. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data".
 4. You will see a wait screen as it generates.
 5. After a few minutes click into "Manage experiment data" again and download. 
-
-- Unzip the file to your desktop.
-- Open the correct delay test file for the participant, and delete the rows for all participants except the participant in question.
-- Save this file in the participants Box folder as "MBBXXX_halloween_test_delay.csv"
+6. Unzip the file to your desktop.
+7. Open the correct delay test file and check that the participant's data is all there. NOTE: can check the participant's specific nodes to see the code of their halloween test delay, which will tell you which file their data is located in.
+8. Save this file in the Gorilla data folder on Box as "month_day_year.csv"
 
 ### Protocol - Session 2 TO DO List Email
 
 - Fill in templated email with all leftover tasks for participant to complete
 - Add links to REDCap for their optional qualitative responses
-
+- Refrain from sending this email if they ONLY have qualitative responses left to do- participants will get 2+ emails through our "home reminder" system. This email is designed more for participants who have not done the stool sample yet, or still have outstanding tasks from Session 1 that we'd like to remind them about immediately/are time sensitive.
 
 -----------
 

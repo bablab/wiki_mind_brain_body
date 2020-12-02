@@ -69,6 +69,8 @@
 
 [Researcher will rename the participant's name to "P" for participant. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/1.png)
 
+*Lastly, in this study, we ask a lot of questions about family life and tough things that might have happened to kids. We are going to ask these questions to you and we ask a couple to your children as well, we just want to let you know that it is in our protocol to make sure everyone is safe, so if you or your child reveals to us that you're at current risk of harm or if you're at risk of harming someone else, then we will follow up with you and make sure everything is okay. If it is not, then we will take some steps to make sure that we keep everyone safe.* 
+
 *Ok- I will now send you a link through the Zoom chat, which will open up a survey that allows you to virtually indicate your consent to participate in the study. Please feel free to take your time reading through the consent and assent forms now if you’d like. As I mentioned earlier, these are the documents we had previously sent you in the emails leading up to today's session.*
 
 [Then once they are done reading through]
@@ -321,11 +323,6 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
 *Next up is the Hair Sample. Feel free to flip to the section on Hair Sample Collection in your session booklet, if Magic Box. When you are ready, I will walk you through it step-by-step!*
 
-Participants can also watch the video below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9bR5Ma_qgw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 #### Set Up Hair Sample Station 
 
 - Ask parent to gather the following materials for their “hair-sample station”:
@@ -394,6 +391,10 @@ Participants can also watch the video below:
 
 
 *Now we are all done with the hair sample! You can go ahead and put another star on your token board!*
+
+Participants can also watch the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bR5Ma_qgw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----------------
 
@@ -501,7 +502,7 @@ Parent/All children:
 
 ### Protocol - Troubleshooting
 
-**If an item on the "reporting" list is activated...**
+#### If an item on the "reporting" list is activated...
 
 - Researcher to chat with parent alone at the end of the session
 
@@ -509,22 +510,32 @@ Parent/All children:
 
 [Researcher to wait for child to leave]
 
-*Awesome! So I just wanted to check-in about something with you real quick. Your child may have answered an item in our questionnaires related to [parents pushing or shoving each other/parents throwing things during fights] during the session. We are not mandated reporters but it is in our protocol to just check-in and make sure everything is alright at home. UCLA has many resources we can connect you to if necessary. Is everything alright?*
+*Awesome! So I just wanted to check-in about something with you real quick. Your child may have answered an item in our questionnaires related to [parents pushing or shoving each other/parents throwing things during fights] during the session. It is in our protocol to just check-in and make sure everything is alright at home. UCLA has many resources we can connect you to if necessary. Is everything alright?*
 
-[If yes, say] *Great! I am glad to hear it. Thanks for letting us know!* [Then proceed to thanking them for session and what to expect next week, etc.]
+**If yes, say** 
 
-[If no, say] *Are you in any immediate danger at the moment?* [If no, say] *Would you like us to connect you with some resources at UCLA?* 
+*Great! I am glad to hear it. Thanks for letting us know!* [Then proceed to thanking them for session and what to expect next week, etc.]
 
-[If no, but you don't feel that everything is alright, say] *As we said earlier in the session, we
+**If no, say**
+
+*Are you in any immediate danger at the moment?* 
+
+[If yes, say] *Thank you for letting me know. We are going to get in touch with our supervisor immediately. Please give me a moment to get in touch with her now.* Researcher will then slack and call Bridget immediately.
+
+[If no, say] *Would you like us to connect you with some resources at UCLA?* If yes, send email with resources at UCLA.
+
+**If no, but you don't feel that everything is alright, say**
+
+*Thank you for letting me know. As we said earlier in the session, it is part of our protocol to check-in so our supervisor may be giving you a call a little bit later today* Researcher to slack Bridget immediately. 
 
 
-**If links in chat are not working...**
+#### If links in chat are not working...
 
 [Get them to have the links email open just in case]
 *You should have received an email from us right before this session full of links for today. Can you please pull that up to have it ready just in case? I will be sending you all of these links through the Zoom chat, but it will a good reference in case we have any technical difficulties! Once you have it up, you can co ahead and minimize the window.*
 
 
-**If internet/wifi seems to be dysfunctioning...**
+#### If internet/wifi seems to be dysfunctioning...
 
 [Try to get the best internet connection possible.]
 *Are you working on a computer that is connected via ethernet cable? We want to ensure you have the best internet connection possible for the session, as we will be doing many activities today that may need strong internet connection. Can you possibly transfer to a computer that is connected to an ethernet cable?*

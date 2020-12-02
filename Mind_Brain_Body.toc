@@ -212,35 +212,38 @@
 \contentsline {subsection}{\numberline {4.3.12}Protocol - Session 2}{140}{subsection.4.3.12}%
 \contentsline {subsection}{\numberline {4.3.13}Protocol - Multiple Child Sessions}{141}{subsection.4.3.13}%
 \contentsline {subsection}{\numberline {4.3.14}Protocol - Troubleshooting}{142}{subsection.4.3.14}%
-\contentsline {subsubsection}{\numberline {4.3.14.1}Plan B to Zoom recording on PC interaction}{143}{subsubsection.4.3.14.1}%
-\contentsline {section}{\numberline {4.4}Protocols - Post-Session 1}{144}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Protocol - Saving the Video}{144}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Protocol - Downloading the Gorilla task data}{146}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Protocol - Session 2 Confirmation Email}{148}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Protocols - Session 2}{148}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Protocol - Halloween Test Delay}{148}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Protocol - Mailing Package}{150}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Protocol - Payment}{151}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}Protocol - Wave 2 Interview}{151}{subsection.4.5.4}%
-\contentsline {section}{\numberline {4.6}Protocols - Post-Session 2}{151}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Protocol - Downloading the Gorilla delay test data}{151}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Protocol - Session 2 TO DO List Email}{151}{subsection.4.6.2}%
-\contentsline {section}{\numberline {4.7}Protocols - Final}{152}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{152}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Protocol - Storing Hair Sample}{152}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}Protocol - Storing Stool Sample}{152}{subsection.4.7.3}%
-\contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{152}{subsubsection.4.7.3.1}%
-\contentsline {subsubsection}{\numberline {4.7.3.2}Sample Transfer}{152}{subsubsection.4.7.3.2}%
-\contentsline {subsection}{\numberline {4.7.4}Protocol - Data Entry \& Data Quality}{153}{subsection.4.7.4}%
-\contentsline {subsubsection}{\numberline {4.7.4.1}Data Entry}{153}{subsubsection.4.7.4.1}%
-\contentsline {subsubsection}{\numberline {4.7.4.2}Data Quality}{153}{subsubsection.4.7.4.2}%
-\contentsline {subsection}{\numberline {4.7.5}Protocol - Data Review \& Data Audit}{153}{subsection.4.7.5}%
-\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{153}{subsubsection.4.7.5.1}%
-\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{153}{subsubsection.4.7.5.2}%
-\contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{154}{subsubsection.4.7.5.3}%
-\contentsline {paragraph}{\numberline {4.7.5.3.1}Getting A Code From REDCap}{155}{paragraph.4.7.5.3.1}%
-\contentsline {subsection}{\numberline {4.7.6}Protocol - Report Card}{158}{subsection.4.7.6}%
-\contentsline {subsection}{\numberline {4.7.7}Protocol - Payment}{161}{subsection.4.7.7}%
+\contentsline {subsubsection}{\numberline {4.3.14.1}If an item on the ``reporting'' list is activated\ldots {}}{142}{subsubsection.4.3.14.1}%
+\contentsline {subsubsection}{\numberline {4.3.14.2}If links in chat are not working\ldots {}}{142}{subsubsection.4.3.14.2}%
+\contentsline {subsubsection}{\numberline {4.3.14.3}If internet/wifi seems to be dysfunctioning\ldots {}}{143}{subsubsection.4.3.14.3}%
+\contentsline {subsubsection}{\numberline {4.3.14.4}Plan B to Zoom recording on PC interaction}{143}{subsubsection.4.3.14.4}%
+\contentsline {section}{\numberline {4.4}Protocols - Post-Session 1}{145}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Protocol - Saving the Video}{145}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Protocol - Downloading the Gorilla task data}{147}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Protocol - Session 2 Confirmation Email}{149}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Protocols - Session 2}{149}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Protocol - Halloween Test Delay}{149}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Protocol - Mailing Package}{151}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Protocol - Payment}{152}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Protocol - Wave 2 Interview}{152}{subsection.4.5.4}%
+\contentsline {section}{\numberline {4.6}Protocols - Post-Session 2}{152}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Protocol - Downloading the Gorilla delay test data}{152}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Protocol - Session 2 TO DO List Email}{153}{subsection.4.6.2}%
+\contentsline {section}{\numberline {4.7}Protocols - Final}{153}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{153}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Protocol - Storing Hair Sample}{153}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Protocol - Storing Stool Sample}{153}{subsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{153}{subsubsection.4.7.3.1}%
+\contentsline {subsubsection}{\numberline {4.7.3.2}Sample Transfer}{153}{subsubsection.4.7.3.2}%
+\contentsline {subsection}{\numberline {4.7.4}Protocol - Data Entry \& Data Quality}{154}{subsection.4.7.4}%
+\contentsline {subsubsection}{\numberline {4.7.4.1}Data Entry}{154}{subsubsection.4.7.4.1}%
+\contentsline {subsubsection}{\numberline {4.7.4.2}Data Quality}{154}{subsubsection.4.7.4.2}%
+\contentsline {subsection}{\numberline {4.7.5}Protocol - Data Review \& Data Audit}{155}{subsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{155}{subsubsection.4.7.5.1}%
+\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{155}{subsubsection.4.7.5.2}%
+\contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{155}{subsubsection.4.7.5.3}%
+\contentsline {paragraph}{\numberline {4.7.5.3.1}Getting A Code From REDCap}{156}{paragraph.4.7.5.3.1}%
+\contentsline {subsection}{\numberline {4.7.6}Protocol - Report Card}{159}{subsection.4.7.6}%
+\contentsline {subsection}{\numberline {4.7.7}Protocol - Payment}{162}{subsection.4.7.7}%
 \contentsline {chapter}{\numberline {5}Wave 1 SONA}{165}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Summary}{165}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Measures}{165}{section.5.2}%
