@@ -22,6 +22,30 @@ Using a completely novel longitudinal design, we will test the hypothesis that c
 
 -----------------
 
+### Contributions
+
+Study was designed by Dr. Bridget Callaghan.
+
+Database formation, REDCap creation, task development, and setup was carried out by Dr. Bridget Callaghan, Emily Towner, Kristen Chu, Eason Taylor, Francesca Querdasi, Aileen Gozali, and Danielle Ladensack, with assistance from Alyssa Wieand, Reese Wix, and Nicole Fonacier.
+
+Wiki Protocol development and modification was conducted by Dr. Bridget Callaghan, Kristen Chu, Emily Towner, Francesca Querdasi, Maria Calderon, and Chloe Schwartz.
+
+Recruitment was carried out by Dr. Bridget Callaghan, Kristen Chu, Emily Towner, Francesca Querdasi, Eason Taylor, Aileen Gozali, Danielle Ladensack, Maria Calderon, Charis Stanek, Ananya Eeraveni, Alyssa Wieand, Reese Wix, Nicole Fonacier, Leti Herrera, Grant Grech, Keegan Buch, Genesis Flores, Daisy Ramirez, Alyssa Ortega, and Tiffany Nassirian.
+
+Scheduling/contacting participants/maintaining participant databases was carried out by Danielle Ladensack, Aileen Gozali, Maria Calderon, Charis Stanek, Tiffany Nassirian, Kristen Chu, Emily Towner, and Eason Taylor.
+
+Primary Data Collection for Wave 1 (in person) was carried out by Dr. Bridget Callaghan, Emily Towner, Eason Tayler, Aileen Gozali, and Danielle Ladensack with assistance from Alyssa Wieand, Reese Wix, and Nicole Fonacier.
+
+Primary Data Collection for Wave 1 (online) was carried out by Dr. Bridget Callaghan, Francesca Querdasi, Kristen Chu, Maria Calderon, and Charis Stanek.
+
+Data Entry and Data Quality checks were carried out by Kristen Chu, Emily Towner, Francesca Querdasi, Eason Taylor, Aileen Gozali, Danielle Ladensack, Maria Calderon, Charis Stanek, Ananya Eeraveni, Alyssa Wieand, Reese Wix, Nicole Fonacier, Leti Herrera, Grant Grech, Keegan Buch, Genesis Flores, Daisy Ramirez, Alyssa Ortega, and Tiffany Nassirian.
+
+Data Reviews and Data Audits were conducted by Kristen Chu, Emily Towner, Danielle Ladensack, Chloe Schwartz, and Tiffany Nassirian.
+
+Behavioral coding was carried out by Danielle Ladensack, Grant Grech, and Nicole Fonacier. Dr. Bridget Callaghan and Kristen Chu are also validated behavioral coders using the Family Interaction Macro-Coding System (FIMS).
+
+-----------------
+
 ## Procedure
 
 All youth will be recruited through community settings, clinics (e.g., pediatricians office), specialized services (e.g., adoption services), and through the internet (community boards, targeted advertisements).
