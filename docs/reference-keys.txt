@@ -4,6 +4,7 @@ summary
 abstract
 aims
 background
+contributions
 procedure
 measures
 observations
@@ -186,6 +187,7 @@ screening-1
 scheduling
 other-screening-information-1
 concerns
+making-a-zoom-link
 protocol---session-preparation
 package-creation
 zoom-security-settings
@@ -212,6 +214,9 @@ sharing-your-screen
 protocol---session-2
 protocol---multiple-child-sessions
 protocol---troubleshooting
+if-an-item-on-the-reporting-list-is-activated
+if-links-in-chat-are-not-working
+if-internetwifi-seems-to-be-dysfunctioning
 plan-b-to-zoom-recording-on-pc-interaction
 protocols---post-session-1
 protocol---saving-the-video
@@ -242,6 +247,7 @@ getting-a-code-from-redcap
 protocol---report-card
 protocol---payment-1
 wave-1-sona
-summary-1
-measures-1
-questionnaires-1
+summary---mbb-sona
+measures---mbb-sona
+sona-questionnaires
+halloween-1
