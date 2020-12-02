@@ -322,6 +322,9 @@ Dried Blood Spot Collection: Participants can opt into or out of participating i
 
 A stool sample will be collected from the child and adolescent participants in their home with the assistance of their parent using omnigene gut tubes (dnagenotek). Using a regular toilet, participants use the paper toilet hat to catch the stool. Participants will use a small sterile spatula to collect a pea sized amount of stool from the toilet hat and place it in the tube. After the lid is sealed, with the sample inside, the participant will shake the tube. A homogenization bead inside will break up the sample and cover all of the sample with a stabilizing liquid. The participant will place the stool sample into a biohazard bag, into a padded mailer, which will be returned to the lab through the registered post. The stabilization technique we use allows the stool samples to remain at ambient temperature for several weeks. Once the sample arrives at the lab, it will be placed into the locked -80 Celcius freezer until processing. Once all samples are collected we will pack the samples in dry ice and send to the processing facility. The samples will be labelled with participant ID codes only – no personally identifying information. Only microbial DNA, not human DNA, is analyzed in these samples.
 
+Note: On Nov 16, 2020 there was a product change notification sent by DNA Genotek regarding the OMNIgene•GUT (OM/R-200, OM/R-200.100) and PERFORMAbiome•GUT (PB-200) devices. In brief, DNA Genotek removed “Made in Canada” from their packaging and updated the lot information (reflected in the barcode), to allow for an increase in manufacturing sites sand production lots sizes. This is to note that different sites may have made the omnigene packages we use in different study waves. Please see here for more information: [product_change_notification](https://ucla.app.box.com/file/748332038901)
+
+
 -----------------
 
 ### Questionnaires
