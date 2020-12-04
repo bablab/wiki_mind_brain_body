@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  3 DEC 2020 15:07
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  4 DEC 2020 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,93 +410,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count295
-) (./Mind_Brain_Body.aux
-
-LaTeX Warning: Label `child' multiply defined.
-
-
-LaTeX Warning: Label `parent' multiply defined.
-
-
-LaTeX Warning: Label `parent-proxy' multiply defined.
-
-
-LaTeX Warning: Label `parent-self' multiply defined.
-
-
-LaTeX Warning: Label `wasi' multiply defined.
-
-
-LaTeX Warning: Label `wiat' multiply defined.
-
-
-LaTeX Warning: Label `training-video' multiply defined.
-
-
-LaTeX Warning: Label `notes' multiply defined.
-
-
-LaTeX Warning: Label `filing' multiply defined.
-
-
-LaTeX Warning: Label `reminders' multiply defined.
-
-
-LaTeX Warning: Label `filing-1' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `sample-storage' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `retention' multiply defined.
-
-
-LaTeX Warning: Label `reimbursement' multiply defined.
-
-
-LaTeX Warning: Label `pre-screening' multiply defined.
-
-
-LaTeX Warning: Label `screening' multiply defined.
-
-
-LaTeX Warning: Label `other-screening-information' multiply defined.
-
-
-LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
-
-
-LaTeX Warning: Label `hair-length' multiply defined.
-
-
-LaTeX Warning: Label `sample-quality' multiply defined.
-
-
-LaTeX Warning: Label `sample-transfer' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
-efined.
-
-
-LaTeX Warning: Label `protocol---payment' multiply defined.
-
-
-LaTeX Warning: Label `halloween' multiply defined.
-
-)
+) (./Mind_Brain_Body.aux)
 \openout1 = `Mind_Brain_Body.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -2096,55 +2010,65 @@ File: images/gorilla/8.png Graphic file (type bmp)
 File: images/gorilla/9.png Graphic file (type bmp)
 <images/gorilla/9.png>
 [152] [153] [154] [155] [156]
+Underfull \hbox (badness 1314) in paragraph at lines 6433--6434
+\TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
+[][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
+
+ []
+
+
 Underfull \vbox (badness 4024) has occurred while \output is active []
 
 [157] [158] [159]
 File: images/redcap_code/1.png Graphic file (type bmp)
 <images/redcap_code/1.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6568--6570
+Underfull \hbox (badness 10000) in paragraph at lines 6575--6577
 [][]
  []
 
 File: images/redcap_code/2.png Graphic file (type bmp)
 <images/redcap_code/2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6571--6573
-[][]
- []
-
-[160]
-File: images/redcap_code/3.png Graphic file (type bmp)
-<images/redcap_code/3.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 6574--6576
-[][]
- []
-
-File: images/redcap_code/4.png Graphic file (type bmp)
-<images/redcap_code/4.png>
-File: images/redcap_code/5.png Graphic file (type bmp)
-<images/redcap_code/5.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 6580--6582
+Underfull \hbox (badness 10000) in paragraph at lines 6578--6580
 [][]
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+[160]
+File: images/redcap_code/3.png Graphic file (type bmp)
+<images/redcap_code/3.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 6581--6583
+[][]
+ []
+
+File: images/redcap_code/4.png Graphic file (type bmp)
+<images/redcap_code/4.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 [161]
+File: images/redcap_code/5.png Graphic file (type bmp)
+<images/redcap_code/5.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 6587--6589
+[][]
+ []
+
 File: images/report_card_online/1.png Graphic file (type bmp)
 <images/report_card_online/1.png>
+[162]
 File: images/report_card_online/2.png Graphic file (type bmp)
 <images/report_card_online/2.png>
-[162]
 File: images/report_card_online/3.png Graphic file (type bmp)
 <images/report_card_online/3.png>
 File: images/report_card_online/5.png Graphic file (type bmp)
 <images/report_card_online/5.png>
 
-Overfull \hbox (183.60107pt too wide) in paragraph at lines 6650--6652
+Overfull \hbox (183.60107pt too wide) in paragraph at lines 6657--6659
 []\TU/lmr/m/n/10 If there are no comments, delete this page. [] 
  []
 
@@ -2161,24 +2085,21 @@ Chapter 5.
 [169] (./Mind_Brain_Body.bbl [170] [171
 
 ] [172] [173])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6826.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6833.
 [174]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 6826.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 6833.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 6826.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6826.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 6833.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6833.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
 (rerunfilecheck)             Checksum: E2D174B3748AD72E7C2D7A4A3CAF3E2B;3109.
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 18668 strings out of 479418
- 342682 string characters out of 5884586
- 817585 words of memory out of 5000000
- 35884 multiletter control sequences out of 15000+600000
+ 18697 strings out of 479418
+ 343163 string characters out of 5884586
+ 819132 words of memory out of 5000000
+ 35913 multiletter control sequences out of 15000+600000
  538789 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
