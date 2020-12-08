@@ -27,6 +27,8 @@
 
 ### Protocol - Consent & Assent Online
 
+*Before we begin, I just wanted to let you know that in this study, we ask a lot of questions about family life and tough things that might have happened to kids. We are going to ask these questions to you and we ask a couple to your children as well, we just want to let you know that it is in our protocol to make sure everyone is safe, so if you or your child reveals to us that you're at current risk of harm or if you're at risk of harming someone else, then we will follow up with you and make sure everything is okay. If it is not, then we will take some steps to make sure that we keep everyone safe.* 
+
 *First thing we are going to do is go over what is on the consent and assent forms. (These are the attached documents we sent you in the emails leading up to this session.) We will walk through, in a little bit more detail, all of the things we will be doing during today’s session.*
 
 *During today’s online session we are going to be doing some interactive things. First, we are going to have you and your parent sit and talk about some not so fun things and some fun things while on ZOOM. This conversation will be recorded but we will not be watching or listening in*
@@ -68,8 +70,6 @@
 *I will rename your "ZOOM Name" right now with your Secondary ID number, to prepare for the recordings we will take in our session today* 
 
 [Researcher will rename the participant's name to "P" for participant. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/1.png)
-
-*Lastly, in this study, we ask a lot of questions about family life and tough things that might have happened to kids. We are going to ask these questions to you and we ask a couple to your children as well, we just want to let you know that it is in our protocol to make sure everyone is safe, so if you or your child reveals to us that you're at current risk of harm or if you're at risk of harming someone else, then we will follow up with you and make sure everything is okay. If it is not, then we will take some steps to make sure that we keep everyone safe.* 
 
 *Ok- I will now send you a link through the Zoom chat, which will open up a survey that allows you to virtually indicate your consent to participate in the study. Please feel free to take your time reading through the consent and assent forms now if you’d like. As I mentioned earlier, these are the documents we had previously sent you in the emails leading up to today's session.*
 
@@ -502,7 +502,7 @@ Parent/All children:
 
 ### Protocol - Troubleshooting
 
-#### If an item on the "reporting" list is activated...
+#### If an item on the "reporting" list is activated regarding potential Domestic Violence
 
 - Researcher to chat with parent alone at the end of the session
 
@@ -520,14 +520,17 @@ Parent/All children:
 
 *Are you in any immediate danger at the moment?* 
 
-[If yes, say] *Thank you for letting me know. We are going to get in touch with our supervisor immediately. Please give me a moment to get in touch with her now.* Researcher will then slack and call Bridget immediately.
+[If yes, say] *Thank you for letting me know. We are going to get in touch with our supervisor immediately. Please give me a moment to get in touch with her now.* Researcher will then slack and call Bridget immediately at 347-741-4103.
 
-[If no, say] *Would you like us to connect you with some resources at UCLA?* If yes, send email with resources at UCLA.
+[If no, say] *Would you like us to connect you with some resources at UCLA?* If yes, *What sort of support would you be looking for? I'll take this to my supervisor and she will give you recommendations and give you a call!*
 
 **If no, but you don't feel that everything is alright, say**
 
-*Thank you for letting me know. As we said earlier in the session, it is part of our protocol to check-in so our supervisor may be giving you a call a little bit later today* Researcher to slack Bridget immediately. 
+*Thank you for letting me know! I know this might be a bit difficult to talk about, and as we mentioned earlier in the session it is just part of our protocol to check-in, so our supervisor will be giving you a call some time in the next 24 hours to ask you some more questions.* Researcher to slack Bridget immediately and call her at 347-741-4103. 
 
+#### If Suicidal Ideation arises...
+
+Researcher to slack Bridget and call her immediately at 347-741-4103. Try to keep the person on the phone while Bridget gets in contact with the participant. If something happens and a participant mentions they may harm themselves/dropped off the call before you are able to reach Bridget, let Bridget know immediately and you will proceed together. 
 
 #### If links in chat are not working...
 
