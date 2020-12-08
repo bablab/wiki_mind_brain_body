@@ -214,10 +214,11 @@
 \contentsline {subsection}{\numberline {4.3.12}Protocol - Session 2}{143}{subsection.4.3.12}%
 \contentsline {subsection}{\numberline {4.3.13}Protocol - Multiple Child Sessions}{144}{subsection.4.3.13}%
 \contentsline {subsection}{\numberline {4.3.14}Protocol - Troubleshooting}{145}{subsection.4.3.14}%
-\contentsline {subsubsection}{\numberline {4.3.14.1}If an item on the ``reporting'' list is activated\ldots {}}{145}{subsubsection.4.3.14.1}%
-\contentsline {subsubsection}{\numberline {4.3.14.2}If links in chat are not working\ldots {}}{145}{subsubsection.4.3.14.2}%
-\contentsline {subsubsection}{\numberline {4.3.14.3}If internet/wifi seems to be dysfunctioning\ldots {}}{146}{subsubsection.4.3.14.3}%
-\contentsline {subsubsection}{\numberline {4.3.14.4}Plan B to Zoom recording on PC interaction}{146}{subsubsection.4.3.14.4}%
+\contentsline {subsubsection}{\numberline {4.3.14.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{145}{subsubsection.4.3.14.1}%
+\contentsline {subsubsection}{\numberline {4.3.14.2}If Suicidal Ideation arises\ldots {}}{145}{subsubsection.4.3.14.2}%
+\contentsline {subsubsection}{\numberline {4.3.14.3}If links in chat are not working\ldots {}}{146}{subsubsection.4.3.14.3}%
+\contentsline {subsubsection}{\numberline {4.3.14.4}If internet/wifi seems to be dysfunctioning\ldots {}}{146}{subsubsection.4.3.14.4}%
+\contentsline {subsubsection}{\numberline {4.3.14.5}Plan B to Zoom recording on PC interaction}{146}{subsubsection.4.3.14.5}%
 \contentsline {section}{\numberline {4.4}Protocols - Post-Session 1}{148}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}Protocol - Saving the Video}{148}{subsection.4.4.1}%
 \contentsline {subsection}{\numberline {4.4.2}Protocol - Downloading the Gorilla task data}{150}{subsection.4.4.2}%
