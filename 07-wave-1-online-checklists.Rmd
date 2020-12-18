@@ -56,6 +56,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
   
   - Do not put as “ confirmed session” on MBB log unless we got verbal confirmation / email confirmation
   - If called and no answer leave a note on the calendar event saying was not able to verbally confirm & also put into SRA chat 
+  - Do not run session until 100% certain of eligibility! ( if missing age or some other detail make sure to obtain it and verify eligibility before running session)
   
   **REDCap** 
   
@@ -102,22 +103,25 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
   - *MBBXXX WX- Session 1 Reminder 1 (email)* - 1 week prior
     - Add Status: Incomplete to the description
   - *MBBXXX WX- Session 1 Reminder 1 (call)*  - the day after Reminder 1 email
-    - Add Status: Incomplete to the description
+    - Add *Status: Incomplete* to the description
     - Add “Only if no email response yesterday”  to description
   - *MBBXXX WX- Session 1 Reminder 2 (email and call)* - 3 days prior
-    - Add Status: Incomplete to the description
+    - Add *Status: Incomplete* to the description
   - *MBBXXX WX- Session 2 Reminder 1 (email) * - 3 days before second session
-    - Add Status: Incomplete to the description
+    - Add *Status: Incomplete* to the description
   - *MBBXXX WX- Session 2 Reminder 2 (call)* - 2 days before second session
-    - Add Status: Incomplete to the description
+    - Add *Status: Incomplete* to the description
 - Create MBB Home Session reminder calendar events
   - *MBBXXX WX- Home Session Reminder 1 (email)* - 1 week after Session 2
-    - Add Status: Incomplete to the description
-  - *MBBXXX WX- Home Session Reminder 2 (call)* - 8 days after Session 2
-    - Add Status: Incomplete to the description
+    - Add *Status: Incomplete* to the description
+  - *MBBXXX WX- Home Session Reminder 1 (call)* - 8 days after Session 2
+    - Add *Status: Incomplete* to the description
   - *MBBXXX WX- Home Session Reminder 2 (email)* - 14 days after Session 2
-    - Add Status: Incomplete to the description
-  
+    - Add *Status: Incomplete* to the description
+  - *MBBXXX WX- Home Session Reminder 2 (call)* - 17 days after Session 2
+    - Add *Status: Incomplete* to the description
+    - Add *" only if missing package and have not been able to reach participant about it" * to description 
+    
   
 **Reminders**
 
@@ -154,6 +158,12 @@ NOTE: all template emails are in bablab gmail
   - Check with Kristen if unsure what info is missing 
   - Make sure the list of “items needed” is tailored to that participant
   - Send written response links if it hasn’t been completed yet 
+  - If package still missing at point of home session reminder 2 email:
+    - sent a message in SRA chat that we haven't received MBBXXX package
+        - next steps will be on a case by case basis
+    - make home session call 2 three days after email and check in 
+    - important part is making sure we know what packages are missing and that they've exhausted the home session reminders
+  
 
 ------------
 
@@ -346,6 +356,7 @@ NOTE: all template emails are in bablab gmail
 - *Home Session Reminder 1 Email* made
 - *Home Session Reminder 1 phone call* made
 - *Home Session Reminder 2 Email* made
+- *Home Session Reminder 2 phone call* made
 
 
 *After package has been received...*
@@ -419,8 +430,8 @@ NOTE: all template emails are in bablab gmail
   - Home session reminder 2 email
 - Change REDCap status 
   - Go to “Default Dashboard” to access full list of SMBB numbers
-  - Change REDCap SMBB wave 1 status from enrolled to contact
-  - Add a new screening and make a note that they were a no-show and are reaching out about rescheduling
+  - Change REDCap SMBB wave 1 status from enrolled to default dashboard ( blank choice)
+  - Make a note that they were a no-show and we're following no show steps
   - Note - MBB stays the same 
 - Update [Participant Tally] (https://ucla.app.box.com/file/724688028024)
 - Rescheduling steps 
@@ -432,7 +443,7 @@ NOTE: all template emails are in bablab gmail
   - Add calendar event for rescheduling call 3 (15 days later) 
 - Add participant to “No-Show Tracking Sheet” 
   -Fill out information on tracking sheet for participant 
-  - After last “rescheduling step” set to recall in RedCap for three months later 
+
 
 
 -----------------
