@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  7 DEC 2020 16:47
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  21 DEC 2020 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,93 +410,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count295
-) (./Mind_Brain_Body.aux
-
-LaTeX Warning: Label `child' multiply defined.
-
-
-LaTeX Warning: Label `parent' multiply defined.
-
-
-LaTeX Warning: Label `parent-proxy' multiply defined.
-
-
-LaTeX Warning: Label `parent-self' multiply defined.
-
-
-LaTeX Warning: Label `wasi' multiply defined.
-
-
-LaTeX Warning: Label `wiat' multiply defined.
-
-
-LaTeX Warning: Label `training-video' multiply defined.
-
-
-LaTeX Warning: Label `notes' multiply defined.
-
-
-LaTeX Warning: Label `filing' multiply defined.
-
-
-LaTeX Warning: Label `reminders' multiply defined.
-
-
-LaTeX Warning: Label `filing-1' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `sample-storage' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `retention' multiply defined.
-
-
-LaTeX Warning: Label `reimbursement' multiply defined.
-
-
-LaTeX Warning: Label `pre-screening' multiply defined.
-
-
-LaTeX Warning: Label `screening' multiply defined.
-
-
-LaTeX Warning: Label `other-screening-information' multiply defined.
-
-
-LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
-
-
-LaTeX Warning: Label `hair-length' multiply defined.
-
-
-LaTeX Warning: Label `sample-quality' multiply defined.
-
-
-LaTeX Warning: Label `sample-transfer' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
-efined.
-
-
-LaTeX Warning: Label `protocol---payment' multiply defined.
-
-
-LaTeX Warning: Label `halloween' multiply defined.
-
-)
+) (./Mind_Brain_Body.aux)
 \openout1 = `Mind_Brain_Body.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -1767,39 +1681,38 @@ File: images/final_checklist/report_cards/7.png Graphic file (type bmp)
 ]
 Chapter 4.
 [99] [100]
-Underfull \hbox (badness 2158) in paragraph at lines 4017--4019
+Underfull \hbox (badness 2158) in paragraph at lines 4019--4021
 []\TU/lmr/m/n/10 Create participant Box folder using MBB_template (delete blank
 
  []
 
-[101] [102] [103] [104]
-Underfull \hbox (badness 2875) in paragraph at lines 4478--4480
+[101] [102] [103]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+[104] [105]
+Underfull \hbox (badness 2875) in paragraph at lines 4502--4504
 []\TU/lmr/m/n/10 Parent-child observation (note recording via Zoom or participa
 nt
  []
 
-[105] [106]
-Overfull \hbox (18.18002pt too wide) in paragraph at lines 4596--4597
+[106]
+Overfull \hbox (18.18002pt too wide) in paragraph at lines 4620--4621
 []\TU/lmr/m/n/10 Walk through package to send back (check “mbb_online_package_c
 hecklists”)
  []
 
-[107] [108] [109]
+[107] [108] [109] [110]
 File: images/redcap_screening/1.png Graphic file (type bmp)
 <images/redcap_screening/1.png>
 
-Overfull \hbox (236.56511pt too wide) in paragraph at lines 4936--4939
+Overfull \hbox (236.56511pt too wide) in paragraph at lines 4952--4955
 []\TU/lmr/m/n/10 To screen a new participant click “Add / Edit Records” [] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[110]
 File: images/redcap_screening/2.png Graphic file (type bmp)
 <images/redcap_screening/2.png>
 
-Overfull \hbox (56.16548pt too wide) in paragraph at lines 4956--4958
+Overfull \hbox (56.16548pt too wide) in paragraph at lines 4972--4974
 \TU/lmr/m/n/10 a new record [] 
  []
 
@@ -1810,7 +1723,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/redcap_screening/3.png Graphic file (type bmp)
 <images/redcap_screening/3.png>
 
-Overfull \hbox (60.83553pt too wide) in paragraph at lines 4972--4974
+Overfull \hbox (60.83553pt too wide) in paragraph at lines 4988--4990
 \TU/lmr/m/n/10 quent contact [] 
  []
 
@@ -1823,7 +1736,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/redcap_screening/5.png Graphic file (type bmp)
 <images/redcap_screening/5.png>
 
-Underfull \hbox (badness 1454) in paragraph at lines 5001--5003
+Underfull \hbox (badness 1454) in paragraph at lines 5017--5019
 []\TU/lmr/m/n/10 It is important to keep a record of all instances of contact
  []
 
@@ -1834,7 +1747,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/redcap_screening/6.png Graphic file (type bmp)
 <images/redcap_screening/6.png>
 
-Overfull \hbox (159.38324pt too wide) in paragraph at lines 5005--5008
+Overfull \hbox (159.38324pt too wide) in paragraph at lines 5021--5024
 []\TU/lmr/m/n/10 Click the screen_status radio button [] 
  []
 
@@ -1847,12 +1760,12 @@ File: images/redcap_screening/7.png Graphic file (type bmp)
 File: images/redcap_screening/8.png Graphic file (type bmp)
 <images/redcap_screening/8.png>
 
-Overfull \hbox (24.18047pt too wide) in paragraph at lines 5075--5082
+Overfull \hbox (24.18047pt too wide) in paragraph at lines 5091--5098
 \TU/lmr/m/n/10 lists. []
  []
 
 
-Overfull \hbox (170.40681pt too wide) in paragraph at lines 5075--5082
+Overfull \hbox (170.40681pt too wide) in paragraph at lines 5091--5098
 \TU/lmr/m/n/10 1. Click on “Record Status Dashboard” []
  []
 
@@ -1863,7 +1776,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/zoom_link/1.png Graphic file (type bmp)
 <images/zoom_link/1.png>
 
-Overfull \hbox (217.7984pt too wide) in paragraph at lines 5119--5121
+Overfull \hbox (217.7984pt too wide) in paragraph at lines 5135--5137
 []\TU/lmr/m/n/10 Click to “Meetings” and “Schedule a new meeting” [] 
  []
 
@@ -1874,21 +1787,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/zoom_link/2.png Graphic file (type bmp)
 <images/zoom_link/2.png>
 
-Overfull \hbox (70.0902pt too wide) in paragraph at lines 5121--5123
+Overfull \hbox (70.0902pt too wide) in paragraph at lines 5137--5139
 \TU/lmr/m/n/10 indicate 3 hours [] 
  []
 
 File: images/zoom_link/3.png Graphic file (type bmp)
 <images/zoom_link/3.png>
 
-Overfull \hbox (237.56862pt too wide) in paragraph at lines 5123--5125
+Overfull \hbox (237.56862pt too wide) in paragraph at lines 5139--5141
 []\TU/lmr/m/n/10 Set setting with password and turn host/participant on [] 
  []
 
 File: images/zoom_link/4.png Graphic file (type bmp)
 <images/zoom_link/4.png>
 
-Overfull \hbox (234.7402pt too wide) in paragraph at lines 5125--5127
+Overfull \hbox (234.7402pt too wide) in paragraph at lines 5141--5143
 []\TU/lmr/m/n/10 Save and click to add Zoom meeting to google calendar [] 
  []
 
@@ -1899,7 +1812,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/zoom_link/5.png Graphic file (type bmp)
 <images/zoom_link/5.png>
 
-Overfull \hbox (157.79019pt too wide) in paragraph at lines 5127--5129
+Overfull \hbox (157.79019pt too wide) in paragraph at lines 5143--5145
 []\TU/lmr/m/n/10 Click on the []$[][][][][][] [] [][][][] [] [][][][][] [] [][]
 []$[] [] 
  []
@@ -1907,7 +1820,7 @@ Overfull \hbox (157.79019pt too wide) in paragraph at lines 5127--5129
 File: images/zoom_link/6.png Graphic file (type bmp)
 <images/zoom_link/6.png>
 
-Overfull \hbox (49.1602pt too wide) in paragraph at lines 5129--5131
+Overfull \hbox (49.1602pt too wide) in paragraph at lines 5145--5147
 []\TU/lmr/m/n/10 Click allow [] 
  []
 
@@ -1918,7 +1831,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/zoom_link/7.png Graphic file (type bmp)
 <images/zoom_link/7.png>
 
-Overfull \hbox (248.4102pt too wide) in paragraph at lines 5131--5133
+Overfull \hbox (248.4102pt too wide) in paragraph at lines 5147--5149
 []\TU/lmr/m/n/10 Copy the Zoom link from the Description section and save [] 
  []
 
@@ -1926,7 +1839,7 @@ Overfull \hbox (248.4102pt too wide) in paragraph at lines 5131--5133
 File: images/zoom_security/1.png Graphic file (type bmp)
 <images/zoom_security/1.png>
 
-Overfull \hbox (128.4102pt too wide) in paragraph at lines 5191--5192
+Overfull \hbox (128.4102pt too wide) in paragraph at lines 5207--5208
 \TU/lmr/m/n/10 and all other items unchecked [] 
  []
 
@@ -1937,14 +1850,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/zoom_security/2.png Graphic file (type bmp)
 <images/zoom_security/2.png>
 
-Overfull \hbox (72.66336pt too wide) in paragraph at lines 5212--5214
+Overfull \hbox (72.66336pt too wide) in paragraph at lines 5228--5230
 \TU/lmr/m/n/10 sharing options” [] 
  []
 
 File: images/zoom_security/3.png Graphic file (type bmp)
 <images/zoom_security/3.png>
 
-Overfull \hbox (51.73718pt too wide) in paragraph at lines 5214--5215
+Overfull \hbox (51.73718pt too wide) in paragraph at lines 5230--5231
 \TU/lmr/m/n/10 are selected [] 
  []
 
@@ -1966,7 +1879,7 @@ File: images/gorilla/5.png Graphic file (type bmp)
 File: images/zoom_parent_child_interaction/1.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/1.png>
 
-Underfull \hbox (badness 1859) in paragraph at lines 5371--5372
+Underfull \hbox (badness 1859) in paragraph at lines 5387--5388
 []\TU/lmr/m/n/10 [Researcher will rename the participant’s name to “P” for part
 icipant.
  []
@@ -1977,12 +1890,12 @@ File: images/zoom_parent_child_interaction/3.png Graphic file (type bmp)
 File: images/zoom_parent_child_interaction/4.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/4.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 5417--5422
+Underfull \hbox (badness 10000) in paragraph at lines 5433--5438
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5417--5422
+Underfull \hbox (badness 10000) in paragraph at lines 5433--5438
 []
  []
 
@@ -1995,12 +1908,12 @@ File: images/zoom_parent_child_interaction/5.png Graphic file (type bmp)
 File: images/zoom_parent_child_interaction/6.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/6.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 5436--5438
+Underfull \hbox (badness 10000) in paragraph at lines 5452--5454
 []
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 5436--5438
+Underfull \hbox (badness 2726) in paragraph at lines 5452--5454
 \TU/lmr/m/n/10 You will view this notification in the upper right hand corner t
 hat
  []
@@ -2011,14 +1924,20 @@ Underfull \vbox (badness 2343) has occurred while \output is active []
 [131] [132]
 File: images/halloween/7.png Graphic file (type bmp)
 <images/halloween/7.png>
-[133] [134] [135] [136] [137] [138] [139]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[133] [134] [135] [136] [137] [138]
+Underfull \hbox (badness 4518) in paragraph at lines 5778--5780
+[]\TU/lmr/m/n/10 See link for instructions with pictures ([]$[][][][][] [] [] [
+] [][][] [] [][][] [] [][][] [] [][][][] []
+ []
+
+[139]
+Underfull \vbox (badness 2698) has occurred while \output is active []
 
 [140] [141]
 File: images/zoom_screenshare/1.png Graphic file (type bmp)
 <images/zoom_screenshare/1.png>
 
-Overfull \hbox (218.74222pt too wide) in paragraph at lines 5869--5871
+Overfull \hbox (218.74222pt too wide) in paragraph at lines 5887--5889
 []\TU/lmr/m/n/10 On Zoom, click “share screen” with the participant [] 
  []
 
@@ -2031,7 +1950,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/zoom_parent_child_interaction/13.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/13.png>
 
-Overfull \hbox (408.57002pt too wide) in paragraph at lines 6055--6056
+Overfull \hbox (408.57002pt too wide) in paragraph at lines 6073--6074
 []\TU/lmr/m/n/10 The video will appear to the researchers in our Box under BABL
 AB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_intera
 ctions/Uploads 
@@ -2044,17 +1963,17 @@ File: images/zoom_parent_child_interaction/8.png Graphic file (type bmp)
 File: images/zoom_parent_child_interaction/9.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/9.png>
 
-Overfull \hbox (57.39716pt too wide) in paragraph at lines 6067--6071
+Overfull \hbox (57.39716pt too wide) in paragraph at lines 6085--6089
 \TU/lmr/m/n/10 the meeting. []
  []
 
 
-Overfull \hbox (172.83986pt too wide) in paragraph at lines 6067--6071
+Overfull \hbox (172.83986pt too wide) in paragraph at lines 6085--6089
 \TU/lmr/m/n/10 converted and saving to your computer. []
  []
 
 
-Overfull \hbox (96.47247pt too wide) in paragraph at lines 6067--6071
+Overfull \hbox (96.47247pt too wide) in paragraph at lines 6085--6089
 \TU/lmr/m/n/10 ing directory is saved. [] 
  []
 
@@ -2068,7 +1987,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/zoom_parent_child_interaction/12.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/12.png>
 
-Overfull \hbox (30.2066pt too wide) in paragraph at lines 6072--6073
+Overfull \hbox (30.2066pt too wide) in paragraph at lines 6090--6091
 \TU/lmr/m/n/10 tured. [] 
  []
 
@@ -2090,7 +2009,7 @@ File: images/gorilla/8.png Graphic file (type bmp)
 File: images/gorilla/9.png Graphic file (type bmp)
 <images/gorilla/9.png>
 [152] [153] [154] [155] [156]
-Underfull \hbox (badness 1314) in paragraph at lines 6438--6439
+Underfull \hbox (badness 1314) in paragraph at lines 6456--6457
 \TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
 [][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
 
@@ -2103,14 +2022,14 @@ Underfull \vbox (badness 4024) has occurred while \output is active []
 File: images/redcap_code/1.png Graphic file (type bmp)
 <images/redcap_code/1.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6580--6582
+Underfull \hbox (badness 10000) in paragraph at lines 6598--6600
 [][]
  []
 
 File: images/redcap_code/2.png Graphic file (type bmp)
 <images/redcap_code/2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6583--6585
+Underfull \hbox (badness 10000) in paragraph at lines 6601--6603
 [][]
  []
 
@@ -2121,7 +2040,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/redcap_code/3.png Graphic file (type bmp)
 <images/redcap_code/3.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6586--6588
+Underfull \hbox (badness 10000) in paragraph at lines 6604--6606
 [][]
  []
 
@@ -2134,7 +2053,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/redcap_code/5.png Graphic file (type bmp)
 <images/redcap_code/5.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6592--6594
+Underfull \hbox (badness 10000) in paragraph at lines 6610--6612
 [][]
  []
 
@@ -2148,7 +2067,7 @@ File: images/report_card_online/3.png Graphic file (type bmp)
 File: images/report_card_online/5.png Graphic file (type bmp)
 <images/report_card_online/5.png>
 
-Overfull \hbox (183.60107pt too wide) in paragraph at lines 6662--6664
+Overfull \hbox (183.60107pt too wide) in paragraph at lines 6680--6682
 []\TU/lmr/m/n/10 If there are no comments, delete this page. [] 
  []
 
@@ -2165,24 +2084,21 @@ Chapter 5.
 [169] (./Mind_Brain_Body.bbl [170] [171
 
 ] [172] [173])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6838.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6862.
 [174]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 6838.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 6862.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 6838.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6838.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 6862.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6862.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
 (rerunfilecheck)             Checksum: E2D174B3748AD72E7C2D7A4A3CAF3E2B;3109.
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 18670 strings out of 479418
- 342769 string characters out of 5884586
- 817756 words of memory out of 5000000
- 35886 multiletter control sequences out of 15000+600000
+ 18698 strings out of 479418
+ 343230 string characters out of 5884586
+ 819242 words of memory out of 5000000
+ 35914 multiletter control sequences out of 15000+600000
  538789 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,495s stack positions out of 5000i,500n,10000p,200000b,80000s

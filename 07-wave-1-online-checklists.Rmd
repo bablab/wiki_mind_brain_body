@@ -36,6 +36,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
     - Oldest child gets next available smbb number just like the mbb number protocol 
     - Only exception is if we only knew about younger child then during screening mentions they have another child that wants to participate.
   - Triple check you write down the address correctly for participants ( repeat it back to them / spell it out) 
+  - Do not run session until you are 100% sure they are eligible. If unsure of a criteria verify it before session. 
 
   **Calendar**
   
@@ -113,11 +114,13 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
 - Create MBB Home Session reminder calendar events
   - *MBBXXX WX- Home Session Reminder 1 (email)* - 1 week after Session 2
     - Add Status: Incomplete to the description
-  - *MBBXXX WX- Home Session Reminder 2 (call)* - 8 days after Session 2
+  - *MBBXXX WX- Home Session Reminder 1 (call)* - 8 days after Session 2
     - Add Status: Incomplete to the description
   - *MBBXXX WX- Home Session Reminder 2 (email)* - 14 days after Session 2
     - Add Status: Incomplete to the description
-  
+  - *MBBXXX WX- Home Session Reminder 2 (call)* - 17 days after Session 2
+    - Add Status: Incomplete to the description
+    - Add * Only if package missing and have not been in contact with participant* to description
   
 **Reminders**
 
@@ -154,6 +157,11 @@ NOTE: all template emails are in bablab gmail
   - Check with Kristen if unsure what info is missing 
   - Make sure the list of “items needed” is tailored to that participant
   - Send written response links if it hasn’t been completed yet 
+  - If package missing after home session email reminder 2:
+    - send message to SRA chat that participant is still missing package
+    - move on to home sess call 2 
+    - next steps will be on a case by case basis
+  
 
 ------------
 
@@ -419,8 +427,7 @@ NOTE: all template emails are in bablab gmail
   - Home session reminder 2 email
 - Change REDCap status 
   - Go to “Default Dashboard” to access full list of SMBB numbers
-  - Change REDCap SMBB wave 1 status from enrolled to contact
-  - Add a new screening and make a note that they were a no-show and are reaching out about rescheduling
+  - Change REDCap SMBB wave 1 status from enrolled to default dashboard 
   - Note - MBB stays the same 
 - Update [Participant Tally] (https://ucla.app.box.com/file/724688028024)
 - Rescheduling steps 
@@ -432,7 +439,7 @@ NOTE: all template emails are in bablab gmail
   - Add calendar event for rescheduling call 3 (15 days later) 
 - Add participant to “No-Show Tracking Sheet” 
   -Fill out information on tracking sheet for participant 
-  - After last “rescheduling step” set to recall in RedCap for three months later 
+
 
 
 -----------------

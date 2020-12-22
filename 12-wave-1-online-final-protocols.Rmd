@@ -202,6 +202,7 @@ https://youtu.be/z_mQGyguaEY
 - Type in participant's name and print copy of certificate
 - Print thank you letter
 - Include $65 Amazon gift card
+  - gift card code will be sent in payment email as well as sending physical gift card in mail 
 - Check stool sample quality- if poor, send another stool kit
 - Science kit- Neuron
   - 4 pipe cleaners
