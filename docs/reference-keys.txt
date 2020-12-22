@@ -214,7 +214,8 @@ sharing-your-screen
 protocol---session-2
 protocol---multiple-child-sessions
 protocol---troubleshooting
-if-an-item-on-the-reporting-list-is-activated
+if-an-item-on-the-reporting-list-is-activated-regarding-potential-domestic-violence
+if-suicidal-ideation-arises
 if-links-in-chat-are-not-working
 if-internetwifi-seems-to-be-dysfunctioning
 plan-b-to-zoom-recording-on-pc-interaction
