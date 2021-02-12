@@ -228,6 +228,7 @@ protocol---halloween-test-delay
 protocol---mailing-package
 protocol---payment
 protocol---wave-2-interview
+protocol---testimonials
 protocols---post-session-2
 protocol---downloading-the-gorilla-delay-test-data
 protocol---session-2-to-do-list-email
