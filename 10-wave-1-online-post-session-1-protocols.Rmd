@@ -16,27 +16,29 @@ Check the External drive for the participant's secondary ID number, and rename a
 
 ### Protocol - Downloading the Gorilla task data
 
-1. Login to Gorilla and navigate to the experiment's data tab.
+1. Login to Gorilla.
+2. Make sure the participant that was just run is "included" before downloading data.
+3. Navigate to the experiment's data tab.
 
 ![<!--- Gorilla Data Download --->](images/gorilla/6.png)
 
-2. If data is up to date, you can go ahead and click download. 
-2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participat. 
+3. If data is up to date, you can go ahead and click download. 
+3b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participat. 
 
 ![<!--- Gorilla Data Download --->](images/gorilla/7.png)
 
-3. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data".
+4. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data".
 
 ![<!--- Gorilla Data Download --->](images/gorilla/8.png)
 
-4. You will see a wait screen as it generates.
+5. You will see a wait screen as it generates.
 
 ![<!--- Gorilla Data Download --->](images/gorilla/9.png)
 
-5. After a few minutes click into "Manage experiment data" again and download. 
-6. Unzip the file to your desktop.
-7. Open the correct training and immediate test files and check that the participant's data is all there. NOTE: can check the participant's specific nodes to see the code of their halloween test delay, which will tell you which file their data is located in.
-8. Save this file in the Gorilla data folder on Box as "month_day_year.csv"
+6. After a few minutes click into "Manage experiment data" again and download. 
+7. Unzip the file to your desktop.
+8. Open the correct training and immediate test files and check that the participant's data is all there. NOTE: can check the participant's specific nodes to see the code of their halloween test delay, which will tell you which file their data is located in.
+9. Save this file in the Gorilla data folder on Box as "month_day_year.csv"
 
 NOTE: If the data downloads and the first line of the participant's data is there but the rest is missing, follow this protocol:
 1. Go to an earlier version of the task, regenerate, and download data

@@ -215,6 +215,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Label 2 biohazard bags (with 2 cotton balls in each bag)
 - Label 1 cardboard box (for samples)
 - Label hair sample kit (aluminum foil 7"x7", painter's tape with "root end" labeled, 1 ziplock bag pre-labeled with participant ID & Wave)
+- Include a hair comb and alligator clip
 - Label stool sample collection kit (paper clip collection tube and toilet hat together)
 - Insert purple gloves for stool sample
 - Label saliva sample collection kit (collection tube)
@@ -241,7 +242,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Send *Session 1 Links* email
   - NOTE: do not add Gorilla Code to LINKS email- code is their MBB # which cannot be paired with private information (participant's name/email)
 - Activate the participant's ID on Gorilla; leave Gorilla open so researcher can track participant progress during behavioral task
-- Prepare Session 1 checklist on google forms
+- Prepare Session 1 checklist on REDCap
 - Have the Participant's MBB and secondary MBB number on hand
 - Preload the Consent/Assent picture slideshow on researcher computer
 - Prepare biological sample kits for demonstration during session
