@@ -118,7 +118,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
     - Add Status: Incomplete to the description
   - *MBBXXX WX- Home Session Reminder 2 (email)* - 14 days after Session 2
     - Add Status: Incomplete to the description
-  - *MBBXXX WX- Home Session Reminder 2 (call)* - 17 days after Session 2
+  - *MBBXXX WX- Home Session Reminder 2 (call)* - 15 days after Session 2
     - Add Status: Incomplete to the description
     - Add * Only if package missing and have not been in contact with participant* to description
   
@@ -355,6 +355,7 @@ NOTE: all template emails are in bablab gmail
 - *Home Session Reminder 1 Email* made
 - *Home Session Reminder 1 phone call* made
 - *Home Session Reminder 2 Email* made
+- *Home Session Reminder 2 phone call* made
 
 
 *After package has been received...*
