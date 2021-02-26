@@ -213,96 +213,133 @@
 \contentsline {subsubsection}{\numberline {4.3.11.4}Sharing Your Screen}{142}{subsubsection.4.3.11.4}%
 \contentsline {subsection}{\numberline {4.3.12}Protocol - Session 2}{143}{subsection.4.3.12}%
 \contentsline {subsection}{\numberline {4.3.13}Protocol - Multiple Child Sessions}{144}{subsection.4.3.13}%
-\contentsline {subsection}{\numberline {4.3.14}Protocol - Troubleshooting}{145}{subsection.4.3.14}%
+\contentsline {subsection}{\numberline {4.3.14}Protocol - Reporting}{145}{subsection.4.3.14}%
 \contentsline {subsubsection}{\numberline {4.3.14.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{145}{subsubsection.4.3.14.1}%
 \contentsline {subsubsection}{\numberline {4.3.14.2}If Suicidal Ideation arises\ldots {}}{145}{subsubsection.4.3.14.2}%
-\contentsline {subsubsection}{\numberline {4.3.14.3}If links in chat are not working\ldots {}}{146}{subsubsection.4.3.14.3}%
-\contentsline {subsubsection}{\numberline {4.3.14.4}If internet/wifi seems to be dysfunctioning\ldots {}}{146}{subsubsection.4.3.14.4}%
-\contentsline {subsubsection}{\numberline {4.3.14.5}Plan B to Zoom recording on PC interaction}{146}{subsubsection.4.3.14.5}%
-\contentsline {section}{\numberline {4.4}Protocols - Post-Session 1}{148}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Protocol - Saving the Video}{148}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Protocol - Downloading the Gorilla task data}{150}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Protocol - Session 2 Confirmation Email}{152}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Protocols - Session 2}{152}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Protocol - Halloween Test Delay}{152}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Protocol - Mailing Package}{155}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Protocol - Payment}{155}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}Protocol - Wave 2 Interview}{155}{subsection.4.5.4}%
-\contentsline {subsection}{\numberline {4.5.5}Protocol - Testimonials}{155}{subsection.4.5.5}%
-\contentsline {section}{\numberline {4.6}Protocols - Post-Session 2}{156}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Protocol - Downloading the Gorilla delay test data}{156}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}Protocol - Session 2 TO DO List Email}{156}{subsection.4.6.2}%
-\contentsline {section}{\numberline {4.7}Protocols - Final}{156}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{156}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}Protocol - Storing Hair Sample}{157}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}Protocol - Storing Stool Sample}{157}{subsection.4.7.3}%
-\contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{157}{subsubsection.4.7.3.1}%
-\contentsline {subsubsection}{\numberline {4.7.3.2}Sample Transfer}{157}{subsubsection.4.7.3.2}%
-\contentsline {subsection}{\numberline {4.7.4}Protocol - Data Entry \& Data Quality}{158}{subsection.4.7.4}%
-\contentsline {subsubsection}{\numberline {4.7.4.1}Data Entry}{158}{subsubsection.4.7.4.1}%
-\contentsline {subsubsection}{\numberline {4.7.4.2}Data Quality}{158}{subsubsection.4.7.4.2}%
-\contentsline {subsubsection}{\numberline {4.7.4.3}Relevant Protocols}{158}{subsubsection.4.7.4.3}%
-\contentsline {subsection}{\numberline {4.7.5}Protocol - Data Review \& Data Audit}{158}{subsection.4.7.5}%
-\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{158}{subsubsection.4.7.5.1}%
-\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{158}{subsubsection.4.7.5.2}%
-\contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{159}{subsubsection.4.7.5.3}%
-\contentsline {paragraph}{\numberline {4.7.5.3.1}Getting A Code From REDCap}{160}{paragraph.4.7.5.3.1}%
-\contentsline {subsection}{\numberline {4.7.6}Protocol - Report Card}{163}{subsection.4.7.6}%
-\contentsline {subsection}{\numberline {4.7.7}Protocol - Payment}{166}{subsection.4.7.7}%
-\contentsline {chapter}{\numberline {5}Wave 1 SONA}{169}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Summary - MBB SONA}{169}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Measures - MBB SONA}{169}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}SONA Questionnaires}{169}{subsection.5.2.1}%
-\contentsline {section}{\numberline {5.3}Halloween}{170}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Wave 2 Online}{171}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Checklists Online}{171}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Checklist - Initial Online}{171}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Checklist - Pre-Session 1}{175}{subsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.2.1}Package preparation: ``magic box''}{175}{subsubsection.6.1.2.1}%
-\contentsline {subsubsection}{\numberline {6.1.2.2}Setup - 1 Hour Prior}{177}{subsubsection.6.1.2.2}%
-\contentsline {subsection}{\numberline {6.1.3}Checklist - Session 1}{178}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}Checklist - Post-Session 1}{179}{subsection.6.1.4}%
-\contentsline {subsubsection}{\numberline {6.1.4.1}Notes}{179}{subsubsection.6.1.4.1}%
-\contentsline {subsubsection}{\numberline {6.1.4.2}Filing}{179}{subsubsection.6.1.4.2}%
-\contentsline {subsubsection}{\numberline {6.1.4.3}Reminders}{179}{subsubsection.6.1.4.3}%
-\contentsline {subsection}{\numberline {6.1.5}Checklist - Pre-Session 2}{179}{subsection.6.1.5}%
-\contentsline {subsection}{\numberline {6.1.6}Checklist - Session 2}{180}{subsection.6.1.6}%
-\contentsline {subsection}{\numberline {6.1.7}Checklist - Post-Session 2}{180}{subsection.6.1.7}%
-\contentsline {subsection}{\numberline {6.1.8}Checklist - Final Online}{180}{subsection.6.1.8}%
-\contentsline {subsubsection}{\numberline {6.1.8.1}Filing}{180}{subsubsection.6.1.8.1}%
-\contentsline {subsubsection}{\numberline {6.1.8.2}Data Entry}{180}{subsubsection.6.1.8.2}%
-\contentsline {subsubsection}{\numberline {6.1.8.3}Reminders}{180}{subsubsection.6.1.8.3}%
-\contentsline {subsubsection}{\numberline {6.1.8.4}Package confirmation}{181}{subsubsection.6.1.8.4}%
-\contentsline {subsubsection}{\numberline {6.1.8.5}Data Entry}{181}{subsubsection.6.1.8.5}%
-\contentsline {subsubsection}{\numberline {6.1.8.6}Filing}{181}{subsubsection.6.1.8.6}%
-\contentsline {subsubsection}{\numberline {6.1.8.7}Sample Storage}{181}{subsubsection.6.1.8.7}%
-\contentsline {subsubsection}{\numberline {6.1.8.8}Data Quality}{181}{subsubsection.6.1.8.8}%
-\contentsline {subsubsection}{\numberline {6.1.8.9}Retention}{182}{subsubsection.6.1.8.9}%
-\contentsline {subsubsection}{\numberline {6.1.8.10}Reimbursement}{182}{subsubsection.6.1.8.10}%
-\contentsline {subsection}{\numberline {6.1.9}Checklist - No Show}{182}{subsection.6.1.9}%
-\contentsline {section}{\numberline {6.2}Protocols - Pre-Session 1}{183}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Protocol - Scheduling}{183}{subsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.1.1}Scheduling}{183}{subsubsection.6.2.1.1}%
-\contentsline {subsubsection}{\numberline {6.2.1.2}Contacting participants}{183}{subsubsection.6.2.1.2}%
-\contentsline {subsection}{\numberline {6.2.2}Protocol - Session Preparation}{184}{subsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.2.1}Package creation}{184}{subsubsection.6.2.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2.2}Activating participant on Gorilla}{185}{subsubsection.6.2.2.2}%
-\contentsline {section}{\numberline {6.3}Protocols - Session 1}{185}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Protocol - Welcome \& Zoom Introduction}{185}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Protocol - Consent \& Assent Online}{186}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Protocol - Parent Child Observation Online}{188}{subsection.6.3.3}%
-\contentsline {subsection}{\numberline {6.3.4}Protocol - Halloween Training/Parent Questionnaires}{190}{subsection.6.3.4}%
-\contentsline {subsection}{\numberline {6.3.5}Protocol - Height Online}{192}{subsection.6.3.5}%
-\contentsline {subsection}{\numberline {6.3.6}Protocol - Weight Online}{192}{subsection.6.3.6}%
-\contentsline {subsection}{\numberline {6.3.7}Protocol - Waist Measurement Online}{193}{subsection.6.3.7}%
-\contentsline {subsection}{\numberline {6.3.8}Protocol - Halloween ``Test'' Online}{193}{subsection.6.3.8}%
-\contentsline {subsection}{\numberline {6.3.9}Protocol - Saliva Sample Online}{194}{subsection.6.3.9}%
-\contentsline {subsection}{\numberline {6.3.10}Protocol - Hair Sample Online}{195}{subsection.6.3.10}%
-\contentsline {subsubsection}{\numberline {6.3.10.1}Set Up Hair Sample Station}{195}{subsubsection.6.3.10.1}%
-\contentsline {subsubsection}{\numberline {6.3.10.2}Explanation}{196}{subsubsection.6.3.10.2}%
-\contentsline {subsubsection}{\numberline {6.3.10.3}Hair Length}{197}{subsubsection.6.3.10.3}%
-\contentsline {subsection}{\numberline {6.3.11}Protocol - Child Questionnaires Online}{198}{subsection.6.3.11}%
-\contentsline {subsubsection}{\numberline {6.3.11.1}IF THERE IS NOT ENOUGH TIME}{198}{subsubsection.6.3.11.1}%
-\contentsline {subsubsection}{\numberline {6.3.11.2}Ages 8+}{198}{subsubsection.6.3.11.2}%
-\contentsline {subsubsection}{\numberline {6.3.11.3}Ages 6-7}{199}{subsubsection.6.3.11.3}%
-\contentsline {subsection}{\numberline {6.3.12}Protocol -- Explaining at home part of Session 2}{199}{subsection.6.3.12}%
+\contentsline {section}{\numberline {4.4}Protocols - Post-Session 1}{146}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Protocol - Saving the Video}{146}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Protocol - Downloading the Gorilla task data}{148}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Protocol - Session 2 Confirmation Email}{150}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Protocols - Session 2}{150}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Protocol - Halloween Test Delay}{150}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Protocol - Mailing Package}{153}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Protocol - Payment}{153}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}Protocol - Wave 2 Interview}{153}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}Protocol - Testimonials}{153}{subsection.4.5.5}%
+\contentsline {section}{\numberline {4.6}Protocols - Post-Session 2}{154}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Protocol - Downloading the Gorilla delay test data}{154}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Protocol - Session 2 TO DO List Email}{154}{subsection.4.6.2}%
+\contentsline {section}{\numberline {4.7}Protocols - Final}{154}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{154}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Protocol - Storing Hair Sample}{155}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Protocol - Storing Stool Sample}{155}{subsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{155}{subsubsection.4.7.3.1}%
+\contentsline {subsubsection}{\numberline {4.7.3.2}Sample Transfer}{155}{subsubsection.4.7.3.2}%
+\contentsline {subsection}{\numberline {4.7.4}Protocol - Data Entry \& Data Quality}{156}{subsection.4.7.4}%
+\contentsline {subsubsection}{\numberline {4.7.4.1}Data Entry}{156}{subsubsection.4.7.4.1}%
+\contentsline {subsubsection}{\numberline {4.7.4.2}Data Quality}{156}{subsubsection.4.7.4.2}%
+\contentsline {subsubsection}{\numberline {4.7.4.3}Relevant Protocols}{156}{subsubsection.4.7.4.3}%
+\contentsline {subsection}{\numberline {4.7.5}Protocol - Data Review \& Data Audit}{156}{subsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{156}{subsubsection.4.7.5.1}%
+\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{156}{subsubsection.4.7.5.2}%
+\contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{157}{subsubsection.4.7.5.3}%
+\contentsline {paragraph}{\numberline {4.7.5.3.1}Getting A Code From REDCap}{158}{paragraph.4.7.5.3.1}%
+\contentsline {subsection}{\numberline {4.7.6}Protocol - Report Card}{161}{subsection.4.7.6}%
+\contentsline {subsection}{\numberline {4.7.7}Protocol - Payment}{164}{subsection.4.7.7}%
+\contentsline {chapter}{\numberline {5}Wave 1 SONA}{167}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Summary - MBB SONA}{167}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Measures - MBB SONA}{167}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}SONA Questionnaires}{167}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Halloween}{168}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Wave 2 Online}{169}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Checklists Online}{169}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Checklist - Initial Online}{169}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Checklist - Pre-Session 1}{173}{subsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.2.1}Package preparation: ``magic box''}{173}{subsubsection.6.1.2.1}%
+\contentsline {subsubsection}{\numberline {6.1.2.2}Setup - 1 Hour Prior}{175}{subsubsection.6.1.2.2}%
+\contentsline {subsection}{\numberline {6.1.3}Checklist - Session 1}{176}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Checklist - Post-Session 1}{177}{subsection.6.1.4}%
+\contentsline {subsubsection}{\numberline {6.1.4.1}Notes}{177}{subsubsection.6.1.4.1}%
+\contentsline {subsubsection}{\numberline {6.1.4.2}Filing}{177}{subsubsection.6.1.4.2}%
+\contentsline {subsubsection}{\numberline {6.1.4.3}Reminders}{177}{subsubsection.6.1.4.3}%
+\contentsline {subsection}{\numberline {6.1.5}Checklist - Pre-Session 2}{177}{subsection.6.1.5}%
+\contentsline {subsection}{\numberline {6.1.6}Checklist - Session 2}{178}{subsection.6.1.6}%
+\contentsline {subsection}{\numberline {6.1.7}Checklist - Post-Session 2}{178}{subsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.1.8}Checklist - Final Online}{178}{subsection.6.1.8}%
+\contentsline {subsubsection}{\numberline {6.1.8.1}Filing}{178}{subsubsection.6.1.8.1}%
+\contentsline {subsubsection}{\numberline {6.1.8.2}Data Entry}{178}{subsubsection.6.1.8.2}%
+\contentsline {subsubsection}{\numberline {6.1.8.3}Reminders}{178}{subsubsection.6.1.8.3}%
+\contentsline {subsubsection}{\numberline {6.1.8.4}Package confirmation}{179}{subsubsection.6.1.8.4}%
+\contentsline {subsubsection}{\numberline {6.1.8.5}Data Entry}{179}{subsubsection.6.1.8.5}%
+\contentsline {subsubsection}{\numberline {6.1.8.6}Filing}{179}{subsubsection.6.1.8.6}%
+\contentsline {subsubsection}{\numberline {6.1.8.7}Sample Storage}{179}{subsubsection.6.1.8.7}%
+\contentsline {subsubsection}{\numberline {6.1.8.8}Data Quality}{179}{subsubsection.6.1.8.8}%
+\contentsline {subsubsection}{\numberline {6.1.8.9}Retention}{180}{subsubsection.6.1.8.9}%
+\contentsline {subsubsection}{\numberline {6.1.8.10}Reimbursement}{180}{subsubsection.6.1.8.10}%
+\contentsline {subsection}{\numberline {6.1.9}Checklist - No Show}{180}{subsection.6.1.9}%
+\contentsline {section}{\numberline {6.2}Protocols - Pre-Session 1}{181}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Protocol - Scheduling}{181}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.1}Scheduling}{181}{subsubsection.6.2.1.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.2}Contacting participants}{181}{subsubsection.6.2.1.2}%
+\contentsline {subsection}{\numberline {6.2.2}Protocol - Session Preparation}{182}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}Package creation}{182}{subsubsection.6.2.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2.2}Activating participant on Gorilla}{183}{subsubsection.6.2.2.2}%
+\contentsline {section}{\numberline {6.3}Protocols - Session 1}{183}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Protocol - Welcome \& Zoom Introduction}{183}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Protocol - Consent \& Assent Online}{184}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Protocol - Parent Child Observation Online}{186}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Protocol - Halloween Training/Parent Questionnaires}{188}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Protocol - Height Online}{190}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.6}Protocol - Weight Online}{190}{subsection.6.3.6}%
+\contentsline {subsection}{\numberline {6.3.7}Protocol - Waist Measurement Online}{191}{subsection.6.3.7}%
+\contentsline {subsection}{\numberline {6.3.8}Protocol - Halloween ``Test'' Online}{191}{subsection.6.3.8}%
+\contentsline {subsection}{\numberline {6.3.9}Protocol - Saliva Sample Online}{192}{subsection.6.3.9}%
+\contentsline {subsection}{\numberline {6.3.10}Protocol - Hair Sample Online}{193}{subsection.6.3.10}%
+\contentsline {subsubsection}{\numberline {6.3.10.1}Set Up Hair Sample Station}{193}{subsubsection.6.3.10.1}%
+\contentsline {subsubsection}{\numberline {6.3.10.2}Explanation}{194}{subsubsection.6.3.10.2}%
+\contentsline {subsubsection}{\numberline {6.3.10.3}Hair Length}{195}{subsubsection.6.3.10.3}%
+\contentsline {subsection}{\numberline {6.3.11}Protocol - Child Questionnaires Online}{196}{subsection.6.3.11}%
+\contentsline {subsubsection}{\numberline {6.3.11.1}IF THERE IS NOT ENOUGH TIME}{196}{subsubsection.6.3.11.1}%
+\contentsline {subsubsection}{\numberline {6.3.11.2}Ages 8+}{196}{subsubsection.6.3.11.2}%
+\contentsline {subsubsection}{\numberline {6.3.11.3}Ages 6-7}{197}{subsubsection.6.3.11.3}%
+\contentsline {subsection}{\numberline {6.3.12}Protocol -- Explaining at home part of Session 2}{197}{subsection.6.3.12}%
+\contentsline {subsection}{\numberline {6.3.13}Protocol - Reporting}{198}{subsection.6.3.13}%
+\contentsline {subsubsection}{\numberline {6.3.13.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{198}{subsubsection.6.3.13.1}%
+\contentsline {subsubsection}{\numberline {6.3.13.2}If Suicidal Ideation arises\ldots {}}{199}{subsubsection.6.3.13.2}%
+\contentsline {section}{\numberline {6.4}Protocols - Post-Session 1}{199}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Protocol - Saving the Video}{199}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Protocol - Downloading the Gorilla task data}{200}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Protocol - Session 2 Confirmation Email}{201}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Protocols - Session 2}{201}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Protocol - Halloween Test Delay}{201}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Protocol -- Home Session Check In}{202}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}Protocol -- Tasso Blood Sample Online}{202}{subsection.6.5.3}%
+\contentsline {subsection}{\numberline {6.5.4}Protocol - Mailing Package}{203}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.5}Protocol - Payment}{203}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}Protocol - Testimonials}{204}{subsection.6.5.6}%
+\contentsline {section}{\numberline {6.6}Protocols - Post-Session 2}{204}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Protocol - Downloading the Gorilla delay test data}{204}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Protocol - Session 2 TO DO List Email}{205}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Protocol -- If blood sample not collected during session 2}{205}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Protocols - Final}{205}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Protocol - Storing Saliva Sample}{205}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Protocol - Storing Hair Sample}{205}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Protocol - Storing Stool Sample}{205}{subsection.6.7.3}%
+\contentsline {subsubsection}{\numberline {6.7.3.1}Sample Quality}{205}{subsubsection.6.7.3.1}%
+\contentsline {subsubsection}{\numberline {6.7.3.2}Sample Transfer}{206}{subsubsection.6.7.3.2}%
+\contentsline {subsubsection}{\numberline {6.7.3.3}Taking out the Hazards}{207}{subsubsection.6.7.3.3}%
+\contentsline {subsection}{\numberline {6.7.4}Protocol -- Tasso Blood Sample Storage}{208}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.5}Protocol - Data Entry \& Data Quality}{208}{subsection.6.7.5}%
+\contentsline {subsubsection}{\numberline {6.7.5.1}Data Entry}{208}{subsubsection.6.7.5.1}%
+\contentsline {subsubsection}{\numberline {6.7.5.2}Data Quality}{208}{subsubsection.6.7.5.2}%
+\contentsline {subsubsection}{\numberline {6.7.5.3}Relevant Protocols}{208}{subsubsection.6.7.5.3}%
+\contentsline {subsection}{\numberline {6.7.6}Protocol - Data Review \& Data Audit}{208}{subsection.6.7.6}%
+\contentsline {subsubsection}{\numberline {6.7.6.1}Follow-Up (completed by Scheduling Coordinator)}{208}{subsubsection.6.7.6.1}%
+\contentsline {subsubsection}{\numberline {6.7.6.2}Data Review}{209}{subsubsection.6.7.6.2}%
+\contentsline {subsubsection}{\numberline {6.7.6.3}Data Audit}{209}{subsubsection.6.7.6.3}%
+\contentsline {paragraph}{\numberline {6.7.6.3.1}Getting A Code From REDCap}{211}{paragraph.6.7.6.3.1}%
+\contentsline {subsection}{\numberline {6.7.7}Protocol - Report Card}{211}{subsection.6.7.7}%
+\contentsline {subsection}{\numberline {6.7.8}Protocol - Payment}{211}{subsection.6.7.8}%
+\contentsline {subsubsection}{\numberline {6.7.8.1}If links in chat are not working\ldots {}}{212}{subsubsection.6.7.8.1}%
+\contentsline {subsubsection}{\numberline {6.7.8.2}If internet/wifi seems to be malfunctioning\ldots {}}{213}{subsubsection.6.7.8.2}%
+\contentsline {subsubsection}{\numberline {6.7.8.3}Plan B to Zoom recording on PC interaction}{213}{subsubsection.6.7.8.3}%

@@ -1,0 +1,89 @@
+## Protocols - Post-Session 1   
+
+  
+
+### Protocol - Saving the Video 
+
+  
+
+Step 1: 
+
+When the session is complete, click the bottom right hand button to end the meeting. You will immediately see a window pop up to indicate the recording is being converted and saving to your computer.  
+
+ 
+
+Step 2: 
+
+When the video conversion is complete, the video files will be saved in a folder titled "Zoom" on your computer, wherever your current automatic working directory is saved.  
+
+  
+
+To check where your automatic working directory is saved, login to Zoom and click on "Recordings" on the left menu column. Then switch to "Local Recordings" and view the Location for correct Meeting Recording you have just captured.  
+
+ 
+
+Step 3: 
+
+There will be three files in the folder- find the mp4 file and click open to ensure you have captured and converted the file successfully.  
+
+ 
+
+Step 4: 
+
+Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box.  
+
+ 
+
+*For more detailed instructions with photos see Wave 1 protocol* 
+
+  
+
+### Protocol - Downloading the Gorilla task data 
+
+  
+
+1. Login to Gorilla and navigate to the experiment's data tab.  
+
+2. If data is up to date, you can go ahead and click download.  
+
+2b. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participant.   
+
+3. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data".  
+
+4. You will see a wait screen as it generates.  
+
+5. After a few minutes click into "Manage experiment data" again and download.  
+
+6. Unzip the file to your desktop. 
+
+7. Open the correct training and immediate test files and check that the participant's data is all there. NOTE: can check the participant's specific nodes to see the code of their halloween test delay, which will tell you which file their data is located in. 
+
+8. Save this file in the Gorilla data folder on Box as "month_day_year.csv" 
+
+  
+
+*For more detailed instructions with photos see Wave 1 protocol* 
+
+ 
+
+NOTE: If the data downloads and the first line of the participant's data is there but the rest is missing, follow this protocol: 
+
+1. Go to an earlier version of the task, regenerate, and download data 
+
+2. Go back to the version of the task that the participant belongs to, regenerate, and download data 
+
+3. Check to see if all the participant's data is there  
+
+  
+
+### Protocol - Session 2 Confirmation Email 
+
+  
+
+- If session scheduling has not changed, copy Zoom link and Session 2 time information into Session 2 Confirmation Email and send 
+
+- If session scheduling has changed, update google calendar. Then, copy Zoom link and updated Session 2 time information into Session 2 Confirmation Email and send.  
+
+  
+
+------------- 
