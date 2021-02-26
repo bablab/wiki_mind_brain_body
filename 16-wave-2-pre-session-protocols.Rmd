@@ -1,0 +1,70 @@
+## Protocols - Pre-Session 1  
+
+### Protocol - Scheduling
+
+#### Scheduling 
+
+- Participant retention is super important for wave 2 
+- There will be a script on REDCap of what to say when calling, just follow the script 
+- We are not rescreening them, call will be just for letting them know we're now in wave 2 and scheduling their session
+- Parents will verbally opt in to text reminders at the time of screen call which will be their “consent” to be texted. 
+
+#### Contacting participants 
+
+- 1st call – if no answer leave message saying what is in the script and send email #1 template 
+- 2nd call – should be made 3 days after contacting them for the first time & also send a text 
+- 3rd call – should be made 5 days after call #2 and send another email 
+- 4th call – one more attempt at contact, send a third email and a text 
+
+**Important: We will be contacting participants ( calls, texts, and emails) for two weeks and if no response then turn to contact list contacts before giving a month break** 
+
+- At this point we will be in contact with the people they listed on contact list ( I.e. relative or otherwise) 
+  - There will be a separate script for calling the contact of participant 
+  - Super important to note that we cannot say we are calling because [ participant name] participated in our study. We can only say we are from Brain and Body lab and were hoping to get in contact with ___. Could they please give us their contact info or tell the participant to reach out to us. “They gave us your details in case we couldn’t find them do you know if they changed their information? “  
+
+If  “No” to participating: 
+
+- They are not obliged to participate in the research, we were wondering if there's anything we can do, very motivated to have you back- should we call you back in a couple months, or if there's any components you found boring, we can cut those out. we can work with you to keep you in the study as much as we possibly can- flexible  
+- Would you be willing to JUST do XYZ (e.g. bio samples, behavioral, questionnaires), session delay is fine too, (any data we can get from them is helpful) 
+- Longitudinal study so important for us, important for us to get you back, ok if you don't want to but we want to do everything we can to accommodate if possible 
+
+ 
+Scheduling Session
+
+1. Open BabLab google calendar and note availability for designated data collection research team. 
+2. Check-in with the Lab Manager to see what the designated "package mailing day" of the week is. 
+  - Participants must be scheduled 2 weeks or more in advance from the "package mailing day", to ensure appropriate time for the package to be received by the participant. 
+3. Create event on google calendar for 2 hours. Notify the participant that sessions may not last the full indicated time, however, we like to designate additional time just in case. 
+4. As soon as the participant has been scheduled, create/add to a google calendar event for the designated "package mailing day" of the week the participant ID (MBB number). 
+5. This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for "package mailing day." 
+
+
+----------  
+
+### Protocol - Session Preparation  
+
+
+#### Package creation 
+
+- There will be a designated "package mailing day" one day a week in which the Lab Manager will go into the lab to prepare necessary materials and send out packages from scheduled participants in the last week, on the same package mailing day. 
+- Once the package materials have been put together, it is time to bring the package down to the mailroom in the Psychology building, Tyler's Office 
+    - If you go to the mailroom or to Tyler's Office, you need to have your own box. Tyler can tape up the box for you if needed. 
+- To mail the package to the participant, you will need the following information: 
+    - Recharge ID 
+    - Participant name 
+    - Participant mailing address 
+    - Lab mailing address 
+- From the mailroom: you can write the addresses directly on the box, and circle the recharge ID. Leave the box on the table above the "outgoing mail" sign.  
+- From Tyler's office: you will receive a FedEx label in which you can write this information. Take a picture of the tracking number and save OFFLINE. Leave the box in Tyler's office for FedEx to pick up.  
+
+
+#### Activating participant on Gorilla 
+
+1. Log in to Gorilla 
+2. Navigate to Projects/MBB/MBB_wave_2_online 
+3. Navigate to the participants tab 
+4. Click "Activate" for the designated participant 
+
+*see pre-session 1 Wave 1 for further details  
+
+--------------

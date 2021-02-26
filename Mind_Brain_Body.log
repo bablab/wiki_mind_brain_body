@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  11 FEB 2021 18:07
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  25 FEB 2021 16:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2085,26 +2085,198 @@ File: images/report_card_online/6.png Graphic file (type bmp)
 Chapter 5.
 [169
 
-] (./Mind_Brain_Body.bbl [170] [171
+] [170]
+Chapter 6.
 
-] [172] [173])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6880.
+Underfull \hbox (badness 10000) in paragraph at lines 6903--6905
+
+ []
+
+[171
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6930--6932
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6932--6934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6934--6936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6954--6956
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6983--6985
+
+ []
+
+[172]
+Underfull \hbox (badness 10000) in paragraph at lines 7004--7006
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7101--7103
+
+ []
+
+[173]
+Underfull \hbox (badness 10000) in paragraph at lines 7162--7164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7172--7174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7176--7177
+
+ []
+
 [174]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 6880.
+Underfull \hbox (badness 10000) in paragraph at lines 7242--7244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7244--7246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7248--7250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7265--7267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7310--7312
+
+ []
+
+[175]
+Underfull \hbox (badness 10000) in paragraph at lines 7380--7382
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7388--7390
+
+ []
+
+[176]
+Underfull \hbox (badness 10000) in paragraph at lines 7438--7440
+
+ []
+
+[177]
+Underfull \hbox (badness 10000) in paragraph at lines 7488--7489
+
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 7522--7524
+[]\TU/lmr/m/n/10 Parent-child observation (note recording via Zoom or participa
+nt
+ []
+
+[178] [179]
+Underfull \hbox (badness 10000) in paragraph at lines 7634--7636
+
+ []
+
+
+Overfull \hbox (18.18002pt too wide) in paragraph at lines 7644--7645
+[]\TU/lmr/m/n/10 Walk through package to send back (check “mbb_online_package_c
+hecklists”)
+ []
+
+[180] [181]
+Underfull \hbox (badness 10000) in paragraph at lines 7854--7856
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7884--7886
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7886--7888
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7888--7890
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7890--7892
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7892--7894
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7894--7896
+
+ []
+
+[182]
+Underfull \hbox (badness 10000) in paragraph at lines 7896--7898
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7959--7961
+
+ []
+
+[183] [184]
+Underfull \hbox (badness 10000) in paragraph at lines 8030--8032
+
+ []
+
+[185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [
+198] [199] (./Mind_Brain_Body.bbl [200] [201
+
+] [202] [203])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8668.
+[204]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 8668.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 6880.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 6880.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 8668.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 8668.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
-(rerunfilecheck)             Checksum: E2D174B3748AD72E7C2D7A4A3CAF3E2B;3109.
+(rerunfilecheck)             Checksum: B61BC1AE47D4835DFF438AD0E3B670C8;3725.
  ) 
 Here is how much of TeX's memory you used:
- 18699 strings out of 479418
- 343255 string characters out of 5884586
- 819301 words of memory out of 5000000
- 35915 multiletter control sequences out of 15000+600000
- 538789 words of font info for 77 fonts, out of 8000000 for 9000
+ 18756 strings out of 479418
+ 344692 string characters out of 5884586
+ 822461 words of memory out of 5000000
+ 35970 multiletter control sequences out of 15000+600000
+ 538797 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Mind_Brain_Body.pdf (174 pages).
+Output written on Mind_Brain_Body.pdf (204 pages).
