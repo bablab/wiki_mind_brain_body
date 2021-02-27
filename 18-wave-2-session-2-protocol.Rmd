@@ -98,7 +98,11 @@ Proceed to doing blood sample.
 
  
 
-If no: * “ When do you think you will be able to finish? We will need to schedule a short 5 minute Zoom call within the next week so we can collect the blood sample. The sooner we are able to do that the better.* Schedule the third session within the next week at a time that works for you and the parent so blood sample can be collected. Emphasize that poop sample needs to collected before that session.  
+If no: *When do you think you will be able to finish? We will need to schedule a short 5 minute Zoom call within the next week so we can collect the blood sample. The sooner we are able to do that the better.* 
+
+  - Schedule the third session within the next week at a time that works for you and the parent so blood sample can be collected. 
+  
+  - Emphasize that poop sample needs to collected before that session.  
 
  
 
@@ -110,43 +114,36 @@ If no: * “ When do you think you will be able to finish? We will need to sched
 
  
 
-Rub arm quickly and firmly just below the shoulder. Rub until it’s very warm to help your blood flow. 
+1. Rub arm quickly and firmly just below the shoulder. Rub until it’s very warm to help your blood flow. 
+2. Clean arm with alcohol pad. 
 
-Clean arm with alcohol pad. 
+3. Open device pouch by pulling apart white and clear layers.  
 
-Open device pouch by pulling apart white and clear layers.  
+4. Remove clear plastic cover over the red button. 
 
-Remove clear plastic cover over the red button. 
+5. Peel paper tab behind the red button. Keep sample pod pointing down. 
 
-Peel paper tab behind the red button. Keep sample pod pointing down. 
+6. Stick device to shoulder. Do not remove once it’s on. 
 
-Stick device to shoulder. Do not remove once it’s on. 
+7. Press button quickly and firmly until it can’t go any farther. Wait two seconds then let go.  
 
-Press button quickly and firmly until it can’t go any farther. Wait two seconds then let go.  
+8. Start a 5 minute timer. Keep arm at your side and watch dots fill. You won’t see blood right away. 
+9. Peel off the clear film to expose the sample pod vent. 
 
-Start a 5 minute timer. Keep arm at your side and watch dots fill. You won’t see blood right away. 
+10. Place device in the foil return bag and seal. Leave the moisture packs in the bag. 
 
-Peel off the clear film to expose the sample pod vent. 
+11. **IMPORTANT: Write collection date and time on the inside flap of the box.** 
 
-Place device in the foil return bag and seal. Leave the moisture packs in the bag. 
-
-IMPORTANT: Write collection date and time on the inside flap of the box. 
-
-Place bag in box and seal with the strip.  
-
+12. Place bag in box and seal with the strip.  
  
+- Note that if blood sample needs to be stored overnight ( if the package is not sent out on the day it is collected) please store it in a cool dry place not under direct sunlight.  
 
--Note that if blood sample needs to be stored overnight ( if the package is not sent out on the day it is collected) please store it in a cool dry place not under direct sunlight.  
+- If the package is ready to be sent back we will do the blood sample now and it needs to be sent out today / tomorrow at the latest 
 
--If the package is ready to be sent back we will do the blood sample *now* and it needs to be sent out today / tomorrow at the latest 
+- **It is important that the blood sample be sent back the day it is collected or day after so emphasize that it is important that the whole package get sent back asap after blood sample collection.** 
 
--it is important that the blood sample be sent back the day it is collected or day after so emphasize that it is important that the whole package get sent back asap after blood sample collection. 
+- Check that they write down date and time the blood sample was collected on the box the kit comes with 
 
--Have them write down date and time the blood sample was collected on the box the kit comes with 
-
- 
-
-  
 
 ### Protocol - Mailing Package 
 
@@ -176,12 +173,22 @@ Place bag in box and seal with the strip.
 
 - Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment 
 
--Ask what prize they want. We will share screen and share the prize presentation. Whatever they choose researcher will make a note on checklist and lab manager will reference that when sending payment package. As prizes get claimed those choices will get crossed out.   
+### Protocol - Prize
+- Before showing prize options check [Prize Log](https://app.box.com/file/734579293509) to verify what prizes are available. 
+- Ask what prize they want. We will share screen and share the prize presentation. Whatever they choose researcher will make a note on checklist and lab manager will reference that when sending payment package. As prizes get claimed those choices will get crossed out.   
 
+*You get to choose a prize for participating in the study! I am going to share my screen to show you the different prize options we have.*
+
+[Researcher will open up [Prize Presentation](https://app.box.com/file/780536035674)]
  
+- Once participant chooses prize researcher will make a note on the REDCap checklist. 
+
+*Great, we will send your prize with the payment!* 
+
 
 ### Protocol - Testimonials 
  
+[ Only ask if participants seem like a good candidate for a testimonial / had a particularly good experience particiapting.]
 
 *We wanted to know if you are interested in providing a testimonial for our website about your experience participating in our Mind, Brain, and Body study. If you choose to provide a testimonial we will post it on our website. We would also include first name and your child's first name and age if you grant us permission to do so. Is that something you would be interested in?* 
  
@@ -232,14 +239,19 @@ If no: *No problem at all, thank you for participating in our study!*
 
 - Fill in templated email with all leftover tasks for participant to complete 
 
-- Add links to REDCap for their optional qualitative responses 
-
-- Refrain from sending this email if they ONLY have qualitative responses left to do- participants will get 2+ emails through our "home reminder" system. This email is designed more for participants who have not done the stool sample yet, or still have outstanding tasks from Session 1 that we'd like to remind them about immediately/are time sensitive. 
+- This email is designed more for participants who have not done the stool sample yet, or still have outstanding tasks from Session 1 that we'd like to remind them about immediately/are time sensitive. 
 
  
 
 ### Protocol – If blood sample not collected during session 2 
  
 
--add to calendar the date and time scheduled to meet with participant again to collect blood sample 
--change home session R1 email 1 calendar event date to one week from blood sample collection  
+- Add to calendar the date and time scheduled to meet with participant again to collect blood sample. This is going to be a session 3 of sorts. 
+
+- Change home session R1 email 1 calendar event date to one week from blood sample collection (session 3 )  
+
+- Change home session R1 call calendar event date to 8 days after "session 3"  
+
+- Change home session R2 email calendar event date to two weeks after "session 3"
+
+- Change home session R2 call calendar event date to 15 days after "session 3"

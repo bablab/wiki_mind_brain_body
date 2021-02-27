@@ -88,9 +88,7 @@
 
     - Sharpie for labeling 
 
-  
 
-  
 
 **Steps:** 
 
@@ -160,27 +158,20 @@
 
 -Make sure to return the Hazards keys to the lock box in BABLAB. 
 
- 
 
------------------ 
 
 ### Protocol – Tasso Blood Sample Storage  
 
  
 
--Lab manager will need to store sample within one or two days of receiving sample. 
+- Lab manager will need to store sample within one or two days of receiving sample. 
 
--Place biohazard bag with blood sample in its designated space in the freezer box (in accordance to the Sample Storage Log Diagram) 
+- Place biohazard bag with blood sample in its designated space in the freezer box (in accordance to the Sample Storage Log Diagram) 
 
--Update MBB log 
+- Update MBB log 
 
 - Log the sample in the [Sample Storage Log](https://app.box.com/file/630322897864) 
 
- 
-
- 
-
------------------ 
 
   
 
@@ -414,9 +405,6 @@ https://youtu.be/z_mQGyguaEY
 
 *Refer to Wave 1 protocol for more details* 
 
- 
-
------------------ 
 
   
 

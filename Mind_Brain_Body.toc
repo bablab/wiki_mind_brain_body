@@ -316,16 +316,17 @@
 \contentsline {subsection}{\numberline {6.5.3}Protocol -- Tasso Blood Sample Online}{202}{subsection.6.5.3}%
 \contentsline {subsection}{\numberline {6.5.4}Protocol - Mailing Package}{203}{subsection.6.5.4}%
 \contentsline {subsection}{\numberline {6.5.5}Protocol - Payment}{203}{subsection.6.5.5}%
-\contentsline {subsection}{\numberline {6.5.6}Protocol - Testimonials}{204}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.6}Protocol - Prize}{203}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.7}Protocol - Testimonials}{204}{subsection.6.5.7}%
 \contentsline {section}{\numberline {6.6}Protocols - Post-Session 2}{204}{section.6.6}%
 \contentsline {subsection}{\numberline {6.6.1}Protocol - Downloading the Gorilla delay test data}{204}{subsection.6.6.1}%
 \contentsline {subsection}{\numberline {6.6.2}Protocol - Session 2 TO DO List Email}{205}{subsection.6.6.2}%
 \contentsline {subsection}{\numberline {6.6.3}Protocol -- If blood sample not collected during session 2}{205}{subsection.6.6.3}%
 \contentsline {section}{\numberline {6.7}Protocols - Final}{205}{section.6.7}%
 \contentsline {subsection}{\numberline {6.7.1}Protocol - Storing Saliva Sample}{205}{subsection.6.7.1}%
-\contentsline {subsection}{\numberline {6.7.2}Protocol - Storing Hair Sample}{205}{subsection.6.7.2}%
-\contentsline {subsection}{\numberline {6.7.3}Protocol - Storing Stool Sample}{205}{subsection.6.7.3}%
-\contentsline {subsubsection}{\numberline {6.7.3.1}Sample Quality}{205}{subsubsection.6.7.3.1}%
+\contentsline {subsection}{\numberline {6.7.2}Protocol - Storing Hair Sample}{206}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Protocol - Storing Stool Sample}{206}{subsection.6.7.3}%
+\contentsline {subsubsection}{\numberline {6.7.3.1}Sample Quality}{206}{subsubsection.6.7.3.1}%
 \contentsline {subsubsection}{\numberline {6.7.3.2}Sample Transfer}{206}{subsubsection.6.7.3.2}%
 \contentsline {subsubsection}{\numberline {6.7.3.3}Taking out the Hazards}{207}{subsubsection.6.7.3.3}%
 \contentsline {subsection}{\numberline {6.7.4}Protocol -- Tasso Blood Sample Storage}{208}{subsection.6.7.4}%
@@ -333,13 +334,14 @@
 \contentsline {subsubsection}{\numberline {6.7.5.1}Data Entry}{208}{subsubsection.6.7.5.1}%
 \contentsline {subsubsection}{\numberline {6.7.5.2}Data Quality}{208}{subsubsection.6.7.5.2}%
 \contentsline {subsubsection}{\numberline {6.7.5.3}Relevant Protocols}{208}{subsubsection.6.7.5.3}%
-\contentsline {subsection}{\numberline {6.7.6}Protocol - Data Review \& Data Audit}{208}{subsection.6.7.6}%
-\contentsline {subsubsection}{\numberline {6.7.6.1}Follow-Up (completed by Scheduling Coordinator)}{208}{subsubsection.6.7.6.1}%
+\contentsline {subsection}{\numberline {6.7.6}Protocol - Data Review \& Data Audit}{209}{subsection.6.7.6}%
+\contentsline {subsubsection}{\numberline {6.7.6.1}Follow-Up (completed by Scheduling Coordinator)}{209}{subsubsection.6.7.6.1}%
 \contentsline {subsubsection}{\numberline {6.7.6.2}Data Review}{209}{subsubsection.6.7.6.2}%
 \contentsline {subsubsection}{\numberline {6.7.6.3}Data Audit}{209}{subsubsection.6.7.6.3}%
 \contentsline {paragraph}{\numberline {6.7.6.3.1}Getting A Code From REDCap}{211}{paragraph.6.7.6.3.1}%
 \contentsline {subsection}{\numberline {6.7.7}Protocol - Report Card}{211}{subsection.6.7.7}%
-\contentsline {subsection}{\numberline {6.7.8}Protocol - Payment}{211}{subsection.6.7.8}%
-\contentsline {subsubsection}{\numberline {6.7.8.1}If links in chat are not working\ldots {}}{212}{subsubsection.6.7.8.1}%
-\contentsline {subsubsection}{\numberline {6.7.8.2}If internet/wifi seems to be malfunctioning\ldots {}}{213}{subsubsection.6.7.8.2}%
-\contentsline {subsubsection}{\numberline {6.7.8.3}Plan B to Zoom recording on PC interaction}{213}{subsubsection.6.7.8.3}%
+\contentsline {subsection}{\numberline {6.7.8}Protocol - Payment}{212}{subsection.6.7.8}%
+\contentsline {section}{\numberline {6.8}Protocols - Troubleshooting}{213}{section.6.8}%
+\contentsline {subsubsection}{\numberline {6.8.0.1}If links in chat are not working\ldots {}}{213}{subsubsection.6.8.0.1}%
+\contentsline {subsubsection}{\numberline {6.8.0.2}If internet/wifi seems to be malfunctioning\ldots {}}{213}{subsubsection.6.8.0.2}%
+\contentsline {subsubsection}{\numberline {6.8.0.3}Plan B to Zoom recording on PC interaction}{213}{subsubsection.6.8.0.3}%

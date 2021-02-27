@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  26 FEB 2021 13:19
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  26 FEB 2021 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,341 +410,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count295
-) (./Mind_Brain_Body.aux
-
-LaTeX Warning: Label `child' multiply defined.
-
-
-LaTeX Warning: Label `parent' multiply defined.
-
-
-LaTeX Warning: Label `parent-proxy' multiply defined.
-
-
-LaTeX Warning: Label `parent-self' multiply defined.
-
-
-LaTeX Warning: Label `wasi' multiply defined.
-
-
-LaTeX Warning: Label `wiat' multiply defined.
-
-
-LaTeX Warning: Label `training-video' multiply defined.
-
-
-LaTeX Warning: Label `notes' multiply defined.
-
-
-LaTeX Warning: Label `filing' multiply defined.
-
-
-LaTeX Warning: Label `reminders' multiply defined.
-
-
-LaTeX Warning: Label `filing-1' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `sample-storage' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `retention' multiply defined.
-
-
-LaTeX Warning: Label `reimbursement' multiply defined.
-
-
-LaTeX Warning: Label `pre-screening' multiply defined.
-
-
-LaTeX Warning: Label `screening' multiply defined.
-
-
-LaTeX Warning: Label `other-screening-information' multiply defined.
-
-
-LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
-
-
-LaTeX Warning: Label `hair-length' multiply defined.
-
-
-LaTeX Warning: Label `sample-quality' multiply defined.
-
-
-LaTeX Warning: Label `sample-transfer' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
-efined.
-
-
-LaTeX Warning: Label `protocol---payment' multiply defined.
-
-
-LaTeX Warning: Label `halloween' multiply defined.
-
-
-LaTeX Warning: Label `checklists-online' multiply defined.
-
-
-LaTeX Warning: Label `checklist---initial-online' multiply defined.
-
-
-LaTeX Warning: Label `checklist---pre-session-1' multiply defined.
-
-
-LaTeX Warning: Label `package-preparation-magic-box' multiply defined.
-
-
-LaTeX Warning: Label `setup---1-hour-prior' multiply defined.
-
-
-LaTeX Warning: Label `checklist---session-1' multiply defined.
-
-
-LaTeX Warning: Label `checklist---post-session-1' multiply defined.
-
-
-LaTeX Warning: Label `notes' multiply defined.
-
-
-LaTeX Warning: Label `filing' multiply defined.
-
-
-LaTeX Warning: Label `reminders' multiply defined.
-
-
-LaTeX Warning: Label `checklist---pre-session-2' multiply defined.
-
-
-LaTeX Warning: Label `checklist---session-2' multiply defined.
-
-
-LaTeX Warning: Label `checklist---post-session-2' multiply defined.
-
-
-LaTeX Warning: Label `checklist---final-online' multiply defined.
-
-
-LaTeX Warning: Label `filing-1' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `reminders-1' multiply defined.
-
-
-LaTeX Warning: Label `package-confirmation' multiply defined.
-
-
-LaTeX Warning: Label `data-entry-1' multiply defined.
-
-
-LaTeX Warning: Label `filing-2' multiply defined.
-
-
-LaTeX Warning: Label `sample-storage' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `retention' multiply defined.
-
-
-LaTeX Warning: Label `reimbursement' multiply defined.
-
-
-LaTeX Warning: Label `checklist---no-show' multiply defined.
-
-
-LaTeX Warning: Label `protocols---pre-session-1' multiply defined.
-
-
-LaTeX Warning: Label `scheduling' multiply defined.
-
-
-LaTeX Warning: Label `protocol---session-preparation' multiply defined.
-
-
-LaTeX Warning: Label `package-creation' multiply defined.
-
-
-LaTeX Warning: Label `activating-participant-on-gorilla' multiply defined.
-
-
-LaTeX Warning: Label `protocols---session-1' multiply defined.
-
-
-LaTeX Warning: Label `protocol---welcome-zoom-introduction' multiply defined.
-
-
-LaTeX Warning: Label `protocol---consent-assent-online' multiply defined.
-
-
-LaTeX Warning: Label `protocol---parent-child-observation-online' multiply defi
-ned.
-
-
-LaTeX Warning: Label `protocol---halloween-trainingparent-questionnaires' multi
-ply defined.
-
-
-LaTeX Warning: Label `protocol---height-online' multiply defined.
-
-
-LaTeX Warning: Label `protocol---weight-online' multiply defined.
-
-
-LaTeX Warning: Label `protocol---waist-measurement-online' multiply defined.
-
-
-LaTeX Warning: Label `protocol---halloween-test-online' multiply defined.
-
-
-LaTeX Warning: Label `protocol---saliva-sample-online' multiply defined.
-
-
-LaTeX Warning: Label `protocol---hair-sample-online' multiply defined.
-
-
-LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
-
-
-LaTeX Warning: Label `explanation' multiply defined.
-
-
-LaTeX Warning: Label `hair-length' multiply defined.
-
-
-LaTeX Warning: Label `protocol---child-questionnaires-online' multiply defined.
-
-
-
-LaTeX Warning: Label `if-there-is-not-enough-time' multiply defined.
-
-
-LaTeX Warning: Label `ages-8' multiply defined.
-
-
-LaTeX Warning: Label `ages-6-7' multiply defined.
-
-
-LaTeX Warning: Label `protocol---reporting' multiply defined.
-
-
-LaTeX Warning: Label `if-an-item-on-the-reporting-list-is-activated-regarding-p
-otential-domestic-violence' multiply defined.
-
-
-LaTeX Warning: Label `if-suicidal-ideation-arises' multiply defined.
-
-
-LaTeX Warning: Label `protocols---post-session-1' multiply defined.
-
-
-LaTeX Warning: Label `protocol---saving-the-video' multiply defined.
-
-
-LaTeX Warning: Label `protocol---downloading-the-gorilla-task-data' multiply de
-fined.
-
-
-LaTeX Warning: Label `protocol---session-2-confirmation-email' multiply defined
-.
-
-
-LaTeX Warning: Label `protocols---session-2' multiply defined.
-
-
-LaTeX Warning: Label `protocol---halloween-test-delay' multiply defined.
-
-
-LaTeX Warning: Label `protocol---mailing-package' multiply defined.
-
-
-LaTeX Warning: Label `protocol---payment' multiply defined.
-
-
-LaTeX Warning: Label `protocol---testimonials' multiply defined.
-
-
-LaTeX Warning: Label `protocols---post-session-2' multiply defined.
-
-
-LaTeX Warning: Label `protocol---downloading-the-gorilla-delay-test-data' multi
-ply defined.
-
-
-LaTeX Warning: Label `protocol---session-2-to-do-list-email' multiply defined.
-
-
-LaTeX Warning: Label `protocols---final' multiply defined.
-
-
-LaTeX Warning: Label `protocol---storing-saliva-sample' multiply defined.
-
-
-LaTeX Warning: Label `protocol---storing-hair-sample' multiply defined.
-
-
-LaTeX Warning: Label `protocol---storing-stool-sample' multiply defined.
-
-
-LaTeX Warning: Label `sample-quality' multiply defined.
-
-
-LaTeX Warning: Label `sample-transfer' multiply defined.
-
-
-LaTeX Warning: Label `protocol---data-entry-data-quality' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `relevant-protocols' multiply defined.
-
-
-LaTeX Warning: Label `protocol---data-review-data-audit' multiply defined.
-
-
-LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
-efined.
-
-
-LaTeX Warning: Label `data-review' multiply defined.
-
-
-LaTeX Warning: Label `data-audit' multiply defined.
-
-
-LaTeX Warning: Label `getting-a-code-from-redcap' multiply defined.
-
-
-LaTeX Warning: Label `protocol---report-card' multiply defined.
-
-
-LaTeX Warning: Label `protocol---payment' multiply defined.
-
-)
+) (./Mind_Brain_Body.aux)
 \openout1 = `Mind_Brain_Body.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -2574,18 +2240,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 7922--7924
  []
 
 [181] [182]
-Underfull \hbox (badness 10000) in paragraph at lines 7993--7995
+Underfull \hbox (badness 10000) in paragraph at lines 7987--7989
 
  []
 
-[183] [184] [185] [186] [187] [188]
+[183] [184] [185] [186] [187]
 
-Package hyperref Warning: Suppressing link with empty target on input line 8224
+Package hyperref Warning: Suppressing link with empty target on input line 8202
 .
 
-[189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [
-202] [203] [204] [205] [206] [207]
-Underfull \hbox (badness 1314) in paragraph at lines 9115--9116
+[188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [
+201] [202] [203] [204] [205] [206] [207]
+Underfull \hbox (badness 1314) in paragraph at lines 9133--9134
 \TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
 [][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
 
@@ -2595,7 +2261,7 @@ Underfull \hbox (badness 1314) in paragraph at lines 9115--9116
 File: images/zoom_parent_child_interaction/13.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/13.png>
 
-Overfull \hbox (408.57002pt too wide) in paragraph at lines 9400--9401
+Overfull \hbox (408.57002pt too wide) in paragraph at lines 9419--9420
 []\TU/lmr/m/n/10 The video will appear to the researchers in our Box under BABL
 AB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_intera
 ctions/Uploads 
@@ -2604,24 +2270,21 @@ ctions/Uploads
 (./Mind_Brain_Body.bbl [213] [214] [215
 
 ] [216] [217])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9406.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9425.
 [218]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 9406.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9425.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9406.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9406.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9425.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9425.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
-(rerunfilecheck)             Checksum: 279748B3F25E7C25DAFF2A6C14C21F54;4428.
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: DEFF09F0E4DD46349FC63B94A3643213;4624.
  ) 
 Here is how much of TeX's memory you used:
- 18685 strings out of 479418
- 343214 string characters out of 5884586
- 818653 words of memory out of 5000000
- 35899 multiletter control sequences out of 15000+600000
+ 18795 strings out of 479418
+ 345923 string characters out of 5884586
+ 825461 words of memory out of 5000000
+ 36009 multiletter control sequences out of 15000+600000
  538797 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,495s stack positions out of 5000i,500n,10000p,200000b,80000s

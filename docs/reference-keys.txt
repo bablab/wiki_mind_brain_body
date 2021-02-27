@@ -316,6 +316,7 @@ protocol-home-session-check-in
 protocol-tasso-blood-sample-online
 protocol---mailing-package-1
 protocol---payment-2
+protocol---prize
 protocol---testimonials-1
 protocols---post-session-2-1
 protocol---downloading-the-gorilla-delay-test-data-1
@@ -340,6 +341,7 @@ data-audit-1
 getting-a-code-from-redcap-1
 protocol---report-card-1
 protocol---payment-3
+protocols---troubleshooting
 if-links-in-chat-are-not-working
 if-internetwifi-seems-to-be-malfunctioning
 plan-b-to-zoom-recording-on-pc-interaction
