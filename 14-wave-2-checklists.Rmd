@@ -53,7 +53,7 @@
 
 - Send session 1 confirmation email (in templates) 
 
-   - Attach [Infographic](https://app.box.com/file/776654994352) [Next Steps](https://app.box.com/file/774936561660), [Computer Zoom Download Instructions](https://ucla.app.box.com/file/680632734387) 
+   - Attach [Infographic](https://app.box.com/file/776654994352), [Next Steps](https://app.box.com/file/774936561660), [Computer Zoom Download Instructions](https://ucla.app.box.com/file/680632734387) 
 
   
 **Enrollment** 

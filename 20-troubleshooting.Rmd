@@ -1,3 +1,8 @@
+
+## Protocols - Troubleshooting
+
+
+
 #### If links in chat are not working... 
 
   
@@ -5,8 +10,6 @@
 [Get them to have the links email open just in case] 
 
 *You should have received an email from us right before this session full of links for today. Can you please pull that up to have it ready just in case? I will be sending you all of these links through the Zoom chat, but it will a good reference in case we have any technical difficulties! Once you have it up, you can co ahead and minimize the window.* 
-
-  
 
   
 
