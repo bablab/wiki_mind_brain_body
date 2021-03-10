@@ -229,6 +229,7 @@ protocol---testimonials
 protocols---post-session-2
 protocol---downloading-the-gorilla-delay-test-data
 protocol---session-2-to-do-list-email
+protocol---if-participant-had-feedback-to-give
 protocols---final
 protocol---storing-saliva-sample
 protocol---storing-hair-sample
@@ -322,6 +323,7 @@ protocols---post-session-2-1
 protocol---downloading-the-gorilla-delay-test-data-1
 protocol---session-2-to-do-list-email-1
 protocol-if-blood-sample-not-collected-during-session-2
+protocol---if-participant-had-feedback-to-give-1
 protocols---final-1
 protocol---storing-saliva-sample-1
 protocol---storing-hair-sample-1
