@@ -255,3 +255,9 @@ If no: *No problem at all, thank you for participating in our study!*
 - Change home session R2 email calendar event date to two weeks after "session 3"
 
 - Change home session R2 call calendar event date to 15 days after "session 3"
+
+
+### Protocol - If participant had feedback to give
+
+- If participant provided feedback on their experience or had comments to give us make a note of it on the "other notes" section of the session 1 checklist on REDCap. Also send a message to lab manager with an overview of feedback provided and whether it is feedback we should consider for the future. 
+

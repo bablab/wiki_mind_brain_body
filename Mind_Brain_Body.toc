@@ -229,8 +229,9 @@
 \contentsline {section}{\numberline {4.6}Protocols - Post-Session 2}{154}{section.4.6}%
 \contentsline {subsection}{\numberline {4.6.1}Protocol - Downloading the Gorilla delay test data}{154}{subsection.4.6.1}%
 \contentsline {subsection}{\numberline {4.6.2}Protocol - Session 2 TO DO List Email}{154}{subsection.4.6.2}%
-\contentsline {section}{\numberline {4.7}Protocols - Final}{154}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{154}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.6.3}Protocol - If participant had feedback to give}{154}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}Protocols - Final}{155}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Protocol - Storing Saliva Sample}{155}{subsection.4.7.1}%
 \contentsline {subsection}{\numberline {4.7.2}Protocol - Storing Hair Sample}{155}{subsection.4.7.2}%
 \contentsline {subsection}{\numberline {4.7.3}Protocol - Storing Stool Sample}{155}{subsection.4.7.3}%
 \contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{155}{subsubsection.4.7.3.1}%
@@ -241,7 +242,7 @@
 \contentsline {subsubsection}{\numberline {4.7.4.3}Relevant Protocols}{156}{subsubsection.4.7.4.3}%
 \contentsline {subsection}{\numberline {4.7.5}Protocol - Data Review \& Data Audit}{156}{subsection.4.7.5}%
 \contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{156}{subsubsection.4.7.5.1}%
-\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{156}{subsubsection.4.7.5.2}%
+\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{157}{subsubsection.4.7.5.2}%
 \contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{157}{subsubsection.4.7.5.3}%
 \contentsline {paragraph}{\numberline {4.7.5.3.1}Getting A Code From REDCap}{158}{paragraph.4.7.5.3.1}%
 \contentsline {subsection}{\numberline {4.7.6}Protocol - Report Card}{161}{subsection.4.7.6}%
@@ -302,46 +303,47 @@
 \contentsline {subsubsection}{\numberline {6.3.11.1}IF THERE IS NOT ENOUGH TIME}{196}{subsubsection.6.3.11.1}%
 \contentsline {subsubsection}{\numberline {6.3.11.2}Ages 8+}{196}{subsubsection.6.3.11.2}%
 \contentsline {subsubsection}{\numberline {6.3.11.3}Ages 6-7}{197}{subsubsection.6.3.11.3}%
-\contentsline {subsection}{\numberline {6.3.12}Protocol -- Explaining at home part of Session 2}{197}{subsection.6.3.12}%
-\contentsline {subsection}{\numberline {6.3.13}Protocol - Reporting}{198}{subsection.6.3.13}%
-\contentsline {subsubsection}{\numberline {6.3.13.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{198}{subsubsection.6.3.13.1}%
+\contentsline {subsection}{\numberline {6.3.12}Protocol -- Explaining at home part of Session 2}{198}{subsection.6.3.12}%
+\contentsline {subsection}{\numberline {6.3.13}Protocol - Reporting}{199}{subsection.6.3.13}%
+\contentsline {subsubsection}{\numberline {6.3.13.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{199}{subsubsection.6.3.13.1}%
 \contentsline {subsubsection}{\numberline {6.3.13.2}If Suicidal Ideation arises\ldots {}}{199}{subsubsection.6.3.13.2}%
-\contentsline {section}{\numberline {6.4}Protocols - Post-Session 1}{199}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Protocol - Saving the Video}{199}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.4}Protocols - Post-Session 1}{200}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Protocol - Saving the Video}{200}{subsection.6.4.1}%
 \contentsline {subsection}{\numberline {6.4.2}Protocol - Downloading the Gorilla task data}{200}{subsection.6.4.2}%
 \contentsline {subsection}{\numberline {6.4.3}Protocol - Session 2 Confirmation Email}{201}{subsection.6.4.3}%
 \contentsline {section}{\numberline {6.5}Protocols - Session 2}{201}{section.6.5}%
 \contentsline {subsection}{\numberline {6.5.1}Protocol - Halloween Test Delay}{201}{subsection.6.5.1}%
 \contentsline {subsection}{\numberline {6.5.2}Protocol -- Home Session Check In}{202}{subsection.6.5.2}%
-\contentsline {subsection}{\numberline {6.5.3}Protocol -- Tasso Blood Sample Online}{202}{subsection.6.5.3}%
+\contentsline {subsection}{\numberline {6.5.3}Protocol -- Tasso Blood Sample Online}{203}{subsection.6.5.3}%
 \contentsline {subsection}{\numberline {6.5.4}Protocol - Mailing Package}{203}{subsection.6.5.4}%
-\contentsline {subsection}{\numberline {6.5.5}Protocol - Payment}{203}{subsection.6.5.5}%
-\contentsline {subsection}{\numberline {6.5.6}Protocol - Prize}{203}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.5}Protocol - Payment}{204}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}Protocol - Prize}{204}{subsection.6.5.6}%
 \contentsline {subsection}{\numberline {6.5.7}Protocol - Testimonials}{204}{subsection.6.5.7}%
-\contentsline {section}{\numberline {6.6}Protocols - Post-Session 2}{204}{section.6.6}%
-\contentsline {subsection}{\numberline {6.6.1}Protocol - Downloading the Gorilla delay test data}{204}{subsection.6.6.1}%
+\contentsline {section}{\numberline {6.6}Protocols - Post-Session 2}{205}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Protocol - Downloading the Gorilla delay test data}{205}{subsection.6.6.1}%
 \contentsline {subsection}{\numberline {6.6.2}Protocol - Session 2 TO DO List Email}{205}{subsection.6.6.2}%
 \contentsline {subsection}{\numberline {6.6.3}Protocol -- If blood sample not collected during session 2}{205}{subsection.6.6.3}%
-\contentsline {section}{\numberline {6.7}Protocols - Final}{205}{section.6.7}%
-\contentsline {subsection}{\numberline {6.7.1}Protocol - Storing Saliva Sample}{205}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.6.4}Protocol - If participant had feedback to give}{206}{subsection.6.6.4}%
+\contentsline {section}{\numberline {6.7}Protocols - Final}{206}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Protocol - Storing Saliva Sample}{206}{subsection.6.7.1}%
 \contentsline {subsection}{\numberline {6.7.2}Protocol - Storing Hair Sample}{206}{subsection.6.7.2}%
 \contentsline {subsection}{\numberline {6.7.3}Protocol - Storing Stool Sample}{206}{subsection.6.7.3}%
 \contentsline {subsubsection}{\numberline {6.7.3.1}Sample Quality}{206}{subsubsection.6.7.3.1}%
-\contentsline {subsubsection}{\numberline {6.7.3.2}Sample Transfer}{206}{subsubsection.6.7.3.2}%
-\contentsline {subsubsection}{\numberline {6.7.3.3}Taking out the Hazards}{207}{subsubsection.6.7.3.3}%
-\contentsline {subsection}{\numberline {6.7.4}Protocol -- Tasso Blood Sample Storage}{208}{subsection.6.7.4}%
-\contentsline {subsection}{\numberline {6.7.5}Protocol - Data Entry \& Data Quality}{208}{subsection.6.7.5}%
-\contentsline {subsubsection}{\numberline {6.7.5.1}Data Entry}{208}{subsubsection.6.7.5.1}%
-\contentsline {subsubsection}{\numberline {6.7.5.2}Data Quality}{208}{subsubsection.6.7.5.2}%
-\contentsline {subsubsection}{\numberline {6.7.5.3}Relevant Protocols}{208}{subsubsection.6.7.5.3}%
+\contentsline {subsubsection}{\numberline {6.7.3.2}Sample Transfer}{207}{subsubsection.6.7.3.2}%
+\contentsline {subsubsection}{\numberline {6.7.3.3}Taking out the Hazards}{208}{subsubsection.6.7.3.3}%
+\contentsline {subsection}{\numberline {6.7.4}Protocol -- Tasso Blood Sample Storage}{209}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.5}Protocol - Data Entry \& Data Quality}{209}{subsection.6.7.5}%
+\contentsline {subsubsection}{\numberline {6.7.5.1}Data Entry}{209}{subsubsection.6.7.5.1}%
+\contentsline {subsubsection}{\numberline {6.7.5.2}Data Quality}{209}{subsubsection.6.7.5.2}%
+\contentsline {subsubsection}{\numberline {6.7.5.3}Relevant Protocols}{209}{subsubsection.6.7.5.3}%
 \contentsline {subsection}{\numberline {6.7.6}Protocol - Data Review \& Data Audit}{209}{subsection.6.7.6}%
 \contentsline {subsubsection}{\numberline {6.7.6.1}Follow-Up (completed by Scheduling Coordinator)}{209}{subsubsection.6.7.6.1}%
 \contentsline {subsubsection}{\numberline {6.7.6.2}Data Review}{209}{subsubsection.6.7.6.2}%
-\contentsline {subsubsection}{\numberline {6.7.6.3}Data Audit}{209}{subsubsection.6.7.6.3}%
+\contentsline {subsubsection}{\numberline {6.7.6.3}Data Audit}{210}{subsubsection.6.7.6.3}%
 \contentsline {paragraph}{\numberline {6.7.6.3.1}Getting A Code From REDCap}{211}{paragraph.6.7.6.3.1}%
-\contentsline {subsection}{\numberline {6.7.7}Protocol - Report Card}{211}{subsection.6.7.7}%
+\contentsline {subsection}{\numberline {6.7.7}Protocol - Report Card}{212}{subsection.6.7.7}%
 \contentsline {subsection}{\numberline {6.7.8}Protocol - Payment}{212}{subsection.6.7.8}%
 \contentsline {section}{\numberline {6.8}Protocols - Troubleshooting}{213}{section.6.8}%
 \contentsline {subsubsection}{\numberline {6.8.0.1}If links in chat are not working\ldots {}}{213}{subsubsection.6.8.0.1}%
 \contentsline {subsubsection}{\numberline {6.8.0.2}If internet/wifi seems to be malfunctioning\ldots {}}{213}{subsubsection.6.8.0.2}%
-\contentsline {subsubsection}{\numberline {6.8.0.3}Plan B to Zoom recording on PC interaction}{213}{subsubsection.6.8.0.3}%
+\contentsline {subsubsection}{\numberline {6.8.0.3}Plan B to Zoom recording on PC interaction}{214}{subsubsection.6.8.0.3}%
