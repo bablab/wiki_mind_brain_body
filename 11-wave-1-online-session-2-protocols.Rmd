@@ -90,5 +90,9 @@ If no: *No problem at all, thank you for participating in our study!*
 - Add links to REDCap for their optional qualitative responses
 - Refrain from sending this email if they ONLY have qualitative responses left to do- participants will get 2+ emails through our "home reminder" system. This email is designed more for participants who have not done the stool sample yet, or still have outstanding tasks from Session 1 that we'd like to remind them about immediately/are time sensitive.
 
------------
+
+### Protocol - If participant had feedback to give
+
+- If participant provided feedback on their experience or had comments to give us make a note of it on the "other notes" section of the session 1 checklist on REDCap. Also send a message to lab manager with an overview of feedback provided and whether it is feedback we should consider for the future. 
+
 
