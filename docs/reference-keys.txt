@@ -280,8 +280,10 @@ reimbursement-2
 checklist---no-show-1
 protocols---pre-session-1-1
 protocol---scheduling
-scheduling-1
+important-notes
 contacting-participants
+scheduling-participant
+scheduling-session
 protocol---session-preparation-1
 package-creation-1
 activating-participant-on-gorilla-1
