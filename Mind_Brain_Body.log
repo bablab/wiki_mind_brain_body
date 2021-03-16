@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  9 MAR 2021 19:54
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  16 MAR 2021 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2234,55 +2234,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 7866--7868
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 7929--7931
-
- []
-
-[181] [182]
-Underfull \hbox (badness 10000) in paragraph at lines 8004--8006
+[181] [182] [183]
+Underfull \hbox (badness 10000) in paragraph at lines 8042--8044
 
  []
 
-[183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [
-196] [197]
+[184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [
+197] [198]
 Underfull \vbox (badness 1824) has occurred while \output is active []
 
-[198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208]
-Underfull \hbox (badness 1314) in paragraph at lines 9159--9160
+[199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209]
+Underfull \hbox (badness 1314) in paragraph at lines 9197--9198
 \TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
 [][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
 
  []
 
-[209] [210] [211] [212] [213]
+[210] [211] [212] [213] [214]
 File: images/zoom_parent_child_interaction/13.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/13.png>
 
-Overfull \hbox (408.57002pt too wide) in paragraph at lines 9445--9446
+Overfull \hbox (408.57002pt too wide) in paragraph at lines 9483--9484
 []\TU/lmr/m/n/10 The video will appear to the researchers in our Box under BABL
 AB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_intera
 ctions/Uploads 
  []
 
-[214] (./Mind_Brain_Body.bbl [215] [216
+[215] (./Mind_Brain_Body.bbl [216] [217
 
-] [217] [218] [219])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9451.
+] [218] [219])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9489.
 [220]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 9451.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9489.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9451.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9451.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9489.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9489.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
-(rerunfilecheck)             Checksum: DEFF09F0E4DD46349FC63B94A3643213;4624.
+(rerunfilecheck)             Checksum: 09CBC7C72CB4A334D8B02F5FD02B67BE;4624.
  ) 
 Here is how much of TeX's memory you used:
- 18797 strings out of 479418
- 346021 string characters out of 5884586
- 825625 words of memory out of 5000000
- 36011 multiletter control sequences out of 15000+600000
+ 18799 strings out of 479418
+ 346068 string characters out of 5884586
+ 825756 words of memory out of 5000000
+ 36013 multiletter control sequences out of 15000+600000
  538797 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,495s stack positions out of 5000i,500n,10000p,200000b,80000s

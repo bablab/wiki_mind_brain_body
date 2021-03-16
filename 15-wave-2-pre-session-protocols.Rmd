@@ -1,46 +1,83 @@
-## Protocols - Pre-Session 1  
+## Protocols - Pre-session 1 
 
-### Protocol - Scheduling
 
-#### Scheduling 
+### Protocol - Scheduling 
 
-- Participant retention is super important for wave 2 
-- There will be a script on REDCap of what to say when calling, just follow the script 
-- We are not rescreening them, call will be just for letting them know we're now in wave 2 and scheduling their session
-- Parents will verbally opt in to text reminders at the time of screen call which will be their “consent” to be texted. 
+
+#### Important Notes 
+
+
+- Participant retention is super important for wave 2.
+- There will be a script on REDCap for making calls, just follow the script.
+- We are not rescreening them, the call will be just for letting them know we're now in wave 2 and scheduling their session
+- All attempts at contacting participant including reaching out to the individuals on their contact lists should be documented as a screening on REDCap. Make sure to always make a note of voicemail left, email sent etc.
+- Remember to change the recontect date after each contact attempt and to lock each screening so there is unaltered record of who reached out and when 
+- **Parents will verbally opt in to text reminders at the time of screen call which will be their “consent” to be texted.**
+
 
 #### Contacting participants 
 
-- 1st call – if no answer leave message saying what is in the script and send email #1 template 
-- 2nd call – should be made 3 days after contacting them for the first time & also send a text 
-- 3rd call – should be made 5 days after call #2 and send another email 
-- 4th call – one more attempt at contact, send a third email and a text 
 
-**Important: We will be contacting participants ( calls, texts, and emails) for two weeks and if no response then turn to contact list contacts before giving a month break** 
+*Before contacting participant check their Wave 1 session notes ( session checklists from REDCap) to see if there is any relevant / important information you should know before reaching out. Also take a look at email correspondence with them to make sure did not miss anything important.*
+  - Know the month they participated in Wave 1 so you can reference that in the call. ( Ex. you participated in wave 1 of our study back in January 2020) 
 
-- At this point we will be in contact with the people they listed on contact list ( I.e. relative or otherwise) 
-  - There will be a separate script for calling the contact of participant 
-  - Super important to note that we cannot say we are calling because [ participant name] participated in our study. We can only say we are from Brain and Body lab and were hoping to get in contact with ___. Could they please give us their contact info or tell the participant to reach out to us. “They gave us your details in case we couldn’t find them do you know if they changed their information? “  
 
-If  “No” to participating: 
+1) 1st attempt – call #1 and if no answer leave a voicemail ( script on REDCap) and send template email #1
+2) 2nd attempt ( 4 days later ) – call #2 and if no answer leave a voicemail ( script on REDCap) & also send a text message ( *Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083* )
+3) 3rd attempt ( 4 days later ) - call #3 and if no answer leave a voicemail ( script on REDCap) and send template email #2
+4) 4th attempt ( 4 days later ) – call #4 and if no answer leave a voicemail ( script on REDCap), send template email #3 and send a text message ( *Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083 *)
 
-- They are not obliged to participate in the research, we were wondering if there's anything we can do, very motivated to have you back- should we call you back in a couple months, or if there's any components you found boring, we can cut those out. we can work with you to keep you in the study as much as we possibly can- flexible  
-- Would you be willing to JUST do XYZ (e.g. bio samples, behavioral, questionnaires), session delay is fine too, (any data we can get from them is helpful) 
-- Longitudinal study so important for us, important for us to get you back, ok if you don't want to but we want to do everything we can to accommodate if possible 
 
- 
-Scheduling Session
+**Important: We will be contacting participants ( calls, texts, and emails) for two weeks and if no response then reach out to participant's contacts listed on contact list before giving a month break**
 
-1. Open BabLab google calendar and note availability for designated data collection research team. 
-2. Check the calendar to see what the designated "package mailing day" of the week is. 
-    - Participants must be scheduled 2 weeks or more in advance from the "package mailing day", to ensure appropriate time for the package to be received by the participant. 
-3. Create event on google calendar for 2 hours. Notify the participant that sessions may not last the full indicated time, however, we like to designate additional time just in case. 
-4. As soon as the participant has been scheduled, create/add to a google calendar event for the designated "package mailing day" of the week the participant ID (MBB number). 
-5. This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for "package mailing day." 
+After two week of no response to calls, emails and texts:
+
+- At this point we will be in contact with the people they listed on contact list ( I.e. relative or otherwise)
+
+- There will be a separate script for calling the contact of participant
+
+- **Super important to note that we *cannot* say we are calling because [ participant name] participated in our study.**
+
+- We can only say we are from Brain and Body lab and were hoping to get in contact with [participant name]. Could they please give us their contact info or have them reach out to us.
+
+  - *Hi, this [ researcher name] from the Brain and Body lab. [Participant name] gave us your contact information in case we couldn’t find them do you know if they changed their number?*
+
+
+1) 1st attempt - call first person on contact list and leave a voicemail if no answer
+2) 2nd attempt ( 4 days later ) - call that person again and leave a voicemail if no answer. If email is provided, send email requesting they have participant reach out to us
+3) Repeat steps 1 & 2 for the second person on the contact list
+4) Repeat steps 1 & 2 for the third person on the contact list
+5) If still have not gotten in contact with participant then at this stage set recontact date to one month later
+
+
+#### Scheduling Participant
+
+
+If participant says “No” to participating:
+
+- *You are not obligated to participate in the research, we are very motivated to have you back. Is there anything we can do to have you return for wave 2? * Get a feel of where they stand on participating in wave 2 / there's reasoning for not wanting to participate. Use your judgement on which of options below would apply
+
+  - It is a timing issue - Should we call you back in a couple months?
+
+  - Or if there's any components you found boring, we can cut those out. we can work with you to keep you in the study as much as we possibly can
+
+  - Would you be willing to JUST do XYZ (e.g. bio samples, behavioral, questionnaires), session delay is fine too, (any data we can get from them is helpful)
+
+  - This longitudinal study is really important for us, your participation matters to us. It is ok if you don't want to participate but we want to do everything we can to accommodate if possible.
+
+
+#### Scheduling Session
+
+
+1. Open Bab Lab google calendar and note availability for designated data collection research team.
+2. Check the calendar to see what the designated "package mailing day" of the week is.
+    - Participants must be scheduled 2 weeks or more in advance from the "package mailing day", to ensure appropriate time for the package to be received by the participant.
+3. Create event on google calendar for 2 hours. Notify the participant that sessions may not last the full indicated time, however, we like to designate additional time just in case.
+4. As soon as the participant has been scheduled, create/add to a google calendar event for the designated "package mailing day" of the week the participant ID (MBB number).
+5. This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for "package mailing day."
 6. Complete all scheduling steps according to participant log ( making reminder calendar events, updating logs, etc)
-7. Go to participant's Trello card from the data audit board and check if they were missing surveys from wave 1 and if any of their missing surveys are Recollected Surveys for wave 2. 
+7. Go to participant's Trello card from the data audit board and check if they were missing surveys from wave 1 and if any of their missing surveys are Recollected Surveys for wave 2.
     - if they should be given a recollected survey make a note of it on participant tab of REDCap in notes section and send a slack message to lab manager with the recollected surveys participant should receive
-
 
 
 ----------  
