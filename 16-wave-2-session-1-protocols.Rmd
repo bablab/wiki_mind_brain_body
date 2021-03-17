@@ -30,7 +30,7 @@
 
   
 
-Researcher to open up the [MBB_W2_Consent_Script_Presentation](https://ucla.box.com/s/i1kgjgfa81kbc1c79x67h2tfo0fo2x36)] 
+Researcher to open up the [MBB_W2_Consent_Script_Presentation](https://app.box.com/file/777489326925)] 
 
   
 
@@ -89,7 +89,9 @@ Researcher to open up the [MBB_W2_Consent_Script_Presentation](https://ucla.box.
 
 *Great! Do you have any questions for us about any of the samples* 
 
-  
+
+*Later in the year when things are safer, we would like you to invite you to come in for an optional brain scan using the MRI machine. You don't have to decide whether you want to do that now, but we just wanted to mention it here.*  
+
 
 *You will receive $20 for doing the poop sample and $15 more for doing the blood sample!* 
 
@@ -803,11 +805,18 @@ Participants can also watch the video below:
 
 [RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE CHILD QUESTIONNAIRES] 
 
-  
+#### Recollected Surveys 
+[ **If there is a child recollected survey that needs to be administered** ] 
+
+*So these next surveys are ones that we noted were not completed during your first round of sessions with us. We wanted to include them here so that you may complete them if you would like. Of course, like everything else in the study these are optional so if you do not wish to provide this information, you may skip any question.* 
+
+For recollected surveys we will be sharing screen and reading out the survey to the participant regardless of age. 
+
+*In a moment, I am going to share my screen with you, so you can see the survey questions. I will then read out each question and answer choice and [child's name] can tell me your answer. Does that sound okay? * 
 
 [Researcher to share screen] 
 
-   
+**END SURVEYS** 
 
 *Now that we have finished all of your surveys, we can take out the token board and put a gold sticker down. Look, we are just about done!* 
 
@@ -847,7 +856,11 @@ Participants can also watch the video below:
 
    - *You will also be filling out one more survey called the ASA. The survey asks what your child’s general diet and what they generally eat which gives us information about their nutrition. If you fill it out we can also send you a nutrition report later if you are interested. It is entirely online and we will be sending you the link to the survey in an email shortly. Please write down this code ( verbally give code at this point ) which you will use to access the survey. * 
 
-- Confirm Session 2 date and time  
+- Sleep Diary explanation
+  - *Your child will be filling out a sleep diary every day for the week between today's session and your session 2. The sleep diary is in the survey packet after the page that says Child self.* 
+  
+- Confirm Session 2 date and time 
+  - *I just wanted to confirm that your current session 2 date and time still works for you. If the package is ready by the time of your session 2 are you able to drop it off that day or the next day?* 
 
 - Payment 
 

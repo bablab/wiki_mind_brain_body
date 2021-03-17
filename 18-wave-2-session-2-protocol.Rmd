@@ -133,6 +133,7 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 10. Place device in the foil return bag and seal. Leave the moisture packs in the bag. 
 
 11. **IMPORTANT: Write collection date and time on the inside flap of the box.** 
+    - Researcher will also make a note of date and time sample was collected and put it in notes of REDCap checklist
 
 12. Place bag in box and seal with the strip.  
  

@@ -330,7 +330,7 @@
 <ul>
 <li>When you schedule a new MBB participant change their SMBB “Wave 2 status” to enrolled<br />
 </li>
-<li>Update status to wave 2 on participant log</li>
+<li>Make a new screening entry every time you schedule a participant</li>
 </ul>
 <p><strong>Scheduling and Confirmation</strong></p>
 <ul>
@@ -351,7 +351,7 @@
 <li>Go to “Add / Edit Records” of MBB</li>
 <li>Make sure the tab is “Arm 3: wave 2”</li>
 <li>Type in their MBB</li>
-<li><strong>Be careful because any premature clicking makes a new ID</strong></li>
+<li>Be careful because any premature clicking makes a new ID</li>
 </ul></li>
 <li>Fill participant instrument on REDCap
 <ul>
@@ -379,28 +379,29 @@
 </ul></li>
 <li>Create MBB Session 1/2 reminder calendar events
 <ul>
-<li><em>MBBXXX WX- Session 1 Reminder 1 (email)</em> - 1 week prior
+<li><em>MBBXXX WX- Session 1 Reminder 1 (<strong>email</strong>)</em> - <strong>1 week prior</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 </ul></li>
-<li><em>MBBXXX WX- Session 1 Reminder 1 (call)</em> - the day after Reminder 1 email
+<li><em>MBBXXX WX- Session 1 Reminder 1 (<strong>call</strong>)</em> - <strong>the day after Reminder 1 email</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 <li>Add “Only if no email response yesterday” to description</li>
 </ul></li>
-<li><em>MBBXXX WX- Session 1 Reminder 2 (email and call)</em> - 3 days prior
+<li><em>MBBXXX WX- Session 1 Reminder 2 (<strong>email and call</strong>)</em> - <strong>3 days prior</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 </ul></li>
-<li><em>MBBXXX WX- Session 2 Reminder 1 (text message) </em> - 4 days before second session
+<li><em>MBBXXX WX- Session 2 Reminder 1 (<strong>text message</strong>) </em> - <strong>4 days before second session</strong>
+<ul>
+<li>** Before making calendar event confirm on REDCap that they consented to texts**</li>
+<li>Add Status: Incomplete to the description</li>
+</ul></li>
+<li><em>MBBXXX WX- Session 2 Reminder 1 (<strong>email</strong>) </em> - <strong>3 days before second session</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 </ul></li>
-<li><em>MBBXXX WX- Session 2 Reminder 1 (email) </em> - 3 days before second session
-<ul>
-<li>Add Status: Incomplete to the description</li>
-</ul></li>
-<li><em>MBBXXX WX- Session 2 Reminder 2 (call)</em> - 2 days before second session
+<li><em>MBBXXX WX- Session 2 Reminder 2 (<strong>call</strong>)</em> - <strong>2 days before second session</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 <li>Add Stool sample status: __ to the description</li>
@@ -411,22 +412,21 @@
 </ul></li>
 <li>Create MBB Home Session reminder calendar events
 <ul>
-<li><em>MBBXXX WX- Home Session Reminder 1 (email)</em> - 1 week after Session 2
+<li><em>MBBXXX WX- Home Session Reminder 1 (<strong>email</strong>)</em> - <strong>1 week after Session 2</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 </ul></li>
-<li><em>MBBXXX WX- Home Session Reminder 1 (call)</em> - 8 days after Session 2
+<li><em>MBBXXX WX- Home Session Reminder 1 (<strong>call</strong>)</em> - <strong>8 days after Session 2</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 </ul></li>
-<li><em>MBBXXX WX- Home Session Reminder 2 (email)</em> - 14 days after Session 2
+<li><em>MBBXXX WX- Home Session Reminder 2 (<strong>email</strong>)</em> - <strong>14 days after Session 2</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
 </ul></li>
-<li><em>MBBXXX WX- Home Session Reminder 2 (call)</em> - 15 days after Session 2
+<li><em>MBBXXX WX- Home Session Reminder 2 (<strong>call</strong>)</em> - <strong>15 days after Session 2</strong>
 <ul>
 <li>Add Status: Incomplete to the description</li>
-<li>Add <em>Only if package missing and have not been in contact with participant</em> to description</li>
 </ul></li>
 </ul></li>
 </ul>
@@ -484,12 +484,7 @@
 <li>Check with lab manager if unsure what info is missing<br />
 </li>
 <li>Make sure the list of “items needed” is tailored to that participant</li>
-<li>Send written response links if it hasn’t been completed yet<br />
-</li>
-<li>If package missing after home session email reminder 2:</li>
-<li>Send message to SRA chat that participant is still missing package</li>
-<li>Move on to home session call 2</li>
-<li>Next steps will be on a case by case basis</li>
+<li>At this stage packages shouldn’t be missing so home session reminders will likely be for completing the ASA</li>
 </ul></li>
 </ul>
 <p><strong>Text reminders</strong></p>
@@ -567,6 +562,7 @@
 <li>Session Cover page</li>
 <li><a href="https://ucla.app.box.com/file/630327764749">Pleasant/Unpleasant Events Checklist</a></li>
 <li>Stool Sample Instructions Sheet</li>
+<li>ASA cover sheet</li>
 </ol></li>
 <li>Prepare 1-2 sharpened pencils</li>
 <li>Prepare paper measuring tape (for waist and height measurements)</li>
@@ -594,7 +590,11 @@
 <h4>Setup - 1 Hour Prior</h4>
 <ul>
 <li>Open up Zoom link for Session 1</li>
-<li>Read “participant” information instrument on REDCap for notes section for any notes from the scheduler about child</li>
+<li>Read “participant” information instrument on REDCap for notes section for any notes from the scheduler about child
+<ul>
+<li>the participant info should also contain info about whether there are recollected surveys to administer (both that parent received in parent survey packet or child surveys we’ll administer in session)</li>
+<li>If there is a child survey that needs to be recollected get the survey code so that it can be easily accessed during session</li>
+</ul></li>
 <li>Open Slack and keep open for entirety of session for communication with the research team/Lab Manager</li>
 <li>Claim host so you have the ability to record
 <ul>
@@ -611,8 +611,7 @@
 <li>Preload the Consent/Assent picture slideshow on researcher computer</li>
 <li>Prepare biological sample kits for demonstration during session
 <ul>
-<li>hair sample, saliva sample, stool sample, blood sample<br />
-</li>
+<li>hair sample, saliva sample, stool sample</li>
 </ul></li>
 <li>Ensure researcher’s Zoom security settings are set for study session</li>
 <li>Have the following links ready to send to the Participant throughout the session:
@@ -646,6 +645,7 @@
 <li>Stool Sample explanation</li>
 <li>Contact list explanation</li>
 <li>ASA explanation</li>
+<li>Sleep diary explanation</li>
 <li>Confirm Session 2 time and date</li>
 </ul>
 <hr />
@@ -676,7 +676,7 @@
 <li><em>Session 2 reminder email</em> email sent with Zoom link (3 days before session 2)</li>
 <li><em>Session 2 reminder call</em> phone call made (2 days before Session 2)
 <ul>
-<li>If package is ready ( poop sample collected, surveys all done) but participant is not able to drop off package on day of their session 2 or next day at the latest then we have to reschedule the session to the day they are able to drop off package ( ex. two days later)</li>
+<li>Check in if stool sample has been collected and if they are still able to drop off the package the day of / day after their session 2</li>
 </ul></li>
 </ul>
 <hr />
@@ -690,6 +690,7 @@
 <li>Open Gorilla to track participant progress</li>
 <li>Have the Participant’s MBB number on hand</li>
 <li>Open session 2 checklist on REDCap</li>
+<li>Have the blood sample kit ready</li>
 </ul>
 <hr />
 </div>
@@ -697,9 +698,10 @@
 <h3>Checklist - Session 2</h3>
 <ul>
 <li>Halloween test delay completed</li>
+<li>Check in about stool sample</li>
 <li>Blood sample collected<br />
 </li>
-<li>Fill in home session checklist on REDCap (Halloween test delay information)</li>
+<li>Fill in session 2 checklist on REDCap (Halloween test delay information)</li>
 <li>Bristol Stool Scale reminder</li>
 <li>Contact information sheet reminder</li>
 <li>ASA reminder</li>
@@ -710,7 +712,7 @@
 <div id="checklist---post-session-2-1" class="section level3">
 <h3>Checklist - Post-Session 2</h3>
 <ul>
-<li>Save and submit home session checklist on REDCap (halloween test delay information)</li>
+<li>Save and submit session 2 checklist on REDCap (halloween test delay information)</li>
 <li>Update Participant Log</li>
 <li>Download and copy delayed behavioral task data (from Gorilla) to participant folder (raw)</li>
 <li>Send <em>Session 2 TO DO List</em> email from bablab gmail templates</li>
@@ -886,7 +888,7 @@
 <li>1st attempt – call #1 and if no answer leave a voicemail ( script on REDCap) and send template email #1</li>
 <li>2nd attempt ( 4 days later ) – call #2 and if no answer leave a voicemail ( script on REDCap) &amp; also send a text message ( <em>Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083</em> )</li>
 <li>3rd attempt ( 4 days later ) - call #3 and if no answer leave a voicemail ( script on REDCap) and send template email #2</li>
-<li>4th attempt ( 4 days later ) – call #4 and if no answer leave a voicemail ( script on REDCap), send template email #3 and send a text message ( <em>Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083 </em>)</li>
+<li>4th attempt ( 4 days later ) – call #4 and if no answer leave a voicemail ( script on REDCap), send template email #3 and send a text message <em>( Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083. <strong>If we do not hear from you we will be contacting the individuals you listed as contacts during wave 1 of the study</strong>)</em></li>
 </ol>
 <p><strong>Important: We will be contacting participants ( calls, texts, and emails) for two weeks and if no response then reach out to participant’s contacts listed on contact list before giving a month break</strong></p>
 <p>After two week of no response to calls, emails and texts:</p>
@@ -934,7 +936,7 @@
 <li>Complete all scheduling steps according to participant log ( making reminder calendar events, updating logs, etc)</li>
 <li>Go to participant’s Trello card from the data audit board and check if they were missing surveys from wave 1 and if any of their missing surveys are Recollected Surveys for wave 2.
 <ul>
-<li>if they should be given a recollected survey make a note of it on participant tab of REDCap in notes section and send a slack message to lab manager with the recollected surveys participant should receive</li>
+<li>if they should be given a recollected survey make a note of it on participant tab of REDCap in notes section and send a slack message to lab manager with the recollected surveys participant should receive (parent surveys that will need to be printed or child surveys we will administer during session 1)</li>
 </ul></li>
 </ol>
 <hr />
@@ -987,7 +989,7 @@
 <p><em>If for any reason, we lose each other over Zoom, the connection seems to be bad, or one of us freezes, lets leave the session and try to reconnect on the same link again. If I am frozen- feel free to leave and come back. If you leave and I don’t see you come back, I will try to give you a phone call!</em></p>
 <p><em>How does that sound? Do you have any questions?</em></p>
 <p>[If no, say] <em>Great! Let’s switch gears and talk a little bit about what we are going to do today. Let me just pull up a little presentation we have got!</em></p>
-<p>Researcher to open up the <a href="https://ucla.box.com/s/i1kgjgfa81kbc1c79x67h2tfo0fo2x36">MBB_W2_Consent_Script_Presentation</a>]</p>
+<p>Researcher to open up the <a href="https://app.box.com/file/777489326925">MBB_W2_Consent_Script_Presentation</a>]</p>
 </div>
 <div id="protocol---consent-assent-online-1" class="section level3">
 <h3>Protocol - Consent &amp; Assent Online</h3>
@@ -1013,6 +1015,7 @@
 <p><em>3. Three is the computer memory game – this is when you will log back on with us via ZOOM in a week’s time to see what you remember from today’s session</em></p>
 <p><em>4. Four is the blood sample – this helps us look at immune markers which are very important for interpreting microbiome system because those systems talk to each other</em></p>
 <p><em>Great! Do you have any questions for us about any of the samples</em></p>
+<p><em>Later in the year when things are safer, we would like you to invite you to come in for an optional brain scan using the MRI machine. You don’t have to decide whether you want to do that now, but we just wanted to mention it here.</em></p>
 <p><em>You will receive $20 for doing the poop sample and $15 more for doing the blood sample!</em></p>
 <p><em>We will send the full payment of $65 ($30 for today’s session, $20 for the poop sample, and $15 for the blood sample) as soon as we receive the samples back through the mail.</em></p>
 <p><em>Here are some things to keep in mind:</em></p>
@@ -1278,7 +1281,15 @@
 <p><em>Next, we will move on to some Child Surveys. [Parent’s name], for this next part we will be asking [child’s name] some questions. Some of these questions might be about you, like about how supported she feels by mom/dad, or her life. We just want to make sure you don’t provide parent help with this part! So if you prefer to step out of the room or if [child’s name] wants to wear headphones while they answer that would be fine- if not, no worries!</em></p>
 <p><em>In a moment, I am going to share my screen with you, so you can see the survey questions. I will then read out each question and answer choice and [child’s name] can tell me your answer. Does that sound okay? </em></p>
 <p>[RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE CHILD QUESTIONNAIRES]</p>
+</div>
+<div id="recollected-surveys" class="section level4">
+<h4>Recollected Surveys</h4>
+<p>[ <strong>If there is a child recollected survey that needs to be administered</strong> ]</p>
+<p><em>So these next surveys are ones that we noted were not completed during your first round of sessions with us. We wanted to include them here so that you may complete them if you would like. Of course, like everything else in the study these are optional so if you do not wish to provide this information, you may skip any question.</em></p>
+<p>For recollected surveys we will be sharing screen and reading out the survey to the participant regardless of age.</p>
+<p><em>In a moment, I am going to share my screen with you, so you can see the survey questions. I will then read out each question and answer choice and [child’s name] can tell me your answer. Does that sound okay? </em></p>
 <p>[Researcher to share screen]</p>
+<p><strong>END SURVEYS</strong></p>
 <p><em>Now that we have finished all of your surveys, we can take out the token board and put a gold sticker down. Look, we are just about done!</em></p>
 <p>[If parent departed the room or if child is wearing headphones, ask child to get parent back on screen or take headphones out so parent can rejoin the session.]</p>
 <hr />
@@ -1302,7 +1313,14 @@
 <ul>
 <li><em>You will also be filling out one more survey called the ASA. The survey asks what your child’s general diet and what they generally eat which gives us information about their nutrition. If you fill it out we can also send you a nutrition report later if you are interested. It is entirely online and we will be sending you the link to the survey in an email shortly. Please write down this code ( verbally give code at this point ) which you will use to access the survey. </em></li>
 </ul></li>
-<li><p>Confirm Session 2 date and time</p></li>
+<li>Sleep Diary explanation
+<ul>
+<li><em>Your child will be filling out a sleep diary every day for the week between today’s session and your session 2. The sleep diary is in the survey packet after the page that says Child self.</em></li>
+</ul></li>
+<li>Confirm Session 2 date and time
+<ul>
+<li><em>I just wanted to confirm that your current session 2 date and time still works for you. If the package is ready by the time of your session 2 are you able to drop it off that day or the next day?</em></li>
+</ul></li>
 <li><p>Payment</p>
 <ul>
 <li>Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail</li>
@@ -1435,7 +1453,10 @@
 <li>Start a 5 minute timer. Keep arm at your side and watch dots fill. You won’t see blood right away.</li>
 <li><p>Peel off the clear film to expose the sample pod vent.</p></li>
 <li><p>Place device in the foil return bag and seal. Leave the moisture packs in the bag.</p></li>
-<li><p><strong>IMPORTANT: Write collection date and time on the inside flap of the box.</strong></p></li>
+<li><strong>IMPORTANT: Write collection date and time on the inside flap of the box.</strong>
+<ul>
+<li>Researcher will also make a note of date and time sample was collected and put it in notes of REDCap checklist</li>
+</ul></li>
 <li><p>Place bag in box and seal with the strip.</p></li>
 </ol>
 <ul>
