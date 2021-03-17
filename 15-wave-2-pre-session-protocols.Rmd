@@ -25,7 +25,7 @@
 1) 1st attempt – call #1 and if no answer leave a voicemail ( script on REDCap) and send template email #1
 2) 2nd attempt ( 4 days later ) – call #2 and if no answer leave a voicemail ( script on REDCap) & also send a text message ( *Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083* )
 3) 3rd attempt ( 4 days later ) - call #3 and if no answer leave a voicemail ( script on REDCap) and send template email #2
-4) 4th attempt ( 4 days later ) – call #4 and if no answer leave a voicemail ( script on REDCap), send template email #3 and send a text message ( *Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083 *)
+4) 4th attempt ( 4 days later ) – call #4 and if no answer leave a voicemail ( script on REDCap), send template email #3 and send a text message *( Hi, this is the Brain and Body lab at UCLA. We wanted to get in touch with you about the second wave of our Mind, Brain, Body study. Please call us at 310-909-7083. **If we do not hear from you we will be contacting the individuals you listed as contacts during wave 1 of the study**)*
 
 
 **Important: We will be contacting participants ( calls, texts, and emails) for two weeks and if no response then reach out to participant's contacts listed on contact list before giving a month break**
@@ -77,7 +77,7 @@ If participant says “No” to participating:
 5. This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for "package mailing day."
 6. Complete all scheduling steps according to participant log ( making reminder calendar events, updating logs, etc)
 7. Go to participant's Trello card from the data audit board and check if they were missing surveys from wave 1 and if any of their missing surveys are Recollected Surveys for wave 2.
-    - if they should be given a recollected survey make a note of it on participant tab of REDCap in notes section and send a slack message to lab manager with the recollected surveys participant should receive
+    - if they should be given a recollected survey make a note of it on participant tab of REDCap in notes section and send a slack message to lab manager with the recollected surveys participant should receive (parent surveys that will need to be printed or child surveys we will administer during session 1)
 
 
 ----------  

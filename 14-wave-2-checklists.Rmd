@@ -29,8 +29,7 @@
   - The thread we initially contacted them at should be the one we send the session confirmation to  
   - The easiest way to not forget steps is to do all “session has just been scheduled” tasks based on the MBB log  
   - Make sure you are sending the correct reminder email - S1 R2 is the one with the researcher card  
-
-
+  
   **Confirming sessions** 
 
   - Do not put as “confirmed session” on MBB log unless we got verbal confirmation / email confirmation 
@@ -40,7 +39,7 @@
   **REDCap**  
 
   - When you schedule a new MBB participant change their SMBB “Wave 2 status” to enrolled  
-  - Update status to wave 2 on participant log  
+  - Make a new screening entry every time you schedule a participant
 
  
 **Scheduling and Confirmation** 
@@ -63,7 +62,7 @@
   - Go to “Add / Edit Records” of MBB 
   - Make sure the tab is “Arm 3: wave 2” 
   - Type in their MBB 
-  - **Be careful because any premature clicking makes a new ID** 
+  - Be careful because any premature clicking makes a new ID
 - Fill participant instrument on REDCap 
   - In notes section add the date and time of session & any relevant info from scheduling call  
   - **Essential to fill out the “Is this wave 2” question** 
@@ -80,32 +79,32 @@
   - Add participant to the weekly MBB mailing calendar event  
     - *MBB999 WX (Scheduled for 00/00/00) Sent: Incomplete* 
 - Create MBB Session 1/2 reminder calendar events 
-  - *MBBXXX WX- Session 1 Reminder 1 (email)* - 1 week prior 
+  - *MBBXXX WX- Session 1 Reminder 1 (**email**)* - **1 week prior** 
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Session 1 Reminder 1 (call)*  - the day after Reminder 1 email 
+  - *MBBXXX WX- Session 1 Reminder 1 (**call**)*  - **the day after Reminder 1 email** 
     - Add Status: Incomplete to the description 
     - Add “Only if no email response yesterday” to description 
-  - *MBBXXX WX- Session 1 Reminder 2 (email and call)* - 3 days prior 
+  - *MBBXXX WX- Session 1 Reminder 2 (**email and call**)* - **3 days prior** 
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Session 2 Reminder 1 (text message) * - 4 days before second session 
+  - *MBBXXX WX- Session 2 Reminder 1 (**text message**) * - **4 days before second session** 
+    - ** Before making calendar event confirm on REDCap that they consented to texts**
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Session 2 Reminder 1 (email) * - 3 days before second session 
+  - *MBBXXX WX- Session 2 Reminder 1 (**email**) * - **3 days before second session** 
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Session 2 Reminder 2 (call)* - 2 days before second session 
+  - *MBBXXX WX- Session 2 Reminder 2 (**call**)* - **2 days before second session** 
     - Add Status: Incomplete to the description 
     - Add Stool sample status: __ to the description 
     - Add “Ask whether poop sample has been collected” to description  
     - Add “If package ready to be sent confirm they’d be able to drop off on day of session 2 or next day at the latest” to description 
 - Create MBB Home Session reminder calendar events 
-  - *MBBXXX WX- Home Session Reminder 1 (email)* - 1 week after Session 2 
+  - *MBBXXX WX- Home Session Reminder 1 (**email**)* - **1 week after Session 2** 
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Home Session Reminder 1 (call)* - 8 days after Session 2 
+  - *MBBXXX WX- Home Session Reminder 1 (**call**)* - **8 days after Session 2** 
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Home Session Reminder 2 (email)* - 14 days after Session 2 
+  - *MBBXXX WX- Home Session Reminder 2 (**email**)* - **14 days after Session 2** 
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Home Session Reminder 2 (call)* - 15 days after Session 2 
+  - *MBBXXX WX- Home Session Reminder 2 (**call**)* - **15 days after Session 2** 
     - Add Status: Incomplete to the description 
-    - Add *Only if package missing and have not been in contact with participant* to description 
 
 
 **Reminders** 
@@ -144,11 +143,7 @@ NOTE: all template emails are in bablab gmail
   - Check participant log to see what info is missing before sending home session reminder emails  
   - Check with lab manager if unsure what info is missing  
   - Make sure the list of “items needed” is tailored to that participant 
-  - Send written response links if it hasn’t been completed yet  
-  -  If package missing after home session email reminder 2: 
-    - Send message to SRA chat that participant is still missing package 
-    - Move on to home session call 2 
-    - Next steps will be on a case by case basis 
+  - At this stage packages shouldn't be missing so home session reminders will likely be for completing the ASA
 
 
 **Text reminders** 
@@ -227,6 +222,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   1. Session Cover page 
   2. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749) 
   3. Stool Sample Instructions Sheet 
+  4. ASA cover sheet
 - Prepare 1-2 sharpened pencils 
 - Prepare paper measuring tape (for waist and height measurements) 
 - Label 2 biohazard bags (with 2 cotton balls in each bag) 
@@ -256,6 +252,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
 - Open up Zoom link for Session 1 
 - Read "participant" information instrument on REDCap for notes section for any notes from the scheduler about child 
+  - the participant info should also contain info about whether there are recollected surveys to administer (both that parent received in parent survey packet or child surveys we'll administer in session)
+  - If there is a child survey that needs to be recollected get the survey code so that it can be easily accessed during session
 - Open Slack and keep open for entirety of session for communication with the research team/Lab Manager 
 - Claim host so you have the ability to record 
   - To do so log into the zoom meeting and click on “claim host “ button that is shown when you click “Participants”. You’ll be prompted to type in a code key which is available on the internal part of lab website where we keep login info for accounts 
@@ -267,7 +265,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Have the Participant's MBB and secondary MBB number on hand 
 - Preload the Consent/Assent picture slideshow on researcher computer 
 - Prepare biological sample kits for demonstration during session 
-   - hair sample, saliva sample, stool sample, blood sample  
+   - hair sample, saliva sample, stool sample 
 - Ensure researcher's Zoom security settings are set for study session 
 - Have the following links ready to send to the Participant throughout the session:  
    - link to Consent on REDCap with codes ready 
@@ -299,6 +297,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Stool Sample explanation 
 - Contact list explanation 
 - ASA explanation 
+- Sleep diary explanation 
 - Confirm Session 2 time and date 
 
 
@@ -334,7 +333,7 @@ NOTE: all template emails are in bablab gmail
 - *Session 2 reminder text* text message reminder sent  (4 days before session 2) 
 - *Session 2 reminder email* email sent with Zoom link (3 days before session 2) 
 - *Session 2 reminder call* phone call made (2 days before Session 2) 
-  - If package is ready ( poop sample collected, surveys all done) but participant is not able to drop off package on day of their session 2 or next day at the latest then we have to reschedule the session to the day they are able to drop off package ( ex. two days later) 
+  - Check in if stool sample has been collected and if they are still able to drop off the package the day of / day after their session 2
 
   
 
@@ -352,6 +351,7 @@ NOTE: all template emails are in bablab gmail
 - Open Gorilla to track participant progress 
 - Have the Participant’s MBB number on hand 
 - Open session 2 checklist on REDCap 
+- Have the blood sample kit ready 
 
 ------------ 
 
@@ -361,8 +361,9 @@ NOTE: all template emails are in bablab gmail
 
 
 - Halloween test delay completed 
+- Check in about stool sample 
 - Blood sample collected  
-- Fill in home session checklist on REDCap (Halloween test delay information) 
+- Fill in session 2 checklist on REDCap (Halloween test delay information) 
 - Bristol Stool Scale reminder 
 - Contact information sheet reminder 
 - ASA reminder 
@@ -376,7 +377,7 @@ NOTE: all template emails are in bablab gmail
 
 ### Checklist - Post-Session 2  
 
-- Save and submit home session checklist on REDCap (halloween test delay information) 
+- Save and submit session 2 checklist on REDCap (halloween test delay information) 
 - Update Participant Log 
 - Download and copy delayed behavioral task data (from Gorilla) to participant folder (raw) 
 - Send *Session 2 TO DO List* email from bablab gmail templates 
