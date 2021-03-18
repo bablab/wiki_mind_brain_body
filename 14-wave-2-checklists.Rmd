@@ -86,7 +86,7 @@
     - Add “Only if no email response yesterday” to description 
   - *MBBXXX WX- Session 1 Reminder 2 (**email and call**)* - **3 days prior** 
     - Add Status: Incomplete to the description 
-  - *MBBXXX WX- Session 2 Reminder 1 (**text message**) * - **4 days before second session** 
+  - *MBBXXX WX- Session 2 Reminder (**text message**) * - **4 days before second session** 
     - ** Before making calendar event confirm on REDCap that they consented to texts**
     - Add Status: Incomplete to the description 
   - *MBBXXX WX- Session 2 Reminder 1 (**email**) * - **3 days before second session** 

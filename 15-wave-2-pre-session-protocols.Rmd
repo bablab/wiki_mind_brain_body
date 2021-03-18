@@ -76,9 +76,9 @@ If participant says “No” to participating:
 4. As soon as the participant has been scheduled, create/add to a google calendar event for the designated "package mailing day" of the week the participant ID (MBB number).
 5. This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for "package mailing day."
 6. Complete all scheduling steps according to participant log ( making reminder calendar events, updating logs, etc)
-7. Go to participant's Trello card from the data audit board and check if they were missing surveys from wave 1 and if any of their missing surveys are Recollected Surveys for wave 2.
+7. Go to [MBB_W2_recollected_surveys](https://app.box.com/file/788366897927) and check if they were missing surveys from wave 1 and if any of their missing surveys are Recollected Surveys for wave 2.
     - if they should be given a recollected survey make a note of it on participant tab of REDCap in notes section and send a slack message to lab manager with the recollected surveys participant should receive (parent surveys that will need to be printed or child surveys we will administer during session 1)
-
+8. Fill in the ASA cover sheet with their ASA ID and password ( found in ID drive folder of MBB). The template is in BAB/MBB/Data/Wave_2/wave_2_data/MBB###/Questionnaires/asa
 
 ----------  
 
