@@ -284,8 +284,8 @@
 \contentsline {subsubsection}{\numberline {6.2.1.2}Contacting participants}{181}{subsubsection.6.2.1.2}%
 \contentsline {subsubsection}{\numberline {6.2.1.3}Scheduling Participant}{182}{subsubsection.6.2.1.3}%
 \contentsline {subsubsection}{\numberline {6.2.1.4}Scheduling Session}{183}{subsubsection.6.2.1.4}%
-\contentsline {subsection}{\numberline {6.2.2}Protocol - Session Preparation}{183}{subsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.2.1}Package creation}{183}{subsubsection.6.2.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Protocol - Session Preparation}{184}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}Package creation}{184}{subsubsection.6.2.2.1}%
 \contentsline {subsubsection}{\numberline {6.2.2.2}Activating participant on Gorilla}{184}{subsubsection.6.2.2.2}%
 \contentsline {section}{\numberline {6.3}Protocols - Session 1}{184}{section.6.3}%
 \contentsline {subsection}{\numberline {6.3.1}Protocol - Welcome \& Zoom Introduction}{184}{subsection.6.3.1}%
