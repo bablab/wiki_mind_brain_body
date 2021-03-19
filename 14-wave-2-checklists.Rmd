@@ -64,8 +64,9 @@
   - Type in their MBB 
   - Be careful because any premature clicking makes a new ID
 - Fill participant instrument on REDCap 
-  - In notes section add the date and time of session & any relevant info from scheduling call  
+  - In notes section add the date and time of session, recollected surveys needed & any relevant info from scheduling call  
   - **Essential to fill out the “Is this wave 2” question** 
+  - Look at ID drive or wave 1 data entry participant log for participant info ( age, sex, family ID, els or bio)
 
   
 
@@ -73,9 +74,9 @@
 
 - Create MBB Session 1/2 calendar events (and invite researcher) 
   - *MBBXXX WX- Online Session 1* 
-    - Add MBB#, participant age, sex, and whether Bio or els in the event decription 
+    - Add MBB#, participant age, sex,whether Bio or els, and session time in the event decription 
   - *MBBXXX WX- Online Session 2* 
-    - Add MBB#, participant age, sex, and whether Bio or els in the event decription 
+    - Add MBB#, participant age, sex,whether Bio or els, and session time in the event decription 
   - Add participant to the weekly MBB mailing calendar event  
     - *MBB999 WX (Scheduled for 00/00/00) Sent: Incomplete* 
 - Create MBB Session 1/2 reminder calendar events 
@@ -89,6 +90,7 @@
   - *MBBXXX WX- Session 2 Reminder (**text message**) * - **4 days before second session** 
     - ** Before making calendar event confirm on REDCap that they consented to texts**
     - Add Status: Incomplete to the description 
+    - Add Text to send: *Hi, this is the Brain and Body Lab. We just wanted to remind you to please complete the stool sample and stool survey, sleep diary (1x per day), and ASA survey.*
   - *MBBXXX WX- Session 2 Reminder 1 (**email**) * - **3 days before second session** 
     - Add Status: Incomplete to the description 
   - *MBBXXX WX- Session 2 Reminder 2 (**call**)* - **2 days before second session** 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  17 MAR 2021 19:14
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  19 MAR 2021 13:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2113,94 +2113,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 6974--6976
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7073--7075
+Underfull \hbox (badness 10000) in paragraph at lines 7077--7079
 
  []
 
 [171]
-Underfull \hbox (badness 10000) in paragraph at lines 7132--7134
+Underfull \hbox (badness 10000) in paragraph at lines 7136--7138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7142--7144
+Underfull \hbox (badness 10000) in paragraph at lines 7146--7148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7146--7147
+Underfull \hbox (badness 10000) in paragraph at lines 7150--7151
 
  []
 
 [172]
-Underfull \hbox (badness 10000) in paragraph at lines 7212--7214
+Underfull \hbox (badness 10000) in paragraph at lines 7216--7218
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7214--7216
+Underfull \hbox (badness 10000) in paragraph at lines 7218--7220
 
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 7218--7219
+Underfull \hbox (badness 1270) in paragraph at lines 7222--7223
 []\TU/lmr/m/n/10 At this stage packages shouldn’t be missing so home session
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7227--7229
+Underfull \hbox (badness 10000) in paragraph at lines 7231--7233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7272--7274
+Underfull \hbox (badness 10000) in paragraph at lines 7276--7278
 
  []
 
 [173]
-Underfull \hbox (badness 10000) in paragraph at lines 7342--7344
+Underfull \hbox (badness 10000) in paragraph at lines 7346--7348
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7350--7352
+Underfull \hbox (badness 10000) in paragraph at lines 7354--7356
 
  []
 
 [174]
-Underfull \hbox (badness 10000) in paragraph at lines 7402--7404
+Underfull \hbox (badness 10000) in paragraph at lines 7406--7408
 
  []
 
 [175]
-Underfull \hbox (badness 2875) in paragraph at lines 7494--7496
+Underfull \hbox (badness 2875) in paragraph at lines 7498--7500
 []\TU/lmr/m/n/10 Parent-child observation (note recording via Zoom or participa
 nt
  []
 
 [176] [177]
-Underfull \hbox (badness 10000) in paragraph at lines 7612--7614
+Underfull \hbox (badness 10000) in paragraph at lines 7616--7618
 
  []
 
 
-Overfull \hbox (18.18002pt too wide) in paragraph at lines 7622--7623
+Overfull \hbox (18.18002pt too wide) in paragraph at lines 7626--7627
 []\TU/lmr/m/n/10 Walk through package to send back (check “mbb_online_package_c
 hecklists”)
  []
 
 [178] [179]
-Underfull \hbox (badness 10000) in paragraph at lines 7832--7834
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7862--7864
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7864--7866
+Underfull \hbox (badness 10000) in paragraph at lines 7836--7838
 
  []
 
@@ -2219,57 +2209,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 7870--7872
 
  []
 
-
+[180]
 Underfull \hbox (badness 10000) in paragraph at lines 7872--7874
 
  []
 
-[180]
+
 Underfull \hbox (badness 10000) in paragraph at lines 7874--7876
 
  []
 
-[181] [182]
-Overfull \hbox (177.92pt too wide) in paragraph at lines 8014--8015
-\TU/lmr/m/n/10 drive folder of MBB). The template is in BAB/MBB/Data/Wave_2/wav
-e_2_data/MBB###/Questionnaires/asa 
+
+Underfull \hbox (badness 10000) in paragraph at lines 7876--7878
+
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 7878--7880
 
-[183]
-Underfull \hbox (badness 10000) in paragraph at lines 8052--8054
+ []
+
+[181] [182] [183]
+Underfull \hbox (badness 10000) in paragraph at lines 8056--8058
 
  []
 
 [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [
-197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209]
-Underfull \hbox (badness 1314) in paragraph at lines 9242--9243
+197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [2
+10]
+Underfull \hbox (badness 1314) in paragraph at lines 9246--9247
 \TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
 [][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
 
  []
 
-[210] [211] [212] [213] [214]
+[211] [212] [213] [214] [215]
 File: images/zoom_parent_child_interaction/13.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/13.png>
 
-Overfull \hbox (408.57002pt too wide) in paragraph at lines 9528--9529
+Overfull \hbox (408.57002pt too wide) in paragraph at lines 9532--9533
 []\TU/lmr/m/n/10 The video will appear to the researchers in our Box under BABL
 AB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_intera
 ctions/Uploads 
  []
 
-[215] (./Mind_Brain_Body.bbl [216] [217
+(./Mind_Brain_Body.bbl [216] [217
 
 ] [218] [219])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9534.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9538.
 [220]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 9534.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9538.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9534.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9534.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9538.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9538.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
 (rerunfilecheck)             Checksum: 09CBC7C72CB4A334D8B02F5FD02B67BE;4624.
