@@ -163,12 +163,17 @@
 ### Protocol – Tasso Blood Sample Storage  
 
  
+- Lab manager should try to store sample within one day of receiving sample
 
-- Lab manager will need to store sample within one or two days of receiving sample. 
+- Take the blood samples to HPL
 
-- Place biohazard bag with blood sample in its designated space in the freezer box (in accordance to the Sample Storage Log Diagram) 
+- Take out the blood sample and twist off the button (counterclockwise until it stops, then release the sample from the button), leaving only the blood sample itself to be stored
 
-- Update MBB log 
+- Discard the button in the biohazard bin in HPL
+
+- Place silver Tasso biohazard bag with blood sample and silica gel in its designated space in the freezer box (in accordance to the Sample Storage Log Diagram) in -20 freezer
+
+- Update MBB log
 
 - Log the sample in the [Sample Storage Log](https://app.box.com/file/630322897864) 
 
