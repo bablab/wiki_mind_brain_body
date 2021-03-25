@@ -346,7 +346,10 @@
 \contentsline {paragraph}{\numberline {6.7.6.3.1}Getting A Code From REDCap}{213}{paragraph.6.7.6.3.1}%
 \contentsline {subsection}{\numberline {6.7.7}Protocol - Report Card}{214}{subsection.6.7.7}%
 \contentsline {subsection}{\numberline {6.7.8}Protocol - Payment}{214}{subsection.6.7.8}%
-\contentsline {section}{\numberline {6.8}Protocols - Troubleshooting}{215}{section.6.8}%
-\contentsline {subsubsection}{\numberline {6.8.0.1}If links in chat are not working\ldots {}}{215}{subsubsection.6.8.0.1}%
-\contentsline {subsubsection}{\numberline {6.8.0.2}If internet/wifi seems to be malfunctioning\ldots {}}{215}{subsubsection.6.8.0.2}%
-\contentsline {subsubsection}{\numberline {6.8.0.3}Plan B to Zoom recording on PC interaction}{216}{subsubsection.6.8.0.3}%
+\contentsline {chapter}{\numberline {7}Troubleshooting}{217}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Troubleshooting - Links}{217}{section.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.0.1}If links in chat are not working\ldots {}}{217}{subsubsection.7.1.0.1}%
+\contentsline {section}{\numberline {7.2}Troubleshooting - Internet Issues}{217}{section.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.0.1}If internet/wifi seems to be malfunctioning\ldots {}}{217}{subsubsection.7.2.0.1}%
+\contentsline {section}{\numberline {7.3}Troubleshooting - PC Interactions}{218}{section.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.0.1}Plan B to Zoom recording on PC interaction}{218}{subsubsection.7.3.0.1}%

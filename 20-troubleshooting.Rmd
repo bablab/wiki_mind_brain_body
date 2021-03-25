@@ -1,5 +1,6 @@
+# Troubleshooting
 
-## Protocols - Troubleshooting
+## Troubleshooting - Links
 
 
 
@@ -11,7 +12,8 @@
 
 *You should have received an email from us right before this session full of links for today. Can you please pull that up to have it ready just in case? I will be sending you all of these links through the Zoom chat, but it will a good reference in case we have any technical difficulties! Once you have it up, you can co ahead and minimize the window.* 
 
-  
+
+## Troubleshooting - Internet Issues  
 
 #### If internet/wifi seems to be malfunctioning... 
 
@@ -35,7 +37,7 @@
 
   
 
-  
+## Troubleshooting - PC Interactions
 
 #### Plan B to Zoom recording on PC interaction 
 
@@ -54,8 +56,6 @@ When they click on the link, they will see the screen below.
   
 
 ![<!--- Parent Child Observation Plan B --->](images/zoom_parent_child_interaction/13.png)  
-
-  
 
   
 

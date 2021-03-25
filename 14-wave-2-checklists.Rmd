@@ -124,7 +124,8 @@ NOTE: all template emails are in bablab gmail
 - Send *Session 1 Reminder 2* email & call 
   - Update calendar event description to Status: Complete 
   - Update MBB participant log 
-  - **Make a note if no verbal confirmation & send a message to SRA chat** 
+  - **Make a note on calendar whether they confirmed session** 
+  - **Send message to SRA chat whether participant confirmed and tag the researcher running the session**
   - Confirm package is received 
 - *Session 2 Reminder text* text message made 
   - Update calendar event description to Status: Complete 
@@ -135,7 +136,7 @@ NOTE: all template emails are in bablab gmail
 - *Session 2 Reminder call* call made 
   - Update calendar event description to Status: Complete 
   - Update MBB participant log 
-  - **Make a note if no verbal confirmation & send a message to SRA chat** 
+  - **Send message to SRA chat whether participant confirmed and tag the researcher running the session**
 
 - Confirm participant 
   - Preferably by phone 
