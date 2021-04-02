@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  25 MAR 2021 12:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  1 APR 2021 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,7 +2237,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8060--8062
 [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [
 197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [2
 10]
-Underfull \hbox (badness 1314) in paragraph at lines 9256--9257
+Underfull \hbox (badness 1314) in paragraph at lines 9260--9261
 \TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
 [][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
 
@@ -2251,7 +2251,7 @@ Chapter 7.
 File: images/zoom_parent_child_interaction/13.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/13.png>
 
-Overfull \hbox (408.57002pt too wide) in paragraph at lines 9551--9552
+Overfull \hbox (408.57002pt too wide) in paragraph at lines 9552--9553
 []\TU/lmr/m/n/10 The video will appear to the researchers in our Box under BABL
 AB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_intera
 ctions/Uploads 
@@ -2260,12 +2260,12 @@ ctions/Uploads
 (./Mind_Brain_Body.bbl [218] [219
 
 ] [220] [221])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9557.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9558.
 [222]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 9557.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9558.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9557.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9557.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9558.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9558.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
 (rerunfilecheck)             Checksum: 06C5310A918EB8EB89B9C757741E9211;5181.

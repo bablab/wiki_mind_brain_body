@@ -19,7 +19,7 @@
 - This regards the “out of town” option on the wave1_Status on REDCap
 - Should include:
   - any participants here live outside of LA, and won’t be coming back to LA (e.g. did not relocate just for COVID-19 pandemic purposes)
-  - participants whose age tally exceed 15, the target collection number for each age group in our age range. Refer to the [Participant Tally](https://ucla.app.box.com/file/724688028024) for reference. 
+  - participants whose age tally exceed 10, the target collection number for each age group in our age range. Refer to the [Participant Tally](https://ucla.app.box.com/file/724688028024) for reference. 
 
 **PLEASE NOTE: Participants who have not aged out yet, or who are not free at the moment yet, OR live outside the US but plan to come back as soon as the pandemic is over should all still be kept on the contact log and just have a future recontact date. We only want to put people who are going on our  “out of town” waitlist (like a plan B, only contact if necessary)!**
 
@@ -42,7 +42,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
   
   - Put the W1 for wave one ( e.g. S1 W1 ) on session events
   - For reminder emails put Status: Incomplete in description
-  - For Session 1 Reminder 1 call event put “Only if no email response yesterday” in the description and then status: Incomplete
+  - For Session 1 Reminder 1 call event put “Only if no email response” in the description and then status: Incomplete
   - Whenever you complete a reminder event mark it as complete and update the MBB participant log 
   
   **Emails to participant**
@@ -104,7 +104,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
     - Add Status: Incomplete to the description
   - *MBBXXX WX- Session 1 Reminder 1 (call)*  - the day after Reminder 1 email
     - Add Status: Incomplete to the description
-    - Add “Only if no email response yesterday”  to description
+    - Add “Only if no email response”  to description
   - *MBBXXX WX- Session 1 Reminder 2 (email and call)* - 3 days prior
     - Add Status: Incomplete to the description
   - *MBBXXX WX- Session 2 Reminder 1 (email) * - 3 days before second session
@@ -132,7 +132,7 @@ NOTE: all template emails are in bablab gmail
   - Confirm package is received
 - *Session 1 Reminder 1* call made
   - Update calendar event description to Status: Complete 
-  - If no call made put “NA - responded to yesterday’s email”
+  - If no call made put “NA - responded via email”
   - Update MBB participant log - if NA put NA 
 - Send *Session 1 Reminder 2* email & call
   - Update calendar event description to Status: Complete
