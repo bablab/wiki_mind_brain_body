@@ -20,7 +20,7 @@
   
   - Put the W2 for wave two ( e.g. S1 W2 ) on session events 
   - For reminder emails put Status: Incomplete in description 
-  - For Session 1 Reminder 1 call event put “Only if no email response yesterday” in the description and then status: Incomplete 
+  - For Session 1 Reminder 1 call event put “Only if no email response” in the description and then status: Incomplete 
   - Whenever you complete a reminder event mark it as complete and update the MBB participant log  
   
   **Emails to participants** 
@@ -84,7 +84,7 @@
     - Add Status: Incomplete to the description 
   - *MBBXXX WX- Session 1 Reminder 1 (**call**)*  - **the day after Reminder 1 email** 
     - Add Status: Incomplete to the description 
-    - Add “Only if no email response yesterday” to description 
+    - Add “Only if no email response” to description 
   - *MBBXXX WX- Session 1 Reminder 2 (**email and call**)* - **3 days prior** 
     - Add Status: Incomplete to the description 
   - *MBBXXX WX- Session 2 Reminder (**text message**) * - **4 days before second session** 
@@ -119,7 +119,7 @@ NOTE: all template emails are in bablab gmail
   - Confirm package is received 
 - *Session 1 Reminder 1* call made 
   - Update calendar event description to Status: Complete  
-  - If no call made put “NA - responded to yesterday’s email” 
+  - If no call made put “NA - responded via email” 
   - Update MBB participant log - if NA put NA  
 - Send *Session 1 Reminder 2* email & call 
   - Update calendar event description to Status: Complete 
