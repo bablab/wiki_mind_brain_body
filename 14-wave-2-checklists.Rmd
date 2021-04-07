@@ -26,6 +26,7 @@
   **Emails to participants** 
 
   - All emails to a participant should be in the same thread  
+  - **Remember that email templates need to be edited**(e.g. there are no written responses in wave 2 so that chunk should be deleted, there is no ASA in wave 1 so that should be deleted in wave 1, etc.)
   - The thread we initially contacted them at should be the one we send the session confirmation to  
   - The easiest way to not forget steps is to do all “session has just been scheduled” tasks based on the MBB log  
   - Make sure you are sending the correct reminder email - S1 R2 is the one with the researcher card  
@@ -111,7 +112,9 @@
 
 **Reminders** 
 
-NOTE: all template emails are in bablab gmail  
+NOTE: all template emails are in bablab gmail 
+
+**Remember to look through email and delete irrelevant parts before sending**
 
 - Send *Session 1 Reminder 1* email 
   - Update calendar event description to Status: Complete 
@@ -257,6 +260,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Read "participant" information instrument on REDCap for notes section for any notes from the scheduler about child 
   - the participant info should also contain info about whether there are recollected surveys to administer (both that parent received in parent survey packet or child surveys we'll administer in session)
   - If there is a child survey that needs to be recollected get the survey code so that it can be easily accessed during session
+- Check to see if they did blood sample last year, it's in the participant log on the Wave 1 - Data Entry sheet. 
+  - If they didn’t last year it might be really helpful to explain arm poke in detail early on, during initial presentation, before they consent. 
 - Open Slack and keep open for entirety of session for communication with the research team/Lab Manager 
 - Claim host so you have the ability to record 
   - To do so log into the zoom meeting and click on “claim host “ button that is shown when you click “Participants”. You’ll be prompted to type in a code key which is available on the internal part of lab website where we keep login info for accounts 
@@ -272,9 +277,9 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Ensure researcher's Zoom security settings are set for study session 
 - Have the following links ready to send to the Participant throughout the session:  
    - link to Consent on REDCap with codes ready 
+   - link to recollected surveys on REDCap with codes ready ( if applicable)
    - link to Child's Gorilla Game 
    - link to child questionnaires on REDCap with codes ready 
-   - link to ASA with password ready 
 
 
 -------------- 
