@@ -108,7 +108,7 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 
 ### Protocol – Tasso Blood Sample Online 
 
- [verify they consented to blood sample during session 1]
+ **[Verify they consented to blood sample during session 1]**
 
 *Now we will be doing the blood sample. The kit comes with detailed instructions you can reference but I will also be going over with you right now. * 
 

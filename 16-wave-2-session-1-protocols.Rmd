@@ -321,7 +321,7 @@ Researcher to open up the [halloween_training](https://app.box.com/file/78472668
 
   
 
-If necessary - the link can be found [here](https://research.sc/participant/login/20451/publicid). 
+If necessary - the link can be found [here](https://research.sc/participant/login/39409/publicid). 
 
   
 
@@ -495,7 +495,7 @@ Researcher to open [gorilla](https://gorilla.sc) to track participant progress. 
 
   
 
-If necessary - the link can be found [here](https://research.sc/participant/login/20451/publicid). 
+If necessary - the link can be found [here](https://research.sc/participant/login/39409/publicid). 
 
   
 
@@ -745,9 +745,20 @@ Participants can also watch the video below:
 
 - If parents want to cut time, questionnaires can be done at another time, unless we have to read the surveys to the child through share-screen. (This applies to children who may have trouble reading, or are under the age of 8.) 
 
-  
+#### Recollected Surveys 
+[If there is a child recollected survey that needs to be administered **complete recollected surveys before doing rest of surveys**] 
 
+*So these next surveys are ones that we noted were not completed during your first round of sessions with us. We wanted to include them here so that you may complete them if you would like. Of course, like everything else in the study these are optional so if you do not wish to provide this information, you may skip any question.* 
+
+For recollected surveys we will be sharing screen and reading out the survey to the participant regardless of age. 
+
+*In a moment, I am going to share my screen with you, so you can see the survey questions. I will then read out each question and answer choice and [child's name] can tell me your answer. Does that sound okay? * 
+
+[Researcher to share screen] 
   
+#### Wave 2 surveys 
+
+[**Check how many surveys child has to do before either beginning with child surveys**]
 
 #### Ages 8+ 
 
@@ -805,16 +816,6 @@ Participants can also watch the video below:
 
 [RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE CHILD QUESTIONNAIRES] 
 
-#### Recollected Surveys 
-[ **If there is a child recollected survey that needs to be administered** ] 
-
-*So these next surveys are ones that we noted were not completed during your first round of sessions with us. We wanted to include them here so that you may complete them if you would like. Of course, like everything else in the study these are optional so if you do not wish to provide this information, you may skip any question.* 
-
-For recollected surveys we will be sharing screen and reading out the survey to the participant regardless of age. 
-
-*In a moment, I am going to share my screen with you, so you can see the survey questions. I will then read out each question and answer choice and [child's name] can tell me your answer. Does that sound okay? * 
-
-[Researcher to share screen] 
 
 **END SURVEYS** 
 
