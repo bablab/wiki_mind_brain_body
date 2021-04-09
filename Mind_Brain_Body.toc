@@ -331,27 +331,29 @@
 \contentsline {subsection}{\numberline {6.6.4}Protocol - If participant had feedback to give}{208}{subsection.6.6.4}%
 \contentsline {section}{\numberline {6.7}Protocols - Final}{209}{section.6.7}%
 \contentsline {subsection}{\numberline {6.7.1}Protocol - Storing Saliva Sample}{209}{subsection.6.7.1}%
-\contentsline {subsection}{\numberline {6.7.2}Protocol - Storing Hair Sample}{209}{subsection.6.7.2}%
-\contentsline {subsection}{\numberline {6.7.3}Protocol - Storing Stool Sample}{209}{subsection.6.7.3}%
-\contentsline {subsubsection}{\numberline {6.7.3.1}Sample Quality}{209}{subsubsection.6.7.3.1}%
-\contentsline {subsubsection}{\numberline {6.7.3.2}Sample Transfer}{209}{subsubsection.6.7.3.2}%
-\contentsline {subsubsection}{\numberline {6.7.3.3}Taking out the Hazards}{211}{subsubsection.6.7.3.3}%
-\contentsline {subsection}{\numberline {6.7.4}Protocol -- Tasso Blood Sample Storage}{211}{subsection.6.7.4}%
-\contentsline {subsection}{\numberline {6.7.5}Protocol - Data Entry \& Data Quality}{212}{subsection.6.7.5}%
-\contentsline {subsubsection}{\numberline {6.7.5.1}Data Entry}{212}{subsubsection.6.7.5.1}%
-\contentsline {subsubsection}{\numberline {6.7.5.2}Data Quality}{212}{subsubsection.6.7.5.2}%
-\contentsline {subsubsection}{\numberline {6.7.5.3}Relevant Protocols}{212}{subsubsection.6.7.5.3}%
-\contentsline {subsection}{\numberline {6.7.6}Protocol - Data Review \& Data Audit}{212}{subsection.6.7.6}%
-\contentsline {subsubsection}{\numberline {6.7.6.1}Follow-Up (completed by Scheduling Coordinator)}{212}{subsubsection.6.7.6.1}%
-\contentsline {subsubsection}{\numberline {6.7.6.2}Data Review}{212}{subsubsection.6.7.6.2}%
-\contentsline {subsubsection}{\numberline {6.7.6.3}Data Audit}{213}{subsubsection.6.7.6.3}%
-\contentsline {paragraph}{\numberline {6.7.6.3.1}Getting A Code From REDCap}{214}{paragraph.6.7.6.3.1}%
-\contentsline {subsection}{\numberline {6.7.7}Protocol - Report Card}{215}{subsection.6.7.7}%
-\contentsline {subsection}{\numberline {6.7.8}Protocol - Payment}{215}{subsection.6.7.8}%
-\contentsline {chapter}{\numberline {7}Troubleshooting}{217}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Troubleshooting - Links}{217}{section.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.0.1}If links in chat are not working\ldots {}}{217}{subsubsection.7.1.0.1}%
-\contentsline {section}{\numberline {7.2}Troubleshooting - Internet Issues}{217}{section.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.0.1}If internet/wifi seems to be malfunctioning\ldots {}}{217}{subsubsection.7.2.0.1}%
-\contentsline {section}{\numberline {7.3}Troubleshooting - PC Interactions}{218}{section.7.3}%
-\contentsline {subsubsection}{\numberline {7.3.0.1}Plan B to Zoom recording on PC interaction}{218}{subsubsection.7.3.0.1}%
+\contentsline {subsection}{\numberline {6.7.2}Protocol - Processing Saliva Sample}{209}{subsection.6.7.2}%
+\contentsline {subsubsection}{\numberline {6.7.2.1}Sample Transfer}{209}{subsubsection.6.7.2.1}%
+\contentsline {subsection}{\numberline {6.7.3}Protocol - Storing Hair Sample}{211}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.4}Protocol - Storing Stool Sample}{211}{subsection.6.7.4}%
+\contentsline {subsubsection}{\numberline {6.7.4.1}Sample Quality}{211}{subsubsection.6.7.4.1}%
+\contentsline {subsubsection}{\numberline {6.7.4.2}Sample Transfer}{212}{subsubsection.6.7.4.2}%
+\contentsline {subsubsection}{\numberline {6.7.4.3}Taking out the Hazards}{213}{subsubsection.6.7.4.3}%
+\contentsline {subsection}{\numberline {6.7.5}Protocol - Tasso Blood Sample Storage}{213}{subsection.6.7.5}%
+\contentsline {subsection}{\numberline {6.7.6}Protocol - Data Entry \& Data Quality}{214}{subsection.6.7.6}%
+\contentsline {subsubsection}{\numberline {6.7.6.1}Data Entry}{214}{subsubsection.6.7.6.1}%
+\contentsline {subsubsection}{\numberline {6.7.6.2}Data Quality}{214}{subsubsection.6.7.6.2}%
+\contentsline {subsubsection}{\numberline {6.7.6.3}Relevant Protocols}{214}{subsubsection.6.7.6.3}%
+\contentsline {subsection}{\numberline {6.7.7}Protocol - Data Review \& Data Audit}{214}{subsection.6.7.7}%
+\contentsline {subsubsection}{\numberline {6.7.7.1}Follow-Up (completed by Scheduling Coordinator)}{214}{subsubsection.6.7.7.1}%
+\contentsline {subsubsection}{\numberline {6.7.7.2}Data Review}{214}{subsubsection.6.7.7.2}%
+\contentsline {subsubsection}{\numberline {6.7.7.3}Data Audit}{215}{subsubsection.6.7.7.3}%
+\contentsline {paragraph}{\numberline {6.7.7.3.1}Getting A Code From REDCap}{216}{paragraph.6.7.7.3.1}%
+\contentsline {subsection}{\numberline {6.7.8}Protocol - Report Card}{216}{subsection.6.7.8}%
+\contentsline {subsection}{\numberline {6.7.9}Protocol - Payment}{217}{subsection.6.7.9}%
+\contentsline {chapter}{\numberline {7}Troubleshooting}{219}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Troubleshooting - Links}{219}{section.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.0.1}If links in chat are not working\ldots {}}{219}{subsubsection.7.1.0.1}%
+\contentsline {section}{\numberline {7.2}Troubleshooting - Internet Issues}{219}{section.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.0.1}If internet/wifi seems to be malfunctioning\ldots {}}{219}{subsubsection.7.2.0.1}%
+\contentsline {section}{\numberline {7.3}Troubleshooting - PC Interactions}{220}{section.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.0.1}Plan B to Zoom recording on PC interaction}{220}{subsubsection.7.3.0.1}%
