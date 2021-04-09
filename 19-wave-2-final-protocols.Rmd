@@ -9,123 +9,132 @@
 ### Protocol - Storing Saliva Sample  
 
   
-
 - Screw lids on very tight (to prevent evaporation) 
-
 - Log the location (grid) on the sample storage log 
 
-  
-
 ----------------- 
 
-  
+### Protocol - Processing Saliva Sample
 
-### Protocol - Storing Hair Sample  
-
-  
-
-- Store the sample in a dry area at room temperature 
-
-  
-
------------------ 
-
-  
-
-### Protocol - Storing Stool Sample 
-
-  
-
-#### Sample Quality  
-
-  
-
-- Put on gloves. 
-
-- Open the mailer to ensure that it contains both the stool sample (in biohazard bag) and the Bristol Stool Scale. 
-
-- Check for quality of the stool sample by shaking it up and down vigorously (keep the sample in the biohazard bag), then check for its consistency and color - It should be a dark-brown liquid. 
-
-- If stool sample does not meet requirement (e.g. sample is in solid form or amount collected is too little), contact the family to see if they would be willing to send another sample with compensation.  
-
-- Contact family if the Bristol Stool Scale is missing in the mailer.  
-
-  
 
 #### Sample Transfer 
-
-  
 
 - Wear appropriate PPE: 
 
     - Gloves 
-
     - Lab coat 
-
     - Safety glasses 
-
     - Surgical Mask 
-
     - Closed-toe shoes 
-
     - Long pants 
+    - Hair tied back
 
-    - Hair tied back 
+- Prepare your station and ensure that you have the following: 
 
-     
+    - Incubator with thermometer
+    - Vortex machine
+    - Eppendorf pipette (1000uL)
+    - Pipette tips (wide bore, sterile, universal fit)
+    - 2.0mL cryogenic vials (with O rings, sterile)
+    - Saliva samples in room temperature plastic box  
+    - Test tube rack
+    - Transport box with divider 
+    - Industrial Sharpie for labeling 
+    - Notebook for sample logs with pen
+
+
+**Steps for incubation:** 
+
+- Retrieve the box of saliva samples at room temperature in BAB Lab Cabinet 1 and carry them to HPL.
+- Plug in and turn on the incubator, turn the dial to level 10 and ensure the red "heating light" is on.
+- Continuously check the incubator to see what if temperature has reached 50-55C.
+- While waiting for the incubator to hit 50 C, clean workspace using ethynol and paper towels (dispose these in the regular trash bin)
+- Open the saliva sample box in HPL and note down the list of samples to be processed today, and ensure the lid on each of these samples is shut very tight. If the lid is slightly opened, the sample may risk evaporation during incubation. 
+- Ensure you are wearing gloves when grabbing the 2.0mL cryovials. Label two cryovials per sample for those that will be processed today (use the Industrial Sharpie). Place them in the transport box for temporary storage.
+- When the incubator has reached 50C, turn down the heat to level 6. The incubator temperature will still rise slowly, but when the door is opened for samples to be put in, the temperature can drop anywhere between 5-10C, depending upon how long the door is opened. To account for this temperature loss, heat the incubator to about 55C.
+- When the temperature reaches 55C, open the incubator door and place all saliva tubes standing upright on the incubator tray.
+- **IMPORTANT NOTE:** the incubator is extremely sensitive to movement - the saliva samples are likely to fall over with any large tap and/or placement of saliva samples on the tray inside. Be very careful placing samples onto the tray, closing the incubator door, and opening the incubator door once the incubation has completed. 
+- Close the incubator door *very* carefully and turn the knob as needed to regulated the temperature towards 50C. If the heat has dropped significantly, turn to level 10. If the heat has dropped slightly, move towards 6-8. If the heat is still too high, drop to level 2-4. If the heat is about right, keep the knob at level 5. 
+- Note down the current time and set an alarm for 2 hours to continue processing. Continue to check the incubator regularly to ensure temperature level is still at 50C and heat level does not need adjusting. 
+
+
+**Steps for processing:** 
+
+- Once the tubes have incubated for 2 hours, retrieve the cryovials, test tube rack, pipettes, pipette tips, and sample log notebook with pen.
+- **Very carefully**, open the incubator door and remove five samples to place in the test tube rack. Close the incubator door. (NOTE: the samples are not very hot, so no additional safety protection is needed beyond gloves. If extremely sensitive to heat touch, use a paper towel to grab the samples out of the incubator.)
+- Carry the five samples in the test tube rack to the vortex machine. Place one sample on the vortex machine and press down, holding for 20 seconds while the sample is shaken. 
+- After each sample is vortexed, turn the sample upside down and back up to see if any is still too viscous. If so, vortex for an additional 20 seconds.
+- Carry the samples back to the Pipettes in the BAB area of HPL. Select the 1000uL pipette and spin the dial until the numbers on the back of the pipette read 1000. Open the box of pipette tips.
+- **PIPETTING SAMPLE:** Locate the labeled cryovials for the sample you will process. Open the sample tube and place back down into the test tube holder. Open the cryovial and hold tube with one hand. Grab the pipette, push down into a new pipette tip, place into sample, press down until first stop, release to suck in first 1000uL. Release the sample into the cryovial, pressing down until second stop. Place pipette down on its side. Close the cryovial and place back into transfer box. Open the second cryovial, pipette what is left from the saliva sample into the second cryovial before placing into the transfer box. When there is no saliva left in the sample tube, close it and dispose in the biohazard bin. Release the pipette tip by pressing on the button located on the back of the pipette into the biohazard bin. Write down the sample quality and location in the sample log notebook.
+- Wipe down the table with ethynol before replacing gloves, disposing in biohazard bin. 
+- Return to the incubator for the next five samples, repeating the **PIPETTING SAMPLE** step above for the rest of the samples.
+- Once the samples have been processed, transfer the samples to the -20 freezer in the saliva box. 
+- Turn the knob on the incubator back to zero, and turn the incubator off. If researcher would like to return the incubtaor to room temperature quick, the incubator door may be opened to release heat faster.
+- Take a picture of the sample log notebook and transfer notes to the sample log on Box
+
+----------------- 
+
+### Protocol - Storing Hair Sample  
+
+- Store the sample in a dry area at room temperature 
+
+
+----------------- 
+
+### Protocol - Storing Stool Sample 
+
+
+#### Sample Quality  
+
+
+- Put on gloves. 
+- Open the mailer to ensure that it contains both the stool sample (in biohazard bag) and the Bristol Stool Scale. 
+- Check for quality of the stool sample by shaking it up and down vigorously (keep the sample in the biohazard bag), then check for its consistency and color - It should be a dark-brown liquid. 
+- If stool sample does not meet requirement (e.g. sample is in solid form or amount collected is too little), contact the family to see if they would be willing to send another sample with compensation.
+- Contact family if the Bristol Stool Scale is missing in the mailer.  
 
   
+#### Sample Transfer 
+
+
+- Wear appropriate PPE: 
+
+    - Gloves 
+    - Lab coat 
+    - Safety glasses 
+    - Surgical Mask 
+    - Closed-toe shoes 
+    - Long pants 
+    - Hair tied back
 
 - Prepare your station and ensure that you have the following: 
 
     - 2.0mL cryogenic vials  
-
     - Stool samples in biohazard bag  
-
     - Test tube racks 
-
     - Transport box with divider 
-
     - Sharpie for labeling 
 
 
 
 **Steps:** 
 
-  
-
 - Clean workspace prior to placing shield down and paper towel over shield 
-
 - Untwist two 2.0mL vials and place them on the side of the shield to prepare 
-
 - With the stool sample collection vial still in the biohazard bag, shake it up and down vigorously 
-
 - Take the stool sample out of the bag and label with industrial sharpie 
-
 - Take a photo of the sample to store on Box 
-
 - Untwist the stool sample collection vial, and carefully pour the sample into the first 2.0mL vial (It’s okay if the ball does or does not get transferred) 
-
 - Stop pouring when solution reached the 1.8mL line to prevent overflow, and pour the remaining sample (if any) in a second 2.0mL vial 
-
 - Cap the 2.0mL vials tightly to prevent spills 
-
 - Label the 2.0mL vials with an industrial sharpie, ensure it has the participant ID and Wave and vial number 
-
 - Place the labeled 2.0mL vials in the transport box with divider 
-
 - Close the now-empty stool sample collection vial, put it back in the biohazard bag, and dispose it in the biohazard waste bin 
-
 - Clean-up work station, dispose the drape, and wipe down the table top with disinfectant wipe. 
-
 - Remove PPE and wash hands with soap and water thoroughly 
-
 - Bring the transport box to the -20 upright freezer in HPL 
-
 - Place the 2.0mL vials in their designated space in the freezer box (in accordance to the Sample Storage Log Diagram) 
-
 - Log the sample in the [Sample Storage Log](https://app.box.com/file/630322897864) 
-
 - Update the Stool Quality on REDCap 
 
   
@@ -135,46 +144,29 @@
  
 
 -Take the Hazards key with you from the lock box in the Lab. Make sure there are two keys attached- a large gold key and a small gold key. 
-
 -Head to HPL. Once inside, put on PPE. 
-
 -Find the large gray cart in the back room, and wheel into the main HPL lab space. This will assist you in carrying the Hazards bin to the waste area. Put the entire Hazards bin (with the hazards bag full of materials) onto the gray cart.  
-
 -Ensure you either leave the HPL keys in the lockbox on the door or take them with you. 
-
 -Wheel the cart to the elevator and take it down to level A. Turn right into the hallway and take another right out to the double doors that lead to the loading dock. Exit the building and be sure to close both doors- these doors cannot be propped open. 
-
 -Wheel the cart to the gate. Use the small gold key to open the lock holding together the chains that lock the gate closed. Once you have the gate open, carry the hazards bin inside. 
-
 -Take out the hazards bag and tie it closed. Leave the tied hazards bag in one of the red bins in the corner. 
-
 -Bring the hazards bin back to the gray cart. Use the gold key to lock the chains and gate back up.  
-
 -Use the large gold key to reenter through the double doors. Take the elevator back to floor 1. Head back to HPL. 
-
 -Once back in HPL, find a new hazards bag- the Brain and Body Lab hazards bags are located on the first shelf above our space in the corner. If we run out, Dr. Robles kindly invited us to use the Hazards bags in the HPL space which are located underneath the tables by the refrigerator.  
-
 -Discard your gloves into the newly replaced hazards bag.  
-
 -Make sure to return the Hazards keys to the lock box in BABLAB. 
 
 
 
-### Protocol – Tasso Blood Sample Storage  
+### Protocol - Tasso Blood Sample Storage  
 
  
 - Lab manager should try to store sample within one day of receiving sample
-
 - Take the blood samples to HPL
-
 - Take out the blood sample and twist off the button (counterclockwise until it stops, then release the sample from the button), leaving only the blood sample itself to be stored
-
 - Discard the button in the biohazard bin in HPL
-
 - Place silver Tasso biohazard bag with blood sample and silica gel in its designated space in the freezer box (in accordance to the Sample Storage Log Diagram) in -20 freezer
-
 - Update MBB log
-
 - Log the sample in the [Sample Storage Log](https://app.box.com/file/630322897864) 
 
 
@@ -220,10 +212,8 @@ How to make a high to low resolution video - https://bablab.github.io/wiki_babla
 
 #### Follow-Up (completed by Scheduling Coordinator) 
 
-  
 
 - Before sending Home Reminder 3, make sure RA’s have completed Data Entry, Data Quality Check 1, and Data Quality Check 2. 
-
 - After sending Home Reminder 3 - create blank Trello card for participant on "In Data Review" list of Data Audit Board. 
 
   
@@ -241,29 +231,17 @@ https://youtu.be/z_mQGyguaEY
 - Checking for completion of: 
 
   - child questionnaires (see child questionnaire table) 
-
   - parent proxy questionnaires (see parentproxy questionnaire table) 
-
   - parent self questionnaires (see parentself questionnaire table) 
-
   - hair sample 
-
   - saliva sample 
-
   - stool sample 
-
   - blood sample  
-
   - bss sheet 
-
   - contact sheet 
-
   - halloween delay test 
-
   - height, weight, waist 
-
   - PC interaction video 
-
   - halloween training and test data captured 
 
 - After completing Data Review, move card to Good Sample, Bad Sample, or No Sample list based on the stool sample. 
@@ -279,19 +257,12 @@ https://youtu.be/z_mQGyguaEY
   
 
 - Send payment, thank you letter, certificate, and science kits via mail 
-
 - Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items). 
-
 - Move to Paid list. 
-
 - One week after payment is sent, check outstanding items and do Audit Call #1. 
-
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
-
 - Within 2 days, check outstanding items and do Audit Call #3. 
-
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list. 
-
 - If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder. 
 
   
@@ -301,19 +272,12 @@ https://youtu.be/z_mQGyguaEY
   
 
 - Send payment, thank you letter, certificate, and science kits via mail. Include a new stool sample kit. 
-
 - Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
-
 - Move to Paid list in Trello. 
-
 - One week after payment is sent, check outstanding items do Audit Call #1. 
-
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
-
 - Within 2 days, check outstanding items and do Audit Call #3. 
-
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list. 
-
 - If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder. 
 
   
@@ -321,21 +285,13 @@ https://youtu.be/z_mQGyguaEY
 **If No Sample:** 
 
   
-
 - Send [MBB - UNPAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
-
 - Leave participant on Unpaid list. 
-
 - If stool sample recieved - send payment, thank you letter, certificate, and science kits via mail and move to Paid list. 
-
 - If stool sample not received, one week after email is sent, check outstanding items do Audit Call #1. 
-
 - One week following Audit Call #1, check outstanding items do Audit Call #2. 
-
 - Within 2 days of Audit Call #2, check outstanding items and do Audit Call #3. 
-
 - After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list. 
-
 - If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder. 
 
   
@@ -345,25 +301,10 @@ https://youtu.be/z_mQGyguaEY
   
 
 1. Log onto REDCap and click on "record status dashboard"  
-
-  
-
 2. Click on designated participant  
-
-  
-
 3. Click on the first incomplete questionnaire for the parentself, parentproxy, or child questionnaire sets  
-
-  
-
 4. Click on Survey Options  
-
-  
-
 5. Click Survey Access Code and QR Code  
-
-  
-
 6. Copy and paste web address and code + send to email to participant 
 
   
@@ -374,23 +315,14 @@ https://youtu.be/z_mQGyguaEY
 
 ### Protocol - Report Card 
 
-  
 
 1. Open a participant data folder 
 
-  
-
 2. Navigate to the report card folder and rename the template file - MBB999 to the relevant participant - and open the file 
-
-   
 
 3. Navigate to the last page of the pdf and fill in the scores for this participant. You can type directly on the page- it is a fillable form. 
 
-   
-
 4. After you have entered the data, it should look like this: 
-
-   
 
 5. If there are any comments, enter them on the comments page. 
 
@@ -398,21 +330,14 @@ https://youtu.be/z_mQGyguaEY
 
   - If there are no comments, delete this page. 
 
-  
-
 6. **Important**- Once you have completed the edits to the pdf, you must follow these steps to “lock” the data so that it is no longer editable before sending to the participant. To do so, click file/print/PDF/Save as PDF. Save the PDF to your desktop, then replace the original PDF with the desktop version. 
 
-   
-
 7. The report card is now ready to be sent to the participant. 
-
- 
 
 *Refer to Wave 1 protocol for more details* 
 
 
   
-
 ### Protocol - Payment 
 
   
@@ -422,17 +347,11 @@ https://youtu.be/z_mQGyguaEY
   
 
 - Payment box 
-
 - Type in participant's name and print copy of certificate 
-
 - Print thank you letter 
-
 - include prize chosen by participant (check REDCap session 2 checklist for choice) 
-
 - Include Amazon gift card payment 
-
 - send gift card codes in payment email 
-
 - Check stool sample quality- if poor, send another stool kit 
 
   
@@ -442,34 +361,22 @@ https://youtu.be/z_mQGyguaEY
   
 
 - Once the package has been created and sealed, it is time to bring the package down to Tyler's office in the Psychology building. 
-
 - To mail the package to the participant, you will need the following information: 
-
   - Recharge ID 
-
   - Participant name 
-
   - Participant mailing address 
-
 - From Tyler's office, you will receive a FedEx label in which you can write this information 
-
 - Take a picture of the FedEx label and upload to Box 
-
 - Leave the package in Tyler's office for FedEx pickup 
-
 - Send payment confirmation email to participants  
 
   
 
 **Recording Payment** 
 
-  
 
 - Log participant payment in reimbursement log book 
-
 - Log participant payment in reimbursement spreadsheet 
-
-  
 
 ----------------- 
 
