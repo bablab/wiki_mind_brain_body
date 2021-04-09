@@ -82,6 +82,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
   - Type in the next available MBB
   - * Be careful because any premature clicking makes a new ID*
 - Fill participant instrument on REDCap
+  - **Age should be the age of participant at the time of *Session 1* **
   - In notes section add the date and time of session
 - Update [Participant Tally](https://ucla.app.box.com/file/724688028024)
 

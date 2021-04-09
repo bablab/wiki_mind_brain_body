@@ -41,6 +41,7 @@
 
   - When you schedule a new MBB participant change their SMBB “Wave 2 status” to enrolled  
   - Make a new screening entry every time you schedule a participant
+  - **For participant instrument - Age should be the age of participant at the time of *Session 1* **
 
  
 **Scheduling and Confirmation** 
@@ -64,7 +65,8 @@
   - Make sure the tab is “Arm 3: wave 2” 
   - Type in their MBB 
   - Be careful because any premature clicking makes a new ID
-- Fill participant instrument on REDCap 
+- Fill participant instrument on REDCap
+  - **Age should be the age of participant at the time of *Session 1* **
   - In notes section add the date and time of session, recollected surveys needed & any relevant info from scheduling call  
   - **Essential to fill out the “Is this wave 2” question** 
   - Look at ID drive or wave 1 data entry participant log for participant info ( age, sex, family ID, els or bio)
