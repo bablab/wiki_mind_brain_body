@@ -90,14 +90,9 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
 
 - Create MBB Session 1/2 calendar events (and invite researcher)
   - *MBBXXX WX- Online Session 1*
-    - Add *Status: Incomplete* to the description
-    - Add *Status Of Package: Not Received* to the description
-    - Add *Session 1 Links Email Sent: Incomplete* to the description
-    - Add *Session 2 Confirmation Email Sent: Incomplete* to the description
+    - Add Lead and backup reseracher, MBB#, participant age, sex,whether Bio or els, and session time in the event decription 
   - *MBBXXX WX- Online Session 2*
-    - Add *Status: Incomplete* to the description
-    - Add *Session 2 Links Email Sent: Incomplete* to the description
-    - Add *Session 2 TO DO list email: Incomplete* to the description
+    - Add Lead and backup reseracher, MBB#, participant age, sex,whether Bio or els, and session time in the event decription 
 - Add participant to the weekly MBB mailing calendar event 
   - *MBB999 WX (Scheduled for 00/00/00) Sent: Incomplete*
 - Create MBB Session 1/2 reminder calendar events
