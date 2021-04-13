@@ -331,12 +331,14 @@ protocol-if-blood-sample-not-collected-during-session-2
 protocol---if-participant-had-feedback-to-give-1
 protocols---final-1
 protocol---storing-saliva-sample-1
+protocol---processing-saliva-sample
+sample-transfer-2
 protocol---storing-hair-sample-1
 protocol---storing-stool-sample-1
 sample-quality-2
-sample-transfer-2
+sample-transfer-3
 taking-out-the-hazards
-protocol-tasso-blood-sample-storage
+protocol---tasso-blood-sample-storage
 protocol---data-entry-data-quality-1
 data-entry-6
 data-quality-4
