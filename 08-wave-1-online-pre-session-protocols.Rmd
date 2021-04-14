@@ -1,6 +1,6 @@
-## Protocols - Pre-Session 1 
+## W1-O Protocols - Pre-Session 1 
 
-### Protocol - Recruitment Online
+### W1-O Protocol - Recruitment Online
 
 #### Adding Participants to Participant Database 
 
@@ -120,7 +120,7 @@ If a parent has a concern about the study before the session, send the email tem
 
 ----------------
 
-### Protocol - Session Preparation 
+### W1-O Protocol - Session Preparation 
 
 #### Package creation
 

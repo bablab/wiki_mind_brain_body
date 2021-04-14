@@ -1,10 +1,10 @@
 # Wave 1
 
-## Checklists
+## W1 Checklists
 
 -----------
 
-### Checklist - Initial
+### W1 Checklist - Initial
 
 **Scheduling and Confirmation**
 
@@ -41,9 +41,9 @@
    
 ------------
 
-### Checklist - Pre-Lab-Session
+### W1 Checklist - Pre-Lab-Session
 
-#### Checklist - Lab-Session Setup - 1 Day Prior
+#### W1 Checklist - Lab-Session Setup - 1 Day Prior
 
 - Create participant manila folder
 - Print assent/consent forms (Check IRB expiration)
@@ -87,7 +87,7 @@
 
 ------------
 
-#### Checklist - Lab-Session Setup - 1 Hour Prior
+#### W1 Checklist - Lab-Session Setup - 1 Hour Prior
 
 - Place in Rainbow Room
    - Consent/assent/DBS/contact on clipboard with pens
@@ -112,7 +112,7 @@
 
 --------------
 
-### Checklist - Lab-Session
+### W1 Checklist - Lab-Session
 
 #### Child
 
@@ -158,7 +158,7 @@
 
 ------------
 
-### Checklist - Post-Lab-Session
+### W1 Checklist - Post-Lab-Session
 
 #### Clean Up
 
@@ -198,7 +198,7 @@
 
 --------
 
-### Checklist - Final
+### W1 Checklist - Final
 
 #### Scoring
 

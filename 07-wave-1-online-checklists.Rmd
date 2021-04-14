@@ -1,10 +1,10 @@
 # Wave 1 Online
 
-## Checklists Online
+## W1-O Checklists Online
 
 -----------
 
-### Checklist - Initial Online
+### W1-O Checklist - Initial Online
 
 **Calling participants from REDCap**
 
@@ -162,7 +162,7 @@ NOTE: all template emails are in bablab gmail
 
 ------------
 
-### Checklist - Pre-Session 1
+### W1-O Checklist - Pre-Session 1
 
 #### Package preparation: "magic box"
 *(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)*
@@ -252,7 +252,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
 --------------
 
-### Checklist - Session 1 
+### W1-O Checklist - Session 1 
 
 - Welcome & Introduction to Zoom (important features- chat)
 - Session walk-through/package explanation
@@ -276,7 +276,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
 -----------
 
-### Checklist - Post-Session 1 
+### W1-O Checklist - Post-Session 1 
 
 #### Notes
 
@@ -300,7 +300,7 @@ NOTE: all template emails are in bablab gmail
 
 ------------
 
-### Checklist - Pre-Session 2 
+### W1-O Checklist - Pre-Session 2 
 
 NOTE: all template emails are in bablab gmail 
 
@@ -311,7 +311,7 @@ NOTE: all template emails are in bablab gmail
 
 ------------
 
-### Checklist - Session 2 
+### W1-O Checklist - Session 2 
 
 - Halloween test delay completed
 - Fill in home session checklist on REDCap (halloween test delay information)
@@ -323,7 +323,7 @@ NOTE: all template emails are in bablab gmail
 
 ------------
 
-### Checklist - Post-Session 2 
+### W1-O Checklist - Post-Session 2 
 
 - Save and submit home session checklist on REDCap (halloween test delay information)
 - Update Participant Log
@@ -332,7 +332,7 @@ NOTE: all template emails are in bablab gmail
 
 --------
 
-### Checklist - Final Online
+### W1-O Checklist - Final Online
 
 #### Filing 
 
@@ -414,7 +414,7 @@ NOTE: all template emails are in bablab gmail
 
 -----------------
 
-### Checklist - No Show
+### W1-O Checklist - No Show
 
 - Delete session 2 & reminder calendar events from MBB calendar to avoid confusion
   - Session 2 reminder email

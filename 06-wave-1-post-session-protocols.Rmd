@@ -1,18 +1,18 @@
-## Protocols - Post-Session
+## W1 Protocols - Post-Session
 
-### Protocol - Data Entry
+### W1 Protocol - Data Entry
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp9M56f8ViY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----------------
 
-### Protocol - Data Quality Check
+### W1 Protocol - Data Quality Check
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJJMLXLyiaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----------------
 
-### Protocol - Stool Sample Storage
+### W1 Protocol - Stool Sample Storage
 
 #### Training Video
 
@@ -65,7 +65,7 @@
 
 -----------------
 
-### Protocol - DBS Sample Storage
+### W1 Protocol - DBS Sample Storage
 
 - Using a new drape, place the protein cards along the long horizontal midline of the drape.
 - Lightly fold the drape in half along the midline, covering the protein cards but ensure no contact between the drape and the blood spots (i.e. ensure complete exposure of the blood spots).
@@ -75,7 +75,7 @@
 
 -----------------
 
-### Protocol - Report Card Generation
+### W1 Protocol - Report Card Generation
 
 1. Open a participant data folder
 
@@ -113,7 +113,7 @@
 
 -----------------
 
-### Protocol - Data Review & Audit
+### W1 Protocol - Data Review & Audit
 
 #### Follow-Up (completed by Scheduling Coordinator)
 - Before sending Home Reminder 3, make sure RA's have completed Data Entry, Data Quality Check 1, and Data Quality Check 2.

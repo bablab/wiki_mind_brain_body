@@ -1,7 +1,7 @@
-## Protocols - Session 1   
+## W2 Protocols - Session 1   
 
 
-### Protocol - Welcome & Zoom Introduction 
+### W2 Protocol - Welcome & Zoom Introduction 
 
 
 [ONCE ZOOM IS CONNECTED] 
@@ -34,7 +34,7 @@ Researcher to open up the [MBB_W2_Consent_Script_Presentation](https://app.box.c
 
   
 
-### Protocol - Consent & Assent Online 
+### W2 Protocol - Consent & Assent Online 
 
 
 *Before we begin, I just wanted to let you know that in this study, we ask a lot of questions about family life and tough things that might have happened to kids. We are going to ask these questions to you and we ask a couple to your children as well, we just want to let you know that it is in our protocol to make sure everyone is safe, so if you or your child reveals to us that you're at current risk of harm or if you're at risk of harming someone else, then we will follow up with you and make sure everything is okay. If it is not, then we will take some steps to make sure that we keep everyone safe.*  
@@ -169,7 +169,7 @@ Researcher to grab magic box.
 
   
 
-### Protocol - Parent Child Observation Online 
+### W2 Protocol - Parent Child Observation Online 
 
   
 
@@ -265,7 +265,7 @@ Step 6:
 
   
 
-### Protocol - Halloween Training/Parent Questionnaires 
+### W2 Protocol - Halloween Training/Parent Questionnaires 
 
   
 
@@ -363,7 +363,7 @@ Researcher to open [gorilla](https://gorilla.sc) to track participant progress. 
 
   
 
-### Protocol - Height Online 
+### W2 Protocol - Height Online 
 
   
 
@@ -382,7 +382,7 @@ Researcher to open [gorilla](https://gorilla.sc) to track participant progress. 
 
   
 
-### Protocol - Weight Online 
+### W2 Protocol - Weight Online 
 
   
 
@@ -401,7 +401,7 @@ Researcher to open [gorilla](https://gorilla.sc) to track participant progress. 
 
   
 
-### Protocol - Waist Measurement Online 
+### W2 Protocol - Waist Measurement Online 
 
   
 
@@ -430,7 +430,7 @@ Researcher to open [gorilla](https://gorilla.sc) to track participant progress. 
 
   
 
-### Protocol - Halloween "Test" Online 
+### W2 Protocol - Halloween "Test" Online 
 
   
 
@@ -515,7 +515,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
   
 
-### Protocol - Saliva Sample Online 
+### W2 Protocol - Saliva Sample Online 
 
   
 
@@ -566,7 +566,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
   
 
-### Protocol - Hair Sample Online 
+### W2 Protocol - Hair Sample Online 
 
   
 
@@ -724,7 +724,7 @@ Participants can also watch the video below:
 
  
 
-### Protocol - Child Questionnaires Online 
+### W2 Protocol - Child Questionnaires Online 
 
   
 
@@ -811,7 +811,7 @@ For recollected surveys we will be sharing screen and reading out the survey to 
 
   
 
-### Protocol – Explaining at home part of Session 2 
+### W2 Protocol – Explaining at home part of Session 2 
 
   
 
@@ -850,7 +850,7 @@ For recollected surveys we will be sharing screen and reading out the survey to 
 
 ----------------- 
 
-### Protocol - Reporting
+### W2 Protocol - Reporting
 
 #### If an item on the "reporting" list is activated regarding potential Domestic Violence
 

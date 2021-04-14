@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  13 APR 2021 15:29
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  13 APR 2021 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,7 +410,197 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count295
-) (./Mind_Brain_Body.aux)
+) (./Mind_Brain_Body.aux
+
+LaTeX Warning: Label `child' multiply defined.
+
+
+LaTeX Warning: Label `parent' multiply defined.
+
+
+LaTeX Warning: Label `parent-proxy' multiply defined.
+
+
+LaTeX Warning: Label `parent-self' multiply defined.
+
+
+LaTeX Warning: Label `wasi' multiply defined.
+
+
+LaTeX Warning: Label `wiat' multiply defined.
+
+
+LaTeX Warning: Label `training-video' multiply defined.
+
+
+LaTeX Warning: Label `notes' multiply defined.
+
+
+LaTeX Warning: Label `filing' multiply defined.
+
+
+LaTeX Warning: Label `reminders' multiply defined.
+
+
+LaTeX Warning: Label `filing-1' multiply defined.
+
+
+LaTeX Warning: Label `data-entry' multiply defined.
+
+
+LaTeX Warning: Label `sample-storage' multiply defined.
+
+
+LaTeX Warning: Label `data-quality' multiply defined.
+
+
+LaTeX Warning: Label `retention' multiply defined.
+
+
+LaTeX Warning: Label `reimbursement' multiply defined.
+
+
+LaTeX Warning: Label `pre-screening' multiply defined.
+
+
+LaTeX Warning: Label `screening' multiply defined.
+
+
+LaTeX Warning: Label `other-screening-information' multiply defined.
+
+
+LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
+
+
+LaTeX Warning: Label `hair-length' multiply defined.
+
+
+LaTeX Warning: Label `sample-quality' multiply defined.
+
+
+LaTeX Warning: Label `sample-transfer' multiply defined.
+
+
+LaTeX Warning: Label `data-entry' multiply defined.
+
+
+LaTeX Warning: Label `data-quality' multiply defined.
+
+
+LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
+efined.
+
+
+LaTeX Warning: Label `w1-o-protocol---payment' multiply defined.
+
+
+LaTeX Warning: Label `package-preparation-magic-box' multiply defined.
+
+
+LaTeX Warning: Label `setup---1-hour-prior' multiply defined.
+
+
+LaTeX Warning: Label `notes' multiply defined.
+
+
+LaTeX Warning: Label `filing' multiply defined.
+
+
+LaTeX Warning: Label `reminders' multiply defined.
+
+
+LaTeX Warning: Label `filing-1' multiply defined.
+
+
+LaTeX Warning: Label `data-entry' multiply defined.
+
+
+LaTeX Warning: Label `reminders-1' multiply defined.
+
+
+LaTeX Warning: Label `package-confirmation' multiply defined.
+
+
+LaTeX Warning: Label `data-entry-1' multiply defined.
+
+
+LaTeX Warning: Label `filing-2' multiply defined.
+
+
+LaTeX Warning: Label `sample-storage' multiply defined.
+
+
+LaTeX Warning: Label `data-quality' multiply defined.
+
+
+LaTeX Warning: Label `retention' multiply defined.
+
+
+LaTeX Warning: Label `reimbursement' multiply defined.
+
+
+LaTeX Warning: Label `package-creation' multiply defined.
+
+
+LaTeX Warning: Label `activating-participant-on-gorilla' multiply defined.
+
+
+LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
+
+
+LaTeX Warning: Label `explanation' multiply defined.
+
+
+LaTeX Warning: Label `hair-length' multiply defined.
+
+
+LaTeX Warning: Label `if-there-is-not-enough-time' multiply defined.
+
+
+LaTeX Warning: Label `ages-8' multiply defined.
+
+
+LaTeX Warning: Label `ages-6-7' multiply defined.
+
+
+LaTeX Warning: Label `if-an-item-on-the-reporting-list-is-activated-regarding-p
+otential-domestic-violence' multiply defined.
+
+
+LaTeX Warning: Label `if-suicidal-ideation-arises' multiply defined.
+
+
+LaTeX Warning: Label `sample-transfer' multiply defined.
+
+
+LaTeX Warning: Label `sample-quality' multiply defined.
+
+
+LaTeX Warning: Label `data-entry' multiply defined.
+
+
+LaTeX Warning: Label `data-quality' multiply defined.
+
+
+LaTeX Warning: Label `relevant-protocols' multiply defined.
+
+
+LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
+efined.
+
+
+LaTeX Warning: Label `data-review' multiply defined.
+
+
+LaTeX Warning: Label `data-audit' multiply defined.
+
+
+LaTeX Warning: Label `getting-a-code-from-redcap' multiply defined.
+
+
+LaTeX Warning: Label `w2-protocol---payment' multiply defined.
+
+)
 \openout1 = `Mind_Brain_Body.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -2309,13 +2499,16 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9708.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9708.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
-(rerunfilecheck)             Checksum: 06C5310A918EB8EB89B9C757741E9211;5181.
+(rerunfilecheck)             Checksum: F821C486859288229E70EA20E5031D48;5634.
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 18808 strings out of 479418
- 346282 string characters out of 5884586
- 826837 words of memory out of 5000000
- 36022 multiletter control sequences out of 15000+600000
+ 18746 strings out of 479418
+ 345527 string characters out of 5884586
+ 824249 words of memory out of 5000000
+ 35960 multiletter control sequences out of 15000+600000
  538797 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,495s stack positions out of 5000i,500n,10000p,200000b,80000s

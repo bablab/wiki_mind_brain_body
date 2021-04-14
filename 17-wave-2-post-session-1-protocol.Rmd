@@ -1,8 +1,8 @@
-## Protocols - Post-Session 1   
+## W2 Protocols - Post-Session 1   
 
   
 
-### Protocol - Saving the Video 
+### W2 Protocol - Saving the Video 
 
   
 
@@ -38,7 +38,7 @@ Check the External drive for the participant's secondary ID number, and rename a
 
   
 
-### Protocol - Downloading the Gorilla task data 
+### W2 Protocol - Downloading the Gorilla task data 
 
   
 
@@ -76,7 +76,7 @@ NOTE: If the data downloads and the first line of the participant's data is ther
 
   
 
-### Protocol - Session 2 Confirmation Email 
+### W2 Protocol - Session 2 Confirmation Email 
 
   
 

@@ -1,8 +1,8 @@
-## Protocols - Child/Teen
+## W1 Protocols - Child/Teen
 
 -----------
 
-### Protocol - BioPac Electrode Hookup
+### W1 Protocol - BioPac Electrode Hookup
 
 #### Electrode Placement/Preparation
 
@@ -50,7 +50,7 @@
 
 -----------
 
-### Protocol - Memory Intrusion/Movie Watching
+### W1 Protocol - Memory Intrusion/Movie Watching
 
 - There are 4 counterbalanced versions of this task:
   - DRM_A_incongruent_first.psyexp
@@ -124,7 +124,7 @@
 
 --------------
 
-### Protocol - Halloween
+### W1 Protocol - Halloween
 
 - Check master counterbalance sheet and fill out the participant’s ID # in the group which you assigned them.
 - Seat the participant at the computer desk in the Bear’s Den. Close the door to ensure privacy and freedom from distractions.
@@ -164,7 +164,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ----------
 
-### Protocol - Disc/Cond/Ext
+### W1 Protocol - Disc/Cond/Ext
 
 #### Discrimination
 
@@ -196,7 +196,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ---------
 
-### Protocol - Height
+### W1 Protocol - Height
 
 - Place participant directly against wall/frame
 - Advise participant to stand up straight
@@ -207,7 +207,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 --------
 
 
-### Protocol - Hair Sample
+### W1 Protocol - Hair Sample
 
 #### Training video
 
@@ -294,7 +294,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ------------
 
-### Protocol - Weight
+### W1 Protocol - Weight
 
 - Instruct participant to step on weight scale
 - Measure weight (in kg)
@@ -302,7 +302,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
 
 ---------
 
-### Protocol - Saliva Sample
+### W1 Protocol - Saliva Sample
 
 Sample Storage:
 
@@ -311,7 +311,7 @@ Sample Storage:
 
 ---------------
 
-### Protocol - Memory Generalization
+### W1 Protocol - Memory Generalization
 
 #### Training
 
@@ -342,7 +342,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 
 ----------
 
-### Protocol - Waist Measurement
+### W1 Protocol - Waist Measurement
 
 - Stand and hold tape measure at the participant’s belly button and bring it around their waist, over their t-shirt
 - Make sure measuring tape is horizontal around the waist and even in the front and back 
@@ -352,7 +352,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 
 ------------
 
-### Protocol - WASI & WIAT
+### W1 Protocol - WASI & WIAT
 
 
 - Ensure that you have all of the following materials in the testing room:
@@ -423,7 +423,7 @@ Markers for physiology have been included for each trial type (object neutral, o
 
 --------------
 
-### Protocol - Blood Sample (DBS) 
+### W1 Protocol - Blood Sample (DBS) 
 
 #### DBS Prep
 
@@ -541,7 +541,7 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 
 ---------------
 
-### Protocol - Child Questionnaires
+### W1 Protocol - Child Questionnaires
 
 - Ask the participant how comfortable they are reading and comprehending in English
 - If not fully comfortable, read the questionnaires for the participant

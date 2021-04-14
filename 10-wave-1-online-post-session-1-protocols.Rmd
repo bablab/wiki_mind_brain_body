@@ -1,6 +1,6 @@
-## Protocols - Post-Session 1  
+## W1-O Protocols - Post-Session 1  
 
-### Protocol - Saving the Video
+### W1-O Protocol - Saving the Video
 
 Step 1:
 When the session is complete, click the bottom right hand button to end the meeting. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/7.png) You will immediately see this window pop up to indicate the recording is being converted and saving to your computer. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/8.png)
@@ -14,7 +14,7 @@ There will be three files in the folder- find the mp4 file and click open to ens
 Step 4:
 Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/11.png)
 
-### Protocol - Downloading the Gorilla task data
+### W1-O Protocol - Downloading the Gorilla task data
 
 1. Login to Gorilla.
 2. Make sure the participant that was just run is "included" before downloading data.
@@ -45,7 +45,7 @@ NOTE: If the data downloads and the first line of the participant's data is ther
 2. Go back to the version of the task that the participant belongs to, regenerate, and download data
 3. Check to see if all the participant's data is there 
 
-### Protocol - Session 2 Confirmation Email
+### W1-O Protocol - Session 2 Confirmation Email
 
 - If session scheduling has not changed, copy Zoom link and Session 2 time information into Session 2 Confirmation Email and send
 - If session scheduling has changed, update google calendar. Then, copy Zoom link and updated Session 2 time information into Session 2 Confirmation Email and send. 

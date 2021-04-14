@@ -1,7 +1,7 @@
-## Protocols - Pre-session 1 
+## W2 Protocols - Pre-session 1 
 
 
-### Protocol - Scheduling 
+### W2 Protocol - Scheduling 
 
 
 #### Important Notes 
@@ -83,7 +83,7 @@ If participant says “No” to participating:
 
 ----------  
 
-### Protocol - Session Preparation  
+### W2 Protocol - Session Preparation  
 
 
 #### Package creation 
