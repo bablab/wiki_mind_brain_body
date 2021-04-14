@@ -1,10 +1,10 @@
 # Wave 2 Online 
 
-## Checklists Online 
+## W2 Checklists Online 
 
 ----------- 
 
-### Checklist - Initial Online 
+### W2 Checklist - Initial Online 
 
 **Calling participants from REDCap** 
 
@@ -165,7 +165,7 @@ NOTE: all template emails are in bablab gmail
 
   
 
-### Checklist - Pre-Session 1 
+### W2 Checklist - Pre-Session 1 
 
 
 #### Package preparation: "magic box" 
@@ -288,7 +288,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
   
 
-### Checklist - Session 1  
+### W2 Checklist - Session 1  
 
 - Welcome & Introduction to Zoom (important features- chat) 
 - Session walk-through/package explanation 
@@ -315,7 +315,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
   
 
-### Checklist - Post-Session 1  
+### W2 Checklist - Post-Session 1  
 
 
 #### Notes 
@@ -351,7 +351,7 @@ NOTE: all template emails are in bablab gmail
 
   
 
-### Checklist - Pre-Session 2  
+### W2 Checklist - Pre-Session 2  
 
   
 
@@ -367,7 +367,7 @@ NOTE: all template emails are in bablab gmail
 
   
 
-### Checklist - Session 2  
+### W2 Checklist - Session 2  
 
 
 - Halloween test delay completed 
@@ -385,7 +385,7 @@ NOTE: all template emails are in bablab gmail
 
   
 
-### Checklist - Post-Session 2  
+### W2 Checklist - Post-Session 2  
 
 - Save and submit session 2 checklist on REDCap (halloween test delay information) 
 - Update Participant Log 
@@ -397,7 +397,7 @@ NOTE: all template emails are in bablab gmail
 
   
 
-### Checklist - Final Online 
+### W2 Checklist - Final Online 
 
   
 #### Filing  
@@ -513,7 +513,7 @@ NOTE: all template emails are in bablab gmail
 
   
 
-### Checklist - No Show 
+### W2 Checklist - No Show 
 
   
 

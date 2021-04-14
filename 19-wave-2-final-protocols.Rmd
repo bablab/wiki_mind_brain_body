@@ -2,11 +2,11 @@
 
  
 
-## Protocols - Final 
+## W2 Protocols - Final 
 
   
 
-### Protocol - Storing Saliva Sample  
+### W2 Protocol - Storing Saliva Sample  
 
   
 - Screw lids on very tight (to prevent evaporation) 
@@ -14,7 +14,7 @@
 
 ----------------- 
 
-### Protocol - Processing Saliva Sample
+### W2 Protocol - Processing Saliva Sample
 
 
 #### Sample Transfer 
@@ -74,14 +74,14 @@
 
 ----------------- 
 
-### Protocol - Storing Hair Sample  
+### W2 Protocol - Storing Hair Sample  
 
 - Store the sample in a dry area at room temperature 
 
 
 ----------------- 
 
-### Protocol - Storing Stool Sample 
+### W2 Protocol - Storing Stool Sample 
 
 
 #### Sample Quality  
@@ -158,7 +158,7 @@
 
 
 
-### Protocol - Tasso Blood Sample Storage  
+### W2 Protocol - Tasso Blood Sample Storage  
 
  
 - Lab manager should try to store sample within one day of receiving sample
@@ -172,7 +172,7 @@
 
   
 
-### Protocol - Data Entry & Data Quality 
+### W2 Protocol - Data Entry & Data Quality 
 
   
 
@@ -206,7 +206,7 @@ How to make a high to low resolution video - https://bablab.github.io/wiki_babla
 
   
 
-### Protocol - Data Review & Data Audit  
+### W2 Protocol - Data Review & Data Audit  
 
   
 
@@ -313,7 +313,7 @@ https://youtu.be/z_mQGyguaEY
 
  
 
-### Protocol - Report Card 
+### W2 Protocol - Report Card 
 
 
 1. Open a participant data folder 
@@ -338,7 +338,7 @@ https://youtu.be/z_mQGyguaEY
 
 
   
-### Protocol - Payment 
+### W2 Protocol - Payment 
 
   
 

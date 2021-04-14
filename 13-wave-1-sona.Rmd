@@ -8,7 +8,7 @@ Additional data collection of the 2 part Halloween task (for immediate and delay
 
 ## Measures - MBB SONA
 
-### SONA Questionnaires
+### SONA - Questionnaires
 
 | Title        | Description  | Reference  |
 | ------------ | ------------ | ---------- |
@@ -17,4 +17,4 @@ Additional data collection of the 2 part Halloween task (for immediate and delay
 
 -----------------
 
-## Halloween
+## SONA - Halloween

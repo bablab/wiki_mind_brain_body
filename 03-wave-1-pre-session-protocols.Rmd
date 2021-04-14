@@ -1,6 +1,6 @@
-## Protocols - Pre-Session
+## W1 Protocols - Pre-Session
 
-### Protocol - Recruitment
+### W1 Protocol - Recruitment
 
 #### Pre-Screening
 
@@ -76,7 +76,7 @@ If a parent has a concern about the study before the session, send the email tem
 
 ----------------
 
-### Protocol - Calendar
+### W1 Protocol - Calendar
 
 - Lab session events format
    - W1 MBBXXX - Lab Session
@@ -100,7 +100,7 @@ If a parent has a concern about the study before the session, send the email tem
         
 ----------------
 
-### Protocol - Home Kit Assembly
+### W1 Protocol - Home Kit Assembly
         
 Please refer to the diagram below for the complete list of items in a home kit:
 

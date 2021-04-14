@@ -1,8 +1,8 @@
-## Protocols - Session 2 
+## W2 Protocols - Session 2 
 
   
 
-### Protocol - Halloween Test Delay 
+### W2 Protocol - Halloween Test Delay 
 
   
 
@@ -84,7 +84,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
  
 
-### Protocol – Home Session Check In 
+### W2 Protocol – Home Session Check In 
 
  
 
@@ -106,7 +106,7 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 
  
 
-### Protocol – Tasso Blood Sample Online 
+### W2 Protocol – Tasso Blood Sample Online 
 
  **[Verify they consented to blood sample during session 1]**
 
@@ -146,7 +146,7 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 - Check that they write down date and time the blood sample was collected on the box the kit comes with 
 
 
-### Protocol - Mailing Package 
+### W2 Protocol - Mailing Package 
 
   
 
@@ -166,7 +166,7 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 
   
 
-### Protocol - Payment 
+### W2 Protocol - Payment 
 
   
 
@@ -174,7 +174,7 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 
 - Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment 
 
-### Protocol - Prize
+### W2 Protocol - Prize
 - Before showing prize options check [Prize Log](https://app.box.com/file/734579293509) to verify what prizes are available. 
 - Ask what prize they want. We will share screen and share the prize presentation. Whatever they choose researcher will make a note on checklist and lab manager will reference that when sending payment package. As prizes get claimed those choices will get crossed out.   
 
@@ -187,7 +187,7 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 *Great, we will send your prize with the payment!* 
 
 
-### Protocol - Testimonials 
+### W2 Protocol - Testimonials 
  
 [ Only ask if participants seem like a good candidate for a testimonial / had a particularly good experience particiapting.]
 
@@ -204,13 +204,13 @@ If no: *No problem at all, thank you for participating in our study!*
 
   
 
-## Protocols - Post-Session 2  
+## W2 Protocols - Post-Session 2  
 
   
 
   
 
-### Protocol - Downloading the Gorilla delay test data 
+### W2 Protocol - Downloading the Gorilla delay test data 
 
   
 
@@ -234,7 +234,7 @@ If no: *No problem at all, thank you for participating in our study!*
 
   
 
-### Protocol - Session 2 TO DO List Email 
+### W2 Protocol - Session 2 TO DO List Email 
 
   
 
@@ -244,7 +244,7 @@ If no: *No problem at all, thank you for participating in our study!*
 
  
 
-### Protocol – If blood sample not collected during session 2 
+### W2 Protocol – If blood sample not collected during session 2 
  
 
 - Add to calendar the date and time scheduled to meet with participant again to collect blood sample. This is going to be a session 3 of sorts. 
@@ -258,7 +258,7 @@ If no: *No problem at all, thank you for participating in our study!*
 - Change home session R2 call calendar event date to 15 days after "session 3"
 
 
-### Protocol - If participant had feedback to give
+### W2 Protocol - If participant had feedback to give
 
 - If participant provided feedback on their experience or had comments to give us make a note of it on the "other notes" section of the session 1 checklist on REDCap. Also send a message to lab manager with an overview of feedback provided and whether it is feedback we should consider for the future. 
 

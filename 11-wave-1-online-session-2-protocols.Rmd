@@ -1,6 +1,6 @@
-## Protocols - Session 2
+## W1-O Protocols - Session 2
 
-### Protocol - Halloween Test Delay
+### W1-O Protocol - Halloween Test Delay
 
 [Once Zoom is Connected]
 
@@ -39,7 +39,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 [Once confirmed, say] *Ok! Now you can get started!*
 
 
-### Protocol - Mailing Package
+### W1-O Protocol - Mailing Package
 
 *Next, I just want to check-in with you about mailing the package back to the lab.*
 
@@ -48,19 +48,19 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 - Double check that stool and saliva sample are correctly packed (tube in biohazard bag with cotton balls, inside rigid white box)
 - Drop off at any FedEx location or post box
 
-### Protocol - Payment
+### W1-O Protocol - Payment
 
 - Explain that once the return mailer has been received to the lab after the second session, we will send payment through the mail along with a few educational science kits
 - Explain that they should expect an email from us when we send the package, and if they haven't heard from us one week after we have sent the package, call to check-in about the payment
 
-### Protocol - Wave 2 Interview
+### W1-O Protocol - Wave 2 Interview
 
 - Researcher to open up REDCap Home Session Checklist and read script about Wave 2 Interview
 - Researcher to take notes on parent response
 
 *Usually we do these sessions in person, and for second wave of this study in one year from now, we'd love to have you come in person! Who knows what world will look like then, but I'd still like to ask some questions to gauge at a bare minimum what you would need to feel comfortable with coming back into the lab.*
 
-### Protocol - Testimonials
+### W1-O Protocol - Testimonials
 *We wanted to know if you are interested in providing a testimonial for our website about your experience participating in our Mind, Brain, and Body study. If you choose to provide a testimonial we will post it on our website. We would also include first name and your child's first name and age if you grant us permission to do so. Is that something you would be interested in?*
 
 If yes: *Great, thank you for your interest in sharing your experience! Please send us the testimonial via email and indicate whether we can include your names. It can also be anonymous if you would prefer that.*  
@@ -69,10 +69,10 @@ If no: *No problem at all, thank you for participating in our study!*
 
 -----------
 
-## Protocols - Post-Session 2 
+## W1-O Protocols - Post-Session 2 
 
 
-### Protocol - Downloading the Gorilla delay test data
+### W1-O Protocol - Downloading the Gorilla delay test data
 
 1. Login to Gorilla and navigate to the experiment's data tab.
 2. If data is up to date, you can go ahead and click download. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participant. 
@@ -84,14 +84,14 @@ If no: *No problem at all, thank you for participating in our study!*
 7. Open the correct delay test file and check that the participant's data is all there. NOTE: can check the participant's specific nodes to see the code of their halloween test delay, which will tell you which file their data is located in.
 8. Save this file in the Gorilla data folder on Box as "month_day_year.csv"
 
-### Protocol - Session 2 TO DO List Email
+### W1-O Protocol - Session 2 TO DO List Email
 
 - Fill in templated email with all leftover tasks for participant to complete
 - Add links to REDCap for their optional qualitative responses
 - Refrain from sending this email if they ONLY have qualitative responses left to do- participants will get 2+ emails through our "home reminder" system. This email is designed more for participants who have not done the stool sample yet, or still have outstanding tasks from Session 1 that we'd like to remind them about immediately/are time sensitive.
 
 
-### Protocol - If participant had feedback to give
+### W1-O Protocol - If participant had feedback to give
 
 - If participant provided feedback on their experience or had comments to give us make a note of it on the "other notes" section of the session 1 checklist on REDCap. Also send a message to lab manager with an overview of feedback provided and whether it is feedback we should consider for the future. 
 
