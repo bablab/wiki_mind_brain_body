@@ -9,22 +9,13 @@
 
 *Hi! Thank you so much for joining us today! We are so looking forward to today’s session with you. * 
 
-
 *Our session today should take around 2 hours long. In addition to what we do here today, there will be a follow up zoom appointment with us one week from now. At that appointment, we will reconnect on a second Zoom call in which your child will log on for 15 minutes and complete a computer game.* 
-
-  
 
 *I’ll be sending a message to the chat box just to make sure everything is working. You may already know this, but you can also display your camera so that it is in gallery view or speaker view in the top right corner. I think it might be best for you to do speaker view so it will feel more like we are in the room together!* 
 
-    
-
 *If for any reason, we lose each other over Zoom, the connection seems to be bad, or one of us freezes, lets leave the session and try to reconnect on the same link again. If I am frozen- feel free to leave and come back. If you leave and I don’t see you come back, I will try to give you a phone call!* 
 
-  
-
 *How does that sound? Do you have any questions?* 
-
-  
 
 [If no, say] *Great! Let’s switch gears and talk a little bit about what we are going to do today. Let me just pull up a little presentation we have got!*  
 
@@ -336,7 +327,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
   
 
-[Then, confirm they are on the right page] *You should be seeing a login screen that asks you to enter your participant ID screen.* 
+[Then, confirm they are on the right page] *You should be seeing a login screen that asks you to enter your primary participant ID screen.* 
 
 
 *Ok! If you are ready to start, we will just have you or Mom/Dad click "Log in" on [Child's name]'s page, and you can get started!* 
@@ -479,7 +470,7 @@ Researcher to open [gorilla](https://gorilla.sc) to track participant progress. 
 
   
 
-[Wait for child to log back on] 
+[Wait for child to log back on with primary participant ID] 
 
   
 

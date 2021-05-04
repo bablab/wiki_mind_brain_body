@@ -8,95 +8,52 @@
 
 [Once Zoom is Connected] 
 
-  
-
 *Hello! Welcome back to Session 2!* [Ask how they are doing, and if they were able to do the Stool Sample collection. Answer any questions they have about their Home Session tasks (Stool sample, BSS sheet, Contact list, ASA)] 
-
-  
 
 *So today we are just going to do one quick task, collect the blood sample ( if stool sample is done and they consented to blood sample), walk you through how to close up package and send it back to us, and then answer any questions you might have.* 
 
-  
-
 *OK! It is time to go back to our learning and memory section.* 
-
-  
 
 [Give child instructions on Halloween Test] [Researcher to open up the [halloween_part_3](https://app.box.com/file/784713950398)] 
 
-  
-
 *Ok [Child's name]- now we want to see how much of your trick-or-treating adventure you remember. You will see an instructions page like this first!* 
-
-  
 
 *You will first be shown food or a toy and will be asked if you saw that food or toy when you went trick-or-treating. This is where your memory kicks in!* 
 
-  
-
 *Here are some examples of what you might see.* 
-
-  
 
 *The next set of questions show the scenes that you visited and asks what food was found there and where it was located on the screen.* 
 
+*Here are examples of what this looks like!*
   
-
-*Here are examples of what this looks like!* 
-
-  
-
 *We also want you to remember that this is not a test! Just try your best!* 
-
-  
 
 *When you finish, all you have to do is let me know!* 
 
-  
-
 [Researcher to stop sharing screen.] 
-
-  
 
 *So to get you setup for the computer game, we will send you a link through the Zoom chat now. Let me know once the link has loaded.* 
 
- 
-
-[Wait for child to log back on] 
-
-  
+[Wait for child to log back on with primary MBB ID] 
 
 If necessary - the link can be found [here](https://research.sc/participant/login/20451/publicid). 
 
-  
-
 [Confirm that they are on the correct page]  
 
-  
-
 [Once confirmed, say] *Ok! Now you can get started!* 
-
- 
 
 [Once finished with game] 
 
 *[Child's name] great job! Now that we are done with the computer game.* 
 
- 
 
 ### W2 Protocol – Home Session Check In 
 
- 
-
 *I wanted to check in if you were able to do the poop sample, fill out the BSS and finish the parent_proxy and parent_self surveys?* 
-
- 
 
 If yes: *“ Great, thank you for completing all of that before our session today!* 
 
 Proceed to doing blood sample.  
-
- 
 
 If no: *When do you think you will be able to finish? We will need to schedule a short 5 minute Zoom call within the next week so we can collect the blood sample. The sooner we are able to do that the better.* 
 
@@ -202,26 +159,16 @@ If no: *No problem at all, thank you for participating in our study!*
 
 ----------- 
 
-  
-
 ## W2 Protocols - Post-Session 2  
 
-  
-
-  
 
 ### W2 Protocol - Downloading the Gorilla delay test data 
-
-  
 
 1. Login to Gorilla and navigate to the experiment's data tab. 
 
 2. If data is up to date, you can go ahead and click download. NOTE: ENSURE you are on the correct VERSION PICKER. You can double check your participant's version number in the "recruitment" tab where the participant lives. Change the version picker to the correct version for that participant.  
 
-  
-
 3. If data is not up to date, scroll down and click the necessary options, then click "Regenerate Data". 
-
 4. You will see a wait screen as it generates. 
 
 5. After a few minutes click into "Manage experiment data" again and download.  
@@ -232,25 +179,38 @@ If no: *No problem at all, thank you for participating in our study!*
 
 8. Save this file in the Gorilla data folder on Box as "month_day_year.csv" 
 
+
+### W2 Protocol - Downloading the ASA data 
+
+1. Navigate to the [ASA website](https://asa24.nci.nih.gov) - Slack Lab Manager or check internal for login
+2. Check whether participant has completed their ASA surveys by clicking on "Track Recall/Record"
+  - User IDs for Wave 2 should take the format of MBB2999
+  - Scroll to the bottom of the list for the most recent entries
+3. If the participant has completed the ASA, download their nutrition report
+  - Scroll to the right and click on the "View" button under the Nutrition Report column
+  - Click File>Print then Save as PDF under the naming convention "MBB2999_asa_nutrition_profile.pdf"
+  - Save to the participant's Wave 2 MBB data folder in the Report_card folder and delete the 999 template
+4. If there is no nutrition report, it is because the particiant neglected to fill out crucial information (e.g. age, sex, pregnancy questions) that ASA requires in order to build the report. We cannot get the report unless the participant were to redo the entire survey, so move to step 5 if this is the case.
+5. If the participant has completed the ASA, we also need to get their data outputs
+  - Click on "Analytic Files" and select "One Respondent"
+  - Type in the participant's MBB2999 ID in the User Name
+  - Select "Download analysis files" and you should get 6 csv files in your downloads folder
+  - Rename the files according to the templates in the participant's MBB data folder in questionnaires>asa and save 
+6. Mark off as complete on the Wave 2 data entry sheet of the participant log
   
 
 ### W2 Protocol - Session 2 TO DO List Email 
-
-  
 
 - Fill in templated email with all leftover tasks for participant to complete 
 
 - This email is designed more for participants who have not done the stool sample yet, or still have outstanding tasks from Session 1 that we'd like to remind them about immediately/are time sensitive. 
 
- 
 
 ### W2 Protocol – If blood sample not collected during session 2 
  
 
 - Add to calendar the date and time scheduled to meet with participant again to collect blood sample. This is going to be a session 3 of sorts. 
-
 - Change home session R1 email 1 calendar event date to one week from blood sample collection (session 3 )  
-
 - Change home session R1 call calendar event date to 8 days after "session 3"  
 
 - Change home session R2 email calendar event date to two weeks after "session 3"

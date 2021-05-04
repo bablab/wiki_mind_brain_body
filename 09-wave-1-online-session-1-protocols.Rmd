@@ -171,7 +171,7 @@ Step 6:
 
 If necessary - the link can be found [here](https://research.sc/participant/login/20451/publicid).
 
-[Then, confirm they are on the right page] *You should be seeing a login screen that asks you to enter your participant ID screen.*
+[Then, confirm they are on the right page] *You should be seeing a login screen that asks you to enter your primary participant ID screen.*
 
 ![<!--- Halloween login screen --->](images/halloween/7.png)
 
@@ -274,7 +274,7 @@ If necessary - the link can be found [here](https://research.sc/participant/logi
 
 *Can you please go back to the "Gorilla" website. If you still have the browser up that's great - please refresh the screen to continue. If not, you can go back to the same link as before and enter your MBB ID. Here you will be completing the second part of the computer game.*
 
-[Wait for child to log back on]
+[Wait for child to log back on with their PRIMARY MBB ID]
 
 If necessary - the link can be found [here](https://research.sc/participant/login/20451/publicid).
 

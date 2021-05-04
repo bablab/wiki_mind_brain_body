@@ -30,7 +30,7 @@
 
 *Can you please go back to the "Gorilla" website. If you still have the browser up that's great - please refresh the screen to continue. If not, you can go back to the same link as before and enter your MBB ID. Here you will be completing the second part of the computer game.*
 
-[Wait for child to log back on]
+[Wait for child to log back on with primary MBB ID]
 
 If necessary - the link can be found [here](https://research.sc/participant/login/20451/publicid).
 
