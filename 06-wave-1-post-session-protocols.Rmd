@@ -75,6 +75,26 @@
 
 -----------------
 
+### W1 Protocol -  Downloading the ASA data 
+
+1. Navigate to the [ASA website](https://asa24.nci.nih.gov) - Slack Lab Manager or check internal for login
+2. Check whether participant has completed their ASA surveys by clicking on "Track Recall/Record"
+  - User IDs for Wave 1 should take the format of MBB999
+  - Scroll to the bottom of the list for the most recent entries
+3. If the participant has completed the ASA, download their nutrition report
+  - Scroll to the right and click on the "View" button under the Nutrition Report column
+  - Click File>Print then Save as PDF under the naming convention "MBB999_asa_nutrition_profile.pdf"
+  - Save to the participant's Wave 1 MBB data folder in the Report_card folder and delete the 999 template
+4. If there is no nutrition report, it is because the particiant neglected to fill out crucial information (e.g. age, sex, pregnancy questions) that ASA requires in order to build the report. We cannot get the report unless the participant were to redo the entire survey, so move to step 5 if this is the case.
+5. If the participant has completed the ASA, we also need to get their data outputs
+  - Click on "Analytic Files" and select "One Respondent"
+  - Type in the participant's MBB999 ID in the User Name
+  - Select "Download analysis files" and you should get 6 csv files in your downloads folder
+  - Rename the files according to the templates in the participant's MBB data folder in questionnaires>asa and save 
+6. Mark off as complete on the Wave 1 data entry sheet of the participant log
+
+-----------------
+
 ### W1 Protocol - Report Card Generation
 
 1. Open a participant data folder

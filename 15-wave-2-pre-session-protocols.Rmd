@@ -109,4 +109,12 @@ If participant says “No” to participating:
 
 *see pre-session 1 Wave 1 for further details  
 
+
+#### Obtaining ASA codes
+
+1. Navigate to Box (BABLAB>Studies>Mind_Brain_Body>ID_drive>MBB_asa_usernames_passwords)
+2. **Remember: you CANNOT copy the username into the confirmation email, due to its identifying nature**
+3. Participants should have this information on an "ASA Cover sheet" in their paper parentproxy packets
+  - Another place to check their ASA codes is their ASA Cover sheet which is located in their MBB Wave 2 data folders in Info>asa_cover_sheet
+
 --------------
