@@ -69,15 +69,20 @@
 #### Data Entry
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp9M56f8ViY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Data Entry Checks
+
+[Data Entry Checks Video](https://app.box.com/file/805857407548) 
+
+
 #### Data Quality
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJJMLXLyiaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Relevant Protocols
 
-How to burn a CD - https://bablab.github.io/wiki_bablab/lab-protocols.html#burning-cds
+[How to burn a CD](https://bablab.github.io/wiki_bablab/lab-protocols.html#burning-cd)
 
-How to make a high to low resolution video - https://bablab.github.io/wiki_bablab/lab-protocols.html#high-to-low-res-video
+[How to make a high to low resolution video](https://bablab.github.io/wiki_bablab/lab-protocols.html#high-to-low-res-video)
 
 -----------------
 
@@ -90,7 +95,7 @@ How to make a high to low resolution video - https://bablab.github.io/wiki_babla
 
 #### Data Review
 
-https://youtu.be/z_mQGyguaEY
+[Data Review Video](https://youtu.be/z_mQGyguaEY)
 
 - Once card has been created, do Data Review.
 - Checking for completion of:

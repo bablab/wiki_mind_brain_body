@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  4 MAY 2021 11:29
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  2 JUN 2021 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -410,197 +410,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count295
-) (./Mind_Brain_Body.aux
-
-LaTeX Warning: Label `child' multiply defined.
-
-
-LaTeX Warning: Label `parent' multiply defined.
-
-
-LaTeX Warning: Label `parent-proxy' multiply defined.
-
-
-LaTeX Warning: Label `parent-self' multiply defined.
-
-
-LaTeX Warning: Label `wasi' multiply defined.
-
-
-LaTeX Warning: Label `wiat' multiply defined.
-
-
-LaTeX Warning: Label `training-video' multiply defined.
-
-
-LaTeX Warning: Label `notes' multiply defined.
-
-
-LaTeX Warning: Label `filing' multiply defined.
-
-
-LaTeX Warning: Label `reminders' multiply defined.
-
-
-LaTeX Warning: Label `filing-1' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `sample-storage' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `retention' multiply defined.
-
-
-LaTeX Warning: Label `reimbursement' multiply defined.
-
-
-LaTeX Warning: Label `pre-screening' multiply defined.
-
-
-LaTeX Warning: Label `screening' multiply defined.
-
-
-LaTeX Warning: Label `other-screening-information' multiply defined.
-
-
-LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
-
-
-LaTeX Warning: Label `hair-length' multiply defined.
-
-
-LaTeX Warning: Label `sample-quality' multiply defined.
-
-
-LaTeX Warning: Label `sample-transfer' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
-efined.
-
-
-LaTeX Warning: Label `w1-o-protocol---payment' multiply defined.
-
-
-LaTeX Warning: Label `package-preparation-magic-box' multiply defined.
-
-
-LaTeX Warning: Label `setup---1-hour-prior' multiply defined.
-
-
-LaTeX Warning: Label `notes' multiply defined.
-
-
-LaTeX Warning: Label `filing' multiply defined.
-
-
-LaTeX Warning: Label `reminders' multiply defined.
-
-
-LaTeX Warning: Label `filing-1' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `reminders-1' multiply defined.
-
-
-LaTeX Warning: Label `package-confirmation' multiply defined.
-
-
-LaTeX Warning: Label `data-entry-1' multiply defined.
-
-
-LaTeX Warning: Label `filing-2' multiply defined.
-
-
-LaTeX Warning: Label `sample-storage' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `retention' multiply defined.
-
-
-LaTeX Warning: Label `reimbursement' multiply defined.
-
-
-LaTeX Warning: Label `package-creation' multiply defined.
-
-
-LaTeX Warning: Label `activating-participant-on-gorilla' multiply defined.
-
-
-LaTeX Warning: Label `set-up-hair-sample-station' multiply defined.
-
-
-LaTeX Warning: Label `explanation' multiply defined.
-
-
-LaTeX Warning: Label `hair-length' multiply defined.
-
-
-LaTeX Warning: Label `if-there-is-not-enough-time' multiply defined.
-
-
-LaTeX Warning: Label `ages-8' multiply defined.
-
-
-LaTeX Warning: Label `ages-6-7' multiply defined.
-
-
-LaTeX Warning: Label `if-an-item-on-the-reporting-list-is-activated-regarding-p
-otential-domestic-violence' multiply defined.
-
-
-LaTeX Warning: Label `if-suicidal-ideation-arises' multiply defined.
-
-
-LaTeX Warning: Label `sample-transfer' multiply defined.
-
-
-LaTeX Warning: Label `sample-quality' multiply defined.
-
-
-LaTeX Warning: Label `data-entry' multiply defined.
-
-
-LaTeX Warning: Label `data-quality' multiply defined.
-
-
-LaTeX Warning: Label `relevant-protocols' multiply defined.
-
-
-LaTeX Warning: Label `follow-up-completed-by-scheduling-coordinator' multiply d
-efined.
-
-
-LaTeX Warning: Label `data-review' multiply defined.
-
-
-LaTeX Warning: Label `data-audit' multiply defined.
-
-
-LaTeX Warning: Label `getting-a-code-from-redcap' multiply defined.
-
-
-LaTeX Warning: Label `w2-protocol---payment' multiply defined.
-
-)
+) (./Mind_Brain_Body.aux)
 \openout1 = `Mind_Brain_Body.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -2187,17 +1997,13 @@ File: images/gorilla/9.png Graphic file (type bmp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [149] [150] [151] [152] [153] [154] [155]
-Underfull \hbox (badness 1314) in paragraph at lines 6509--6510
-\TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
-[][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
-
- []
+Underfull \vbox (badness 3792) has occurred while \output is active []
 
 [156] [157]
 File: images/redcap_code/1.png Graphic file (type bmp)
 <images/redcap_code/1.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6651--6653
+Underfull \hbox (badness 10000) in paragraph at lines 6656--6658
 [][]
  []
 
@@ -2208,14 +2014,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: images/redcap_code/2.png Graphic file (type bmp)
 <images/redcap_code/2.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6654--6656
+Underfull \hbox (badness 10000) in paragraph at lines 6659--6661
 [][]
  []
 
 File: images/redcap_code/3.png Graphic file (type bmp)
 <images/redcap_code/3.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6657--6659
+Underfull \hbox (badness 10000) in paragraph at lines 6662--6664
 [][]
  []
 
@@ -2228,7 +2034,7 @@ File: images/redcap_code/4.png Graphic file (type bmp)
 File: images/redcap_code/5.png Graphic file (type bmp)
 <images/redcap_code/5.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 6663--6665
+Underfull \hbox (badness 10000) in paragraph at lines 6668--6670
 [][]
  []
 
@@ -2246,7 +2052,7 @@ File: images/report_card_online/3.png Graphic file (type bmp)
 File: images/report_card_online/5.png Graphic file (type bmp)
 <images/report_card_online/5.png>
 
-Overfull \hbox (183.60107pt too wide) in paragraph at lines 6733--6735
+Overfull \hbox (183.60107pt too wide) in paragraph at lines 6738--6740
 []\TU/lmr/m/n/10 If there are no comments, delete this page. [] 
  []
 
@@ -2263,166 +2069,166 @@ Chapter 5.
 ] [168]
 Chapter 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6938--6940
+Underfull \hbox (badness 10000) in paragraph at lines 6943--6945
 
  []
 
 [169
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 6965--6967
+Underfull \hbox (badness 10000) in paragraph at lines 6970--6972
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6969--6971
+Underfull \hbox (badness 10000) in paragraph at lines 6974--6976
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6971--6973
+Underfull \hbox (badness 10000) in paragraph at lines 6976--6978
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6991--6993
+Underfull \hbox (badness 10000) in paragraph at lines 6996--6998
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7022--7024
+Underfull \hbox (badness 10000) in paragraph at lines 7027--7029
 
  []
 
 [170]
-Underfull \hbox (badness 10000) in paragraph at lines 7045--7047
+Underfull \hbox (badness 10000) in paragraph at lines 7050--7052
 
  []
 
 [171]
-Underfull \hbox (badness 10000) in paragraph at lines 7148--7150
+Underfull \hbox (badness 10000) in paragraph at lines 7153--7155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7209--7211
+Underfull \hbox (badness 10000) in paragraph at lines 7214--7216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7219--7221
+Underfull \hbox (badness 10000) in paragraph at lines 7224--7226
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7223--7224
+Underfull \hbox (badness 10000) in paragraph at lines 7228--7229
 
  []
 
 [172]
-Underfull \hbox (badness 10000) in paragraph at lines 7291--7293
+Underfull \hbox (badness 10000) in paragraph at lines 7296--7298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7293--7295
+Underfull \hbox (badness 10000) in paragraph at lines 7298--7300
 
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 7297--7298
+Underfull \hbox (badness 1270) in paragraph at lines 7302--7303
 []\TU/lmr/m/n/10 At this stage packages shouldn’t be missing so home session
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7306--7308
+Underfull \hbox (badness 10000) in paragraph at lines 7311--7313
 
  []
 
 [173]
-Underfull \hbox (badness 10000) in paragraph at lines 7351--7353
+Underfull \hbox (badness 10000) in paragraph at lines 7356--7358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7421--7423
+Underfull \hbox (badness 10000) in paragraph at lines 7426--7428
 
  []
 
 [174]
-Underfull \hbox (badness 10000) in paragraph at lines 7429--7431
+Underfull \hbox (badness 10000) in paragraph at lines 7434--7436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7481--7483
+Underfull \hbox (badness 10000) in paragraph at lines 7486--7488
 
  []
 
 [175] [176]
-Underfull \hbox (badness 2875) in paragraph at lines 7581--7583
+Underfull \hbox (badness 2875) in paragraph at lines 7586--7588
 []\TU/lmr/m/n/10 Parent-child observation (note recording via Zoom or participa
 nt
  []
 
 [177]
-Underfull \hbox (badness 10000) in paragraph at lines 7699--7701
+Underfull \hbox (badness 10000) in paragraph at lines 7704--7706
 
  []
 
 
-Overfull \hbox (18.18002pt too wide) in paragraph at lines 7709--7710
+Overfull \hbox (18.18002pt too wide) in paragraph at lines 7714--7715
 []\TU/lmr/m/n/10 Walk through package to send back (check “mbb_online_package_c
 hecklists”)
  []
 
 [178] [179] [180]
-Underfull \hbox (badness 10000) in paragraph at lines 7919--7921
+Underfull \hbox (badness 10000) in paragraph at lines 7924--7926
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7949--7951
+Underfull \hbox (badness 10000) in paragraph at lines 7954--7956
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7951--7953
+Underfull \hbox (badness 10000) in paragraph at lines 7956--7958
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7953--7955
+Underfull \hbox (badness 10000) in paragraph at lines 7958--7960
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7955--7957
+Underfull \hbox (badness 10000) in paragraph at lines 7960--7962
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7957--7959
+Underfull \hbox (badness 10000) in paragraph at lines 7962--7964
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7959--7961
+Underfull \hbox (badness 10000) in paragraph at lines 7964--7966
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7961--7963
+Underfull \hbox (badness 10000) in paragraph at lines 7966--7968
 
  []
 
 [181] [182] [183]
-Underfull \hbox (badness 10000) in paragraph at lines 8141--8143
+Underfull \hbox (badness 10000) in paragraph at lines 8146--8148
 
  []
 
 [184]
-Overfull \hbox (137.95001pt too wide) in paragraph at lines 8171--8173
+Overfull \hbox (137.95001pt too wide) in paragraph at lines 8176--8178
 []\TU/lmr/m/n/10 Navigate to Box (BABLAB>Studies>Mind_Brain_Body>ID_drive>MBB_a
 sa_usernames_passwords) 
  []
@@ -2432,64 +2238,64 @@ sa_usernames_passwords)
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
 [201] [202] [203] [204] [205] [206] [207] [208]
-Underfull \hbox (badness 1152) in paragraph at lines 9195--9197
+Underfull \hbox (badness 1152) in paragraph at lines 9200--9202
 []\TU/lmr/m/n/10 Click File>Print then Save as PDF under the naming convention
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9247--9249
+Underfull \hbox (badness 10000) in paragraph at lines 9252--9254
 
  []
 
 [209]
-Underfull \hbox (badness 10000) in paragraph at lines 9326--9328
+Underfull \hbox (badness 10000) in paragraph at lines 9331--9333
 
  []
 
 [210] [211] [212]
-Underfull \hbox (badness 10000) in paragraph at lines 9457--9459
+Underfull \hbox (badness 10000) in paragraph at lines 9462--9464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9459--9461
+Underfull \hbox (badness 10000) in paragraph at lines 9464--9466
 
  []
 
 [213] [214]
-Underfull \hbox (badness 1314) in paragraph at lines 9558--9559
+Underfull \hbox (badness 1314) in paragraph at lines 9563--9564
 \TU/lmr/m/n/10 How to burn a CD - []$[][][][][] [] [] [] [][][][][][] [] [][][]
 [][][] [] [][] [] [][][][] [] [][][][][][] [] [][][] [][] [][][][][][][][][] []
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9604--9606
+Underfull \hbox (badness 10000) in paragraph at lines 9609--9611
 
  []
 
 [215] [216]
-Underfull \hbox (badness 10000) in paragraph at lines 9698--9700
+Underfull \hbox (badness 10000) in paragraph at lines 9703--9705
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9700--9702
+Underfull \hbox (badness 10000) in paragraph at lines 9705--9707
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9702--9704
+Underfull \hbox (badness 10000) in paragraph at lines 9707--9709
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9704--9706
+Underfull \hbox (badness 10000) in paragraph at lines 9709--9711
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9706--9708
+Underfull \hbox (badness 10000) in paragraph at lines 9711--9713
 
  []
 
@@ -2501,7 +2307,7 @@ Chapter 7.
 File: images/zoom_parent_child_interaction/13.png Graphic file (type bmp)
 <images/zoom_parent_child_interaction/13.png>
 
-Overfull \hbox (408.57002pt too wide) in paragraph at lines 9860--9861
+Overfull \hbox (408.57002pt too wide) in paragraph at lines 9865--9866
 []\TU/lmr/m/n/10 The video will appear to the researchers in our Box under BABL
 AB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_parent_child_intera
 ctions/Uploads 
@@ -2510,24 +2316,21 @@ ctions/Uploads
 (./Mind_Brain_Body.bbl [220] [221
 
 ] [222] [223])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9866.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9871.
 [224]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 9866.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 9871.
 (./Mind_Brain_Body.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9866.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9866.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 9871.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 9871.
 
 Package rerunfilecheck Info: File `Mind_Brain_Body.out' has not changed.
 (rerunfilecheck)             Checksum: F821C486859288229E70EA20E5031D48;5634.
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 18749 strings out of 479418
- 345628 string characters out of 5884586
- 824458 words of memory out of 5000000
- 35963 multiletter control sequences out of 15000+600000
+ 18812 strings out of 479418
+ 346848 string characters out of 5884586
+ 828097 words of memory out of 5000000
+ 36026 multiletter control sequences out of 15000+600000
  538797 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,6n,118p,3020b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
