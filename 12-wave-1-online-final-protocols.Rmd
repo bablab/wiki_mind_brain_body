@@ -167,6 +167,74 @@
 ![<!--- Getting REDCap Code --->](images/redcap_code/5.png)
 6. Copy and paste web address and code + send to email to participant
 
+-----------------
+
+### W1-O Protocol - Data Entry Check Board Audits 
+
+RA’s will be conducting Data Entry Checks to ensure that all data collected from MBB participants is accurately entered in REDcap. To audit the data entry checks, read over all notes in the Data Entry CHECK tab in the MBB_participant_log to identify errors that need to be fixed (ie. data entered incorrectly, discrepancy between paper copy and REDcap form).
+
+1.	Open the MBB_participant_log and go to the Data Entry CHECK tab for whichever wave you are checking.
+
+    **GREEN** items are attributed to completed/accurate sections, OR if an RA had found a discrepancy between the REDcap and paper copy and was able to fix it themselves.
+
+    **YELLOW** items are attributed to incomplete sections where:
+      - participant did not complete (paper is blank)
+      - participant was not given this survey (not given on paper)
+
+      These items were most likely not completed by the participant, so there will be no data to verify.
+
+    **RED** items are attributed to sections where:
+      - data is missing on REDCap from paper copy, but no place to put it on REDCap
+      - data is added on REDCap but not on paper copy
+      - data entry is missing but illegible
+      - any other less common discrepancies that need to be double checked
+      
+      **These items have been flagged by an RA and require auditing.**
+
+2. Open REDcap and go to corresponding MBB participant that requires auditing.
+    - For any flagged items, read notes on Participant Log and the participant’s REDCap to get an idea of the issue.  If necessary, locate the participant’s paper copy in their “Data” folder to verify the discrepancy. (Can be found in BABLAB > Studies >  Mind_Brain_Body > Data > (wave) > Wave_online_data)
+
+**IF** the issue is fixable, edit the item on REDcap to match the paper copy, and note the item as Complete on the MBB_participant_log.
+
+**IF** there is a discrepancy between the paper copy and REDcap, check an updated version of the paper copy to verify whether this discrepancy has been fixed since the participant completed the study. The paper copies can be found at BABLAB > Studies > Mind_Brain_Body > Documents > Questionnaires > Wave_X (specific to which wave you are checking)
+  - If the paper copy has not been updated, make a note and report to lab manager.
+  - Either way, ask lab manager whether we need to contact participant to retrieve the missing data. 
+
+**IF** the issue is not fixable – write detailed notes of where the discrepancy needs to be fixed, and report it to the Lab Manager. Lab Manager should assess the amount of items missing, the importance of the items to the scale and to the overall study, and the process in which audits have been conducted to see if it would be convenient to re-request such information. After assessing such details, the Lab Manager should decide how to proceed with the issue on a base-by-base situation. 
+
+**IF** there is an instance where the paper copy is illegible, or multiple options have been selected, verify with Lab Manager on how it should be entered onto REDcap. Lab Manager should refer to the above details to assess what the importance of the item is. Lab Manager should then decide whether or not to recontact the participant for explanations on illegible handwriting.
+
+
+**Examples:** 
+
+**Participant:** MBB033
+
+**Item:** Covid_Objective_Parentproxy
+
+**Issue:** “Did your child’s school close due to outbreak” answer not inputted into Redcap, which didn’t activate the rest of questions to be entered. Participant answered “Yes” and “homeschooled” and answered rest of questions, however the follow-up questions were not inputted into redcap, because only one option can be selected for “Did your child’s school close due to outbreak”
+
+**Resolve:** In this situation, we may assume that the participant should have circled “yes” in order to activate the branch logic-ed items on REDCap that they did fill out on paper, which must have applied to them. 
+
+
+**Participant:** MBB033
+
+**Item:** Demographics_parentproxy
+
+**Issue:** Participant selected “bachelors degree” AND “other” and wrote Theatre degree
+
+**Resolve:** Because we are looking how many years they studied (professional; bachelors, etc.) it doesn’t matter which type of degree they specify if so.
+
+
+**Participant:** MBB035
+
+**Item:** Cbcl_parentproxy
+
+**Issue:** Participant selected “not true” AND “sometimes true” however, it looks like a mistake because they often erased and changed their answers and may have forgotten to erase one of the checkmarks.
+
+**Resolve:** For not true and sometimes true, probably would make it sometimes true (not zero)
+For sometimes true and true, choose the middle - So select sometimes true in this case. The one that would impact composite the least.
+
+-----------------
 
 ### W1-O Protocol - Report Card
 

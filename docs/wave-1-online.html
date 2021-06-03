@@ -190,6 +190,7 @@
 <li class="chapter" data-level="" data-path="wave-1-online.html"><a href="wave-1-online.html#w1-o-protocol---storing-stool-sample"><i class="fa fa-check"></i>W1-O Protocol - Storing Stool Sample</a></li>
 <li class="chapter" data-level="" data-path="wave-1-online.html"><a href="wave-1-online.html#w1-o-protocol---data-entry-data-quality"><i class="fa fa-check"></i>W1-O Protocol - Data Entry &amp; Data Quality</a></li>
 <li class="chapter" data-level="" data-path="wave-1-online.html"><a href="wave-1-online.html#w1-o-protocol---data-review-data-audit"><i class="fa fa-check"></i>W1-O Protocol - Data Review &amp; Data Audit</a></li>
+<li class="chapter" data-level="" data-path="wave-1-online.html"><a href="wave-1-online.html#w1-o-protocol---data-entry-check-board-audits"><i class="fa fa-check"></i>W1-O Protocol - Data Entry Check Board Audits</a></li>
 <li class="chapter" data-level="" data-path="wave-1-online.html"><a href="wave-1-online.html#w1-o-protocol---report-card"><i class="fa fa-check"></i>W1-O Protocol - Report Card</a></li>
 <li class="chapter" data-level="" data-path="wave-1-online.html"><a href="wave-1-online.html#w1-o-protocol---payment-1"><i class="fa fa-check"></i>W1-O Protocol - Payment</a></li>
 </ul></li>
@@ -269,6 +270,12 @@
 <li class="chapter" data-level="" data-path="troubleshooting.html"><a href="troubleshooting.html#troubleshooting---links"><i class="fa fa-check"></i>Troubleshooting - Links</a></li>
 <li class="chapter" data-level="" data-path="troubleshooting.html"><a href="troubleshooting.html#troubleshooting---internet-issues"><i class="fa fa-check"></i>Troubleshooting - Internet Issues</a></li>
 <li class="chapter" data-level="" data-path="troubleshooting.html"><a href="troubleshooting.html#troubleshooting---pc-interactions"><i class="fa fa-check"></i>Troubleshooting - PC Interactions</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="between-waves-protocol.html"><a href="between-waves-protocol.html"><i class="fa fa-check"></i>Between Waves Protocol</a><ul>
+<li class="chapter" data-level="" data-path="between-waves-protocol.html"><a href="between-waves-protocol.html#between-waves---database-formation"><i class="fa fa-check"></i>Between Waves - Database Formation</a></li>
+<li class="chapter" data-level="" data-path="between-waves-protocol.html"><a href="between-waves-protocol.html#between-waves---redcap"><i class="fa fa-check"></i>Between Waves - Redcap</a></li>
+<li class="chapter" data-level="" data-path="between-waves-protocol.html"><a href="between-waves-protocol.html#between-waves---gorilla"><i class="fa fa-check"></i>Between Waves - Gorilla</a></li>
+<li class="chapter" data-level="" data-path="between-waves-protocol.html"><a href="between-waves-protocol.html#between-waves---ordering"><i class="fa fa-check"></i>Between Waves - Ordering</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
@@ -1832,8 +1839,56 @@ Check the External drive for the participant’s secondary ID number, and rename
 5. Click Survey Access Code and QR Code</p>
 <p><img src="images/redcap_code/5.png" alt="" />
 6. Copy and paste web address and code + send to email to participant</p>
+<hr />
 </div>
 </div>
+</div>
+<div id="w1-o-protocol---data-entry-check-board-audits" class="section level3">
+<h3>W1-O Protocol - Data Entry Check Board Audits</h3>
+<p>RA’s will be conducting Data Entry Checks to ensure that all data collected from MBB participants is accurately entered in REDcap. To audit the data entry checks, read over all notes in the Data Entry CHECK tab in the MBB_participant_log to identify errors that need to be fixed (ie. data entered incorrectly, discrepancy between paper copy and REDcap form).</p>
+<ol style="list-style-type: decimal">
+<li><p>Open the MBB_participant_log and go to the Data Entry CHECK tab for whichever wave you are checking.</p>
+<p><strong>GREEN</strong> items are attributed to completed/accurate sections, OR if an RA had found a discrepancy between the REDcap and paper copy and was able to fix it themselves.</p>
+<strong>YELLOW</strong> items are attributed to incomplete sections where:
+<ul>
+<li>participant did not complete (paper is blank)</li>
+<li>participant was not given this survey (not given on paper)</li>
+</ul>
+<p>These items were most likely not completed by the participant, so there will be no data to verify.</p>
+<strong>RED</strong> items are attributed to sections where:
+<ul>
+<li>data is missing on REDCap from paper copy, but no place to put it on REDCap</li>
+<li>data is added on REDCap but not on paper copy</li>
+<li>data entry is missing but illegible</li>
+<li>any other less common discrepancies that need to be double checked</li>
+</ul>
+<p><strong>These items have been flagged by an RA and require auditing.</strong></p></li>
+<li>Open REDcap and go to corresponding MBB participant that requires auditing.
+<ul>
+<li>For any flagged items, read notes on Participant Log and the participant’s REDCap to get an idea of the issue. If necessary, locate the participant’s paper copy in their “Data” folder to verify the discrepancy. (Can be found in BABLAB &gt; Studies &gt; Mind_Brain_Body &gt; Data &gt; (wave) &gt; Wave_online_data)</li>
+</ul></li>
+</ol>
+<p><strong>IF</strong> the issue is fixable, edit the item on REDcap to match the paper copy, and note the item as Complete on the MBB_participant_log.</p>
+<p><strong>IF</strong> there is a discrepancy between the paper copy and REDcap, check an updated version of the paper copy to verify whether this discrepancy has been fixed since the participant completed the study. The paper copies can be found at BABLAB &gt; Studies &gt; Mind_Brain_Body &gt; Documents &gt; Questionnaires &gt; Wave_X (specific to which wave you are checking)
+- If the paper copy has not been updated, make a note and report to lab manager.
+- Either way, ask lab manager whether we need to contact participant to retrieve the missing data.</p>
+<p><strong>IF</strong> the issue is not fixable – write detailed notes of where the discrepancy needs to be fixed, and report it to the Lab Manager. Lab Manager should assess the amount of items missing, the importance of the items to the scale and to the overall study, and the process in which audits have been conducted to see if it would be convenient to re-request such information. After assessing such details, the Lab Manager should decide how to proceed with the issue on a base-by-base situation.</p>
+<p><strong>IF</strong> there is an instance where the paper copy is illegible, or multiple options have been selected, verify with Lab Manager on how it should be entered onto REDcap. Lab Manager should refer to the above details to assess what the importance of the item is. Lab Manager should then decide whether or not to recontact the participant for explanations on illegible handwriting.</p>
+<p><strong>Examples:</strong></p>
+<p><strong>Participant:</strong> MBB033</p>
+<p><strong>Item:</strong> Covid_Objective_Parentproxy</p>
+<p><strong>Issue:</strong> “Did your child’s school close due to outbreak” answer not inputted into Redcap, which didn’t activate the rest of questions to be entered. Participant answered “Yes” and “homeschooled” and answered rest of questions, however the follow-up questions were not inputted into redcap, because only one option can be selected for “Did your child’s school close due to outbreak”</p>
+<p><strong>Resolve:</strong> In this situation, we may assume that the participant should have circled “yes” in order to activate the branch logic-ed items on REDCap that they did fill out on paper, which must have applied to them.</p>
+<p><strong>Participant:</strong> MBB033</p>
+<p><strong>Item:</strong> Demographics_parentproxy</p>
+<p><strong>Issue:</strong> Participant selected “bachelors degree” AND “other” and wrote Theatre degree</p>
+<p><strong>Resolve:</strong> Because we are looking how many years they studied (professional; bachelors, etc.) it doesn’t matter which type of degree they specify if so.</p>
+<p><strong>Participant:</strong> MBB035</p>
+<p><strong>Item:</strong> Cbcl_parentproxy</p>
+<p><strong>Issue:</strong> Participant selected “not true” AND “sometimes true” however, it looks like a mistake because they often erased and changed their answers and may have forgotten to erase one of the checkmarks.</p>
+<p><strong>Resolve:</strong> For not true and sometimes true, probably would make it sometimes true (not zero)
+For sometimes true and true, choose the middle - So select sometimes true in this case. The one that would impact composite the least.</p>
+<hr />
 </div>
 <div id="w1-o-protocol---report-card" class="section level3">
 <h3>W1-O Protocol - Report Card</h3>

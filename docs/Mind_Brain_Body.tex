@@ -78,7 +78,7 @@
 
 \title{Mind, Brain, Body}
 \author{By: Bridget Callaghan, Emily Towner, Kristen Chu}
-\date{Updated on: 2021-06-02}
+\date{Updated on: 2021-06-03}
 
 \begin{document}
 \maketitle
@@ -6668,6 +6668,96 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \includegraphics{images/redcap_code/5.png}
 6. Copy and paste web address and code + send to email to participant
 
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\hypertarget{w1-o-protocol---data-entry-check-board-audits}{%
+\subsection{W1-O Protocol - Data Entry Check Board Audits}\label{w1-o-protocol---data-entry-check-board-audits}}
+
+RA's will be conducting Data Entry Checks to ensure that all data collected from MBB participants is accurately entered in REDcap. To audit the data entry checks, read over all notes in the Data Entry CHECK tab in the MBB\_participant\_log to identify errors that need to be fixed (ie. data entered incorrectly, discrepancy between paper copy and REDcap form).
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Open the MBB\_participant\_log and go to the Data Entry CHECK tab for whichever wave you are checking.
+
+  \textbf{GREEN} items are attributed to completed/accurate sections, OR if an RA had found a discrepancy between the REDcap and paper copy and was able to fix it themselves.
+
+  \textbf{YELLOW} items are attributed to incomplete sections where:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    participant did not complete (paper is blank)
+  \item
+    participant was not given this survey (not given on paper)
+  \end{itemize}
+
+  These items were most likely not completed by the participant, so there will be no data to verify.
+
+  \textbf{RED} items are attributed to sections where:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    data is missing on REDCap from paper copy, but no place to put it on REDCap
+  \item
+    data is added on REDCap but not on paper copy
+  \item
+    data entry is missing but illegible
+  \item
+    any other less common discrepancies that need to be double checked
+  \end{itemize}
+
+  \textbf{These items have been flagged by an RA and require auditing.}
+\item
+  Open REDcap and go to corresponding MBB participant that requires auditing.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    For any flagged items, read notes on Participant Log and the participant's REDCap to get an idea of the issue. If necessary, locate the participant's paper copy in their ``Data'' folder to verify the discrepancy. (Can be found in BABLAB \textgreater{} Studies \textgreater{} Mind\_Brain\_Body \textgreater{} Data \textgreater{} (wave) \textgreater{} Wave\_online\_data)
+  \end{itemize}
+\end{enumerate}
+
+\textbf{IF} the issue is fixable, edit the item on REDcap to match the paper copy, and note the item as Complete on the MBB\_participant\_log.
+
+\textbf{IF} there is a discrepancy between the paper copy and REDcap, check an updated version of the paper copy to verify whether this discrepancy has been fixed since the participant completed the study. The paper copies can be found at BABLAB \textgreater{} Studies \textgreater{} Mind\_Brain\_Body \textgreater{} Documents \textgreater{} Questionnaires \textgreater{} Wave\_X (specific to which wave you are checking)
+- If the paper copy has not been updated, make a note and report to lab manager.
+- Either way, ask lab manager whether we need to contact participant to retrieve the missing data.
+
+\textbf{IF} the issue is not fixable -- write detailed notes of where the discrepancy needs to be fixed, and report it to the Lab Manager. Lab Manager should assess the amount of items missing, the importance of the items to the scale and to the overall study, and the process in which audits have been conducted to see if it would be convenient to re-request such information. After assessing such details, the Lab Manager should decide how to proceed with the issue on a base-by-base situation.
+
+\textbf{IF} there is an instance where the paper copy is illegible, or multiple options have been selected, verify with Lab Manager on how it should be entered onto REDcap. Lab Manager should refer to the above details to assess what the importance of the item is. Lab Manager should then decide whether or not to recontact the participant for explanations on illegible handwriting.
+
+\textbf{Examples:}
+
+\textbf{Participant:} MBB033
+
+\textbf{Item:} Covid\_Objective\_Parentproxy
+
+\textbf{Issue:} ``Did your child's school close due to outbreak'' answer not inputted into Redcap, which didn't activate the rest of questions to be entered. Participant answered ``Yes'' and ``homeschooled'' and answered rest of questions, however the follow-up questions were not inputted into redcap, because only one option can be selected for ``Did your child's school close due to outbreak''
+
+\textbf{Resolve:} In this situation, we may assume that the participant should have circled ``yes'' in order to activate the branch logic-ed items on REDCap that they did fill out on paper, which must have applied to them.
+
+\textbf{Participant:} MBB033
+
+\textbf{Item:} Demographics\_parentproxy
+
+\textbf{Issue:} Participant selected ``bachelors degree'' AND ``other'' and wrote Theatre degree
+
+\textbf{Resolve:} Because we are looking how many years they studied (professional; bachelors, etc.) it doesn't matter which type of degree they specify if so.
+
+\textbf{Participant:} MBB035
+
+\textbf{Item:} Cbcl\_parentproxy
+
+\textbf{Issue:} Participant selected ``not true'' AND ``sometimes true'' however, it looks like a mistake because they often erased and changed their answers and may have forgotten to erase one of the checkmarks.
+
+\textbf{Resolve:} For not true and sometimes true, probably would make it sometimes true (not zero)
+For sometimes true and true, choose the middle - So select sometimes true in this case. The one that would impact composite the least.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
 \hypertarget{w1-o-protocol---report-card}{%
 \subsection{W1-O Protocol - Report Card}\label{w1-o-protocol---report-card}}
 
@@ -9865,6 +9955,23 @@ Parents can drag their video file directly from their phone/computer into the fo
 The video will appear to the researchers in our Box under BABLAB/Studies/Mind\_Brain\_Body/Data/Wave\_1\_online/Wave\_1\_online\_parent\_child\_interactions/Uploads
 
 Videos can then be renamed and organized by the researcher.
+
+\hypertarget{between-waves-protocol}{%
+\chapter{Between Waves Protocol}\label{between-waves-protocol}}
+
+Protocol relevant to moving from one wave of MBB to the next wave of study.
+
+\hypertarget{between-waves---database-formation}{%
+\subsection{Between Waves - Database Formation}\label{between-waves---database-formation}}
+
+\hypertarget{between-waves---redcap}{%
+\subsection{Between Waves - Redcap}\label{between-waves---redcap}}
+
+\hypertarget{between-waves---gorilla}{%
+\subsection{Between Waves - Gorilla}\label{between-waves---gorilla}}
+
+\hypertarget{between-waves---ordering}{%
+\subsection{Between Waves - Ordering}\label{between-waves---ordering}}
 
 \bibliography{references.bib}
 
