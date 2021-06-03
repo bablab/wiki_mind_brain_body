@@ -239,10 +239,11 @@
 \contentsline {subsubsection}{\numberline {4.7.3.2}Sample Transfer}{155}{subsubsection.4.7.3.2}%
 \contentsline {subsection}{\numberline {4.7.4}W1-O Protocol - Data Entry \& Data Quality}{156}{subsection.4.7.4}%
 \contentsline {subsubsection}{\numberline {4.7.4.1}Data Entry}{156}{subsubsection.4.7.4.1}%
-\contentsline {subsubsection}{\numberline {4.7.4.2}Data Quality}{156}{subsubsection.4.7.4.2}%
-\contentsline {subsubsection}{\numberline {4.7.4.3}Relevant Protocols}{156}{subsubsection.4.7.4.3}%
-\contentsline {subsection}{\numberline {4.7.5}W1-O Protocol - Data Review \& Data Audit}{156}{subsection.4.7.5}%
-\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{156}{subsubsection.4.7.5.1}%
+\contentsline {subsubsection}{\numberline {4.7.4.2}Data Entry Checks}{156}{subsubsection.4.7.4.2}%
+\contentsline {subsubsection}{\numberline {4.7.4.3}Data Quality}{156}{subsubsection.4.7.4.3}%
+\contentsline {subsubsection}{\numberline {4.7.4.4}Relevant Protocols}{156}{subsubsection.4.7.4.4}%
+\contentsline {subsection}{\numberline {4.7.5}W1-O Protocol - Data Review \& Data Audit}{157}{subsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{157}{subsubsection.4.7.5.1}%
 \contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{157}{subsubsection.4.7.5.2}%
 \contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{157}{subsubsection.4.7.5.3}%
 \contentsline {paragraph}{\numberline {4.7.5.3.1}Getting A Code From REDCap}{158}{paragraph.4.7.5.3.1}%
