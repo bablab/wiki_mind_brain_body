@@ -238,7 +238,26 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 
 ### W1-O Protocol - Report Card
 
-1. Open a participant data folder
+Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_1/Data_scoring/Cbcl/cbcl_scored
+
+**Running script to get cbcl data ready**
+
+1. Ask lab manager to update REDCap raw data file
+
+2. Open the R script for scoring cbcl using RStudio BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_1/Data_scoring/Cbcl/cbcl_scoring.Rmd
+
+![<!--- Report card Online --->](images/report_card_online/7.png)
+
+3. Change the line with file name so it has the most updated date 
+![<!--- Report card Online --->](images/report_card_online/8.png)
+
+4. Run the script by clicking run all
+    *if there is an error saying data file couldn't be found make sure the file name is correct*
+
+
+**Making report card**
+
+1. Open a participant data folder - BABLAB/Studies/Mind_Brain_Body/Data/Wave_1_online/Wave_1_online_data/
 
 ![<!--- Report card Online --->](images/report_card_online/1.png)
 
@@ -246,13 +265,13 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 
 ![<!--- Report card Online --->](images/report_card_online/2.png)
 
-3. Navigate to the last pge of the pdf and fill in the scores for this participant. You can type directly on the page- it is a fillable form.
+3. Navigate to the last page of the pdf and fill in the scores for this participant. You can type directly on the page- it is a fillable form.
 
 ![<!--- Report card Online --->](images/report_card_online/3.png)
 
-4. After you have entered teh data, it should look like this:
+4. After you have entered the data, it should look like this:
+![<!--- Report card Online --->](images/report_card_online/4.png)
 
-**photo coming soon**
 
 5. If there are any comments, enter them on the comments page.
   - For example, if any NA’s are present due to less than 70% of data for that subset being available to calculate a score - note that here.
@@ -265,6 +284,24 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 
 7. The report card is now ready to be sent to the participant.
 
+Notes: 
+
+  - If the scores for a particular participant seem off check in with the lab manager so they can verify there isn't something wrong with the cbcl script
+
+  - The fill in spots for the aggressive behavior row don't match the rest of the document so there are two small text boxes where you can put in the values
+
+**Sending report card email**
+
+1. Make a copy of certificate template, type in participant name, and save as a pdf
+    - certificate is in BABLAB/Studies/Mind_Brain_Body/Payment/Wave_1/Wave_1_print
+
+2. Open participant's report card pdf and save a copy to your desktop *without the participant ID* which will be attached to email
+
+3. Open up report card email template & fill in highlighted parts
+
+4. Attach thank you letter, cerificate, and report card to email
+    - thank you letter is in BABLAB/Studies/Mind_Brain_Body/Payment/Wave_1/Wave_1_print
+  
 -----------------
 
 ### W1-O Protocol - Payment
@@ -307,5 +344,23 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 
 - Log participant payment in reimbursement log book
 - Log participant payment in reimbursement spreadsheet
+
+**Payment emails**
+
+1. In the same email thread that you've been emailing participant open up the payment email template 
+
+![<!--- Payment --->](images/payment/a.png)
+
+2. Fill in highlighted parts.
+
+![<!--- Payment --->](images/payment/b.png)
+
+3. Add in the gift card codes
+    - gift card codes are under last name of caregiver in BABLAB/Studies/Mind_Brain_Body/Payment/Wave_1/Gift_card_codes
+
+4. If we're still missing anything from them ( a survey, contact list, etc) also request it in the payment email
+
+5. Mark payment email as complete on the MBB participant log in column called " Send payment confirmation email to participant"
+  
 
 -----------------
