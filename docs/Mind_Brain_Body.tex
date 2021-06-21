@@ -78,7 +78,7 @@
 
 \title{Mind, Brain, Body}
 \author{By: Bridget Callaghan, Emily Towner, Kristen Chu}
-\date{Updated on: 2021-06-03}
+\date{Updated on: 2021-06-21}
 
 \begin{document}
 \maketitle
@@ -6761,11 +6761,42 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 \hypertarget{w1-o-protocol---report-card}{%
 \subsection{W1-O Protocol - Report Card}\label{w1-o-protocol---report-card}}
 
+Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind\_Brain\_Body/Scripts/Wave\_1/Data\_scoring/Cbcl/cbcl\_scored
+
+\textbf{Running script to get cbcl data ready}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Ask lab manager to update REDCap raw data file
+\item
+  Open the R script for scoring cbcl using RStudio BABLAB/Studies/Mind\_Brain\_Body/Scripts/Wave\_1/Data\_scoring/Cbcl/cbcl\_scoring.Rmd
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{images/report_card_online/7.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  Change the line with file name so it has the most updated date
+  \includegraphics{images/report_card_online/8.png}
+\item
+  Run the script by clicking run all
+  \emph{if there is an error saying data file couldn't be found make sure the file name is correct}
+\end{enumerate}
+
+\textbf{Making report card}
+
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Open a participant data folder
+  Open a participant data folder - BABLAB/Studies/Mind\_Brain\_Body/Data/Wave\_1\_online/Wave\_1\_online\_data/
 \end{enumerate}
 
 \begin{figure}
@@ -6793,7 +6824,7 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 \setcounter{enumi}{2}
 \tightlist
 \item
-  Navigate to the last pge of the pdf and fill in the scores for this participant. You can type directly on the page- it is a fillable form.
+  Navigate to the last page of the pdf and fill in the scores for this participant. You can type directly on the page- it is a fillable form.
 \end{enumerate}
 
 \begin{figure}
@@ -6805,17 +6836,9 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{3}
-\tightlist
 \item
-  After you have entered teh data, it should look like this:
-\end{enumerate}
-
-\textbf{photo coming soon}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{4}
-\tightlist
+  After you have entered the data, it should look like this:
+  \includegraphics{images/report_card_online/4.png}
 \item
   If there are any comments, enter them on the comments page.
 \end{enumerate}
@@ -6849,6 +6872,41 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 \tightlist
 \item
   The report card is now ready to be sent to the participant.
+\end{enumerate}
+
+Notes:
+
+\begin{itemize}
+\item
+  If the scores for a particular participant seem off check in with the lab manager so they can verify there isn't something wrong with the cbcl script
+\item
+  The fill in spots for the aggressive behavior row don't match the rest of the document so there are two small text boxes where you can put in the values
+\end{itemize}
+
+\textbf{Sending report card email}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Make a copy of certificate template, type in participant name, and save as a pdf
+
+  \begin{itemize}
+  \tightlist
+  \item
+    certificate is in BABLAB/Studies/Mind\_Brain\_Body/Payment/Wave\_1/Wave\_1\_print
+  \end{itemize}
+\item
+  Open participant's report card pdf and save a copy to your desktop \emph{without the participant ID} which will be attached to email
+\item
+  Open up report card email template \& fill in highlighted parts
+\item
+  Attach thank you letter, cerificate, and report card to email
+
+  \begin{itemize}
+  \tightlist
+  \item
+    thank you letter is in BABLAB/Studies/Mind\_Brain\_Body/Payment/Wave\_1/Wave\_1\_print
+  \end{itemize}
 \end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -6953,6 +7011,52 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 \item
   Log participant payment in reimbursement spreadsheet
 \end{itemize}
+
+\textbf{Payment emails}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  In the same email thread that you've been emailing participant open up the payment email template
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{images/payment/a.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Fill in highlighted parts.
+\end{enumerate}
+
+\begin{figure}
+\centering
+\includegraphics{images/payment/b.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\item
+  Add in the gift card codes
+
+  \begin{itemize}
+  \tightlist
+  \item
+    gift card codes are under last name of caregiver in BABLAB/Studies/Mind\_Brain\_Body/Payment/Wave\_1/Gift\_card\_codes
+  \end{itemize}
+\item
+  If we're still missing anything from them ( a survey, contact list, etc) also request it in the payment email
+\item
+  Mark payment email as complete on the MBB participant log in column called " Send payment confirmation email to participant"
+\end{enumerate}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
