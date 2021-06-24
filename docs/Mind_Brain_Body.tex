@@ -78,7 +78,7 @@
 
 \title{Mind, Brain, Body}
 \author{By: Bridget Callaghan, Emily Towner, Kristen Chu}
-\date{Updated on: 2021-06-21}
+\date{Updated on: 2021-06-23}
 
 \begin{document}
 \maketitle
@@ -5997,16 +5997,6 @@ Participants can also watch the video below:
     \emph{In a longitudinal study, information may change in time and we want to ensure we have a way to recontact you for the next wave if you are still interested in joining. The contact list is also in your Session 2 Booklet for you to fill out.}
   \end{itemize}
 \item
-  Parent Questionnaires
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \emph{We know it is a lot to ask, but it would really help us out a lot if you could take a photo of each of the queestionnaires and save them just in case the package you send back to our lab gets lost in the mail! That way, if anything gets lost, we will have a backup of your responses in your photos.}
-  \item
-    If questionnaires get lost in the mail, ask parents to use the \emph{Plan B} in the Parent Child interaction protocol for a ``safe upload'' to Box
-  \end{itemize}
-\item
   Written Response (optional)
   \emph{We also have a few extra things that are optional to you, that would realy help our research team! It is a five minute writing activity that allows you to logon and type for five minutes about you and you family's expereinces with COVID-19. These written responses are meant to capture the impacts of COVID-19 on families, caregivers, and children. We will send you the links and codes in an email as soon as we log off, so you and your child can participate in this if you are intersted.}
 \item
@@ -6768,9 +6758,9 @@ Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind\_Brain
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  Ask lab manager to update REDCap raw data file
+  Ask lab manager to update REDCap raw data file.
 \item
-  Open the R script for scoring cbcl using RStudio BABLAB/Studies/Mind\_Brain\_Body/Scripts/Wave\_1/Data\_scoring/Cbcl/cbcl\_scoring.Rmd
+  Open the R script for scoring cbcl using RStudio. \textbf{Make sure you open with desktop Box} BABLAB/Studies/Mind\_Brain\_Body/Scripts/Wave\_1/Data\_scoring/Cbcl/cbcl\_scoring.Rmd
 \end{enumerate}
 
 \begin{figure}
@@ -6782,12 +6772,30 @@ Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind\_Brain
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{2}
+\tightlist
 \item
-  Change the line with file name so it has the most updated date
+  Change the line with file name so it has the most updated file.
   \includegraphics{images/report_card_online/8.png}
+\end{enumerate}
+
+3.1 To access the raw data file name go to BABLAB/Studies/Mind\_Brain\_Body/Scripts/Data and look for most recent date.
+\includegraphics{images/report_card_online/9.png}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
 \item
-  Run the script by clicking run all
-  \emph{if there is an error saying data file couldn't be found make sure the file name is correct}
+  Run the script by clicking run all.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \emph{if there is an error saying data file couldn't be found make sure the file name is correct}
+  \item
+    \emph{Make sure you have all the ``packages'' needed for the script downloaded in your RStudio}
+    \includegraphics{images/report_card_online/8.png}
+  \end{itemize}
 \end{enumerate}
 
 \textbf{Making report card}
@@ -6836,6 +6844,33 @@ Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind\_Brain
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \setcounter{enumi}{3}
+\tightlist
+\item
+  The data you are inputting into the report card comes from the file titled ``Cbcl\_scored.csv'' which can be found in BABLAB/Studies/Mind\_Brain\_Body/Scripts/Wave\_1/Data\_scoring/Cbcl
+  \includegraphics{images/report_card_online/10.png}
+\end{enumerate}
+
+4.1 Some info about the scored cbcl data file
+
+\begin{itemize}
+\item
+  \emph{Make sure you do not save any changes you make to the cbcl file. Open the file on Desktop Box}
+\item
+  You can freeze the first row of the data by going to Layout tab and then the Window section. Click on freeze first row
+  \includegraphics{images/report_card_online/11.png}
+\item
+  Make the names of the columns fully visible by clicking on the 1 to highlight row 1 then clicking Wrap text.
+\end{itemize}
+
+\begin{figure}
+\centering
+\includegraphics{images/report_card_online/12.png}
+\caption{}
+\end{figure}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
 \item
   After you have entered the data, it should look like this:
   \includegraphics{images/report_card_online/4.png}
@@ -6854,7 +6889,7 @@ Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind\_Brain
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{5}
+\setcounter{enumi}{6}
 \tightlist
 \item
   \textbf{Important}- Once you have completed the edits to the pdf, you must follow these steps to ``lock'' the data so that it is no longer editable before sending to the participant. To do so, click file/print/PDF/Save as PDF. Save the PDF to your desktop, then replace the original PDF with the desktop version.
@@ -6868,7 +6903,7 @@ Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind\_Brain
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{6}
+\setcounter{enumi}{7}
 \tightlist
 \item
   The report card is now ready to be sent to the participant.
@@ -6888,12 +6923,14 @@ Notes:
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  Make a copy of certificate template, type in participant name, and save as a pdf
+  Make a copy of certificate template on your desktop, type in participant name, and save as a pdf
 
   \begin{itemize}
   \tightlist
   \item
     certificate is in BABLAB/Studies/Mind\_Brain\_Body/Payment/Wave\_1/Wave\_1\_print
+  \item
+    when you save it as a pdf open it then rotate it so the pdf is oriented correctly
   \end{itemize}
 \item
   Open participant's report card pdf and save a copy to your desktop \emph{without the participant ID} which will be attached to email

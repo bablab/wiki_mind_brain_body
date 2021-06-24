@@ -1440,11 +1440,6 @@ The researcher will ask the parent to find the <a href="https://ucla.app.box.com
 <ul>
 <li><em>In a longitudinal study, information may change in time and we want to ensure we have a way to recontact you for the next wave if you are still interested in joining. The contact list is also in your Session 2 Booklet for you to fill out.</em></li>
 </ul></li>
-<li>Parent Questionnaires
-<ul>
-<li><em>We know it is a lot to ask, but it would really help us out a lot if you could take a photo of each of the queestionnaires and save them just in case the package you send back to our lab gets lost in the mail! That way, if anything gets lost, we will have a backup of your responses in your photos.</em></li>
-<li>If questionnaires get lost in the mail, ask parents to use the <em>Plan B</em> in the Parent Child interaction protocol for a “safe upload” to Box</li>
-</ul></li>
 <li>Written Response (optional)
 <em>We also have a few extra things that are optional to you, that would realy help our research team! It is a five minute writing activity that allows you to logon and type for five minutes about you and you family’s expereinces with COVID-19. These written responses are meant to capture the impacts of COVID-19 on families, caregivers, and children. We will send you the links and codes in an email as soon as we log off, so you and your child can participate in this if you are intersted.</em></li>
 <li>Confirm pre-scheduled time to complete post-session tasks ~1 week post-session</li>
@@ -1895,18 +1890,26 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 <p>Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_1/Data_scoring/Cbcl/cbcl_scored</p>
 <p><strong>Running script to get cbcl data ready</strong></p>
 <ol style="list-style-type: decimal">
-<li><p>Ask lab manager to update REDCap raw data file</p></li>
-<li><p>Open the R script for scoring cbcl using RStudio BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_1/Data_scoring/Cbcl/cbcl_scoring.Rmd</p></li>
+<li><p>Ask lab manager to update REDCap raw data file.</p></li>
+<li><p>Open the R script for scoring cbcl using RStudio. <strong>Make sure you open with desktop Box</strong> BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_1/Data_scoring/Cbcl/cbcl_scoring.Rmd</p></li>
 </ol>
 <div class="figure">
 <img src="images/report_card_online/7.png" alt="" />
 <p class="caption"><!--- Report card Online ---></p>
 </div>
 <ol start="3" style="list-style-type: decimal">
-<li><p>Change the line with file name so it has the most updated date
-<img src="images/report_card_online/8.png" alt="" /></p></li>
-<li><p>Run the script by clicking run all
-<em>if there is an error saying data file couldn’t be found make sure the file name is correct</em></p></li>
+<li>Change the line with file name so it has the most updated file.
+<img src="images/report_card_online/8.png" alt="" /></li>
+</ol>
+<p>3.1 To access the raw data file name go to BABLAB/Studies/Mind_Brain_Body/Scripts/Data and look for most recent date.
+<img src="images/report_card_online/9.png" alt="" /></p>
+<ol start="4" style="list-style-type: decimal">
+<li>Run the script by clicking run all.
+<ul>
+<li><em>if there is an error saying data file couldn’t be found make sure the file name is correct</em></li>
+<li><em>Make sure you have all the “packages” needed for the script downloaded in your RStudio</em>
+<img src="images/report_card_online/8.png" alt="" /></li>
+</ul></li>
 </ol>
 <p><strong>Making report card</strong></p>
 <ol style="list-style-type: decimal">
@@ -1931,6 +1934,21 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 <p class="caption"><!--- Report card Online ---></p>
 </div>
 <ol start="4" style="list-style-type: decimal">
+<li>The data you are inputting into the report card comes from the file titled “Cbcl_scored.csv” which can be found in BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_1/Data_scoring/Cbcl
+<img src="images/report_card_online/10.png" alt="" /></li>
+</ol>
+<p>4.1 Some info about the scored cbcl data file</p>
+<ul>
+<li><p><em>Make sure you do not save any changes you make to the cbcl file. Open the file on Desktop Box</em></p></li>
+<li><p>You can freeze the first row of the data by going to Layout tab and then the Window section. Click on freeze first row
+<img src="images/report_card_online/11.png" alt="" /></p></li>
+<li><p>Make the names of the columns fully visible by clicking on the 1 to highlight row 1 then clicking Wrap text.</p></li>
+</ul>
+<div class="figure">
+<img src="images/report_card_online/12.png" alt="" />
+<p class="caption"><!--- Report card Online ---></p>
+</div>
+<ol start="5" style="list-style-type: decimal">
 <li><p>After you have entered the data, it should look like this:
 <img src="images/report_card_online/4.png" alt="" /></p></li>
 <li>If there are any comments, enter them on the comments page.</li>
@@ -1940,14 +1958,14 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 <li>If there are no comments, delete this page.
 <img src="images/report_card_online/5.png" alt="" /></li>
 </ul>
-<ol start="6" style="list-style-type: decimal">
+<ol start="7" style="list-style-type: decimal">
 <li><strong>Important</strong>- Once you have completed the edits to the pdf, you must follow these steps to “lock” the data so that it is no longer editable before sending to the participant. To do so, click file/print/PDF/Save as PDF. Save the PDF to your desktop, then replace the original PDF with the desktop version.</li>
 </ol>
 <div class="figure">
 <img src="images/report_card_online/6.png" alt="" />
 <p class="caption"><!--- Report card Online ---></p>
 </div>
-<ol start="7" style="list-style-type: decimal">
+<ol start="8" style="list-style-type: decimal">
 <li>The report card is now ready to be sent to the participant.</li>
 </ol>
 <p>Notes:</p>
@@ -1957,9 +1975,10 @@ For sometimes true and true, choose the middle - So select sometimes true in thi
 </ul>
 <p><strong>Sending report card email</strong></p>
 <ol style="list-style-type: decimal">
-<li>Make a copy of certificate template, type in participant name, and save as a pdf
+<li>Make a copy of certificate template on your desktop, type in participant name, and save as a pdf
 <ul>
 <li>certificate is in BABLAB/Studies/Mind_Brain_Body/Payment/Wave_1/Wave_1_print</li>
+<li>when you save it as a pdf open it then rotate it so the pdf is oriented correctly</li>
 </ul></li>
 <li><p>Open participant’s report card pdf and save a copy to your desktop <em>without the participant ID</em> which will be attached to email</p></li>
 <li><p>Open up report card email template &amp; fill in highlighted parts</p></li>
