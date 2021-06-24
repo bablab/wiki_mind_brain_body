@@ -113,41 +113,107 @@
   - halloween training and test data captured
 - After completing Data Review, move card to Good Sample, Bad Sample, or No Sample list based on the stool sample.
 
-#### Data Audit
+----------- 
 
-**If Good Sample:**
+  
 
-- Send payment, thank you letter, certificate, and science kits via mail
-- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items).
-- Move to Paid list.
-- One week after payment is sent, check outstanding items and do Audit Call #1.
-- One week following Audit Call #1, check outstanding items do Audit Call #2.
-- Within 2 days, check outstanding items and do Audit Call #3.
-- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list.
-- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
+#### Data Audit 
 
-**If Bad Sample:**
+  
 
-- Send payment, thank you letter, certificate, and science kits via mail. Include a new stool sample kit.
-- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit).
-- Move to Paid list in Trello.
-- One week after payment is sent, check outstanding items do Audit Call #1.
-- One week following Audit Call #1, check outstanding items do Audit Call #2.
-- Within 2 days, check outstanding items and do Audit Call #3.
-- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list.
-- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
+**Before reaching out to participants** 
 
-**If No Sample:**
+It is important to check that information marked as missing on the participant's Trello card is *actually* missing before reaching out to participant to request it.  
 
-- Send [MBB - UNPAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit).
-- Leave participant on Unpaid list.
-- If stool sample recieved - send payment, thank you letter, certificate, and science kits via mail and move to Paid list.
-- If stool sample not received, one week after email is sent, check outstanding items do Audit Call #1.
-- One week following Audit Call #1, check outstanding items do Audit Call #2.
-- Within 2 days of Audit Call #2, check outstanding items and do Audit Call #3.
-- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list.
-- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder.
+  - Check for the missing information in the participant's folder on Box  
 
+  - If a REDCap survey is missing check if it was maybe just not input on REDCap but is there in participant folder 
+
+  - Look through email threads with participant for info on why a file might be missing or if they sent it to us in the past  
+
+  - If it is info the researcher collected during the session ( height, weight, waist) check if researcher has that info  
+
+IF the information is actually missing then you can go ahead and reach out to the participant 
+
+  - You will be sending them editable copies of the files they are missing. It is advised you create some way to track each file ( ex. you can name file as date of session and then delete that name later on) 
+
+  - There is an email template available in the BAB email under templates titled "MBB_O - Data Audits Mind Brain Body Study" 
+
+**Timeline for Data Audits:** 
+
+1) Call participant and request missing information from them (surveys, contact list, etc). After calling ( and leaving a voicemail if they don'tt answer) send them an email requesting they fill out missing info and upload it to our [Box folder](https://ucla.app.box.com/f/3c52df2afb1a446ab363b793f8af22c1) 
+
+
+2) *One week later* call them again and send another email. Leave a voicemail if they don't answer.  
+
+
+3) *One week later* call them again and send a third email. Leave a voicemail if they don't answer. At this point if you have not heard from them *at all* you can end the audit for that person. 
+
+    - if you *have* heard from participant but haven't gotten the missing info then extend the audit a week or two at your discrection if you think they will complete the missing info. 
+
+  
+#### **Documenting the audits** 
+
+
+**The folder for Box uploads is in BABLAB/Studies/Mind_Brain_Body/Data/Wave_1_online/Uploads** Check it to see if participant's have uploaded the missing info 
+
+
+**After each contact** 
+
+  - Make sure you write in the description the date you reached out to participant and any notes from the contact  
+
+  - If the participant did not seem willing to provide the missing info make a note 
+
+  - If participant emailed add date of contact into description too 
+
+![<!--- Data Audits --->](images/audits/1.png)   
+
+
+
+**Successful Audit** 
+
+
+1) Add the missing info to the participant's folder on Box. 
+
+
+2) Make a note on participant's Trello card that you received the missing info.  
+
+
+3) Add the info to the ammend list on the Trello card.  
+
+
+3.1) If you know how to input the information into REDCap and have time to do so you can add the info and then mark that item on amend list as completed.  
+
+
+   - **If you input the missing data then go to the participant log and mark it as complete on the Data Quality Check tab** 
+
+4) If there are any items that need to be amended add an amend label to the Trello card 
+
+![<!--- Data Audits --->](images/audits/3.png)  
+
+
+5) Move the Trello card to the appropriate Done column of Audit dashbaord 
+
+
+![<!--- Data Audits --->](images/audits/4.png)  
+
+
+**Unsuccesful Audit** 
+
+
+1) Make a note in the description of participant's trello card that the data was not received 
+
+2) Add the no response label to the card. 
+
+![<!--- Data Audits --->](images/audits/5.png)  
+
+
+3) Move to the appropriate Done pile of Audit board  
+
+
+![<!--- Data Audits --->](images/audits/4.png)  
+
+--------------- 
 ##### Getting A Code From REDCap
 
 1. Log onto REDCap and click on "record status dashboard" 
