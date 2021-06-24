@@ -362,6 +362,7 @@ troubleshooting---internet-issues
 if-internetwifi-seems-to-be-malfunctioning
 troubleshooting---pc-interactions
 plan-b-to-zoom-recording-on-pc-interaction
+troubleshooting---protocol-deviations
 between-waves-protocol
 between-waves---database-formation
 between-waves---redcap

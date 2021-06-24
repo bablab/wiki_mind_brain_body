@@ -69,6 +69,9 @@ The video will appear to the researchers in our Box under BABLAB/Studies/Mind_Br
 
 Videos can then be renamed and organized by the researcher.  
 
+
+## Troubleshooting - Protocol Deviations
  
+![<!--- Troubleshooting --->](images/troubleshooting/1.png) 
 
  
