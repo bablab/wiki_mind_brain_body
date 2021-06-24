@@ -362,8 +362,9 @@
 \contentsline {subsubsection}{\numberline {7.2.0.1}If internet/wifi seems to be malfunctioning\ldots {}}{231}{subsubsection.7.2.0.1}%
 \contentsline {section}{\numberline {7.3}Troubleshooting - PC Interactions}{232}{section.7.3}%
 \contentsline {subsubsection}{\numberline {7.3.0.1}Plan B to Zoom recording on PC interaction}{232}{subsubsection.7.3.0.1}%
-\contentsline {chapter}{\numberline {8}Between Waves Protocol}{233}{chapter.8}%
-\contentsline {subsection}{\numberline {8.0.1}Between Waves - Database Formation}{233}{subsection.8.0.1}%
-\contentsline {subsection}{\numberline {8.0.2}Between Waves - Redcap}{233}{subsection.8.0.2}%
-\contentsline {subsection}{\numberline {8.0.3}Between Waves - Gorilla}{233}{subsection.8.0.3}%
-\contentsline {subsection}{\numberline {8.0.4}Between Waves - Ordering}{233}{subsection.8.0.4}%
+\contentsline {section}{\numberline {7.4}Troubleshooting - Protocol Deviations}{232}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Between Waves Protocol}{235}{chapter.8}%
+\contentsline {subsection}{\numberline {8.0.1}Between Waves - Database Formation}{235}{subsection.8.0.1}%
+\contentsline {subsection}{\numberline {8.0.2}Between Waves - Redcap}{235}{subsection.8.0.2}%
+\contentsline {subsection}{\numberline {8.0.3}Between Waves - Gorilla}{235}{subsection.8.0.3}%
+\contentsline {subsection}{\numberline {8.0.4}Between Waves - Ordering}{235}{subsection.8.0.4}%
