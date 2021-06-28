@@ -352,19 +352,20 @@
 \contentsline {subsubsection}{\numberline {6.7.7.1}Follow-Up (completed by Scheduling Coordinator)}{227}{subsubsection.6.7.7.1}%
 \contentsline {subsubsection}{\numberline {6.7.7.2}Data Review}{227}{subsubsection.6.7.7.2}%
 \contentsline {subsubsection}{\numberline {6.7.7.3}Data Audit}{228}{subsubsection.6.7.7.3}%
-\contentsline {paragraph}{\numberline {6.7.7.3.1}Getting A Code From REDCap}{229}{paragraph.6.7.7.3.1}%
-\contentsline {subsection}{\numberline {6.7.8}W2 Protocol - Report Card}{229}{subsection.6.7.8}%
-\contentsline {subsection}{\numberline {6.7.9}W2 Protocol - Payment}{230}{subsection.6.7.9}%
-\contentsline {chapter}{\numberline {7}Troubleshooting}{231}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Troubleshooting - Links}{231}{section.7.1}%
-\contentsline {subsubsection}{\numberline {7.1.0.1}If links in chat are not working\ldots {}}{231}{subsubsection.7.1.0.1}%
-\contentsline {section}{\numberline {7.2}Troubleshooting - Internet Issues}{231}{section.7.2}%
-\contentsline {subsubsection}{\numberline {7.2.0.1}If internet/wifi seems to be malfunctioning\ldots {}}{231}{subsubsection.7.2.0.1}%
-\contentsline {section}{\numberline {7.3}Troubleshooting - PC Interactions}{232}{section.7.3}%
-\contentsline {subsubsection}{\numberline {7.3.0.1}Plan B to Zoom recording on PC interaction}{232}{subsubsection.7.3.0.1}%
-\contentsline {section}{\numberline {7.4}Troubleshooting - Protocol Deviations}{232}{section.7.4}%
-\contentsline {chapter}{\numberline {8}Between Waves Protocol}{235}{chapter.8}%
-\contentsline {subsection}{\numberline {8.0.1}Between Waves - Database Formation}{235}{subsection.8.0.1}%
-\contentsline {subsection}{\numberline {8.0.2}Between Waves - Redcap}{235}{subsection.8.0.2}%
-\contentsline {subsection}{\numberline {8.0.3}Between Waves - Gorilla}{235}{subsection.8.0.3}%
-\contentsline {subsection}{\numberline {8.0.4}Between Waves - Ordering}{235}{subsection.8.0.4}%
+\contentsline {subsubsection}{\numberline {6.7.7.4}\textbf {Documenting the audits}}{229}{subsubsection.6.7.7.4}%
+\contentsline {paragraph}{\numberline {6.7.7.4.1}Getting A Code From REDCap}{229}{paragraph.6.7.7.4.1}%
+\contentsline {subsection}{\numberline {6.7.8}W2 Protocol - Report Card}{230}{subsection.6.7.8}%
+\contentsline {subsection}{\numberline {6.7.9}W2 Protocol - Payment}{238}{subsection.6.7.9}%
+\contentsline {chapter}{\numberline {7}Troubleshooting}{241}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Troubleshooting - Links}{241}{section.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.0.1}If links in chat are not working\ldots {}}{241}{subsubsection.7.1.0.1}%
+\contentsline {section}{\numberline {7.2}Troubleshooting - Internet Issues}{241}{section.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.0.1}If internet/wifi seems to be malfunctioning\ldots {}}{241}{subsubsection.7.2.0.1}%
+\contentsline {section}{\numberline {7.3}Troubleshooting - PC Interactions}{242}{section.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.0.1}Plan B to Zoom recording on PC interaction}{242}{subsubsection.7.3.0.1}%
+\contentsline {section}{\numberline {7.4}Troubleshooting - Protocol Deviations}{242}{section.7.4}%
+\contentsline {chapter}{\numberline {8}Between Waves Protocol}{245}{chapter.8}%
+\contentsline {subsection}{\numberline {8.0.1}Between Waves - Database Formation}{245}{subsection.8.0.1}%
+\contentsline {subsection}{\numberline {8.0.2}Between Waves - Redcap}{245}{subsection.8.0.2}%
+\contentsline {subsection}{\numberline {8.0.3}Between Waves - Gorilla}{245}{subsection.8.0.3}%
+\contentsline {subsection}{\numberline {8.0.4}Between Waves - Ordering}{245}{subsection.8.0.4}%

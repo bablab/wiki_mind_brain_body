@@ -250,50 +250,80 @@ https://youtu.be/z_mQGyguaEY
 
 #### Data Audit 
 
-  
 
-**If Good Sample:** 
+**Before reaching out to participants** 
 
-  
+It is important to check that information marked as missing on the participant's Trello card is *actually* missing before reaching out to participant to request it.  
 
-- Send payment, thank you letter, certificate, and science kits via mail 
-- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items). 
-- Move to Paid list. 
-- One week after payment is sent, check outstanding items and do Audit Call #1. 
-- One week following Audit Call #1, check outstanding items do Audit Call #2. 
-- Within 2 days, check outstanding items and do Audit Call #3. 
-- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list. 
-- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder. 
+  - Check for the missing information in the participant's folder on Box  
 
-  
+  - If a REDCap survey is missing check if it was maybe just not input on REDCap but is there in participant folder 
 
-**If Bad Sample:** 
+  - Look through email threads with participant for info on why a file might be missing or if they sent it to us in the past  
 
-  
+  - If it is info the researcher collected during the session ( height, weight, waist) check if researcher has that info  
 
-- Send payment, thank you letter, certificate, and science kits via mail. Include a new stool sample kit. 
-- Send [MBB - PAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
-- Move to Paid list in Trello. 
-- One week after payment is sent, check outstanding items do Audit Call #1. 
-- One week following Audit Call #1, check outstanding items do Audit Call #2. 
-- Within 2 days, check outstanding items and do Audit Call #3. 
-- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list. 
-- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder. 
+IF the information is actually missing then you can go ahead and reach out to the participant 
 
-  
+  - You will be sending them editable copies of the files they are missing. It is advised you create some way to track each file ( ex. you can name file as date of session and then delete that name later on) 
 
-**If No Sample:** 
+  - There is an email template available in the BAB email under templates titled "MBB_O - Data Audits Mind Brain Body Study" 
+
+**Timeline for Data Audits:** 
+
+1) Call participant and request missing information from them (surveys, contact list, etc). After calling ( and leaving a voicemail if they don'tt answer) send them an email requesting they fill out missing info and upload it to our [Box folder](https://ucla.app.box.com/f/3c52df2afb1a446ab363b793f8af22c1) 
+
+
+2) *One week later* call them again and send another email. Leave a voicemail if they don't answer.  
+
+
+3) *One week later* call them again and send a third email. Leave a voicemail if they don't answer. At this point if you have not heard from them *at all* you can end the audit for that person. 
+
+    - if you *have* heard from participant but haven't gotten the missing info then extend the audit a week or two at your discrection if you think they will complete the missing info. 
 
   
-- Send [MBB - UNPAID] email and attach thank you letter, certificate, and parent report (including outstanding items - emphasize stool sample kit). 
-- Leave participant on Unpaid list. 
-- If stool sample recieved - send payment, thank you letter, certificate, and science kits via mail and move to Paid list. 
-- If stool sample not received, one week after email is sent, check outstanding items do Audit Call #1. 
-- One week following Audit Call #1, check outstanding items do Audit Call #2. 
-- Within 2 days of Audit Call #2, check outstanding items and do Audit Call #3. 
-- After Audit Call #3 (or all items completed), send [MBB - DONE] email and move to Done list. 
-- If participant completes item on list, check card on Trello, mark off on participang log and data check sheets, and note in partipant's README in data folder. 
+#### **Documenting the audits** 
 
+
+**The folder for Box uploads is in BABLAB/Studies/Mind_Brain_Body/Data/Wave_1_online/Uploads** Check it to see if participant's have uploaded the missing info 
+
+
+**After each contact** 
+
+  - Make sure you write in the description the date you reached out to participant and any notes from the contact  
+
+  - If the participant did not seem willing to provide the missing info make a note 
+
+  - If participant emailed add date of contact into description too 
+
+
+**Successful Audit** 
+
+
+1) Add the missing info to the participant's folder on Box. 
+
+2) Make a note on participant's Trello card that you received the missing info.  
+
+3) Add the info to the ammend list on the Trello card.  
+
+3.1) If you know how to input the information into REDCap and have time to do so you can add the info and then mark that item on amend list as completed.  
+
+   - **If you input the missing data then go to the participant log and mark it as complete on the Data Quality Check tab** 
+
+4) If there are any items that need to be amended add an amend label to the Trello card
+
+5) Move the Trello card to the appropriate Done column of Audit dashbaord 
+
+
+**Unsuccesful Audit** 
+
+
+1) Make a note in the description of participant's trello card that the data was not received 
+
+2) Add the no response label to the card. 
+
+
+3) Move to the appropriate Done pile of Audit board  
   
 
 ##### Getting A Code From REDCap 
@@ -311,33 +341,94 @@ https://youtu.be/z_mQGyguaEY
 
 *Refer to Wave 1 protocol for more details* 
 
- 
+--------- 
 
 ### W2 Protocol - Report Card 
 
+Scored Cbcl data for the report cards can be found in BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_2/Data_scoring/Cbcl/cbcl_scored
 
-1. Open a participant data folder 
+**Running script to get cbcl data ready**
 
-2. Navigate to the report card folder and rename the template file - MBB999 to the relevant participant - and open the file 
+1. Ask lab manager to update REDCap raw data file.
 
-3. Navigate to the last page of the pdf and fill in the scores for this participant. You can type directly on the page- it is a fillable form. 
+2. Open the R script for scoring cbcl using RStudio. **Make sure you open with desktop Box** BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_2/Data_scoring/Cbcl/cbcl_scoring.Rmd
 
-4. After you have entered the data, it should look like this: 
+3. Change the line with file name so it has the most updated file. 
+![<!--- Report card Online --->](images/report_card_online/8.png)
 
-5. If there are any comments, enter them on the comments page. 
+3.1 To access the raw data file name go to BABLAB/Studies/Mind_Brain_Body/Scripts/Data and look for most recent date. 
+![<!--- Report card Online --->](images/report_card_online/9.png)
 
-  - For example, if any NA’s are present due to less than 70% of data for that subset being available to calculate a score - note that here. 
-
-  - If there are no comments, delete this page. 
-
-6. **Important**- Once you have completed the edits to the pdf, you must follow these steps to “lock” the data so that it is no longer editable before sending to the participant. To do so, click file/print/PDF/Save as PDF. Save the PDF to your desktop, then replace the original PDF with the desktop version. 
-
-7. The report card is now ready to be sent to the participant. 
-
-*Refer to Wave 1 protocol for more details* 
+4. Run the script by clicking run all. 
+   -  *if there is an error saying data file couldn't be found make sure the file name is correct*
+   - *Make sure you have all the "packages" needed for the script downloaded in your RStudio*
+![<!--- Report card Online --->](images/report_card_online/8.png)
 
 
+**Making report card**
+
+1. Open a participant data folder - BABLAB/Studies/Mind_Brain_Body/Data/Wave_2/Wave_2_data
+
+2. Navigate to the report card folder and rename the template file - MBB999 to the relevant participant - and open the file
+
+![<!--- Report card Online --->](images/report_card_online/2.png)
+
+
+3. Navigate to the last page of the pdf and fill in the scores for this participant. You can type directly on the page- it is a fillable form.
+
+![<!--- Report card Online --->](images/report_card_online/3.png)
+
+4. The data you are inputting into the report card comes from the file titled "Cbcl_scored.csv" which can be found in BABLAB/Studies/Mind_Brain_Body/Scripts/Wave_2/Data_scoring/Cbcl
+
+4.1 Some info about the scored cbcl data file
+
+  - *Make sure you do not save any changes you make to the cbcl file. Open the file on Desktop Box*
   
+  - You can freeze the first row of the data by going to Layout tab and then the Window section. Click on freeze first row
+![<!--- Report card Online --->](images/report_card_online/11.png)
+
+
+  - Make the names of the columns fully visible by clicking on the 1 to highlight row 1 then clicking Wrap text.
+  
+![<!--- Report card Online --->](images/report_card_online/12.png)
+
+
+5. After you have entered the data, it should look like this:
+![<!--- Report card Online --->](images/report_card_online/4.png)
+
+
+6. If there are any comments, enter them on the comments page.
+  - For example, if any NA’s are present due to less than 70% of data for that subset being available to calculate a score - note that here.
+  - If there are no comments, delete this page.
+![<!--- Report card Online --->](images/report_card_online/5.png)
+
+7. **Important**- Once you have completed the edits to the pdf, you must follow these steps to “lock” the data so that it is no longer editable before sending to the participant. To do so, click file/print/PDF/Save as PDF. Save the PDF to your desktop, then replace the original PDF with the desktop version.
+
+![<!--- Report card Online --->](images/report_card_online/6.png)
+
+8. The report card is now ready to be sent to the participant.
+
+Notes: 
+
+  - If the scores for a particular participant seem off check in with the lab manager so they can verify there isn't something wrong with the cbcl script
+
+  - The fill in spots for the aggressive behavior row don't match the rest of the document so there are two small text boxes where you can put in the values
+
+**Sending report card email**
+
+1. Make a copy of certificate template on your desktop, type in participant name, and save as a pdf
+    - certificate is in BABLAB/Studies/Mind_Brain_Body/Payment/Wave_2/Wave_2_print
+    - when you save it as a pdf open it then rotate it so the pdf is oriented correctly
+
+2. Open participant's report card pdf and save a copy to your desktop *without the participant ID* which will be attached to email
+
+3. Open up report card email template & fill in highlighted parts
+
+4. Attach thank you letter, cerificate, and report card to email
+    - thank you letter is in BABLAB/Studies/Mind_Brain_Body/Payment/Wave_2/Wave_2_print
+
+----------
+
 ### W2 Protocol - Payment 
 
   
@@ -378,6 +469,22 @@ https://youtu.be/z_mQGyguaEY
 - Log participant payment in reimbursement log book 
 - Log participant payment in reimbursement spreadsheet 
 
------------------ 
 
+**Payment emails**
+
+1. In the same email thread that you've been emailing participant open up the payment email template 
+
+![<!--- Payment --->](images/payment/a.png)
+
+2. Fill in highlighted parts.
+
+![<!--- Payment --->](images/payment/b.png)
+
+3. Add in the gift card codes
+    - gift card codes are under last name of caregiver in BABLAB/Studies/Mind_Brain_Body/Payment/Wave_2/Gift_card_codes
+
+4. If we're still missing anything from them ( a survey, contact list, etc) also request it in the payment email
+
+5. Mark payment email as complete on the MBB participant log in column called " Send payment confirmation email to participant"
+  
  
