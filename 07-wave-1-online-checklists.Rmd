@@ -4,7 +4,7 @@
 
 -----------
 
-### W1-O Checklist - Initial Online
+### W1-O Checklist - Scheduling Stage
 
 **Calling participants from REDCap**
 
@@ -49,7 +49,8 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
   
   - Move potential participant email to “Added” tab of MBB once you add them to the participant database 
   - All emails to a participant should be in the same thread 
-    - The thread we initially contacted them at should be the one we send the session confirmation to   - **Remember that email templates need to be edited**(e.g. there are no written responses in wave 2 so that chunk should be deleted, there is no ASA in wave 1 so that should be deleted in wave 1, etc.)
+    - The thread we initially contacted them at should be the one we send the session confirmation to   
+      - **Remember that email templates need to be edited**(e.g. there are no written responses in wave 2 so that chunk should be deleted, there is no ASA in wave 1 so that should be deleted in wave 1, etc.)
   - The easiest way to not forget steps is to do all “ session has just been scheduled” tasks based on the MBB log 
   - Make sure you are sending the correct reminder email - S1 R2 is the one with the researcher card 
   
@@ -69,7 +70,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
 
 - Schedule session 1 two weeks in advance from "package mailing day" (see package preparation in pre-session checklist)
 - Schedule session 2 ~one week after session 1
-- Ask Kristen to make Zoom link with scheduled session times and save to google calendar
+- Ask Lab Manager to make Zoom link with scheduled session times and save to google calendar
 - Send session 1 confirmation email (in templates)
    - Attach [Next Steps](https://ucla.app.box.com/file/665452959932), [Computer Zoom Download Instructions](https://ucla.app.box.com/file/680632734387)
 
@@ -117,8 +118,10 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
   - *MBBXXX WX- Home Session Reminder 2 (call)* - 15 days after Session 2
     - Add Status: Incomplete to the description
     - Add * Only if package missing and have not been in contact with participant* to description
-  
-**Reminders**
+
+-----------
+
+### W1-O Checklist - Calendar Reminders
 
 NOTE: all template emails are in bablab gmail 
 
@@ -159,7 +162,50 @@ NOTE: all template emails are in bablab gmail
     - move on to home sess call 2 
     - next steps will be on a case by case basis
   
+**General Notes about calendar**
 
+Session 1 reminders
+
+  - You can differentiate the Session 1 Reminder 1 and Reminder 2 emails by seeing if it says to include Research Profile ( reminder 2 is the one with the researcher profile)
+  
+  - the files you attach to the emails are in BABLAB/Studies/Mind_Brain_Body/Documents/Infographic_next_steps/Wave_1_online
+  
+  - consents are in BABLAB/Studies/Mind_Brain_Body/Documents/Consents/Wave_1_online
+  
+  - Research profiles are in BABLAB/Studies/Mind_Brain_Body/Documents/Infographic_next_steps and remember to drag the picture in show it shows up in the email body
+  
+  - When you call you're just asking them to confirm that the session date and time works for them & that they received package/ *Hi this is ____ from the Brain and Body Lab. I am calling to confirm you are still available for your session on ___. Also, have you received the package?* 
+  
+Session 2 Reminders
+
+  - You can check if they consented to stool sample by looking at email thread to see the session @ confirmation email the researcher sent them OR you can go to their Session 1 checklist on REDCap
+  
+  - Make sure you only include relevant reminders in the email, delete the highlighted parts that don't apply to them
+  
+Home Session Reminders
+
+  - Check the MBB participant log to see if we haev received their package. 
+  
+      - If the Package COnfirmation section is filled out as complete then we *have* received package. 
+      
+      - Lab manager also sends message to SRA to update on packages that are received so can search chat 
+      
+      - If still unsure if participant has sent package back to us check email thread
+      
+  - For home session reminders make sure to only send request if they haven't sent package back or are missing something
+  
+      - If we *did* receive package but something is missing ( contact list, BSS) then you would request it. Lab manager usually tells whoever is in charge of calendar if things were missing from packages that were received
+      
+Misc Notes
+
+  - If the calendar event is for something else such as checking in with a participapant or rescheduling a session the lab manager or other memmber of team will provide the necessary context
+  
+  - If unsure about a particicular calendar event you can slack Lab manager or send a message to SRA to see if someone knows answer
+  
+  - Remember to mark as complete on calendar and on MBB participant log after doing each calendar event
+  
+  - refer to Wave 2 Checklist for script for the text message if it is not in the description of calendar event
+     
 ------------
 
 ### W1-O Checklist - Pre-Session 1
