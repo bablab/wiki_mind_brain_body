@@ -260,13 +260,18 @@ RA’s will be conducting Data Entry Checks to ensure that all data collected fr
       **These items have been flagged by an RA and require auditing.**
 
 2. Open REDcap and go to corresponding MBB participant that requires auditing.
-    - For any flagged items, read notes on Participant Log and the participant’s REDCap to get an idea of the issue.  If necessary, locate the participant’s paper copy in their “Data” folder to verify the discrepancy. (Can be found in BABLAB > Studies >  Mind_Brain_Body > Data > (wave) > Wave_online_data)
+    - For any flagged items, read notes on Participant Log and the participant’s REDCap to get an idea of the issue.  If necessary, locate the participant’s paper copy in their “Data” folder to verify the discrepancy. (Can be found in BABLAB > Studies >  Mind_Brain_Body > Data > (wave) > Wave_data)
 
 **IF** the issue is fixable, edit the item on REDcap to match the paper copy, and note the item as Complete on the MBB_participant_log.
 
 **IF** there is a discrepancy between the paper copy and REDcap, check an updated version of the paper copy to verify whether this discrepancy has been fixed since the participant completed the study. The paper copies can be found at BABLAB > Studies > Mind_Brain_Body > Documents > Questionnaires > Wave_X (specific to which wave you are checking)
-  - If the paper copy has not been updated, make a note and report to lab manager.
-  - Either way, ask lab manager whether we need to contact participant to retrieve the missing data. 
+
+If the paper copy has not been updated, make a note and report to lab manager. If the paper copy has been updated, then this will be a case where we are missing data from the participant because they did not receive some of the questions that are now on REDCap. 
+  - Open the Trello Data Audit Board, and locate the MBB participant’s card. 
+  - Under **Description**, note the date of the data entry audit check, and provide a note explaining the missing items. (See below for example)
+  - Under **Incomplete**, note specific questions that participant did not receive on their paper copy. Lab Manager will then assess the importance of these questions, and whether they need to be retrieved during data audits, or the next wave of data collection.
+  - Once Trello is updated, **unflag items on MBB Participant Log, and mark as Complete.**
+
 
 **IF** the issue is not fixable – write detailed notes of where the discrepancy needs to be fixed, and report it to the Lab Manager. Lab Manager should assess the amount of items missing, the importance of the items to the scale and to the overall study, and the process in which audits have been conducted to see if it would be convenient to re-request such information. After assessing such details, the Lab Manager should decide how to proceed with the issue on a base-by-base situation. 
 
@@ -281,7 +286,7 @@ RA’s will be conducting Data Entry Checks to ensure that all data collected fr
 
 **Issue:** “Did your child’s school close due to outbreak” answer not inputted into Redcap, which didn’t activate the rest of questions to be entered. Participant answered “Yes” and “homeschooled” and answered rest of questions, however the follow-up questions were not inputted into redcap, because only one option can be selected for “Did your child’s school close due to outbreak”
 
-**Resolve:** In this situation, we may assume that the participant should have circled “yes” in order to activate the branch logic-ed items on REDCap that they did fill out on paper, which must have applied to them. 
+**Resolve:** In this situation, we may assume that the participant should have circled “yes” in order to activate the branch logic-ed items on REDCap that they did fill out on paper, which must have applied to them.  
 
 
 **Participant:** MBB033

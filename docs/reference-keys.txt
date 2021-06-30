@@ -156,7 +156,8 @@ data-review-completed-by-lab-manager-1
 data-audit-completed-by-lab-manager-2
 wave-1-online
 w1-o-checklists-online
-w1-o-checklist---initial-online
+w1-o-checklist---scheduling-stage
+w1-o-checklist---calendar-reminders
 w1-o-checklist---pre-session-1
 package-preparation-magic-box
 setup---1-hour-prior
