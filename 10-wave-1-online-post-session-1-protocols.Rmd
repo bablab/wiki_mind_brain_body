@@ -13,6 +13,8 @@ Step 3:
 There will be three files in the folder- find the mp4 file and click open to ensure you have captured and converted the file successfully. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/10.png) 
 Step 4:
 Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box. ![<!--- Zoom Parent Child Observation --->](images/zoom_parent_child_interaction/11.png)
+Step 5:
+Save files to box in Box/BABLAB/Studies/Mind_Brain_Body/Data/Wave_X/Wave_X_parent_child_interactions/MBB_2_999
 
 ### W1-O Protocol - Downloading the Gorilla task data
 

@@ -30,7 +30,7 @@ There will be three files in the folder- find the mp4 file and click open to ens
 
 Step 4: 
 
-Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box.  
+Check the External drive for the participant's secondary ID number, and rename all 3 files with their secondary ID (MBB_2_XXX). Then upload to Box in Save files to box in Box/BABLAB/Studies/Mind_Brain_Body/Data/Wave_X/Wave_X_parent_child_interactions/MBB_2_999
 
  
 
