@@ -465,24 +465,30 @@ NOTE: all template emails are in bablab gmail
 - Delete session 2 & reminder calendar events from MBB calendar to avoid confusion
   - Session 2 reminder email
   - Session 2 reminder call
-  - Session 2 session event 
+  - Session 2 session event
   - Home session reminder 1 email
   - Home session reminder 1 call
   - Home session reminder 2 email
-- Change REDCap status 
-  - Go to “Default Dashboard” to access full list of SMBB numbers
-  - Change REDCap SMBB wave 1 status from enrolled to default dashboard 
-  - Note - MBB stays the same 
-- Update [Participant Tally] (https://ucla.app.box.com/file/724688028024)
-- Rescheduling steps 
-  - Send No-show rescheduling email same day 
-  - Add calendar event for reschedule call 1 (following day) 
-  - Add calendar event for rescheduling email 2 (1 week after) 
-  - Add calendar event for rescheduling call 2 (8 days later) 
-  - Add calendar event for rescheduling email 3 (2 weeks after) 
-  - Add calendar event for rescheduling call 3 (15 days later) 
-- Add participant to “No-Show Tracking Sheet” 
-  -Fill out information on tracking sheet for participant 
+- Update [Participant Tally] as “rescheduling” (https://ucla.app.box.com/file/724688028024)
+- Update MBB_Participant_Log – under “Wave 1- online session date”, write “rescheduling”
+- Note in REDcap participant instrument “notes” that participant is being rescheduled.
+- Rescheduling steps
+  - Send No-show rescheduling email same day
+  - Add calendar event for reschedule call 1 (following day)
+  - Add calendar event for rescheduling email 2 (3 days after original session date)
+  - Add calendar event for rescheduling call 2 (4 days after original session date)
+  - Add calendar event for rescheduling email 3 (1 week after original session date)
+  - Add calendar event for rescheduling call 3 (8 days after original session date)
+- IF participant is not reached after 6 previous recontact attempts, make note in the next SRA meeting document, and follow-up with Kristen regarding next steps. 
+- IF participant gets rescheduled:
+  - Update new date of session in:
+    - MBB_Participant_Log
+    - REDcap Participant Instrument
+  - Recreate S1 and S2 calendar events, as well as each reminder calendar event.
+
+
+
+  
 
 
 

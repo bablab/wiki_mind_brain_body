@@ -181,76 +181,76 @@
 \contentsline {subsubsection}{\numberline {4.1.9.9}Retention}{110}{subsubsection.4.1.9.9}%
 \contentsline {subsubsection}{\numberline {4.1.9.10}Reimbursement}{110}{subsubsection.4.1.9.10}%
 \contentsline {subsection}{\numberline {4.1.10}W1-O Checklist - No Show}{111}{subsection.4.1.10}%
-\contentsline {section}{\numberline {4.2}W1-O Protocols - Pre-Session 1}{111}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}W1-O Protocol - Recruitment Online}{111}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.1}Adding Participants to Participant Database}{111}{subsubsection.4.2.1.1}%
+\contentsline {section}{\numberline {4.2}W1-O Protocols - Pre-Session 1}{112}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}W1-O Protocol - Recruitment Online}{112}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Adding Participants to Participant Database}{112}{subsubsection.4.2.1.1}%
 \contentsline {subsubsection}{\numberline {4.2.1.2}Pre-Screening}{112}{subsubsection.4.2.1.2}%
-\contentsline {subsubsection}{\numberline {4.2.1.3}Screening}{112}{subsubsection.4.2.1.3}%
-\contentsline {subsubsection}{\numberline {4.2.1.4}Scheduling}{116}{subsubsection.4.2.1.4}%
-\contentsline {subsubsection}{\numberline {4.2.1.5}Other Screening Information}{116}{subsubsection.4.2.1.5}%
-\contentsline {subsubsection}{\numberline {4.2.1.6}Concerns}{117}{subsubsection.4.2.1.6}%
-\contentsline {subsubsection}{\numberline {4.2.1.7}Making a Zoom link}{117}{subsubsection.4.2.1.7}%
-\contentsline {subsection}{\numberline {4.2.2}W1-O Protocol - Session Preparation}{120}{subsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.2.1}Package creation}{120}{subsubsection.4.2.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2.2}Zoom security Settings}{121}{subsubsection.4.2.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.2.3}Activating participant on Gorilla}{123}{subsubsection.4.2.2.3}%
-\contentsline {section}{\numberline {4.3}W1-O Protocols - Session 1}{126}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}W1-O Protocol - Welcome \& Zoom Introduction}{126}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}W1-O Protocol - Consent \& Assent Online}{127}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}W1-O Protocol - Parent Child Observation Online}{130}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}W1-O Protocol - Halloween Training/Parent Questionnaires}{133}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}W1-O Protocol - Height Online}{135}{subsection.4.3.5}%
-\contentsline {subsection}{\numberline {4.3.6}W1-O Protocol - Weight Online}{136}{subsection.4.3.6}%
-\contentsline {subsection}{\numberline {4.3.7}W1-O Protocol - Waist Measurement Online}{137}{subsection.4.3.7}%
-\contentsline {subsection}{\numberline {4.3.8}W1-O Protocol - Halloween ``Test'' Online}{137}{subsection.4.3.8}%
-\contentsline {subsection}{\numberline {4.3.9}W1-O Protocol - Saliva Sample Online}{138}{subsection.4.3.9}%
-\contentsline {subsection}{\numberline {4.3.10}W1-O Protocol - Hair Sample Online}{139}{subsection.4.3.10}%
-\contentsline {subsubsection}{\numberline {4.3.10.1}Set Up Hair Sample Station}{139}{subsubsection.4.3.10.1}%
-\contentsline {subsubsection}{\numberline {4.3.10.2}Explanation}{140}{subsubsection.4.3.10.2}%
-\contentsline {subsubsection}{\numberline {4.3.10.3}Hair Length}{140}{subsubsection.4.3.10.3}%
-\contentsline {subsection}{\numberline {4.3.11}W1-O Protocol - Child Questionnaires Online}{142}{subsection.4.3.11}%
-\contentsline {subsubsection}{\numberline {4.3.11.1}IF THERE IS NOT ENOUGH TIME}{142}{subsubsection.4.3.11.1}%
-\contentsline {subsubsection}{\numberline {4.3.11.2}Ages 8+}{142}{subsubsection.4.3.11.2}%
-\contentsline {subsubsection}{\numberline {4.3.11.3}Ages 6-7}{143}{subsubsection.4.3.11.3}%
-\contentsline {subsubsection}{\numberline {4.3.11.4}Sharing Your Screen}{143}{subsubsection.4.3.11.4}%
-\contentsline {subsection}{\numberline {4.3.12}W1-O Protocol - Session 2}{144}{subsection.4.3.12}%
-\contentsline {subsection}{\numberline {4.3.13}W1-O Protocol - Multiple Child Sessions}{145}{subsection.4.3.13}%
-\contentsline {subsection}{\numberline {4.3.14}W1-O Protocol - Reporting}{145}{subsection.4.3.14}%
-\contentsline {subsubsection}{\numberline {4.3.14.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{145}{subsubsection.4.3.14.1}%
-\contentsline {subsubsection}{\numberline {4.3.14.2}If Suicidal Ideation arises\ldots {}}{146}{subsubsection.4.3.14.2}%
-\contentsline {section}{\numberline {4.4}W1-O Protocols - Post-Session 1}{147}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}W1-O Protocol - Saving the Video}{147}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}W1-O Protocol - Downloading the Gorilla task data}{149}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}W1-O Protocol - Session 2 Confirmation Email}{151}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}W1-O Protocols - Session 2}{151}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}W1-O Protocol - Halloween Test Delay}{151}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}W1-O Protocol - Mailing Package}{154}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}W1-O Protocol - Payment}{154}{subsection.4.5.3}%
-\contentsline {subsection}{\numberline {4.5.4}W1-O Protocol - Wave 2 Interview}{154}{subsection.4.5.4}%
-\contentsline {subsection}{\numberline {4.5.5}W1-O Protocol - Testimonials}{154}{subsection.4.5.5}%
-\contentsline {section}{\numberline {4.6}W1-O Protocols - Post-Session 2}{155}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}W1-O Protocol - Downloading the Gorilla delay test data}{155}{subsection.4.6.1}%
-\contentsline {subsection}{\numberline {4.6.2}W1-O Protocol - Session 2 TO DO List Email}{155}{subsection.4.6.2}%
-\contentsline {subsection}{\numberline {4.6.3}W1-O Protocol - If participant had feedback to give}{155}{subsection.4.6.3}%
-\contentsline {section}{\numberline {4.7}W1-O Protocols - Final}{156}{section.4.7}%
-\contentsline {subsection}{\numberline {4.7.1}W1-O Protocol - Storing Saliva Sample}{156}{subsection.4.7.1}%
-\contentsline {subsection}{\numberline {4.7.2}W1-O Protocol - Storing Hair Sample}{156}{subsection.4.7.2}%
-\contentsline {subsection}{\numberline {4.7.3}W1-O Protocol - Storing Stool Sample}{156}{subsection.4.7.3}%
-\contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{156}{subsubsection.4.7.3.1}%
-\contentsline {subsubsection}{\numberline {4.7.3.2}Sample Transfer}{156}{subsubsection.4.7.3.2}%
-\contentsline {subsection}{\numberline {4.7.4}W1-O Protocol - Data Entry \& Data Quality}{157}{subsection.4.7.4}%
-\contentsline {subsubsection}{\numberline {4.7.4.1}Data Entry}{157}{subsubsection.4.7.4.1}%
-\contentsline {subsubsection}{\numberline {4.7.4.2}Data Entry Checks}{157}{subsubsection.4.7.4.2}%
-\contentsline {subsubsection}{\numberline {4.7.4.3}Data Quality}{157}{subsubsection.4.7.4.3}%
-\contentsline {subsubsection}{\numberline {4.7.4.4}Relevant Protocols}{157}{subsubsection.4.7.4.4}%
-\contentsline {subsection}{\numberline {4.7.5}W1-O Protocol - Data Review \& Data Audit}{158}{subsection.4.7.5}%
-\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{158}{subsubsection.4.7.5.1}%
-\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{158}{subsubsection.4.7.5.2}%
-\contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{158}{subsubsection.4.7.5.3}%
-\contentsline {subsubsection}{\numberline {4.7.5.4}\textbf {Documenting the audits}}{159}{subsubsection.4.7.5.4}%
-\contentsline {subsection}{\numberline {4.7.6}W1-O Protocol - Data Entry Check Board Audits}{166}{subsection.4.7.6}%
-\contentsline {subsection}{\numberline {4.7.7}W1-O Protocol - Report Card}{168}{subsection.4.7.7}%
-\contentsline {subsection}{\numberline {4.7.8}W1-O Protocol - Payment}{177}{subsection.4.7.8}%
+\contentsline {subsubsection}{\numberline {4.2.1.3}Screening}{113}{subsubsection.4.2.1.3}%
+\contentsline {subsubsection}{\numberline {4.2.1.4}Scheduling}{117}{subsubsection.4.2.1.4}%
+\contentsline {subsubsection}{\numberline {4.2.1.5}Other Screening Information}{117}{subsubsection.4.2.1.5}%
+\contentsline {subsubsection}{\numberline {4.2.1.6}Concerns}{118}{subsubsection.4.2.1.6}%
+\contentsline {subsubsection}{\numberline {4.2.1.7}Making a Zoom link}{118}{subsubsection.4.2.1.7}%
+\contentsline {subsection}{\numberline {4.2.2}W1-O Protocol - Session Preparation}{121}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}Package creation}{121}{subsubsection.4.2.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}Zoom security Settings}{122}{subsubsection.4.2.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.3}Activating participant on Gorilla}{124}{subsubsection.4.2.2.3}%
+\contentsline {section}{\numberline {4.3}W1-O Protocols - Session 1}{127}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}W1-O Protocol - Welcome \& Zoom Introduction}{127}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}W1-O Protocol - Consent \& Assent Online}{128}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}W1-O Protocol - Parent Child Observation Online}{131}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}W1-O Protocol - Halloween Training/Parent Questionnaires}{134}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}W1-O Protocol - Height Online}{136}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}W1-O Protocol - Weight Online}{137}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}W1-O Protocol - Waist Measurement Online}{138}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}W1-O Protocol - Halloween ``Test'' Online}{138}{subsection.4.3.8}%
+\contentsline {subsection}{\numberline {4.3.9}W1-O Protocol - Saliva Sample Online}{139}{subsection.4.3.9}%
+\contentsline {subsection}{\numberline {4.3.10}W1-O Protocol - Hair Sample Online}{140}{subsection.4.3.10}%
+\contentsline {subsubsection}{\numberline {4.3.10.1}Set Up Hair Sample Station}{140}{subsubsection.4.3.10.1}%
+\contentsline {subsubsection}{\numberline {4.3.10.2}Explanation}{141}{subsubsection.4.3.10.2}%
+\contentsline {subsubsection}{\numberline {4.3.10.3}Hair Length}{141}{subsubsection.4.3.10.3}%
+\contentsline {subsection}{\numberline {4.3.11}W1-O Protocol - Child Questionnaires Online}{143}{subsection.4.3.11}%
+\contentsline {subsubsection}{\numberline {4.3.11.1}IF THERE IS NOT ENOUGH TIME}{143}{subsubsection.4.3.11.1}%
+\contentsline {subsubsection}{\numberline {4.3.11.2}Ages 8+}{143}{subsubsection.4.3.11.2}%
+\contentsline {subsubsection}{\numberline {4.3.11.3}Ages 6-7}{144}{subsubsection.4.3.11.3}%
+\contentsline {subsubsection}{\numberline {4.3.11.4}Sharing Your Screen}{144}{subsubsection.4.3.11.4}%
+\contentsline {subsection}{\numberline {4.3.12}W1-O Protocol - Session 2}{145}{subsection.4.3.12}%
+\contentsline {subsection}{\numberline {4.3.13}W1-O Protocol - Multiple Child Sessions}{146}{subsection.4.3.13}%
+\contentsline {subsection}{\numberline {4.3.14}W1-O Protocol - Reporting}{146}{subsection.4.3.14}%
+\contentsline {subsubsection}{\numberline {4.3.14.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{146}{subsubsection.4.3.14.1}%
+\contentsline {subsubsection}{\numberline {4.3.14.2}If Suicidal Ideation arises\ldots {}}{147}{subsubsection.4.3.14.2}%
+\contentsline {section}{\numberline {4.4}W1-O Protocols - Post-Session 1}{148}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}W1-O Protocol - Saving the Video}{148}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}W1-O Protocol - Downloading the Gorilla task data}{150}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}W1-O Protocol - Session 2 Confirmation Email}{152}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}W1-O Protocols - Session 2}{152}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}W1-O Protocol - Halloween Test Delay}{152}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}W1-O Protocol - Mailing Package}{155}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}W1-O Protocol - Payment}{155}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4.5.4}W1-O Protocol - Wave 2 Interview}{155}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4.5.5}W1-O Protocol - Testimonials}{155}{subsection.4.5.5}%
+\contentsline {section}{\numberline {4.6}W1-O Protocols - Post-Session 2}{156}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}W1-O Protocol - Downloading the Gorilla delay test data}{156}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}W1-O Protocol - Session 2 TO DO List Email}{156}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}W1-O Protocol - If participant had feedback to give}{156}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}W1-O Protocols - Final}{157}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}W1-O Protocol - Storing Saliva Sample}{157}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}W1-O Protocol - Storing Hair Sample}{157}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}W1-O Protocol - Storing Stool Sample}{157}{subsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.3.1}Sample Quality}{157}{subsubsection.4.7.3.1}%
+\contentsline {subsubsection}{\numberline {4.7.3.2}Sample Transfer}{157}{subsubsection.4.7.3.2}%
+\contentsline {subsection}{\numberline {4.7.4}W1-O Protocol - Data Entry \& Data Quality}{158}{subsection.4.7.4}%
+\contentsline {subsubsection}{\numberline {4.7.4.1}Data Entry}{158}{subsubsection.4.7.4.1}%
+\contentsline {subsubsection}{\numberline {4.7.4.2}Data Entry Checks}{158}{subsubsection.4.7.4.2}%
+\contentsline {subsubsection}{\numberline {4.7.4.3}Data Quality}{158}{subsubsection.4.7.4.3}%
+\contentsline {subsubsection}{\numberline {4.7.4.4}Relevant Protocols}{158}{subsubsection.4.7.4.4}%
+\contentsline {subsection}{\numberline {4.7.5}W1-O Protocol - Data Review \& Data Audit}{159}{subsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.5.1}Follow-Up (completed by Scheduling Coordinator)}{159}{subsubsection.4.7.5.1}%
+\contentsline {subsubsection}{\numberline {4.7.5.2}Data Review}{159}{subsubsection.4.7.5.2}%
+\contentsline {subsubsection}{\numberline {4.7.5.3}Data Audit}{159}{subsubsection.4.7.5.3}%
+\contentsline {subsubsection}{\numberline {4.7.5.4}\textbf {Documenting the audits}}{160}{subsubsection.4.7.5.4}%
+\contentsline {subsection}{\numberline {4.7.6}W1-O Protocol - Data Entry Check Board Audits}{167}{subsection.4.7.6}%
+\contentsline {subsection}{\numberline {4.7.7}W1-O Protocol - Report Card}{169}{subsection.4.7.7}%
+\contentsline {subsection}{\numberline {4.7.8}W1-O Protocol - Payment}{178}{subsection.4.7.8}%
 \contentsline {chapter}{\numberline {5}Wave 1 SONA}{181}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Summary - MBB SONA}{181}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Measures - MBB SONA}{181}{section.5.2}%
