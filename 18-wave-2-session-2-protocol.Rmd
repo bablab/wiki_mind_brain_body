@@ -102,6 +102,13 @@ If no: *When do you think you will be able to finish? We will need to schedule a
 
 - Check that they write down date and time the blood sample was collected on the box the kit comes with 
 
+### W2 Protocol – MRI SCREEN
+
+- check if participant needs to complete the mri screen
+- read the mri screen to participant like an interview and fill out on REDCap manually
+- discuss any concerns relevant to MRI
+
+
 
 ### W2 Protocol - Mailing Package 
 
