@@ -325,13 +325,14 @@
 \contentsline {subsection}{\numberline {6.5.1}W2 Protocol - Halloween Test Delay}{218}{subsection.6.5.1}%
 \contentsline {subsection}{\numberline {6.5.2}W2 Protocol -- Home Session Check In}{219}{subsection.6.5.2}%
 \contentsline {subsection}{\numberline {6.5.3}W2 Protocol -- Tasso Blood Sample Online}{220}{subsection.6.5.3}%
-\contentsline {subsection}{\numberline {6.5.4}W2 Protocol - Mailing Package}{221}{subsection.6.5.4}%
-\contentsline {subsection}{\numberline {6.5.5}W2 Protocol - Payment}{221}{subsection.6.5.5}%
-\contentsline {subsection}{\numberline {6.5.6}W2 Protocol - Prize}{221}{subsection.6.5.6}%
-\contentsline {subsection}{\numberline {6.5.7}W2 Protocol - Testimonials}{221}{subsection.6.5.7}%
+\contentsline {subsection}{\numberline {6.5.4}W2 Protocol -- MRI SCREEN}{221}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.5}W2 Protocol - Mailing Package}{221}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}W2 Protocol - Payment}{221}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.7}W2 Protocol - Prize}{221}{subsection.6.5.7}%
+\contentsline {subsection}{\numberline {6.5.8}W2 Protocol - Testimonials}{222}{subsection.6.5.8}%
 \contentsline {section}{\numberline {6.6}W2 Protocols - Post-Session 2}{222}{section.6.6}%
 \contentsline {subsection}{\numberline {6.6.1}W2 Protocol - Downloading the Gorilla delay test data}{222}{subsection.6.6.1}%
-\contentsline {subsection}{\numberline {6.6.2}W2 Protocol - Downloading the ASA data}{222}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.2}W2 Protocol - Downloading the ASA data}{223}{subsection.6.6.2}%
 \contentsline {subsection}{\numberline {6.6.3}W2 Protocol - Session 2 TO DO List Email}{223}{subsection.6.6.3}%
 \contentsline {subsection}{\numberline {6.6.4}W2 Protocol -- If blood sample not collected during session 2}{223}{subsection.6.6.4}%
 \contentsline {subsection}{\numberline {6.6.5}W2 Protocol - If participant had feedback to give}{224}{subsection.6.6.5}%
@@ -339,12 +340,12 @@
 \contentsline {subsection}{\numberline {6.7.1}W2 Protocol - Storing Saliva Sample}{224}{subsection.6.7.1}%
 \contentsline {subsection}{\numberline {6.7.2}W2 Protocol - Processing Saliva Sample}{224}{subsection.6.7.2}%
 \contentsline {subsubsection}{\numberline {6.7.2.1}Sample Transfer}{224}{subsubsection.6.7.2.1}%
-\contentsline {subsection}{\numberline {6.7.3}W2 Protocol - Storing Hair Sample}{226}{subsection.6.7.3}%
-\contentsline {subsection}{\numberline {6.7.4}W2 Protocol - Storing Stool Sample}{226}{subsection.6.7.4}%
-\contentsline {subsubsection}{\numberline {6.7.4.1}Sample Quality}{226}{subsubsection.6.7.4.1}%
+\contentsline {subsection}{\numberline {6.7.3}W2 Protocol - Storing Hair Sample}{227}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.4}W2 Protocol - Storing Stool Sample}{227}{subsection.6.7.4}%
+\contentsline {subsubsection}{\numberline {6.7.4.1}Sample Quality}{227}{subsubsection.6.7.4.1}%
 \contentsline {subsubsection}{\numberline {6.7.4.2}Sample Transfer}{227}{subsubsection.6.7.4.2}%
 \contentsline {subsubsection}{\numberline {6.7.4.3}Taking out the Hazards}{228}{subsubsection.6.7.4.3}%
-\contentsline {subsection}{\numberline {6.7.5}W2 Protocol - Tasso Blood Sample Storage}{228}{subsection.6.7.5}%
+\contentsline {subsection}{\numberline {6.7.5}W2 Protocol - Tasso Blood Sample Storage}{229}{subsection.6.7.5}%
 \contentsline {subsection}{\numberline {6.7.6}W2 Protocol - Data Entry \& Data Quality}{229}{subsection.6.7.6}%
 \contentsline {subsubsection}{\numberline {6.7.6.1}Data Entry}{229}{subsubsection.6.7.6.1}%
 \contentsline {subsubsection}{\numberline {6.7.6.2}Data Quality}{229}{subsubsection.6.7.6.2}%
@@ -354,7 +355,7 @@
 \contentsline {subsubsection}{\numberline {6.7.7.2}Data Review}{229}{subsubsection.6.7.7.2}%
 \contentsline {subsubsection}{\numberline {6.7.7.3}Data Audit}{230}{subsubsection.6.7.7.3}%
 \contentsline {subsubsection}{\numberline {6.7.7.4}\textbf {Documenting the audits}}{231}{subsubsection.6.7.7.4}%
-\contentsline {paragraph}{\numberline {6.7.7.4.1}Getting A Code From REDCap}{231}{paragraph.6.7.7.4.1}%
+\contentsline {paragraph}{\numberline {6.7.7.4.1}Getting A Code From REDCap}{232}{paragraph.6.7.7.4.1}%
 \contentsline {subsection}{\numberline {6.7.8}W2 Protocol - Report Card}{232}{subsection.6.7.8}%
 \contentsline {subsection}{\numberline {6.7.9}W2 Protocol - Payment}{240}{subsection.6.7.9}%
 \contentsline {chapter}{\numberline {7}Troubleshooting}{243}{chapter.7}%

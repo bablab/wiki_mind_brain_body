@@ -11,7 +11,7 @@
 - There will be a script on REDCap for making calls, just follow the script.
 - We are not rescreening them, the call will be just for letting them know we're now in wave 2 and scheduling their session
 - All attempts at contacting participant including reaching out to the individuals on their contact lists should be documented as a screening on REDCap. Make sure to always make a note of voicemail left, email sent etc.
-- Remember to change the recontect date after each contact attempt and to lock each screening so there is unaltered record of who reached out and when 
+- Remember to change the recontect date after each contact attempt and to lock each screening so there is unaltered record of who reached out and when.
 - **Parents will verbally opt in to text reminders at the time of screen call which will be their “consent” to be texted.**
 - **Age in the "Participant" part of REDCap should be the age of participant at the time of *Session 1* **
 
