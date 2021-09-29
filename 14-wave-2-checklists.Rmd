@@ -177,7 +177,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
 - Print [What is in this magic box and what goes back to the lab?] 
 - Print [Reward Board](https://ucla.app.box.com/file/668504120930) (plus gold star stickers) 
-- Print/Staple Parent Questionnaire Booklet (in this order) 
+- Check to see if parent wanted printed surveys or to take surveys online 
+    - If printed, print Parent Questionnaire Booklet (in this order): 
 
   1. *Parent Questionnaire Cover Page / Parent Proxy Intro* 
   2. demographics_parentproxy_w2 
@@ -195,6 +196,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   14. dhws_parentproxy_w2 
   15. earlymri_parentproxy_w2 
   16. acute_illness_parentproxy_w2 
+  17. *ASA cover sheet*
 
 - **Print the following if the participant qualifies for *extra* surveys:** 
 
@@ -212,8 +214,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   28. covid_objective_parentselfreport 
   29. pss_parentselfreport 
   30. stai_parentselfreport_w2 
-  31. bss 
-  32. contact_list 
+  31. contact_list 
 
 - **Print the following if the participant qualifies for *recollected* surveys:** 
 
@@ -226,11 +227,20 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   32. crpr_parent_self (from all wave 1 online people, or anyone who forgot from wave 1 in person)  
   32. financial_support_parent_self (from all wave 1 in person people, or anyone who forgot in wave 1 online) 
 
+    - If they want surveys online, only print:
+  1. ASA Cover Sheet
+  2. Recollected Surveys
+  3. contact_list
+    
+- Print/Staple Child Surveys Packet
+  1. Child Sleep Diary
+  2. bss
+    
 - Print/Staple Session 1/Session 2 Booklet (in this order) 
   1. Session Cover page 
   2. [Pleasant/Unpleasant Events Checklist](https://ucla.app.box.com/file/630327764749) 
   3. Stool Sample Instructions Sheet 
-  4. ASA cover sheet
+
 - Prepare 1-2 sharpened pencils 
 - Prepare paper measuring tape (for waist and height measurements) 
 - Label 2 biohazard bags (with 2 cotton balls in each bag) 
@@ -260,6 +270,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
 - Open up Zoom link for Session 1 
 - Read "participant" information instrument on REDCap for notes section for any notes from the scheduler about child 
+  - Check for note on whether or not parent wanted questionnaires to be given online or on paper, adjust script accordingly
   - the participant info should also contain info about whether there are recollected surveys to administer (both that parent received in parent survey packet or child surveys we'll administer in session)
   - If there is a child survey that needs to be recollected get the survey code so that it can be easily accessed during session
 - Check to see if they did blood sample last year, it's in the participant log on the Wave 1 - Data Entry sheet. 
@@ -270,6 +281,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Pull up session scripts/protocol, Halloween training instructions, and Halloween Test instructions 
 - Send *Session 1 Links* email 
   - NOTE: do not add Gorilla Code to LINKS email- code is their MBB # which cannot be paired with private information (participant's name/email) 
+  - NOTE: only send parent proxy and parent self REDCap surveys if they indiciated in participant section on redcap that they preferred online survey data collection
 - Activate the participant's ID on Gorilla; leave Gorilla open so researcher can track participant progress during behavioral task 
 - Prepare Session 1 checklist on REDCap 
 - Have the Participant's MBB and secondary MBB number on hand 
@@ -295,7 +307,7 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 - Consent/Assent 
 - Parent-child observation (note recording via Zoom or participant recorded) 
 - If participant recorded, instruct participant how to upload to Box 
-- Explain Questionnaires Parent Proxy or Parent self on second device if available (for parent to complete during Halloween training, Halloween test, and Child Questionnaires) 
+- Explain Questionnaires Parent Proxy or Parent self on second device or paper (for parent to complete during Halloween training, Halloween test, and Child Questionnaires) 
 - Halloween training 
 - Height 
 - Weight 
