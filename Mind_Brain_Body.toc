@@ -263,31 +263,31 @@
 \contentsline {subsubsection}{\numberline {6.1.2.1}Package preparation: ``magic box''}{187}{subsubsection.6.1.2.1}%
 \contentsline {subsubsection}{\numberline {6.1.2.2}Setup - 1 Hour Prior}{190}{subsubsection.6.1.2.2}%
 \contentsline {subsection}{\numberline {6.1.3}W2 Checklist - Session 1}{191}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}W2 Checklist - Post-Session 1}{191}{subsection.6.1.4}%
-\contentsline {subsubsection}{\numberline {6.1.4.1}Notes}{191}{subsubsection.6.1.4.1}%
-\contentsline {subsubsection}{\numberline {6.1.4.2}Filing}{191}{subsubsection.6.1.4.2}%
+\contentsline {subsection}{\numberline {6.1.4}W2 Checklist - Post-Session 1}{192}{subsection.6.1.4}%
+\contentsline {subsubsection}{\numberline {6.1.4.1}Notes}{192}{subsubsection.6.1.4.1}%
+\contentsline {subsubsection}{\numberline {6.1.4.2}Filing}{192}{subsubsection.6.1.4.2}%
 \contentsline {subsubsection}{\numberline {6.1.4.3}Reminders}{192}{subsubsection.6.1.4.3}%
 \contentsline {subsection}{\numberline {6.1.5}W2 Checklist - Pre-Session 2}{192}{subsection.6.1.5}%
 \contentsline {subsection}{\numberline {6.1.6}W2 Checklist - Session 2}{192}{subsection.6.1.6}%
-\contentsline {subsection}{\numberline {6.1.7}W2 Checklist - Post-Session 2}{192}{subsection.6.1.7}%
+\contentsline {subsection}{\numberline {6.1.7}W2 Checklist - Post-Session 2}{193}{subsection.6.1.7}%
 \contentsline {subsection}{\numberline {6.1.8}W2 Checklist - Final Online}{193}{subsection.6.1.8}%
 \contentsline {subsubsection}{\numberline {6.1.8.1}Filing}{193}{subsubsection.6.1.8.1}%
 \contentsline {subsubsection}{\numberline {6.1.8.2}Data Entry}{193}{subsubsection.6.1.8.2}%
 \contentsline {subsubsection}{\numberline {6.1.8.3}Reminders}{193}{subsubsection.6.1.8.3}%
 \contentsline {subsubsection}{\numberline {6.1.8.4}Package confirmation}{193}{subsubsection.6.1.8.4}%
-\contentsline {subsubsection}{\numberline {6.1.8.5}Data Entry}{193}{subsubsection.6.1.8.5}%
+\contentsline {subsubsection}{\numberline {6.1.8.5}Data Entry}{194}{subsubsection.6.1.8.5}%
 \contentsline {subsubsection}{\numberline {6.1.8.6}Filing}{194}{subsubsection.6.1.8.6}%
 \contentsline {subsubsection}{\numberline {6.1.8.7}Sample Storage}{194}{subsubsection.6.1.8.7}%
 \contentsline {subsubsection}{\numberline {6.1.8.8}Data Quality}{194}{subsubsection.6.1.8.8}%
 \contentsline {subsubsection}{\numberline {6.1.8.9}Retention}{194}{subsubsection.6.1.8.9}%
-\contentsline {subsubsection}{\numberline {6.1.8.10}Reimbursement}{194}{subsubsection.6.1.8.10}%
-\contentsline {subsection}{\numberline {6.1.9}W2 Checklist - No Show}{194}{subsection.6.1.9}%
-\contentsline {section}{\numberline {6.2}W2 Protocols - Pre-session 1}{195}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}W2 Protocol - Scheduling}{195}{subsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.1.1}Important Notes}{195}{subsubsection.6.2.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.8.10}Reimbursement}{195}{subsubsection.6.1.8.10}%
+\contentsline {subsection}{\numberline {6.1.9}W2 Checklist - No Show}{195}{subsection.6.1.9}%
+\contentsline {section}{\numberline {6.2}W2 Protocols - Pre-session 1}{196}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}W2 Protocol - Scheduling}{196}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.1}Important Notes}{196}{subsubsection.6.2.1.1}%
 \contentsline {subsubsection}{\numberline {6.2.1.2}Contacting participants}{196}{subsubsection.6.2.1.2}%
 \contentsline {subsubsection}{\numberline {6.2.1.3}Scheduling Participant}{197}{subsubsection.6.2.1.3}%
-\contentsline {subsubsection}{\numberline {6.2.1.4}Scheduling Session}{197}{subsubsection.6.2.1.4}%
+\contentsline {subsubsection}{\numberline {6.2.1.4}Scheduling Session}{198}{subsubsection.6.2.1.4}%
 \contentsline {subsection}{\numberline {6.2.2}W2 Protocol - Session Preparation}{198}{subsection.6.2.2}%
 \contentsline {subsubsection}{\numberline {6.2.2.1}Package creation}{198}{subsubsection.6.2.2.1}%
 \contentsline {subsubsection}{\numberline {6.2.2.2}Activating participant on Gorilla}{199}{subsubsection.6.2.2.2}%
@@ -295,51 +295,50 @@
 \contentsline {section}{\numberline {6.3}W2 Protocols - Session 1}{199}{section.6.3}%
 \contentsline {subsection}{\numberline {6.3.1}W2 Protocol - Welcome \& Zoom Introduction}{199}{subsection.6.3.1}%
 \contentsline {subsection}{\numberline {6.3.2}W2 Protocol - Consent \& Assent Online}{200}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}W2 Protocol - Parent Child Observation Online}{202}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.3}W2 Protocol - Parent Child Observation Online}{203}{subsection.6.3.3}%
 \contentsline {subsection}{\numberline {6.3.4}W2 Protocol - Halloween Training/Parent Questionnaires}{205}{subsection.6.3.4}%
-\contentsline {subsection}{\numberline {6.3.5}W2 Protocol - Height Online}{206}{subsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.3.5}W2 Protocol - Height Online}{207}{subsection.6.3.5}%
 \contentsline {subsection}{\numberline {6.3.6}W2 Protocol - Weight Online}{207}{subsection.6.3.6}%
 \contentsline {subsection}{\numberline {6.3.7}W2 Protocol - Waist Measurement Online}{207}{subsection.6.3.7}%
-\contentsline {subsection}{\numberline {6.3.8}W2 Protocol - Halloween ``Test'' Online}{207}{subsection.6.3.8}%
+\contentsline {subsection}{\numberline {6.3.8}W2 Protocol - Halloween ``Test'' Online}{208}{subsection.6.3.8}%
 \contentsline {subsection}{\numberline {6.3.9}W2 Protocol - Saliva Sample Online}{209}{subsection.6.3.9}%
 \contentsline {subsection}{\numberline {6.3.10}W2 Protocol - Hair Sample Online}{210}{subsection.6.3.10}%
 \contentsline {subsubsection}{\numberline {6.3.10.1}Set Up Hair Sample Station}{210}{subsubsection.6.3.10.1}%
-\contentsline {subsubsection}{\numberline {6.3.10.2}Explanation}{210}{subsubsection.6.3.10.2}%
-\contentsline {subsubsection}{\numberline {6.3.10.3}Hair Length}{211}{subsubsection.6.3.10.3}%
+\contentsline {subsubsection}{\numberline {6.3.10.2}Explanation}{211}{subsubsection.6.3.10.2}%
+\contentsline {subsubsection}{\numberline {6.3.10.3}Hair Length}{212}{subsubsection.6.3.10.3}%
 \contentsline {subsection}{\numberline {6.3.11}W2 Protocol - Child Questionnaires Online}{213}{subsection.6.3.11}%
 \contentsline {subsubsection}{\numberline {6.3.11.1}IF THERE IS NOT ENOUGH TIME}{213}{subsubsection.6.3.11.1}%
 \contentsline {subsubsection}{\numberline {6.3.11.2}Before Starting Surveys}{213}{subsubsection.6.3.11.2}%
-\contentsline {subsubsection}{\numberline {6.3.11.3}Recollected Surveys}{213}{subsubsection.6.3.11.3}%
-\contentsline {subsubsection}{\numberline {6.3.11.4}Wave 2 surveys}{213}{subsubsection.6.3.11.4}%
+\contentsline {subsubsection}{\numberline {6.3.11.3}Recollected Surveys}{214}{subsubsection.6.3.11.3}%
+\contentsline {subsubsection}{\numberline {6.3.11.4}Wave 2 surveys}{214}{subsubsection.6.3.11.4}%
 \contentsline {subsubsection}{\numberline {6.3.11.5}Ages 8+}{214}{subsubsection.6.3.11.5}%
-\contentsline {subsubsection}{\numberline {6.3.11.6}Ages 6-7}{214}{subsubsection.6.3.11.6}%
-\contentsline {subsection}{\numberline {6.3.12}W2 Protocol -- Explaining at home part of Session 2}{214}{subsection.6.3.12}%
+\contentsline {subsubsection}{\numberline {6.3.11.6}Ages 6-7}{215}{subsubsection.6.3.11.6}%
+\contentsline {subsection}{\numberline {6.3.12}W2 Protocol -- Explaining at home part of Session 2}{215}{subsection.6.3.12}%
 \contentsline {subsection}{\numberline {6.3.13}W2 Protocol - Reporting}{216}{subsection.6.3.13}%
 \contentsline {subsubsection}{\numberline {6.3.13.1}If an item on the ``reporting'' list is activated regarding potential Domestic Violence}{216}{subsubsection.6.3.13.1}%
-\contentsline {subsubsection}{\numberline {6.3.13.2}If Suicidal Ideation arises\ldots {}}{216}{subsubsection.6.3.13.2}%
+\contentsline {subsubsection}{\numberline {6.3.13.2}If Suicidal Ideation arises\ldots {}}{217}{subsubsection.6.3.13.2}%
 \contentsline {section}{\numberline {6.4}W2 Protocols - Post-Session 1}{217}{section.6.4}%
 \contentsline {subsection}{\numberline {6.4.1}W2 Protocol - Saving the Video}{217}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}W2 Protocol - Downloading the Gorilla task data}{217}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.2}W2 Protocol - Downloading the Gorilla task data}{218}{subsection.6.4.2}%
 \contentsline {subsection}{\numberline {6.4.3}W2 Protocol - Session 2 Confirmation Email}{218}{subsection.6.4.3}%
-\contentsline {section}{\numberline {6.5}W2 Protocols - Session 2}{218}{section.6.5}%
-\contentsline {subsection}{\numberline {6.5.1}W2 Protocol - Halloween Test Delay}{218}{subsection.6.5.1}%
-\contentsline {subsection}{\numberline {6.5.2}W2 Protocol -- Home Session Check In}{219}{subsection.6.5.2}%
+\contentsline {section}{\numberline {6.5}W2 Protocols - Session 2}{219}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}W2 Protocol - Halloween Test Delay}{219}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}W2 Protocol -- Home Session Check In}{220}{subsection.6.5.2}%
 \contentsline {subsection}{\numberline {6.5.3}W2 Protocol -- Tasso Blood Sample Online}{220}{subsection.6.5.3}%
-\contentsline {subsection}{\numberline {6.5.4}W2 Protocol -- MRI SCREEN}{221}{subsection.6.5.4}%
-\contentsline {subsection}{\numberline {6.5.5}W2 Protocol - Mailing Package}{221}{subsection.6.5.5}%
-\contentsline {subsection}{\numberline {6.5.6}W2 Protocol - Payment}{221}{subsection.6.5.6}%
-\contentsline {subsection}{\numberline {6.5.7}W2 Protocol - Prize}{221}{subsection.6.5.7}%
-\contentsline {subsection}{\numberline {6.5.8}W2 Protocol - Testimonials}{222}{subsection.6.5.8}%
+\contentsline {subsection}{\numberline {6.5.4}W2 Protocol - Mailing Package}{221}{subsection.6.5.4}%
+\contentsline {subsection}{\numberline {6.5.5}W2 Protocol - Payment}{221}{subsection.6.5.5}%
+\contentsline {subsection}{\numberline {6.5.6}W2 Protocol - Prize}{222}{subsection.6.5.6}%
+\contentsline {subsection}{\numberline {6.5.7}W2 Protocol - Testimonials}{222}{subsection.6.5.7}%
 \contentsline {section}{\numberline {6.6}W2 Protocols - Post-Session 2}{222}{section.6.6}%
 \contentsline {subsection}{\numberline {6.6.1}W2 Protocol - Downloading the Gorilla delay test data}{222}{subsection.6.6.1}%
 \contentsline {subsection}{\numberline {6.6.2}W2 Protocol - Downloading the ASA data}{223}{subsection.6.6.2}%
-\contentsline {subsection}{\numberline {6.6.3}W2 Protocol - Session 2 TO DO List Email}{223}{subsection.6.6.3}%
-\contentsline {subsection}{\numberline {6.6.4}W2 Protocol -- If blood sample not collected during session 2}{223}{subsection.6.6.4}%
+\contentsline {subsection}{\numberline {6.6.3}W2 Protocol - Session 2 TO DO List Email}{224}{subsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.6.4}W2 Protocol -- If blood sample not collected during session 2}{224}{subsection.6.6.4}%
 \contentsline {subsection}{\numberline {6.6.5}W2 Protocol - If participant had feedback to give}{224}{subsection.6.6.5}%
 \contentsline {section}{\numberline {6.7}W2 Protocols - Final}{224}{section.6.7}%
 \contentsline {subsection}{\numberline {6.7.1}W2 Protocol - Storing Saliva Sample}{224}{subsection.6.7.1}%
-\contentsline {subsection}{\numberline {6.7.2}W2 Protocol - Processing Saliva Sample}{224}{subsection.6.7.2}%
-\contentsline {subsubsection}{\numberline {6.7.2.1}Sample Transfer}{224}{subsubsection.6.7.2.1}%
+\contentsline {subsection}{\numberline {6.7.2}W2 Protocol - Processing Saliva Sample}{225}{subsection.6.7.2}%
+\contentsline {subsubsection}{\numberline {6.7.2.1}Sample Transfer}{225}{subsubsection.6.7.2.1}%
 \contentsline {subsection}{\numberline {6.7.3}W2 Protocol - Storing Hair Sample}{227}{subsection.6.7.3}%
 \contentsline {subsection}{\numberline {6.7.4}W2 Protocol - Storing Stool Sample}{227}{subsection.6.7.4}%
 \contentsline {subsubsection}{\numberline {6.7.4.1}Sample Quality}{227}{subsubsection.6.7.4.1}%
@@ -350,9 +349,9 @@
 \contentsline {subsubsection}{\numberline {6.7.6.1}Data Entry}{229}{subsubsection.6.7.6.1}%
 \contentsline {subsubsection}{\numberline {6.7.6.2}Data Quality}{229}{subsubsection.6.7.6.2}%
 \contentsline {subsubsection}{\numberline {6.7.6.3}Relevant Protocols}{229}{subsubsection.6.7.6.3}%
-\contentsline {subsection}{\numberline {6.7.7}W2 Protocol - Data Review \& Data Audit}{229}{subsection.6.7.7}%
-\contentsline {subsubsection}{\numberline {6.7.7.1}Follow-Up (completed by Scheduling Coordinator)}{229}{subsubsection.6.7.7.1}%
-\contentsline {subsubsection}{\numberline {6.7.7.2}Data Review}{229}{subsubsection.6.7.7.2}%
+\contentsline {subsection}{\numberline {6.7.7}W2 Protocol - Data Review \& Data Audit}{230}{subsection.6.7.7}%
+\contentsline {subsubsection}{\numberline {6.7.7.1}Follow-Up (completed by Scheduling Coordinator)}{230}{subsubsection.6.7.7.1}%
+\contentsline {subsubsection}{\numberline {6.7.7.2}Data Review}{230}{subsubsection.6.7.7.2}%
 \contentsline {subsubsection}{\numberline {6.7.7.3}Data Audit}{230}{subsubsection.6.7.7.3}%
 \contentsline {subsubsection}{\numberline {6.7.7.4}\textbf {Documenting the audits}}{231}{subsubsection.6.7.7.4}%
 \contentsline {paragraph}{\numberline {6.7.7.4.1}Getting A Code From REDCap}{232}{paragraph.6.7.7.4.1}%

@@ -266,10 +266,16 @@ Step 6:
 
 *Next we will move on to some individual activities, where Mom/Dad will complete some surveys while you [Child's name] plays a computer game. The computer game is about your child’s learning and memory so it is important they don’t get help from you! We actually prefer you don't watch the screen so you don’t know which pictures they see. If you recall the example from our powerpoint at the beginning of this session, this will be the time that your child will see some pictures on the screen* 
 
+
+**[If the parent decided to fill out questionnaires on paper, say]**
 *While your child is doing the game, you can get started on some parent surveys. So now I will ask you to reach into your Session Package and pull out the booklets titled "Parent Proxy Surveys" and “Parent Self Surveys” and a pencil to fill these out.* 
-
-
 *We ask that you please fill the parent proxy surveys first and then parent self surveys. Some of these surveys are about your child and some of these surveys are about you. The game will take around 5-10 minutes and I will notify you when we are finished. You can go ahead and work on the surveys now while your child plays the game.* 
+
+
+**[If the parent decided to fill out questionnaires online, say]**
+*While your child is doing the game, you can get started on some parent surveys. So now I will ask you to grab your secondary device and log into the "links email" I sent just before the start of our session. In that email, you will find two links and two codes- one for parent proxy surveys and another for parent self surveys.* 
+*We ask that you please fill the parent proxy surveys first and then parent self surveys. Some of these surveys are about your child and some of these surveys are about you. In addition to these two sets, there is a short packet of paper surveys to complete- these are recollected surveys that you may not have finished from wave 1 of our study.*
+*The game will take around 5-10 minutes and I will notify you when we are finished. You can go ahead and work on the surveys now while your child plays the game.* 
   
 
 *I will now just give [Child's name] some instructions on the computer game. Let me share my screen so I can show you some examples!* 
@@ -819,10 +825,6 @@ For recollected surveys we will be sharing screen and reading out the survey to 
   - *In the "Session 2 booklet" there are instructions for the POOP Sample Collection and a short survey that should be filled out after the poop sample collection. There is a toilet hat and a gut kit in the session package, which are the two major materials you will need for this collection. *Please complete the poop sample collection and finish filing out the surveys this week so the package is ready to be sent out by our second session next week.* If you have any questions please reach out to us via email or give us a call.* 
 
   - [RESEARCHER THEN GIVE DETAILED POOP SAMPLE COLLECTION AND PACKAGING INSTRUCTION] 
-
-- Contact list explanation 
-
-  - *In a longitudinal study, information may change in time and we want to ensure we have a way to recontact you for the next wave if you are still interested in joining. The contact list is also in your Session 2 Booklet for you to fill out.* 
 
 - ASA explanation 
 
