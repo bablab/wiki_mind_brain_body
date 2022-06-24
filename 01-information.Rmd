@@ -30,19 +30,21 @@ Database formation, REDCap creation, task development, and setup was carried out
 
 Wiki Protocol development and modification was conducted by Dr. Bridget Callaghan, Kristen Chu, Emily Towner, Francesca Querdasi, Maria Calderon, and Chloe Schwartz.
 
-Recruitment was carried out by Dr. Bridget Callaghan, Kristen Chu, Emily Towner, Francesca Querdasi, Eason Taylor, Aileen Gozali, Danielle Ladensack, Maria Calderon, Charis Stanek, Ananya Eeraveni, Alyssa Wieand, Reese Wix, Nicole Fonacier, Leti Herrera, Grant Grech, Keegan Buch, Genesis Flores, Daisy Ramirez, Alyssa Ortega, and Tiffany Nassirian.
+Recruitment was carried out by Dr. Bridget Callaghan, Kristen Chu, Emily Towner, Sienna Osadon, Deborah Banner, Francesca Querdasi, Eason Taylor, Aileen Gozali, Danielle Ladensack, Maria Calderon, Charis Stanek, Megan Ngai, Ananya Eeraveni, Alyssa Wieand, Reese Wix, Nicole Fonacier, Leti Herrera, Grant Grech, Keegan Buch, Genesis Flores, Daisy Ramirez, Alyssa Ortega, Tiffany Nassirian, Yash Mehta, Lorena Gonzalez, and Andre Chan.
 
-Scheduling/contacting participants/maintaining participant databases was carried out by Danielle Ladensack, Aileen Gozali, Maria Calderon, Charis Stanek, Tiffany Nassirian, Kristen Chu, Emily Towner, and Eason Taylor.
+Scheduling/contacting participants/maintaining participant databases was carried out by Danielle Ladensack, Aileen Gozali, Maria Calderon, Charis Stanek, Tiffany Nassirian, Sienna Osadon, Deborah Banner, Yash Mehta, Madelyn Robinson, Andrew Hanna, Lorena Gonzalez, Kristen Chu, Emily Towner, Eason Taylor, and Anna Bretz.
 
-Primary Data Collection for Wave 1 (in person) was carried out by Dr. Bridget Callaghan, Emily Towner, Eason Tayler, Aileen Gozali, and Danielle Ladensack with assistance from Alyssa Wieand, Reese Wix, and Nicole Fonacier.
+Primary Data Collection for Wave 1 (in person) was carried out by Dr. Bridget Callaghan, Emily Towner, Eason Tayler, Aileen Gozali, Danielle Ladensack, and Kristen Chu with assistance from Alyssa Wieand, Reese Wix, and Nicole Fonacier.
 
-Primary Data Collection for Wave 1 (online) was carried out by Dr. Bridget Callaghan, Francesca Querdasi, Kristen Chu, Maria Calderon, and Charis Stanek.
+Primary Data Collection for Wave 1 (online) was carried out by Francesca Querdasi, Kristen Chu, Maria Calderon, Charis Stanek, Deborah Banner, Sienna Osadon, Yash Mehta, and Andrew Hanna. 
 
-Data Entry and Data Quality checks were carried out by Kristen Chu, Emily Towner, Francesca Querdasi, Eason Taylor, Aileen Gozali, Danielle Ladensack, Maria Calderon, Charis Stanek, Ananya Eeraveni, Alyssa Wieand, Reese Wix, Nicole Fonacier, Leti Herrera, Grant Grech, Keegan Buch, Genesis Flores, Daisy Ramirez, Alyssa Ortega, and Tiffany Nassirian.
+Primary Data Collection for Wave 2 (online) was carried out by Dr. Bridget Callaghan, Francesca Querdasi, Naomi Gancz, Kristen Chu, Yash Mehta, Andrew Hanna, Deborah Banner, Sienna Osadon, Madelyn Robinson, Lorena Gonzalez, and Anna Bretz.
 
-Data Reviews and Data Audits were conducted by Kristen Chu, Emily Towner, Danielle Ladensack, Chloe Schwartz, and Tiffany Nassirian.
+Data Entry and Data Quality checks were carried out by Kristen Chu, Emily Towner, Francesca Querdasi, Eason Taylor, Alyssa Ortega, Megan Ngai, Daniel Huang, Aileen Gozali, Danielle Ladensack, Maria Calderon, Charis Stanek, Deborah Banner, Sienna Osadon, Andre Chan, Keegan Buch, Yash Mehta, Lorena Gonzalez, Madelyn Robinson, Genesis Flores, Rory Simpson, Ananya Eeraveni, Alyssa Wieand, Reese Wix, Nicole Fonacier, Leti Herrera, Grant Grech, Daisy Ramirez, Elizabeth Harty, and Tiffany Nassirian.
 
-Behavioral coding was carried out by Danielle Ladensack, Grant Grech, and Nicole Fonacier. Dr. Bridget Callaghan and Kristen Chu are also validated behavioral coders using the Family Interaction Macro-Coding System (FIMS).
+Data Reviews and Data Audits were conducted by Kristen Chu, Emily Towner, Deborah Banner, Yash Mehta, Madelyn Robinson, Danielle Ladensack, Chloe Schwartz, and Tiffany Nassirian.
+
+Behavioral coding was carried out by Rory Simpson, Elizabeth Harty, Danielle Ladensack, Grant Grech, Genesis Flores, Daniel Huang, and Nicole Fonacier. Dr. Bridget Callaghan and Kristen Chu are also validated behavioral coders using the Family Interaction Macro-Coding System (FIMS).
 
 -----------------
 
