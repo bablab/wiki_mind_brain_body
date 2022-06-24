@@ -18,6 +18,68 @@ Protocol relevant to moving from one wave of MBB to the next wave of study.
 
 
 
+### Between Waves - Bio Sample Shipping 
+
+#### Shipping with Dry Ice
+
+*supplies need to obtain:*
+
+	- styrofoam box (bioshipper) – HPL or recycling bin
+	- newspaper
+	- rubber bands
+	- gallon ziplock bags
+	- dry ice 
+	- box for the outer later of styrofoam – tyler or recycling bin or purchase
+	- class 9 label for dry ice - black and white diamond - obtain from dry ice dept or tyler 
+	- markings for UN1845/dry ice/weight - tyler
+	- Air waybill – tyler 
+
+*Reorganize Samples*
+
+- extract storage boxes from the freezer
+- place samples on dry ice
+- take first sample of every participant for stool and saliva, place in new box (if only shipping 1 sample rube per participant to collabator)
+- re-label boxes
+- create new spreadsheet detailing new location of every sample
+
+
+*Packing*
+
+determine dry ice amounts and sizing:
+
+- determine volume of specimens to pack per size of bioshipper
+- determine amount of dry ice per volume of samples, and ensure it all fits within bioshipper(s)
+
+packaging it up:
+
+- secure each storage box with rubber bands
+- place boxes inside biohazard zip bloc bags
+- weigh and record amount of dry ice per box:
+  - weigh shipping box prior to adding dry ice
+  - surround freezer boxes with dry ice (about 2 blocks worth per box)
+  - weigh freezer box + dry ice together 
+
+- subtract point 1 from point 3 to get total weight of dry ice and record it on shipping label
+- place required amount of dry ice in bottom of insulated shipper and cover with crumpled newspaper 
+- place biohazard zip bloc bag with storage boxes inside on top of newspaper
+- fill any remaining space on sides and between boxes with crumpled paper
+- place newspaper on top of specimens
+- place remaining dry ice for volume on top and place lid on box 
+- do not overstuff box, do not tape the lid, do not tape the box the bioshipper goes in
+- fill out and place dry ice sticker on outside of bioshipper?
+- print and add other labeling (ask tyler) to regular box, that styrofoam box goes in
+- attach fedex courier forms to outside of box
+
+
+*shipping*
+
+- coordinate with Tyler about where and when to pick it up – typically needs to be by 11 am on either Monday or Tuesday of the week 
+
+
+
+
+
+
 ### Between Waves - Analysis
 
 #### Saliva Sample Analysis

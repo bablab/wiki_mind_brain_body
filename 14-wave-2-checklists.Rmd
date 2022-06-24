@@ -527,7 +527,7 @@ NOTE: all template emails are in bablab gmail
 
 ### W2 Checklist - No Show 
 
-  
+- Wait 20 minutes before logging off of the session just in case participant is having trouble connecting
 
 - Delete session 2 & reminder calendar events from MBB calendar to avoid confusion 
   - Session 2 reminder text
