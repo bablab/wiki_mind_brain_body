@@ -288,12 +288,12 @@
 \contentsline {subsubsection}{\numberline {6.2.1.2}Contacting participants}{196}{subsubsection.6.2.1.2}%
 \contentsline {subsubsection}{\numberline {6.2.1.3}Scheduling Participant}{197}{subsubsection.6.2.1.3}%
 \contentsline {subsubsection}{\numberline {6.2.1.4}Scheduling Session}{198}{subsubsection.6.2.1.4}%
-\contentsline {subsection}{\numberline {6.2.2}W2 Protocol - Session Preparation}{198}{subsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.2.1}Package creation}{198}{subsubsection.6.2.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}W2 Protocol - Session Preparation}{199}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}Package creation}{199}{subsubsection.6.2.2.1}%
 \contentsline {subsubsection}{\numberline {6.2.2.2}Activating participant on Gorilla}{199}{subsubsection.6.2.2.2}%
 \contentsline {subsubsection}{\numberline {6.2.2.3}Obtaining ASA codes}{199}{subsubsection.6.2.2.3}%
-\contentsline {section}{\numberline {6.3}W2 Protocols - Session 1}{199}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}W2 Protocol - Welcome \& Zoom Introduction}{199}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.3}W2 Protocols - Session 1}{200}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}W2 Protocol - Welcome \& Zoom Introduction}{200}{subsection.6.3.1}%
 \contentsline {subsection}{\numberline {6.3.2}W2 Protocol - Consent \& Assent Online}{200}{subsection.6.3.2}%
 \contentsline {subsection}{\numberline {6.3.3}W2 Protocol - Parent Child Observation Online}{203}{subsection.6.3.3}%
 \contentsline {subsection}{\numberline {6.3.4}W2 Protocol - Halloween Training/Parent Questionnaires}{205}{subsection.6.3.4}%
@@ -370,5 +370,7 @@
 \contentsline {subsection}{\numberline {8.0.2}Between Waves - Redcap}{247}{subsection.8.0.2}%
 \contentsline {subsection}{\numberline {8.0.3}Between Waves - Gorilla}{247}{subsection.8.0.3}%
 \contentsline {subsection}{\numberline {8.0.4}Between Waves - Ordering}{247}{subsection.8.0.4}%
-\contentsline {subsection}{\numberline {8.0.5}Between Waves - Analysis}{247}{subsection.8.0.5}%
-\contentsline {subsubsection}{\numberline {8.0.5.1}Saliva Sample Analysis}{247}{subsubsection.8.0.5.1}%
+\contentsline {subsection}{\numberline {8.0.5}Between Waves - Bio Sample Shipping}{247}{subsection.8.0.5}%
+\contentsline {subsubsection}{\numberline {8.0.5.1}Shipping with Dry Ice}{247}{subsubsection.8.0.5.1}%
+\contentsline {subsection}{\numberline {8.0.6}Between Waves - Analysis}{248}{subsection.8.0.6}%
+\contentsline {subsubsection}{\numberline {8.0.6.1}Saliva Sample Analysis}{248}{subsubsection.8.0.6.1}%
