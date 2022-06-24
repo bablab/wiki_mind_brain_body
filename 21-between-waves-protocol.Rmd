@@ -15,3 +15,11 @@ Protocol relevant to moving from one wave of MBB to the next wave of study.
 
 
 ### Between Waves - Ordering
+
+
+
+### Between Waves - Analysis
+
+#### Saliva Sample Analysis
+
+Notes from Dr. Meyer: Please note the following regarding the data: (1) sample MBB073 had too little hair to process (you will not be charged for that sample); (2) several of the samples were shorter than 3 cm, which is noted in the file; this is just informational ....you don't have to do any correction for the shorter length in your data analysis; same thing with the one sample that showed the presence of hair dye; (3) we recommend performing a statistical test for outliers and considering removing those data points from subsequent analysis; (4) lastly, hair CORT distributions are often non-normal due to right skewness, even after removal of outliers; we recommend checking for that, and if present, the most common approach is to perform a log transformation of the data before further analysis.
