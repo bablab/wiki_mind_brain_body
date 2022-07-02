@@ -1,42 +1,55 @@
-\PassOptionsToPackage{unicode=true}{hyperref} % options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[]{book}
+\documentclass[
+]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provides euro and other symbols
-\else % if luatex or xelatex
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
   \usepackage{unicode-math}
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage[]{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\usepackage{hyperref}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-            pdftitle={Mind, Brain, Body},
-            pdfauthor={By: Bridget Callaghan, Emily Towner, Kristen Chu},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
+  pdftitle={Mind, Brain, Body},
+  pdfauthor={By: Bridget Callaghan, Emily Towner, Kristen Chu},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
-% Fix footnotes in tables (requires footnote package)
-\IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
 \usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
@@ -46,25 +59,14 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{5}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-% set default figure placement to htbp
+% Set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
 \usepackage{booktabs}
 \usepackage{amsthm}
 \makeatletter
@@ -78,7 +80,7 @@
 
 \title{Mind, Brain, Body}
 \author{By: Bridget Callaghan, Emily Towner, Kristen Chu}
-\date{Updated on: 2022-06-27}
+\date{Updated on: 2022-07-01}
 
 \begin{document}
 \maketitle
@@ -739,7 +741,7 @@ Child and adolescent participants will donate a head hair sample for the purpose
 
 Saliva samples will be collected from child and adolescent participants in the lab using omnigene oral tubes (dnagenotek). Participants spit into a tube using a saliva collection kit. If participants are unable to spit, they will place small sterilized sponges in their mouths to collect the saliva. The sponges are then placed into the tube. After the cap of the tube is closed, it will break open a seal inside that releases a stabilizing solution into the tube which stabilizes the saliva. The saliva will be used to analyze bacteria in the oral cavity. The stabilization technique we use allows the saliva samples to remain at ambient temperature for several months. In batches, the saliva will sent to the processing facility. The samples will be labelled with participant ID codes only -- no personally identifying information. Only microbial DNA, not human DNA, is analyzed in these samples.
 
-Hair samples were processed and analyzed according to the methods described in Meyer et al. (2014) with minor modifications. Briefly, each sample was weighed, washed twice with isopropanol to remove external contaminants, and then air-dried. Washed samples were ground to a fine powder using a bead mill, extracted overnight into methanol, and centrifuged to spin down the beads and the powdered hair. An aliquot of the methanol extract was transferred to a clean tube, dried using a vacuum evaporator, and then reconstituted in assay buffer. Reconstituted extracts were spin-filtered to remove any residual particulate material, then assayed in duplicate along with standards and quality controls using the Arbor Assays DetectX Cortisol ELISA kit. Intra- and inter-assay coefficients of variation for this assay are both \textless{}10\%
+Hair samples were processed and analyzed according to the methods described in Meyer et al.~(2014) with minor modifications. Briefly, each sample was weighed, washed twice with isopropanol to remove external contaminants, and then air-dried. Washed samples were ground to a fine powder using a bead mill, extracted overnight into methanol, and centrifuged to spin down the beads and the powdered hair. An aliquot of the methanol extract was transferred to a clean tube, dried using a vacuum evaporator, and then reconstituted in assay buffer. Reconstituted extracts were spin-filtered to remove any residual particulate material, then assayed in duplicate along with standards and quality controls using the Arbor Assays DetectX Cortisol ELISA kit. Intra- and inter-assay coefficients of variation for this assay are both \textless10\%
 
 \hypertarget{blood-sample}{%
 \subsubsection{Blood sample}\label{blood-sample}}
@@ -840,6 +842,19 @@ Child/adolescent self-report. Domain assessed: benevolent childhood experiences.
 Child/adolescent (self report)\strut
 \end{minipage} & \begin{minipage}[t]{0.06\columnwidth}\raggedright
 Wave 1 Online\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.18\columnwidth}\raggedright
+Visceral Sensitivity Index (VSI)\strut
+\end{minipage} & \begin{minipage}[t]{0.18\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.15\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.16\columnwidth}\raggedright
+\strut
+\end{minipage} & \begin{minipage}[t]{0.06\columnwidth}\raggedright
+\strut
 \end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright
 \strut
 \end{minipage}\tabularnewline
@@ -1554,8 +1569,8 @@ Domain assessed: Emotional impacts of COVID-19. This self-report measure consist
 \hypertarget{w1-checklist---lab-session}{%
 \subsection{W1 Checklist - Lab-Session}\label{w1-checklist---lab-session}}
 
-\hypertarget{child}{%
-\subsubsection{Child}\label{child}}
+\hypertarget{child-1}{%
+\subsubsection{Child}\label{child-1}}
 
 \begin{itemize}
 \tightlist
@@ -1613,8 +1628,8 @@ Domain assessed: Emotional impacts of COVID-19. This self-report measure consist
   Prize
 \end{itemize}
 
-\hypertarget{parent}{%
-\subsubsection{Parent}\label{parent}}
+\hypertarget{parent-1}{%
+\subsubsection{Parent}\label{parent-1}}
 
 \begin{itemize}
 \tightlist
@@ -2380,7 +2395,11 @@ Researcher reenter the room, switch the iPad off and move the child/adolescent t
   \item
     Your screen should look like this. If it does not, tap on ``Files'' at the bottom, and ensure that the Locations is set to ``On This iPad''.
 
+    \begin{figure}
+    \centering
     \includegraphics{images/ksads/4.png}
+    \caption{}
+    \end{figure}
   \item
     For each document, tap the three horizontal dot to the right, and select ``Duplicate''.
     \includegraphics{images/ksads/5.png}
@@ -2401,13 +2420,13 @@ Researcher reenter the room, switch the iPad off and move the child/adolescent t
 \hypertarget{w1-protocol---questionnaires}{%
 \subsection{W1 Protocol - Questionnaires}\label{w1-protocol---questionnaires}}
 
-\hypertarget{parent-proxy}{%
-\subsubsection{Parent Proxy}\label{parent-proxy}}
+\hypertarget{parent-proxy-1}{%
+\subsubsection{Parent Proxy}\label{parent-proxy-1}}
 
 Parents will complete REDCap questionnaires for each child.
 
-\hypertarget{parent-self}{%
-\subsubsection{Parent Self}\label{parent-self}}
+\hypertarget{parent-self-1}{%
+\subsubsection{Parent Self}\label{parent-self-1}}
 
 Parents will complete REDCap questionnaires about themselves only once (under eldest child's {[}lower number{]} ID)
 
@@ -2659,13 +2678,21 @@ Explain to the parent what is included in the home kit / home session and how to
     \item
       Start by going into the folder titled ``01\_training'' and selecting ``Halloween\_training\_day1.psyexp'' if the participant is in the ``day first'' group or ``Halloween\_training\_night1.psyexp'' if the participant is in the ``night first'' group.
 
+      \begin{figure}
+      \centering
       \includegraphics{images/halloween/2.png}
+      \caption{}
+      \end{figure}
     \end{enumerate}
   \end{itemize}
 \item
   When the task pulls up and the participant is situated and ready, select the run button indicated below:
 
+  \begin{figure}
+  \centering
   \includegraphics{images/halloween/3.png}
+  \caption{}
+  \end{figure}
 \item
   When prompted, fill in the participant's ID \# in the ``participant'' field:
   \includegraphics{images/halloween/4.png}
@@ -2686,7 +2713,11 @@ Explain to the parent what is included in the home kit / home session and how to
 \item
   When the task pulls up and the participant is situated and ready, select the run button indicated below:
 
+  \begin{figure}
+  \centering
   \includegraphics{images/halloween/6.png}
+  \caption{}
+  \end{figure}
 \item
   Guide the participant through the instructional slides by pressing the space bar every time {[}s{]} shows up on the screen. Make sure to remind the participant to read all of the instructions carefully. Remind them that they need to click the words for the answer they want to provide.
 \item
@@ -2946,7 +2977,7 @@ If the task exits due to an error, take a screenshot of the error screen and mes
   Store the sample in a dry area at room temperature (in the plastic folder under the participant ID in cabinet 1).
 \end{itemize}
 
-\textbf{Long-Hair Protocol (\textgreater{}6cm)}
+\textbf{Long-Hair Protocol (\textgreater6cm)}
 
 \begin{itemize}
 \tightlist
@@ -3124,8 +3155,8 @@ Markers for physiology have been included for each trial type (object neutral, o
 
 \emph{``We're going to be doing a few things today, like playing some word games and answering some math questions. Some of these things might be really easy for you, but some might be hard. Most people do not answer every question correctly or finish every item, but please try your best. Do you have any questions?''}
 
-\hypertarget{wasi}{%
-\subsubsection{WASI}\label{wasi}}
+\hypertarget{wasi-1}{%
+\subsubsection{WASI}\label{wasi-1}}
 
 \begin{itemize}
 \item
@@ -3175,8 +3206,8 @@ Markers for physiology have been included for each trial type (object neutral, o
 
 \emph{``Okay, we are going to stop there and move on to the next task.''}
 
-\hypertarget{wiat}{%
-\subsubsection{WIAT}\label{wiat}}
+\hypertarget{wiat-1}{%
+\subsubsection{WIAT}\label{wiat-1}}
 
 \begin{itemize}
 \tightlist
@@ -3523,8 +3554,8 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 \hypertarget{w1-protocol---stool-sample-storage}{%
 \subsection{W1 Protocol - Stool Sample Storage}\label{w1-protocol---stool-sample-storage}}
 
-\hypertarget{training-video}{%
-\subsubsection{Training Video}\label{training-video}}
+\hypertarget{training-video-1}{%
+\subsubsection{Training Video}\label{training-video-1}}
 
 \hypertarget{sample-quality}{%
 \subsubsection{Sample Quality}\label{sample-quality}}
@@ -3678,7 +3709,7 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 \item
   Scroll to the right and click on the ``View'' button under the Nutrition Report column
 \item
-  Click File\textgreater{}Print then Save as PDF under the naming convention ``MBB999\_asa\_nutrition\_profile.pdf''
+  Click File\textgreater Print then Save as PDF under the naming convention ``MBB999\_asa\_nutrition\_profile.pdf''
 \item
   Save to the participant's Wave 1 MBB data folder in the Report\_card folder and delete the 999 template
 \end{itemize}
@@ -3702,7 +3733,7 @@ An exposure incident is specific contact with hazardous agents. Exposure inciden
 \item
   Select ``Download analysis files'' and you should get 6 csv files in your downloads folder
 \item
-  Rename the files according to the templates in the participant's MBB data folder in questionnaires\textgreater{}asa and save
+  Rename the files according to the templates in the participant's MBB data folder in questionnaires\textgreater asa and save
 \end{itemize}
 
 \begin{enumerate}
@@ -4078,7 +4109,7 @@ We will only refer to the waitlist if (1) we will be behind on recruitment for W
 \item
   Schedule session 1 two weeks in advance from ``package mailing day'' (see package preparation in pre-session checklist)
 \item
-  Schedule session 2 \textasciitilde{}one week after session 1
+  Schedule session 2 \textasciitilde one week after session 1
 \item
   Ask Lab Manager to make Zoom link with scheduled session times and save to google calendar
 \item
@@ -4679,8 +4710,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 \hypertarget{w1-o-checklist---post-session-1}{%
 \subsection{W1-O Checklist - Post-Session 1}\label{w1-o-checklist---post-session-1}}
 
-\hypertarget{notes}{%
-\subsubsection{Notes}\label{notes}}
+\hypertarget{notes-1}{%
+\subsubsection{Notes}\label{notes-1}}
 
 \begin{itemize}
 \tightlist
@@ -4694,8 +4725,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   Update Participant Log
 \end{itemize}
 
-\hypertarget{filing}{%
-\subsubsection{Filing}\label{filing}}
+\hypertarget{filing-2}{%
+\subsubsection{Filing}\label{filing-2}}
 
 \begin{itemize}
 \tightlist
@@ -4705,8 +4736,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   Download and copy behavioral task data (from Gorilla) to Gorilla data folder on Box
 \end{itemize}
 
-\hypertarget{reminders}{%
-\subsubsection{Reminders}\label{reminders}}
+\hypertarget{reminders-1}{%
+\subsubsection{Reminders}\label{reminders-1}}
 
 NOTE: all template emails are in bablab gmail
 
@@ -4784,8 +4815,8 @@ NOTE: all template emails are in bablab gmail
 \hypertarget{w1-o-checklist---final-online}{%
 \subsection{W1-O Checklist - Final Online}\label{w1-o-checklist---final-online}}
 
-\hypertarget{filing-1}{%
-\subsubsection{Filing}\label{filing-1}}
+\hypertarget{filing-3}{%
+\subsubsection{Filing}\label{filing-3}}
 
 \begin{itemize}
 \tightlist
@@ -4797,8 +4828,8 @@ NOTE: all template emails are in bablab gmail
   Make manila folder for participants to file all hard copies
 \end{itemize}
 
-\hypertarget{data-entry}{%
-\subsubsection{Data Entry}\label{data-entry}}
+\hypertarget{data-entry-1}{%
+\subsubsection{Data Entry}\label{data-entry-1}}
 
 \begin{itemize}
 \tightlist
@@ -4808,8 +4839,8 @@ NOTE: all template emails are in bablab gmail
   Enter height, weight, waist to REDCap
 \end{itemize}
 
-\hypertarget{reminders-1}{%
-\subsubsection{Reminders}\label{reminders-1}}
+\hypertarget{reminders-2}{%
+\subsubsection{Reminders}\label{reminders-2}}
 
 NOTE: all template emails are in bablab gmail
 
@@ -4848,8 +4879,8 @@ NOTE: all template emails are in bablab gmail
   Contact information sheet received
 \end{itemize}
 
-\hypertarget{data-entry-1}{%
-\subsubsection{Data Entry}\label{data-entry-1}}
+\hypertarget{data-entry-2}{%
+\subsubsection{Data Entry}\label{data-entry-2}}
 
 \begin{itemize}
 \tightlist
@@ -4869,8 +4900,8 @@ NOTE: all template emails are in bablab gmail
   Enter height/weight/waist to body measurements on REDCap
 \end{itemize}
 
-\hypertarget{filing-2}{%
-\subsubsection{Filing}\label{filing-2}}
+\hypertarget{filing-4}{%
+\subsubsection{Filing}\label{filing-4}}
 
 \begin{itemize}
 \tightlist
@@ -4884,8 +4915,8 @@ NOTE: all template emails are in bablab gmail
   File questionnaires in filing cabinet if paper versions were sent (participant folder)
 \end{itemize}
 
-\hypertarget{sample-storage}{%
-\subsubsection{Sample Storage}\label{sample-storage}}
+\hypertarget{sample-storage-2}{%
+\subsubsection{Sample Storage}\label{sample-storage-2}}
 
 \begin{itemize}
 \tightlist
@@ -4901,8 +4932,8 @@ NOTE: all template emails are in bablab gmail
   Upload all sample photos to Box
 \end{itemize}
 
-\hypertarget{data-quality}{%
-\subsubsection{Data Quality}\label{data-quality}}
+\hypertarget{data-quality-1}{%
+\subsubsection{Data Quality}\label{data-quality-1}}
 
 \begin{itemize}
 \tightlist
@@ -4916,8 +4947,8 @@ NOTE: all template emails are in bablab gmail
   Data audit
 \end{itemize}
 
-\hypertarget{retention}{%
-\subsubsection{Retention}\label{retention}}
+\hypertarget{retention-1}{%
+\subsubsection{Retention}\label{retention-1}}
 
 \begin{itemize}
 \tightlist
@@ -4929,8 +4960,8 @@ NOTE: all template emails are in bablab gmail
   Update participant Wave 2 status
 \end{itemize}
 
-\hypertarget{reimbursement}{%
-\subsubsection{Reimbursement}\label{reimbursement}}
+\hypertarget{reimbursement-1}{%
+\subsubsection{Reimbursement}\label{reimbursement-1}}
 
 \begin{itemize}
 \tightlist
@@ -5065,8 +5096,8 @@ NOTE: all template emails are in bablab gmail
   \end{itemize}
 \end{enumerate}
 
-\hypertarget{pre-screening}{%
-\subsubsection{Pre-Screening}\label{pre-screening}}
+\hypertarget{pre-screening-1}{%
+\subsubsection{Pre-Screening}\label{pre-screening-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -5095,8 +5126,8 @@ NOTE: all template emails are in bablab gmail
   Check participant tally before making call to see if they would be scheduled or waitlisted ( if we reached 15 participants for that age group) if eligible for study
 \end{enumerate}
 
-\hypertarget{screening}{%
-\subsubsection{Screening}\label{screening}}
+\hypertarget{screening-1}{%
+\subsubsection{Screening}\label{screening-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -5236,8 +5267,8 @@ NOTE: all template emails are in bablab gmail
   This will notify the Lab Manager to create a package for this participant with session and post-session materials when they go into the lab for ``package mailing day.''
 \end{enumerate}
 
-\hypertarget{other-screening-information}{%
-\subsubsection{Other Screening Information}\label{other-screening-information}}
+\hypertarget{other-screening-information-1}{%
+\subsubsection{Other Screening Information}\label{other-screening-information-1}}
 
 Accessing Lists
 
@@ -5452,7 +5483,7 @@ If a parent has a concern about the study before the session, send the email tem
 
 {[}If no, say{]} \emph{No problem! Welcome to Zoom- it is very easy to use! The most important thing you need to be aware of is the ``chat'' button below. If you click on it, a chat box should open- I will be using this throughuot the session to send you imporant links. You can also display your camera so that it is in gallery view or speaker view in the top right corner. I think it might be best for you to do speaker view so it will feel more like we are in the room together!}
 
-{[}Troubleshooting\ldots{}{]}
+{[}Troubleshooting\ldots{]}
 
 \emph{Great! If for any reason, we lose each other over Zoom, the connection seems to be bad, or one of us freezes, lets leave the session and try to reconnect on the same link again. If I am frozen- feel free to leave and come back. If you leave and I don;t see you come back, I will try to give you a phone call!}
 
@@ -5654,11 +5685,11 @@ If necessary - the link can be found \href{https://research.sc/participant/login
 
 \emph{Ok! If you are both ready to start, we will just have Mom/Dad click ``Log in'' on {[}Child's name{]}'s page, and you can both get started!}
 
-{[}Researcher to open \href{https://gorilla.sc}{gorilla} to track participant progress. Click on my projects\textgreater{}MBB\textgreater{}MBB\_wave\_1\_online\textgreater{}participants tab\textgreater{}scroll to their mbb number and click ``view progress''{]}
+{[}Researcher to open \href{https://gorilla.sc}{gorilla} to track participant progress. Click on my projects\textgreater MBB\textgreater MBB\_wave\_1\_online\textgreater participants tab\textgreater scroll to their mbb number and click ``view progress''{]}
 
 {[}RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE HALLOWEEN TRAINING{]}
 
-{[}If participants do not seem to check-in with researcher after \textasciitilde{}15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
+{[}If participants do not seem to check-in with researcher after \textasciitilde15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
 
 {[}Once you confirm on the ``view progress'' node that Halloween training is complete, say{]} \emph{Great job! We have completed the second part of this session- you can go ahead and take out your token board and gold star stickers, and put another star on the second block!}
 
@@ -5788,7 +5819,7 @@ If necessary - the link can be found \href{https://research.sc/participant/login
 
 {[}RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE HALLOWEEN TEST{]}
 
-{[}If particiapnts do not seem to check-in with researcher after \textasciitilde{}15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
+{[}If particiapnts do not seem to check-in with researcher after \textasciitilde15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
 
 \emph{{[}Child's name{]} great job! Now that we are done with the computer game, you can go ahead and put another star on your token board!}
 
@@ -5839,8 +5870,8 @@ If necessary - the link can be found \href{https://research.sc/participant/login
 
 \emph{Next up is the Hair Sample. Feel free to flip to the section on Hair Sample Collection in your session booklet, if Magic Box. When you are ready, I will walk you through it step-by-step!}
 
-\hypertarget{set-up-hair-sample-station}{%
-\subsubsection{Set Up Hair Sample Station}\label{set-up-hair-sample-station}}
+\hypertarget{set-up-hair-sample-station-1}{%
+\subsubsection{Set Up Hair Sample Station}\label{set-up-hair-sample-station-1}}
 
 \begin{itemize}
 \tightlist
@@ -5913,15 +5944,15 @@ If necessary - the link can be found \href{https://research.sc/participant/login
   When finished, hair sample should be put in the foil, in the ziploc bag, in the white box along with the other samples
 \end{itemize}
 
-\hypertarget{hair-length}{%
-\subsubsection{Hair Length}\label{hair-length}}
+\hypertarget{hair-length-1}{%
+\subsubsection{Hair Length}\label{hair-length-1}}
 
 \begin{itemize}
 \tightlist
 \item
   For short hair (less than or just above 3cm, i.e., too short to tape and still have 3cm usable), follow the Short-Hair Protocol below.
 \item
-  For longer hair (\textgreater{}3cm), follow the Longer-Hair Protocol below.
+  For longer hair (\textgreater3cm), follow the Longer-Hair Protocol below.
 \item
   Ideally, hair samples should be at least 3cm long. If the hair is less than 1cm long, the sample cannot be used.
 \end{itemize}
@@ -5950,7 +5981,7 @@ If necessary - the link can be found \href{https://research.sc/participant/login
   Ensure the ziplock bag is labeled with the participant's ID and Wave.
 \end{itemize}
 
-\textbf{Longer-Hair Protocol (\textgreater{}3 cm) - advise parent to:}
+\textbf{Longer-Hair Protocol (\textgreater3 cm) - advise parent to:}
 
 \begin{itemize}
 \tightlist
@@ -6077,7 +6108,7 @@ Participants can also watch the video below:
   Written Response (optional)
   \emph{We also have a few extra things that are optional to you, that would realy help our research team! It is a five minute writing activity that allows you to logon and type for five minutes about you and you family's expereinces with COVID-19. These written responses are meant to capture the impacts of COVID-19 on families, caregivers, and children. We will send you the links and codes in an email as soon as we log off, so you and your child can participate in this if you are intersted.}
 \item
-  Confirm pre-scheduled time to complete post-session tasks \textasciitilde{}1 week post-session
+  Confirm pre-scheduled time to complete post-session tasks \textasciitilde1 week post-session
 \item
   Payment
 
@@ -6463,8 +6494,8 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \hypertarget{w1-o-protocol---storing-stool-sample}{%
 \subsection{W1-O Protocol - Storing Stool Sample}\label{w1-o-protocol---storing-stool-sample}}
 
-\hypertarget{sample-quality}{%
-\subsubsection{Sample Quality}\label{sample-quality}}
+\hypertarget{sample-quality-1}{%
+\subsubsection{Sample Quality}\label{sample-quality-1}}
 
 \begin{itemize}
 \tightlist
@@ -6480,8 +6511,8 @@ If no: \emph{No problem at all, thank you for participating in our study!}
   Contact family if the Bristol Stool Scale is missing in the mailer.
 \end{itemize}
 
-\hypertarget{sample-transfer}{%
-\subsubsection{Sample Transfer}\label{sample-transfer}}
+\hypertarget{sample-transfer-1}{%
+\subsubsection{Sample Transfer}\label{sample-transfer-1}}
 
 \begin{itemize}
 \tightlist
@@ -6566,16 +6597,16 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \hypertarget{w1-o-protocol---data-entry-data-quality}{%
 \subsection{W1-O Protocol - Data Entry \& Data Quality}\label{w1-o-protocol---data-entry-data-quality}}
 
-\hypertarget{data-entry}{%
-\subsubsection{Data Entry}\label{data-entry}}
+\hypertarget{data-entry-3}{%
+\subsubsection{Data Entry}\label{data-entry-3}}
 
 \hypertarget{data-entry-checks}{%
 \subsubsection{Data Entry Checks}\label{data-entry-checks}}
 
 \href{https://app.box.com/file/805857407548}{Data Entry Checks Video}
 
-\hypertarget{data-quality}{%
-\subsubsection{Data Quality}\label{data-quality}}
+\hypertarget{data-quality-2}{%
+\subsubsection{Data Quality}\label{data-quality-2}}
 
 \hypertarget{relevant-protocols}{%
 \subsubsection{Relevant Protocols}\label{relevant-protocols}}
@@ -6589,8 +6620,8 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \hypertarget{w1-o-protocol---data-review-data-audit}{%
 \subsection{W1-O Protocol - Data Review \& Data Audit}\label{w1-o-protocol---data-review-data-audit}}
 
-\hypertarget{follow-up-completed-by-scheduling-coordinator}{%
-\subsubsection{Follow-Up (completed by Scheduling Coordinator)}\label{follow-up-completed-by-scheduling-coordinator}}
+\hypertarget{follow-up-completed-by-scheduling-coordinator-1}{%
+\subsubsection{Follow-Up (completed by Scheduling Coordinator)}\label{follow-up-completed-by-scheduling-coordinator-1}}
 
 \begin{itemize}
 \tightlist
@@ -6839,33 +6870,38 @@ RA's will be conducting Data Entry Checks to ensure that all data collected from
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\tightlist
 \item
   Open the MBB\_participant\_log and go to the Data Entry CHECK tab for whichever wave you are checking.
-\end{enumerate}
 
-\begin{verbatim}
-**GREEN** items are attributed to completed/accurate sections, OR if an RA had found a discrepancy between the REDcap and paper copy and was able to fix it themselves.
+  \textbf{GREEN} items are attributed to completed/accurate sections, OR if an RA had found a discrepancy between the REDcap and paper copy and was able to fix it themselves.
 
-**YELLOW** items are attributed to incomplete sections where:
-  - participant did not complete (paper is blank)
-  - participant was not given this survey (not given on paper)
+  \textbf{YELLOW} items are attributed to incomplete sections where:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    participant did not complete (paper is blank)
+  \item
+    participant was not given this survey (not given on paper)
+  \end{itemize}
 
   These items were most likely not completed by the participant, so there will be no data to verify.
 
-**RED** items are attributed to sections where:
-  - data is missing on REDCap from paper copy, but no place to put it on REDCap
-  - data is added on REDCap but not on paper copy
-  - data entry is missing but illegible
-  - any other less common discrepancies that need to be double checked
-  
-  **These items have been flagged by an RA and require auditing.**
-\end{verbatim}
+  \textbf{RED} items are attributed to sections where:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{1}
-\tightlist
+  \begin{itemize}
+  \tightlist
+  \item
+    data is missing on REDCap from paper copy, but no place to put it on REDCap
+  \item
+    data is added on REDCap but not on paper copy
+  \item
+    data entry is missing but illegible
+  \item
+    any other less common discrepancies that need to be double checked
+  \end{itemize}
+
+  \textbf{These items have been flagged by an RA and require auditing.}
 \item
   Open REDcap and go to corresponding MBB participant that requires auditing.
 
@@ -7119,8 +7155,8 @@ Notes:
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{w1-o-protocol---payment}{%
-\subsection{W1-O Protocol - Payment}\label{w1-o-protocol---payment}}
+\hypertarget{w1-o-protocol---payment-1}{%
+\subsection{W1-O Protocol - Payment}\label{w1-o-protocol---payment-1}}
 
 \textbf{Payment package contents:}
 
@@ -7408,7 +7444,7 @@ Adult report. Domain assessed: Traumatic Experiences. The Childhood Trauma Quest
 \item
   Schedule session 1 two weeks in advance from ``package mailing day'' (see package preparation in pre-session checklist)
 \item
-  Schedule session 2 \textasciitilde{}one week after session 1
+  Schedule session 2 \textasciitilde one week after session 1
 \item
   Ask lab manager to make Zoom link with scheduled session times and save to google calendar
 \item
@@ -7722,8 +7758,8 @@ NOTE: all template emails are in bablab gmail
 \hypertarget{w2-checklist---pre-session-1}{%
 \subsection{W2 Checklist - Pre-Session 1}\label{w2-checklist---pre-session-1}}
 
-\hypertarget{package-preparation-magic-box}{%
-\subsubsection{Package preparation: ``magic box''}\label{package-preparation-magic-box}}
+\hypertarget{package-preparation-magic-box-1}{%
+\subsubsection{Package preparation: ``magic box''}\label{package-preparation-magic-box-1}}
 
 \emph{(prepare and send from all scheduled participants in the last week, to be mailed 2 weeks prior to session)}
 
@@ -7924,8 +7960,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{setup---1-hour-prior}{%
-\subsubsection{Setup - 1 Hour Prior}\label{setup---1-hour-prior}}
+\hypertarget{setup---1-hour-prior-1}{%
+\subsubsection{Setup - 1 Hour Prior}\label{setup---1-hour-prior-1}}
 
 \begin{itemize}
 \tightlist
@@ -8059,8 +8095,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
 \hypertarget{w2-checklist---post-session-1}{%
 \subsection{W2 Checklist - Post-Session 1}\label{w2-checklist---post-session-1}}
 
-\hypertarget{notes}{%
-\subsubsection{Notes}\label{notes}}
+\hypertarget{notes-2}{%
+\subsubsection{Notes}\label{notes-2}}
 
 \begin{itemize}
 \tightlist
@@ -8072,8 +8108,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   Update Participant Log
 \end{itemize}
 
-\hypertarget{filing}{%
-\subsubsection{Filing}\label{filing}}
+\hypertarget{filing-5}{%
+\subsubsection{Filing}\label{filing-5}}
 
 \begin{itemize}
 \tightlist
@@ -8083,8 +8119,8 @@ NOTE: Printing can be done in black and white. Labeling should be in the notatio
   Download and copy behavioral task data (from Gorilla) to Gorilla data folder on Box
 \end{itemize}
 
-\hypertarget{reminders}{%
-\subsubsection{Reminders}\label{reminders}}
+\hypertarget{reminders-3}{%
+\subsubsection{Reminders}\label{reminders-3}}
 
 NOTE: all template emails are in bablab gmail
 
@@ -8174,8 +8210,8 @@ NOTE: all template emails are in bablab gmail
 \hypertarget{w2-checklist---final-online}{%
 \subsection{W2 Checklist - Final Online}\label{w2-checklist---final-online}}
 
-\hypertarget{filing-1}{%
-\subsubsection{Filing}\label{filing-1}}
+\hypertarget{filing-6}{%
+\subsubsection{Filing}\label{filing-6}}
 
 \begin{itemize}
 \tightlist
@@ -8189,8 +8225,8 @@ NOTE: all template emails are in bablab gmail
   Download ASA data and store in Box
 \end{itemize}
 
-\hypertarget{data-entry}{%
-\subsubsection{Data Entry}\label{data-entry}}
+\hypertarget{data-entry-4}{%
+\subsubsection{Data Entry}\label{data-entry-4}}
 
 \begin{itemize}
 \tightlist
@@ -8200,8 +8236,8 @@ NOTE: all template emails are in bablab gmail
   Enter height, weight, waist to REDCap
 \end{itemize}
 
-\hypertarget{reminders-1}{%
-\subsubsection{Reminders}\label{reminders-1}}
+\hypertarget{reminders-4}{%
+\subsubsection{Reminders}\label{reminders-4}}
 
 NOTE: all template emails are in bablab gmail
 
@@ -8219,8 +8255,8 @@ NOTE: all template emails are in bablab gmail
 
 \emph{After package has been received\ldots{}}
 
-\hypertarget{package-confirmation}{%
-\subsubsection{Package confirmation}\label{package-confirmation}}
+\hypertarget{package-confirmation-1}{%
+\subsubsection{Package confirmation}\label{package-confirmation-1}}
 
 \begin{itemize}
 \tightlist
@@ -8240,8 +8276,8 @@ NOTE: all template emails are in bablab gmail
   Contact information sheet received
 \end{itemize}
 
-\hypertarget{data-entry-1}{%
-\subsubsection{Data Entry}\label{data-entry-1}}
+\hypertarget{data-entry-5}{%
+\subsubsection{Data Entry}\label{data-entry-5}}
 
 \begin{itemize}
 \tightlist
@@ -8261,8 +8297,8 @@ NOTE: all template emails are in bablab gmail
   Enter height/weight/waist to body measurements on REDCap
 \end{itemize}
 
-\hypertarget{filing-2}{%
-\subsubsection{Filing}\label{filing-2}}
+\hypertarget{filing-7}{%
+\subsubsection{Filing}\label{filing-7}}
 
 \begin{itemize}
 \tightlist
@@ -8276,8 +8312,8 @@ NOTE: all template emails are in bablab gmail
   File questionnaires in filing cabinet if paper versions were sent (participant folder)
 \end{itemize}
 
-\hypertarget{sample-storage}{%
-\subsubsection{Sample Storage}\label{sample-storage}}
+\hypertarget{sample-storage-3}{%
+\subsubsection{Sample Storage}\label{sample-storage-3}}
 
 \begin{itemize}
 \tightlist
@@ -8295,8 +8331,8 @@ NOTE: all template emails are in bablab gmail
   Upload all sample photos to Box
 \end{itemize}
 
-\hypertarget{data-quality}{%
-\subsubsection{Data Quality}\label{data-quality}}
+\hypertarget{data-quality-3}{%
+\subsubsection{Data Quality}\label{data-quality-3}}
 
 \begin{itemize}
 \tightlist
@@ -8310,8 +8346,8 @@ NOTE: all template emails are in bablab gmail
   Data audit
 \end{itemize}
 
-\hypertarget{retention}{%
-\subsubsection{Retention}\label{retention}}
+\hypertarget{retention-2}{%
+\subsubsection{Retention}\label{retention-2}}
 
 \begin{itemize}
 \tightlist
@@ -8323,8 +8359,8 @@ NOTE: all template emails are in bablab gmail
   Update participant Wave 3 status
 \end{itemize}
 
-\hypertarget{reimbursement}{%
-\subsubsection{Reimbursement}\label{reimbursement}}
+\hypertarget{reimbursement-2}{%
+\subsubsection{Reimbursement}\label{reimbursement-2}}
 
 \begin{itemize}
 \tightlist
@@ -8552,8 +8588,8 @@ If participant says ``No'' to participating:
 \hypertarget{w2-protocol---session-preparation}{%
 \subsection{W2 Protocol - Session Preparation}\label{w2-protocol---session-preparation}}
 
-\hypertarget{package-creation}{%
-\subsubsection{Package creation}\label{package-creation}}
+\hypertarget{package-creation-1}{%
+\subsubsection{Package creation}\label{package-creation-1}}
 
 \begin{itemize}
 \tightlist
@@ -8587,8 +8623,8 @@ If participant says ``No'' to participating:
   From Tyler's office: you will receive a FedEx label in which you can write this information. Take a picture of the tracking number and save OFFLINE. Leave the box in Tyler's office for FedEx to pick up.
 \end{itemize}
 
-\hypertarget{activating-participant-on-gorilla}{%
-\subsubsection{Activating participant on Gorilla}\label{activating-participant-on-gorilla}}
+\hypertarget{activating-participant-on-gorilla-1}{%
+\subsubsection{Activating participant on Gorilla}\label{activating-participant-on-gorilla-1}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -8612,7 +8648,7 @@ If participant says ``No'' to participating:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Navigate to Box (BABLAB\textgreater{}Studies\textgreater{}Mind\_Brain\_Body\textgreater{}ID\_drive\textgreater{}MBB\_asa\_usernames\_passwords)
+  Navigate to Box (BABLAB\textgreater Studies\textgreater Mind\_Brain\_Body\textgreater ID\_drive\textgreater MBB\_asa\_usernames\_passwords)
 \item
   \textbf{Remember: you CANNOT copy the username into the confirmation email, due to its identifying nature}
 \item
@@ -8622,7 +8658,7 @@ If participant says ``No'' to participating:
 \begin{itemize}
 \tightlist
 \item
-  Another place to check their ASA codes is their ASA Cover sheet which is located in their MBB Wave 2 data folders in Info\textgreater{}asa\_cover\_sheet
+  Another place to check their ASA codes is their ASA Cover sheet which is located in their MBB Wave 2 data folders in Info\textgreater asa\_cover\_sheet
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -8862,11 +8898,11 @@ If necessary - the link can be found \href{https://research.sc/participant/login
 
 \emph{Ok! If you are ready to start, we will just have you or Mom/Dad click ``Log in'' on {[}Child's name{]}'s page, and you can get started!}
 
-Researcher to open \href{https://gorilla.sc}{gorilla} to track participant progress. Click on my projects\textgreater{}MBB\textgreater{}MBB\_wave\_2\textgreater{}participants tab\textgreater{}scroll to their mbb number and click ``view progress''{]}
+Researcher to open \href{https://gorilla.sc}{gorilla} to track participant progress. Click on my projects\textgreater MBB\textgreater MBB\_wave\_2\textgreater participants tab\textgreater scroll to their mbb number and click ``view progress''{]}
 
 {[}RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE HALLOWEEN TRAINING{]}
 
-{[}If participants do not seem to check-in with researcher after \textasciitilde{}15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
+{[}If participants do not seem to check-in with researcher after \textasciitilde15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
 
 {[}Once you confirm on the ``view progress'' node that Halloween training is complete, say{]} \emph{Great job! We have completed the second part of this session- you can go ahead and take out your token board and gold star stickers, and put another star on the second block!}
 
@@ -8965,7 +9001,7 @@ If necessary - the link can be found \href{https://research.sc/participant/login
 
 {[}RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE HALLOWEEN TEST{]}
 
-{[}If participants do not seem to check-in with researcher after \textasciitilde{}15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
+{[}If participants do not seem to check-in with researcher after \textasciitilde15 minutes, ask if they have any questions{]} \emph{Hi, just wanted to check-in and see if everything was going alright. Do you have any questions?}
 
 \emph{{[}Child's name{]} great job! Now that we are done with the computer game, you can go ahead and put another star on your token board!}
 
@@ -9011,8 +9047,8 @@ If necessary - the link can be found \href{https://research.sc/participant/login
 
 \emph{Next up is the Hair Sample. Feel free to flip to the section on Hair Sample Collection in your session booklet, if Magic Box. When you are ready, I will walk you through it step-by-step!}
 
-\hypertarget{set-up-hair-sample-station}{%
-\subsubsection{Set Up Hair Sample Station}\label{set-up-hair-sample-station}}
+\hypertarget{set-up-hair-sample-station-2}{%
+\subsubsection{Set Up Hair Sample Station}\label{set-up-hair-sample-station-2}}
 
 \begin{itemize}
 \item
@@ -9051,8 +9087,8 @@ If necessary - the link can be found \href{https://research.sc/participant/login
   \end{itemize}
 \end{itemize}
 
-\hypertarget{explanation}{%
-\subsubsection{Explanation}\label{explanation}}
+\hypertarget{explanation-1}{%
+\subsubsection{Explanation}\label{explanation-1}}
 
 \begin{itemize}
 \item
@@ -9081,14 +9117,14 @@ If necessary - the link can be found \href{https://research.sc/participant/login
   When finished, hair sample should be put in the foil, in the ziploc bag, in the white box along with the other samples
 \end{itemize}
 
-\hypertarget{hair-length}{%
-\subsubsection{Hair Length}\label{hair-length}}
+\hypertarget{hair-length-2}{%
+\subsubsection{Hair Length}\label{hair-length-2}}
 
 \begin{itemize}
 \item
   For short hair (less than or just above 3cm, i.e., too short to tape and still have 3cm usable), follow the Short-Hair Protocol below.
 \item
-  For longer hair (\textgreater{}3cm), follow the Longer-Hair Protocol below.
+  For longer hair (\textgreater3cm), follow the Longer-Hair Protocol below.
 \item
   Ideally, hair samples should be at least 3cm long. If the hair is less than 1cm long, the sample cannot be used.
 \end{itemize}
@@ -9114,7 +9150,7 @@ If necessary - the link can be found \href{https://research.sc/participant/login
   Ensure the ziplock bag is labeled with the participant's ID and Wave.
 \end{itemize}
 
-\textbf{Longer-Hair Protocol (\textgreater{}3 cm) - advise parent to:}
+\textbf{Longer-Hair Protocol (\textgreater3 cm) - advise parent to:}
 
 \begin{itemize}
 \item
@@ -9150,8 +9186,8 @@ Participants can also watch the video below:
 \hypertarget{w2-protocol---child-questionnaires-online}{%
 \subsection{W2 Protocol - Child Questionnaires Online}\label{w2-protocol---child-questionnaires-online}}
 
-\hypertarget{if-there-is-not-enough-time}{%
-\subsubsection{IF THERE IS NOT ENOUGH TIME}\label{if-there-is-not-enough-time}}
+\hypertarget{if-there-is-not-enough-time-1}{%
+\subsubsection{IF THERE IS NOT ENOUGH TIME}\label{if-there-is-not-enough-time-1}}
 
 \begin{itemize}
 \tightlist
@@ -9186,8 +9222,8 @@ For recollected surveys we will be sharing screen and reading out the survey to 
 
 {[}\textbf{Check how many surveys child has to do before either beginning with child surveys}{]}
 
-\hypertarget{ages-8}{%
-\subsubsection{Ages 8+}\label{ages-8}}
+\hypertarget{ages-8-1}{%
+\subsubsection{Ages 8+}\label{ages-8-1}}
 
 \emph{I can either send you the link to the surveys and you fill them out on on your own or I can share my screen and read the questions out loud and you tell me what to respond.}
 
@@ -9201,8 +9237,8 @@ For recollected surveys we will be sharing screen and reading out the survey to 
 
 {[}RESEARCHER TO TAKE NOTES: PARENT BEHAVIOR DURING THE CHILD QUESTIONNAIRES{]}
 
-\hypertarget{ages-6-7}{%
-\subsubsection{Ages 6-7}\label{ages-6-7}}
+\hypertarget{ages-6-7-1}{%
+\subsubsection{Ages 6-7}\label{ages-6-7-1}}
 
 \emph{In a moment, I am going to share my screen with you, so you can see the survey questions. I will then read out each question and answer choice and {[}child's name{]} can tell me your answer. Does that sound okay? }
 
@@ -9272,8 +9308,8 @@ For recollected surveys we will be sharing screen and reading out the survey to 
 \hypertarget{w2-protocol---reporting}{%
 \subsection{W2 Protocol - Reporting}\label{w2-protocol---reporting}}
 
-\hypertarget{if-an-item-on-the-reporting-list-is-activated-regarding-potential-domestic-violence}{%
-\subsubsection{If an item on the ``reporting'' list is activated regarding potential Domestic Violence}\label{if-an-item-on-the-reporting-list-is-activated-regarding-potential-domestic-violence}}
+\hypertarget{if-an-item-on-the-reporting-list-is-activated-regarding-potential-domestic-violence-1}{%
+\subsubsection{If an item on the ``reporting'' list is activated regarding potential Domestic Violence}\label{if-an-item-on-the-reporting-list-is-activated-regarding-potential-domestic-violence-1}}
 
 \begin{itemize}
 \tightlist
@@ -9303,8 +9339,8 @@ For recollected surveys we will be sharing screen and reading out the survey to 
 
 \emph{Thank you for letting me know! I know this might be a bit difficult to talk about, and as we mentioned earlier in the session it is just part of our protocol to check-in, so our supervisor will be giving you a call some time in the next 24 hours to ask you some more questions.} Researcher to slack Bridget immediately and call her at 347-741-4103.
 
-\hypertarget{if-suicidal-ideation-arises}{%
-\subsubsection{If Suicidal Ideation arises\ldots{}}\label{if-suicidal-ideation-arises}}
+\hypertarget{if-suicidal-ideation-arises-1}{%
+\subsubsection{If Suicidal Ideation arises\ldots{}}\label{if-suicidal-ideation-arises-1}}
 
 Researcher to slack Bridget and call her immediately at 347-741-4103. Try to keep the person on the phone while Bridget gets in contact with the participant. If something happens and a participant mentions they may harm themselves/dropped off the call before you are able to reach Bridget, let Bridget know immediately and you will proceed together.
 
@@ -9633,7 +9669,7 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \item
   Scroll to the right and click on the ``View'' button under the Nutrition Report column
 \item
-  Click File\textgreater{}Print then Save as PDF under the naming convention ``MBB2999\_asa\_nutrition\_profile.pdf''
+  Click File\textgreater Print then Save as PDF under the naming convention ``MBB2999\_asa\_nutrition\_profile.pdf''
 \item
   Save to the participant's Wave 2 MBB data folder in the Report\_card folder and delete the 999 template
 \end{itemize}
@@ -9657,7 +9693,7 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \item
   Select ``Download analysis files'' and you should get 6 csv files in your downloads folder
 \item
-  Rename the files according to the templates in the participant's MBB data folder in questionnaires\textgreater{}asa and save
+  Rename the files according to the templates in the participant's MBB data folder in questionnaires\textgreater asa and save
 \end{itemize}
 
 \begin{enumerate}
@@ -9724,8 +9760,8 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \hypertarget{w2-protocol---processing-saliva-sample}{%
 \subsection{W2 Protocol - Processing Saliva Sample}\label{w2-protocol---processing-saliva-sample}}
 
-\hypertarget{sample-transfer}{%
-\subsubsection{Sample Transfer}\label{sample-transfer}}
+\hypertarget{sample-transfer-2}{%
+\subsubsection{Sample Transfer}\label{sample-transfer-2}}
 
 \begin{itemize}
 \item
@@ -9848,8 +9884,8 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \hypertarget{w2-protocol---storing-stool-sample}{%
 \subsection{W2 Protocol - Storing Stool Sample}\label{w2-protocol---storing-stool-sample}}
 
-\hypertarget{sample-quality}{%
-\subsubsection{Sample Quality}\label{sample-quality}}
+\hypertarget{sample-quality-2}{%
+\subsubsection{Sample Quality}\label{sample-quality-2}}
 
 \begin{itemize}
 \tightlist
@@ -9865,8 +9901,8 @@ If no: \emph{No problem at all, thank you for participating in our study!}
   Contact family if the Bristol Stool Scale is missing in the mailer.
 \end{itemize}
 
-\hypertarget{sample-transfer-1}{%
-\subsubsection{Sample Transfer}\label{sample-transfer-1}}
+\hypertarget{sample-transfer-3}{%
+\subsubsection{Sample Transfer}\label{sample-transfer-3}}
 
 \begin{itemize}
 \item
@@ -9987,14 +10023,14 @@ If no: \emph{No problem at all, thank you for participating in our study!}
 \hypertarget{w2-protocol---data-entry-data-quality}{%
 \subsection{W2 Protocol - Data Entry \& Data Quality}\label{w2-protocol---data-entry-data-quality}}
 
-\hypertarget{data-entry}{%
-\subsubsection{Data Entry}\label{data-entry}}
+\hypertarget{data-entry-6}{%
+\subsubsection{Data Entry}\label{data-entry-6}}
 
-\hypertarget{data-quality}{%
-\subsubsection{Data Quality}\label{data-quality}}
+\hypertarget{data-quality-4}{%
+\subsubsection{Data Quality}\label{data-quality-4}}
 
-\hypertarget{relevant-protocols}{%
-\subsubsection{Relevant Protocols}\label{relevant-protocols}}
+\hypertarget{relevant-protocols-1}{%
+\subsubsection{Relevant Protocols}\label{relevant-protocols-1}}
 
 How to burn a CD - \url{https://bablab.github.io/wiki_bablab/lab-protocols.html\#burning-cds}
 
@@ -10005,8 +10041,8 @@ How to make a high to low resolution video - \url{https://bablab.github.io/wiki_
 \hypertarget{w2-protocol---data-review-data-audit}{%
 \subsection{W2 Protocol - Data Review \& Data Audit}\label{w2-protocol---data-review-data-audit}}
 
-\hypertarget{follow-up-completed-by-scheduling-coordinator}{%
-\subsubsection{Follow-Up (completed by Scheduling Coordinator)}\label{follow-up-completed-by-scheduling-coordinator}}
+\hypertarget{follow-up-completed-by-scheduling-coordinator-2}{%
+\subsubsection{Follow-Up (completed by Scheduling Coordinator)}\label{follow-up-completed-by-scheduling-coordinator-2}}
 
 \begin{itemize}
 \tightlist
@@ -10016,8 +10052,8 @@ How to make a high to low resolution video - \url{https://bablab.github.io/wiki_
   After sending Home Reminder 3 - create blank Trello card for participant on ``In Data Review'' list of Data Audit Board.
 \end{itemize}
 
-\hypertarget{data-review}{%
-\subsubsection{Data Review}\label{data-review}}
+\hypertarget{data-review-1}{%
+\subsubsection{Data Review}\label{data-review-1}}
 
 \url{https://youtu.be/z_mQGyguaEY}
 
@@ -10060,8 +10096,8 @@ How to make a high to low resolution video - \url{https://bablab.github.io/wiki_
   After completing Data Review, move card to Good Sample, Bad Sample, or No Sample list based on the stool sample.
 \end{itemize}
 
-\hypertarget{data-audit}{%
-\subsubsection{Data Audit}\label{data-audit}}
+\hypertarget{data-audit-1}{%
+\subsubsection{Data Audit}\label{data-audit-1}}
 
 \textbf{Before reaching out to participants}
 
@@ -10105,8 +10141,8 @@ IF the information is actually missing then you can go ahead and reach out to th
   \end{itemize}
 \end{enumerate}
 
-\hypertarget{documenting-the-audits}{%
-\subsubsection{\texorpdfstring{\textbf{Documenting the audits}}{Documenting the audits}}\label{documenting-the-audits}}
+\hypertarget{documenting-the-audits-1}{%
+\subsubsection{\texorpdfstring{\textbf{Documenting the audits}}{Documenting the audits}}\label{documenting-the-audits-1}}
 
 \textbf{The folder for Box uploads is in BABLAB/Studies/Mind\_Brain\_Body/Data/Wave\_1\_online/Uploads} Check it to see if participant's have uploaded the missing info
 
@@ -10360,8 +10396,8 @@ Notes:
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{w2-protocol---payment}{%
-\subsection{W2 Protocol - Payment}\label{w2-protocol---payment}}
+\hypertarget{w2-protocol---payment-1}{%
+\subsection{W2 Protocol - Payment}\label{w2-protocol---payment-1}}
 
 \textbf{Payment package contents:}
 
@@ -10672,8 +10708,8 @@ packaging it up:
 \hypertarget{saliva-sample-analysis}{%
 \subsubsection{Saliva Sample Analysis}\label{saliva-sample-analysis}}
 
-Notes from Dr.~Meyer: Please note the following regarding the data: (1) sample MBB073 had too little hair to process (you will not be charged for that sample); (2) several of the samples were shorter than 3 cm, which is noted in the file; this is just informational \ldots{}.you don't have to do any correction for the shorter length in your data analysis; same thing with the one sample that showed the presence of hair dye; (3) we recommend performing a statistical test for outliers and considering removing those data points from subsequent analysis; (4) lastly, hair CORT distributions are often non-normal due to right skewness, even after removal of outliers; we recommend checking for that, and if present, the most common approach is to perform a log transformation of the data before further analysis.
+Notes from Dr.~Meyer: Please note the following regarding the data: (1) sample MBB073 had too little hair to process (you will not be charged for that sample); (2) several of the samples were shorter than 3 cm, which is noted in the file; this is just informational \ldots.you don't have to do any correction for the shorter length in your data analysis; same thing with the one sample that showed the presence of hair dye; (3) we recommend performing a statistical test for outliers and considering removing those data points from subsequent analysis; (4) lastly, hair CORT distributions are often non-normal due to right skewness, even after removal of outliers; we recommend checking for that, and if present, the most common approach is to perform a log transformation of the data before further analysis.
 
-\bibliography{references.bib}
+  \bibliography{references.bib}
 
 \end{document}

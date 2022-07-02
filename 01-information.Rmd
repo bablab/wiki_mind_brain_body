@@ -366,6 +366,7 @@ Note: On Nov 16, 2020 there was a product change notification sent by DNA Genote
 | Child Somatization Symptom Inventory (cssi)– 6-17 years | Parent report for children under 8 years. Domain assessed: physical symptoms. The CSSI assesses a variety of nonspecific somatic symptoms. | (Walker et al., 2009) | Child/adolescent (self report) | Wave 1, Wave 1 Online
 | Security Scale (ss) – 8-18 years | Domain assessed: attachment. This measure asks children/adolescents to endorse statements about their feelings towards their parents (in the positive or negative) and how much each endorsed statement is characteristic of them. Statements assess domains of being able to rely on parents in times of need, feelings of closeness with parent etc.| (Kerns et al., 2001) | Child/adolescent (self report) | Wave 1, Wave 1 Online
 | Benevolent Childhood Experiences Scale- Revised (bce) | Child/adolescent self-report. Domain assessed: benevolent childhood experiences. This child/adolescent self-report questionnaire consists of 10 items used to identify favorable childhood experiences, with regards to potential child adversity. | (Narayan et al., 2018) | Child/adolescent (self report) | Wave 1 Online
+| Visceral Sensitivity Index (VSI) | | |  |  | 
 
 Notes:
 
