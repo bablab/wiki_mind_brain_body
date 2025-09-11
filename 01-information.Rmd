@@ -782,7 +782,10 @@ collect the sample, a few strands of hair behind the crown of the head
 will be cut close to the root. This method of collecting hair is not
 invasive and has been performed in babies [32 weeks of age;
 @staufenbiel_2013]. Hair samples will never be used for genetic
-analysis.
+analysis. Hair samples were processed for cortisol analysis by the Meyer
+lab at Arizona State University following the procedures described by
+Meyer et al. (2022): 
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788843
 
 #### Saliva sample
 
